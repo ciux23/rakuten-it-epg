@@ -1,10 +1,15 @@
 name: Build EPG
 
+name: Build EPG
+
 on:
   schedule:
     - cron: '0 */8 * * *'
   push:
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
