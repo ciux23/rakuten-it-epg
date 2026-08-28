@@ -42,6 +42,7 @@ CHANNEL_IDS = [
     "drama-rakuten-tv",
     "sci-fi-rakuten-tv",
     "filmrise-sci-fi-it",
+    "crime-rakuten-tv",
 ]
 
 BASE_URL = "https://gizmo.rakuten.tv/v3/live_channels/{channel_id}"
