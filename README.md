@@ -2,7 +2,7 @@
 
 ## Informazioni
 
-Fornisce una guida EPG XMLTV di 72 ore per il servizio TV di Rakuten in Italia, aggiornata automaticamente ogni 8 ore.
+Fornisce una guida EPG XMLTV di 60 ore per il servizio TV di Rakuten in Italia, aggiornata automaticamente ogni 8 ore.
 
 ## Utilizzo
 
