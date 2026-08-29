@@ -21,12 +21,14 @@ Uso:
 """
 
 import argparse
+import gzip
 import json
 import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import zlib
 from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
@@ -134,7 +136,24 @@ def fetch_channel_block(channel_id, starts_at, ends_at):
 
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
-            body = resp.read().decode("utf-8")
+            raw_body = resp.read()
+            content_encoding = resp.headers.get("Content-Encoding", "")
+
+        # urllib non decomprime automaticamente la risposta (a
+        # differenza di requests): va fatto esplicitamente in base
+        # al Content-Encoding, altrimenti su payload compressi il
+        # decode utf-8 restituisce byte illeggibili e il parsing
+        # JSON fallisce con "risposta non JSON".
+        try:
+            if content_encoding == "gzip":
+                raw_body = gzip.decompress(raw_body)
+            elif content_encoding == "deflate":
+                raw_body = zlib.decompress(raw_body)
+        except OSError as e:
+            print(f"  ⚠️  Errore decompressione ({content_encoding}) per {channel_id}: {e}", file=sys.stderr)
+            return None
+
+        body = raw_body.decode("utf-8")
     except urllib.error.HTTPError as e:
         error_body = ""
         try:
