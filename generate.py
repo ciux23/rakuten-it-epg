@@ -62,7 +62,7 @@ HEADERS = {
 
 # L'API rifiuta finestre troppo ampie con exception.invalid_epg_ends_at:
 # spezziamo il periodo totale in blocchi di questa durata (giorni).
-BLOCK_DAYS = 6
+BLOCK_DAYS = 3
 
 # Timezone di riferimento per le date XMLTV (Italia).
 TZ_ROME_OFFSET_HOURS = 2  # CEST; nota sotto per gestione DST
