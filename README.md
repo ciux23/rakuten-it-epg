@@ -9,7 +9,7 @@ Fornisce una guida EPG XMLTV di 60 ore per il servizio TV di Rakuten in Italia, 
 Prendi il file XMLTV da questo link e inseriscilo nel tuo client IPTV preferito:
 
 ```text
-https://raw.githubusercontent.com/ciux23/rakuten-it-epg/master/epg.xml
+https://raw.githubusercontent.com/ciux23/rakuten-it-epg/master/epg_finale.xml
 ```
 
 ## Contributi
