@@ -196,7 +196,7 @@ def build_xmltv(channels):
 
 def main():
     parser = argparse.ArgumentParser(description="Genera EPG XMLTV per canali Rakuten TV Italia")
-    parser.add_argument("--days", type=int, default=5, help="Giorni di programmazione da recuperare (default: 5)")
+    parser.add_argument("--days", type=int, default=3, help="Giorni di programmazione da recuperare (default: 3)")
     parser.add_argument("--out", default="epg_rakuten.xml", help="File di output (default: epg_rakuten.xml)")
     parser.add_argument("--channels", nargs="*", default=None, help="Override della lista canali (slug)")
     args = parser.parse_args()
