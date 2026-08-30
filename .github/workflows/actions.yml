@@ -31,7 +31,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: generate Rai EPG
-        run: python generate_rai.py --days 6 --out epg_rai.xml
+        run: python generate_rai.py --days 3 --out epg_rai.xml
 
       - name: generate Rakuten EPG
         run: python generate_rakuten.py --out epg_rakuten.xml
