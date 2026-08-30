@@ -111,7 +111,7 @@ def build_xmltv(channels_data):
 
 def main():
     parser = argparse.ArgumentParser(description="Genera EPG XMLTV per i canali Rai")
-    parser.add_argument("--days", type=int, default=6)
+    parser.add_argument("--days", type=int, default=3)
     parser.add_argument("--out", default="epg_rai.xml")
     args = parser.parse_args()
     print(f"Genero EPG Rai per {len(CHANNELS)} canali, {args.days} giorni...\n")
