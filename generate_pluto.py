@@ -1,20 +1,4 @@
 #!/usr/bin/env python3
-"""
-Genera un file XMLTV con la programmazione (EPG) dei canali Pluto TV
-Italia, interrogando l'API pubblica ufficiale:
-
-    https://api.pluto.tv/v2/channels?start=...&stop=...
-
-La risposta è una LISTA di canali (a differenza dell'API Rakuten, che
-restituisce un canale alla volta), ognuno con il proprio campo
-"timelines" contenente la programmazione nella finestra richiesta.
-
-Nessuna autenticazione o sessione richiesta.
-
-Uso:
-    python3 generate_pluto.py [--hours N] [--out epg_pluto.xml]
-"""
-
 import argparse
 import json
 import sys
@@ -54,6 +38,7 @@ def fetch_all_channels(hours):
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/124.0.0.0 Safari/537.36"
             ),
+            "X-Forwarded-For": "151.29.0.1",
         },
     )
 
@@ -82,10 +67,7 @@ def iso_to_xmltv(iso_string):
 def build_xmltv(channels_data):
     lines = []
     lines.append("<?xml version='1.0' encoding='utf-8'?>")
-    lines.append(
-        '<tv generator-info-name="pluto-epg" '
-        'generator-info-url="https://api.pluto.tv">'
-    )
+    lines.append('<tv generator-info-name="pluto-epg" generator-info-url="https://api.pluto.tv">')
 
     for ch in channels_data:
         lines.append(f'  <channel id="{escape(ch["xmltv_id"])}">')
@@ -111,58 +93,4 @@ def build_xmltv(channels_data):
             )
             lines.append(f'    <title lang="it">{title}</title>')
             if desc:
-                lines.append(f'    <desc lang="it">{desc}</desc>')
-            lines.append("  </programme>")
-
-    lines.append("</tv>")
-    return "\n".join(lines) + "\n"
-
-
-def main():
-    parser = argparse.ArgumentParser(description="Genera EPG XMLTV per canali Pluto TV Italia")
-    parser.add_argument("--hours", type=int, default=DEFAULT_HOURS, help=f"Ore di programmazione da recuperare (default: {DEFAULT_HOURS})")
-    parser.add_argument("--out", default="epg_pluto.xml", help="File di output (default: epg_pluto.xml)")
-    args = parser.parse_args()
-
-    print(f"Recupero catalogo Pluto TV ({args.hours}h di programmazione)...\n")
-
-    all_channels = fetch_all_channels(args.hours)
-    print(f"   Canali totali nel catalogo ricevuto: {len(all_channels)}")
-    if all_channels[:1]:
-        print(f"   Esempio primo canale: id={all_channels[0].get('_id')!r} name={all_channels[0].get('name')!r}")
-    if not all_channels:
-        print("❌ Nessun dato ricevuto da Pluto TV.")
-        sys.exit(1)
-
-    by_id = {ch["_id"]: ch for ch in all_channels}
-
-    channels_data = []
-    for pluto_id, xmltv_id in CHANNEL_IDS.items():
-        ch = by_id.get(pluto_id)
-
-        if not ch:
-            print(f"⚠️  Canale non trovato nel catalogo: {pluto_id}")
-            continue
-
-        logo = (ch.get("colorLogoPNG") or {}).get("path") or (ch.get("logo") or {}).get("path")
-
-        channels_data.append({
-            "xmltv_id": xmltv_id,
-            "title": ch.get("name", xmltv_id),
-            "logo": logo,
-            "programs": ch.get("timelines", []),
-        })
-
-        print(f"→ {ch['name']}: {len(ch.get('timelines', []))} programmi")
-
-    xml_content = build_xmltv(channels_data)
-
-    with open(args.out, "w", encoding="utf-8") as f:
-        f.write(xml_content)
-
-    total_programs = sum(len(c["programs"]) for c in channels_data)
-    print(f"\n✅ Scritto {args.out}: {len(channels_data)} canali, {total_programs} programmi totali.")
-
-
-if __name__ == "__main__":
-    main()
+                lines.append(f'
