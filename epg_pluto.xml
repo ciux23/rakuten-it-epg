@@ -12,9 +12,13 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260831120000 +0200" stop="20260831162730 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20260831120030 +0200" stop="20260831144030 +0200" channel="pluto_film_tv">
+    <title lang="it">La Sera Della Prima</title>
+    <desc lang="it">L'attrice Myrtle Gordon versa in una grave crisi esistenziale: non riesce a immedesimarsi nel ruolo della protagonista della commedia che sta interpretando, e il suo rapporto con l'attore Maurice Adams sta attraversando un momento difficile.</desc>
+  </programme>
+  <programme start="20260831144030 +0200" stop="20260831162730 +0200" channel="pluto_film_tv">
+    <title lang="it">East Is East</title>
+    <desc lang="it">Nel 1971 George Khan, pakistano tradizionalista, è emigrato nel Regno Unito dove possiede un negozio di fish &amp; chips e ha sposato Ella. I loro sette figli sembrano poco inclini a seguire le direttive paterne per quanto riguarda la religione islamica.</desc>
   </programme>
   <programme start="20260831162730 +0200" stop="20260831190545 +0200" channel="pluto_film_tv">
     <title lang="it">The House of the Spirits</title>
@@ -68,21 +72,33 @@
     <title lang="it">L'odio</title>
     <desc lang="it">Una giornata in una delle tante banlieue parigine. Un giorno uguale a molti altri per l'ebreo Vinz, il maghrebino Said e il nero Hubert, se non fosse che un loro amico, Abdel, è stato pestato dalla polizia in seguito agli scontri della notte precedente.</desc>
   </programme>
-  <programme start="20260901173033 +0200" stop="20260902000000 +0200" channel="pluto_film_tv">
+  <programme start="20260901173033 +0200" stop="20260901191938 +0200" channel="pluto_film_tv">
+    <title lang="it">3 donne al verde</title>
+    <desc lang="it">Tre donne organizzano la rapina più improbabile del Paese: rubare milioni di dollari in banconote destinate ogni giorno al tritadocumenti della banca più sicura degli Stati Uniti d'America. Prendere il denaro sarà facile... ma riusciranno a scappare?</desc>
+  </programme>
+  <programme start="20260901191938 +0200" stop="20260902003000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902000000 +0200" stop="20260902120000 +0200" channel="pluto_film_tv">
+  <programme start="20260902003000 +0200" stop="20260902123000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902120000 +0200" stop="20260902180000 +0200" channel="pluto_film_tv">
+  <programme start="20260902123000 +0200" stop="20260902183000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260831120000 +0200" stop="20260831161532 +0200" channel="pluto_film_azione">
+  <programme start="20260831123000 +0200" stop="20260831124916 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20260831124916 +0200" stop="20260831143232 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e la ricerca della tomba di Akhenaten</title>
+    <desc lang="it">Mentre è sulle tracce del tesoro di Ugarit, Jack Hunter si reca in Turchia, dove viene informato su un presunto complotto tra americani e mafiosi russi per impossessarsi della Stella del Cielo, un artefatto dagli straordinari poteri.</desc>
+  </programme>
+  <programme start="20260831143232 +0200" stop="20260831161532 +0200" channel="pluto_film_azione">
+    <title lang="it">Mega Shark Vs Kolossus</title>
+    <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
   </programme>
   <programme start="20260831161532 +0200" stop="20260831175537 +0200" channel="pluto_film_azione">
     <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
@@ -140,21 +156,41 @@
     <title lang="it">Martian Land</title>
     <desc lang="it">Nel futuro, la razza umana vive su Marte, in città protette da enormi campi di forza. Quando una gigantesca tempesta di sabbia sfonda la cupola e distrugge Mars New York, gli abitanti di Mars Los Angeles dovranno cercare di fermare la tempesta.</desc>
   </programme>
-  <programme start="20260901172305 +0200" stop="20260902000000 +0200" channel="pluto_film_azione">
+  <programme start="20260901172305 +0200" stop="20260901193105 +0200" channel="pluto_film_azione">
+    <title lang="it">Biker Boyz</title>
+    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
+  </programme>
+  <programme start="20260901193105 +0200" stop="20260902003000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902000000 +0200" stop="20260902120000 +0200" channel="pluto_film_azione">
+  <programme start="20260902003000 +0200" stop="20260902123000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902120000 +0200" stop="20260902180000 +0200" channel="pluto_film_azione">
+  <programme start="20260902123000 +0200" stop="20260902183000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260831120000 +0200" stop="20260831165548 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260831123000 +0200" stop="20260831133622 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20260831133622 +0200" stop="20260831142622 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Pax Romana</title>
+    <desc lang="it">Dopo aver ottenuto con successo l'accesso alla città di Praxis nella Terra Cava, Magnus e la squadra sono accolti con ostilità dal leader della città Ranna che ha un'agenda segreta.</desc>
+  </programme>
+  <programme start="20260831142622 +0200" stop="20260831151622 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Difficile Risveglio</title>
+    <desc lang="it">Magnus torna a casa da un viaggio notturno per trovare il Santuario in uno stato di caos sconcertante:detriti di battaglia ovunque,nessuno in vista,e un'ispezione programmata della squadra di sicurezza delle Nazioni Unite a poche ore di distanza.</desc>
+  </programme>
+  <programme start="20260831151622 +0200" stop="20260831160603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Una Notte</title>
+    <desc lang="it">Quello che è iniziato come un innocente primo appuntamento per Will e Abby, si trasforma in un pericoloso rapimento da parte di una banda il cui leader affronta morte certa senza il loro aiuto.</desc>
+  </programme>
+  <programme start="20260831160603 +0200" stop="20260831165548 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'Uomo Falena</title>
+    <desc lang="it">Will è insolitamente assente alla riunione mattutina della squadra. E il motivo della sua assenza lo fa letteralmente arrampicare sui muri.</desc>
   </programme>
   <programme start="20260831165548 +0200" stop="20260831174436 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Wingman</title>
@@ -264,15 +300,23 @@
     <title lang="it">Dresden Files: Il Terzo Occhio</title>
     <desc lang="it">Spinto a ripagare un debito del passato, Dresden si ritrova coinvolto in una guerra di potere fra gang di vampiri.</desc>
   </programme>
-  <programme start="20260901170715 +0200" stop="20260902000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260901170715 +0200" stop="20260901175715 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: La condanna di Bob</title>
+    <desc lang="it">Quando un uomo muore improvvisamente nell'ufficio di Harry, quest'ultimo inizia a investigare su un intricato complotto omicida che ha a che fare con il passato di Bob.</desc>
+  </programme>
+  <programme start="20260901175715 +0200" stop="20260901184615 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'uomo di cera</title>
+    <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
+  </programme>
+  <programme start="20260901184615 +0200" stop="20260902003000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902000000 +0200" stop="20260902120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260902003000 +0200" stop="20260902123000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902120000 +0200" stop="20260902180000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260902123000 +0200" stop="20260902183000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
