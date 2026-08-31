@@ -84,8 +84,11 @@ def fetch_all_channels_chunked(total_hours):
     return all_channels_data
 
 def iso_to_xmltv(iso_string):
+    # Legge l'orario UTC dall'API
     dt = datetime.fromisoformat(iso_string.replace("Z", "+00:00"))
+    # Converte esplicitamente all'ora italiana (UTC+2)
     dt_it = dt + timedelta(hours=2)
+    # Restituisce il formato con fuso orario italiano fisso, identico al suo script Rakuten
     return dt_it.strftime("%Y%m%d%H%M%S +0200")
 
 def build_xmltv(channels_data):
