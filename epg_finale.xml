@@ -292,15 +292,15 @@
   </programme>
   <programme start="20260901213000 +0200" stop="20260901222500 +0200" channel="Rai1.it">
     <title lang="it">La legge di Lidia Poët - S1E1 - Lo spettacolo deve continuare</title>
-    <desc lang="it">1^ Visione RAI - Quando una ballerina viene trovata morta, tutti gli indizi sembrano puntare verso l'uomo accusato di perseguitarla. Convinta della sua innocenza, la madre del sospettato si affida alla prima avvocata d'Italia per far emergere la verità. </desc>
+    <desc lang="it">Quando una ballerina viene trovata morta, tutti gli indizi sembrano puntare verso l'uomo accusato di perseguitarla. Convinta della sua innocenza, la madre del sospettato si affida alla prima avvocata d'Italia per far emergere la verità.</desc>
   </programme>
   <programme start="20260901222500 +0200" stop="20260901232000 +0200" channel="Rai1.it">
     <title lang="it">La legge di Lidia Poët - S1E2 - Amore e anarchia</title>
-    <desc lang="it">1^ Visione RAI - Con disappunto di Enrico, Lidia assume la difesa di un'anarchica accusata di omicidio. Mentre indaga sul caso, emergono segreti e interessi nascosti che la trascinano in una vicenda più complessa del previsto, mettendo a rischio la sua credibilità. </desc>
+    <desc lang="it">Con il disappunto di Enrico, Lidia assume la difesa di un'anarchica accusata di omicidio. Mentre indaga sul caso, emergono segreti e interessi nascosti che la trascinano in una vicenda più complessa del previsto, mettendo a rischio la sua credibilità. </desc>
   </programme>
   <programme start="20260901232000 +0200" stop="20260901235500 +0200" channel="Rai1.it">
-    <title lang="it">1969 - 1980 Dagli Anni di Piombo alla rivolta borghese</title>
-    <desc lang="it">1^ Visione RAI - Il documentario parte con i drammatici fatti della strage di Piazza Fontana a Milano del 1969, evento che inaugura la stagione cupa degli anni di piombo, e si conclude nel 1980 con la celebre Marcia dei quarantamila a Torino.</desc>
+    <title lang="it">1969 - 1980. Dagli anni di piombo alla rivolta borghese</title>
+    <desc lang="it">Il documentario parte con i drammatici fatti della strage di Piazza Fontana a Milano del 1969, evento che inaugura la stagione cupa degli anni di piombo, e si conclude nel 1980 con la celebre Marcia dei quarantamila a Torino.</desc>
   </programme>
   <programme start="20260901235500 +0200" stop="20260902000400 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
@@ -622,9 +622,13 @@
     <title lang="it">TG2 Estate con Costume</title>
     <desc lang="it">Direttore Antonio Preziosi</desc>
   </programme>
-  <programme start="20260901135000 +0200" stop="20260901145100 +0200" channel="Rai2.it">
-    <title lang="it">TG2 Medicina 33</title>
+  <programme start="20260901135000 +0200" stop="20260901140000 +0200" channel="Rai2.it">
+    <title lang="it">Tg2 Medicina 33 del 19/05/2026</title>
     <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti</desc>
+  </programme>
+  <programme start="20260901140000 +0200" stop="20260901145100 +0200" channel="Rai2.it">
+    <title lang="it">Squadra Speciale Cobra 11 S18E3 - Festa di compleanno</title>
+    <desc lang="it">Le spettacolari indagini di due ispettori della Polizia Autostradale Criminale tedesca, culminanti in inseguimenti in condizioni estreme, acrobazie, incidenti ed esplosioni spettacolari. </desc>
   </programme>
   <programme start="20260901145100 +0200" stop="20260901154000 +0200" channel="Rai2.it">
     <title lang="it">Squadra Speciale Cobra 11 S18E4 - Il grande ritorno </title>
@@ -2824,58 +2828,55 @@
   </programme>
   <programme start="20260902060000 +0200" stop="20260902062600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902062600 +0200" stop="20260902063000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902063000 +0200" stop="20260902064500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902064500 +0200" stop="20260902065700 +0200" channel="RaiNews24.it">
     <title lang="it">VIA DEI LIBRI</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902065700 +0200" stop="20260902070000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902070000 +0200" stop="20260902070300 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA TITOLI QUOTIDIANI</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902070300 +0200" stop="20260902072800 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902072800 +0200" stop="20260902073000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902073000 +0200" stop="20260902074500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902074500 +0200" stop="20260902075700 +0200" channel="RaiNews24.it">
     <title lang="it">FUTURO 24</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902075700 +0200" stop="20260902080000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902080000 +0200" stop="20260902082600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902082600 +0200" stop="20260902082800 +0200" channel="RaiNews24.it">
     <title lang="it">CCISS</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902082800 +0200" stop="20260902083000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-BUONGIORNO NEWS 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902083000 +0200" stop="20260902085600 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
@@ -2883,242 +2884,173 @@
   </programme>
   <programme start="20260902085600 +0200" stop="20260902085800 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902085800 +0200" stop="20260902090000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-BUONGIORNO NEWS 4</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902090000 +0200" stop="20260902092700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902092700 +0200" stop="20260902093000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 1</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902093000 +0200" stop="20260902094500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902094500 +0200" stop="20260902095700 +0200" channel="RaiNews24.it">
     <title lang="it">FUTURO 24</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902095700 +0200" stop="20260902100000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 2</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902100000 +0200" stop="20260902103000 +0200" channel="RaiNews24.it">
     <title lang="it">Filo diretto estate - Puntata del 02/09/2026</title>
   </programme>
   <programme start="20260902103000 +0200" stop="20260902105700 +0200" channel="RaiNews24.it">
     <title lang="it">FILO DIRETTO</title>
-    <desc lang="it">ATTUALITA - ,. - ,</desc>
-  </programme>
-  <programme start="20260902105700 +0200" stop="20260902110000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902110000 +0200" stop="20260902112700 +0200" channel="RaiNews24.it">
     <title lang="it">TG GIORNO</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902112700 +0200" stop="20260902113000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 4</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902113000 +0200" stop="20260902114500 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + TG GIORNO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902114500 +0200" stop="20260902115500 +0200" channel="RaiNews24.it">
     <title lang="it">FOCUS 24</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902115500 +0200" stop="20260902120000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902120000 +0200" stop="20260902122700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902122700 +0200" stop="20260902123000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 1</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902123000 +0200" stop="20260902124500 +0200" channel="RaiNews24.it">
     <title lang="it">SPORT 24</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902124500 +0200" stop="20260902125700 +0200" channel="RaiNews24.it">
     <title lang="it">VIA DEI LIBRI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902125700 +0200" stop="20260902130000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 2</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902130000 +0200" stop="20260902132700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902132700 +0200" stop="20260902133000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902133000 +0200" stop="20260902134500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902134500 +0200" stop="20260902135700 +0200" channel="RaiNews24.it">
     <title lang="it">FOCUS 24</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902135700 +0200" stop="20260902140000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 4</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902140000 +0200" stop="20260902143000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902143000 +0200" stop="20260902145700 +0200" channel="RaiNews24.it">
     <title lang="it">Filo diretto estate - Puntata del 02/09/2026</title>
   </programme>
-  <programme start="20260902145700 +0200" stop="20260902150000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 5</title>
-  </programme>
   <programme start="20260902150000 +0200" stop="20260902152300 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902152300 +0200" stop="20260902152700 +0200" channel="RaiNews24.it">
     <title lang="it">TG IN LINGUA UCRAINA</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902152700 +0200" stop="20260902153000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902153000 +0200" stop="20260902155700 +0200" channel="RaiNews24.it">
     <title lang="it">FACCIA A FACCIA</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902155700 +0200" stop="20260902160000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 1</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902160000 +0200" stop="20260902162800 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902162800 +0200" stop="20260902163000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 2</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902163000 +0200" stop="20260902164500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902164500 +0200" stop="20260902165800 +0200" channel="RaiNews24.it">
     <title lang="it">FUTURO 24</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902165800 +0200" stop="20260902170000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902170000 +0200" stop="20260902172800 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902172800 +0200" stop="20260902173000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 4</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902173000 +0200" stop="20260902174500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO + Economia e borsa</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902174500 +0200" stop="20260902180000 +0200" channel="RaiNews24.it">
     <title lang="it">FOCUS 24</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902180000 +0200" stop="20260902182600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902182600 +0200" stop="20260902182800 +0200" channel="RaiNews24.it">
     <title lang="it">METEO</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902182800 +0200" stop="20260902183000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 5</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902183000 +0200" stop="20260902184500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902184500 +0200" stop="20260902185700 +0200" channel="RaiNews24.it">
     <title lang="it">VIA DEI LIBRI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902185700 +0200" stop="20260902190000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 6</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902190000 +0200" stop="20260902193000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902193000 +0200" stop="20260902194500 +0200" channel="RaiNews24.it">
     <title lang="it">RULLO SPORT</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902194500 +0200" stop="20260902195700 +0200" channel="RaiNews24.it">
     <title lang="it">FUTURO 24</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902195700 +0200" stop="20260902200000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 1</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902200000 +0200" stop="20260902202700 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902202700 +0200" stop="20260902203000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 2</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902203000 +0200" stop="20260902205700 +0200" channel="RaiNews24.it">
     <title lang="it">AMARCORD</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902205700 +0200" stop="20260902210000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902210000 +0200" stop="20260902212700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902212700 +0200" stop="20260902213000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 1</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902213000 +0200" stop="20260902215700 +0200" channel="RaiNews24.it">
     <title lang="it">FACCIA A FACCIA</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902215700 +0200" stop="20260902220000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 2</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902220000 +0200" stop="20260902222700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + ECONOMIA</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902222700 +0200" stop="20260902223000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 3</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902223000 +0200" stop="20260902225700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
-    <desc lang="it">,. - ,</desc>
-  </programme>
-  <programme start="20260902225700 +0200" stop="20260902230000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 4</title>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902230000 +0200" stop="20260902233000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260902233000 +0200" stop="20260903000000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
-    <desc lang="it">,. - ,</desc>
+    <desc lang="it"> </desc>
   </programme>
   <programme start="20260903000000 +0200" stop="20260903003000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
@@ -3383,40 +3315,47 @@
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 11a giornata - seconda parte</title>
     <desc lang="it">Seconda parte dell'undicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, Basket 3x3, ginnastica, karate, pallamano e sollevamento pesi. In programma anche semifinali e finali del torneo di Basket 3x3.</desc>
   </programme>
-  <programme start="20260902060000 +0200" stop="20260902080500 +0200" channel="RaiSport.it">
-    <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
-    <desc lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</desc>
+  <programme start="20260902060000 +0200" stop="20260902073000 +0200" channel="RaiSport.it">
+    <title lang="it">European Aquatics Parigi 2026 - Nuoto: Semifinali e Finali (2a giornata)</title>
+    <desc lang="it">Sessione serale con le finali di 200 dorso femminili, 50 farfalla maschili, 100 stile libero femminili, 100 rana maschili, 800 stile libero femminili e staffetta mista 4×100 misti, oltre alle semifinali di 100 rana femminili, 200 dorso maschili, 50 farfalla femminili e 100 stile libero maschili.</desc>
   </programme>
-  <programme start="20260902080500 +0200" stop="20260902090000 +0200" channel="RaiSport.it">
-    <title lang="it">Canoa Sprint. Mondiali Canoa e Paracanoa Poznan 2026 3a giornata: Finali (seconda parte)</title>
-    <desc lang="it">Canoa Sprint. Mondiali Canoa e Paracanoa Poznan 2026 3a giornata: Finali (seconda parte)</desc>
+  <programme start="20260902073000 +0200" stop="20260902083000 +0200" channel="RaiSport.it">
+    <title lang="it">Canoa: Mondiali Canoa Sprint 2026 - 3a giornata: Finali (seconda parte)</title>
+    <desc lang="it">Mondiali - 3a giornata: Finali (seconda parte)</desc>
+  </programme>
+  <programme start="20260902083000 +0200" stop="20260902090000 +0200" channel="RaiSport.it">
+    <title lang="it">I Giochi di Taranto - Puntata del 01/09/2026</title>
+    <desc lang="it">Il diario quotidiano dei Giochi del Mediterraneo. Una sintesi di tutto quello che è accaduto: le medaglie italiane, i risultati più importanti, le emozioni, i protagonisti e le storie dietro le gare. Dagli highlights alle interviste, dalle curiosità alle immagini più belle della giornata.</desc>
   </programme>
   <programme start="20260902090000 +0200" stop="20260902100500 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</desc>
+    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - prima parte</title>
+    <desc lang="it">Prima parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
   </programme>
   <programme start="20260902100500 +0200" stop="20260902103000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20260902103000 +0200" stop="20260902133000 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</desc>
+    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - prima parte</title>
+    <desc lang="it">Prima parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
   </programme>
-  <programme start="20260902133000 +0200" stop="20260902140000 +0200" channel="RaiSport.it">
+  <programme start="20260902133000 +0200" stop="20260902152500 +0200" channel="RaiSport.it">
     <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
     <desc lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</desc>
   </programme>
-  <programme start="20260902140000 +0200" stop="20260902220000 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata</desc>
+  <programme start="20260902152500 +0200" stop="20260902160000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
-  <programme start="20260902220000 +0200" stop="20260902233000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile. Camp. Europei Istanbul 2026 - Ottavi di finale: Italia - Bulgaria</title>
-    <desc lang="it">Pallavolo Femminile. Camp. Europei Istanbul 2026 - Ottavi di finale: Italia - Bulgaria</desc>
+  <programme start="20260902160000 +0200" stop="20260902213000 +0200" channel="RaiSport.it">
+    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - seconda parte</title>
+    <desc lang="it">Seconda parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
+  </programme>
+  <programme start="20260902213000 +0200" stop="20260902233000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei femminili di Pallavolo 2026 - Quarti: Serbia - Grecia</title>
+    <desc lang="it">Ai quarti degli Europei femminili di pallavolo 2026, Serbia e Grecia si sfidano per conquistare un posto in semifinale.</desc>
   </programme>
   <programme start="20260902233000 +0200" stop="20260903000000 +0200" channel="RaiSport.it">
-    <title lang="it">Rally Mondiale Paraguay</title>
-    <desc lang="it">Rally Mondiale Paraguay</desc>
+    <title lang="it">World Rally Championship 2026 - Rally del Paraguay</title>
+    <desc lang="it">World Rally Championship - Rally del Paraguay</desc>
   </programme>
   <programme start="20260903000000 +0200" stop="20260903031000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball. C.to Italiano Serie A Gold Finale: gara 5</title>
@@ -3427,8 +3366,8 @@
     <desc lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 5a giornata gruppo D: Francia - Italia</desc>
   </programme>
   <programme start="20260903053000 +0200" stop="20260903060000 +0200" channel="RaiSport.it">
-    <title lang="it">Rally Mondiale Paraguay</title>
-    <desc lang="it">Rally Mondiale Paraguay</desc>
+    <title lang="it">World Rally Championship 2026 - Rally del Paraguay</title>
+    <desc lang="it">World Rally Championship - Rally del Paraguay</desc>
   </programme>
   <programme start="20260903060000 +0200" stop="20260903083000 +0200" channel="RaiSport.it">
     <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
@@ -3446,19 +3385,15 @@
     <title lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Donne</title>
     <desc lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Donne</desc>
   </programme>
-  <programme start="20260903190000 +0200" stop="20260903200000 +0200" channel="RaiSport.it">
+  <programme start="20260903190000 +0200" stop="20260903194000 +0200" channel="RaiSport.it">
     <title lang="it">Radiocorsa</title>
     <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
-  <programme start="20260903200000 +0200" stop="20260903203000 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in Montagna La Direttissima Monte Bondone</title>
-    <desc lang="it">Corsa in Montagna La Direttissima Monte Bondone</desc>
-  </programme>
-  <programme start="20260903203000 +0200" stop="20260903223000 +0200" channel="RaiSport.it">
+  <programme start="20260903194000 +0200" stop="20260903215000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo Taranto 2026: Cerimonia di Chiusura</title>
     <desc lang="it">Giochi del Mediterraneo Taranto 2026: Cerimonia di Chiusura</desc>
   </programme>
-  <programme start="20260903223000 +0200" stop="20260904001000 +0200" channel="RaiSport.it">
+  <programme start="20260903215000 +0200" stop="20260904001000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 Quarti di Finale: match da definire</title>
     <desc lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 Quarti di Finale: match da definire</desc>
   </programme>
@@ -5129,21 +5064,9 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Una nuova vita per Zoe</title>
     <desc lang="it">Zoe e Dan indagano su atti vandalici in una casa legata a leggende di fantasmi. Tutto fa pensare a una frode, finché Taylor si avvicina al figlio del proprietario e rimane ferita durante una seduta spiritica. Convinta che la casa sia davvero infestata, spinge Zoe a riaprire il caso.</desc>
   </programme>
-  <programme start="20260901090000 +0200" stop="20260901135633 +0200" channel="pluto_film_tv">
+  <programme start="20260901150000 +0200" stop="20260901191938 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901135633 +0200" stop="20260901154233 +0200" channel="pluto_film_tv">
-    <title lang="it">Girl In Progress</title>
-    <desc lang="it">Mentre Grace, una mamma single, si divide tra il lavoro, i conti e la sua relazione con un medico sposato, sua figlia Ansiedad trova una scorciatoia per diventare adulta prendendo ispirazione da un romanzo di formazione che sta leggendo per la scuola.</desc>
-  </programme>
-  <programme start="20260901154233 +0200" stop="20260901173033 +0200" channel="pluto_film_tv">
-    <title lang="it">L'odio</title>
-    <desc lang="it">Una giornata in una delle tante banlieue parigine. Un giorno uguale a molti altri per l'ebreo Vinz, il maghrebino Said e il nero Hubert, se non fosse che un loro amico, Abdel, è stato pestato dalla polizia in seguito agli scontri della notte precedente.</desc>
-  </programme>
-  <programme start="20260901173033 +0200" stop="20260901191938 +0200" channel="pluto_film_tv">
-    <title lang="it">3 donne al verde</title>
-    <desc lang="it">Tre donne organizzano la rapina più improbabile del Paese: rubare milioni di dollari in banconote destinate ogni giorno al tritadocumenti della banca più sicura degli Stati Uniti d'America. Prendere il denaro sarà facile... ma riusciranno a scappare?</desc>
   </programme>
   <programme start="20260901191938 +0200" stop="20260901210138 +0200" channel="pluto_film_tv">
     <title lang="it">La signora Dalloway</title>
@@ -5189,33 +5112,33 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Big Baby</title>
     <desc lang="it">Uno scienziato inventa una macchina che agisce sui geni e trasforma il nipote di quattro anni in un adulto. Quando Bobby scappa di casa, i suoi fratelli devono riuscire a trovarlo prima del ritorno dei genitori. Il tempo stringe, rimane un solo giorno!</desc>
   </programme>
-  <programme start="20260902154452 +0200" stop="20260902210000 +0200" channel="pluto_film_tv">
+  <programme start="20260902154452 +0200" stop="20260902173202 +0200" channel="pluto_film_tv">
+    <title lang="it">Edie</title>
+    <desc lang="it">Edith Moore è una donna scontrosa e testarda di ottant’anni. Rimasta vedova decide di intraprendere da sola un viaggio che ha sempre desiderato fare.</desc>
+  </programme>
+  <programme start="20260902173202 +0200" stop="20260902192102 +0200" channel="pluto_film_tv">
+    <title lang="it">Joe Somebody</title>
+    <desc lang="it">Joe Scheffer è un ragazzo la cui vita è costantemente cambiata in peggio. Quando il bullo dell'ufficio si spinge troppo oltre, Joe decide che è ora di trasformarsi da nessuno in qualcuno.</desc>
+  </programme>
+  <programme start="20260902192102 +0200" stop="20260902210126 +0200" channel="pluto_film_tv">
+    <title lang="it">Life like</title>
+    <desc lang="it">James e Sophie si trasferiscono in periferia. Sophie decide di licenziare il personale di servizio. James la convince a sostituirlo con un androide e le sceglie Henry. Tutto è perfetto finchè il cervello di Henry evolve, incominciando a provare emozioni.</desc>
+  </programme>
+  <programme start="20260902210126 +0200" stop="20260903030000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260903090000 +0200" channel="pluto_film_tv">
+  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903090000 +0200" stop="20260903150000 +0200" channel="pluto_film_tv">
+  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260901090000 +0200" stop="20260901135228 +0200" channel="pluto_film_azione">
+  <programme start="20260901150000 +0200" stop="20260901193105 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901135228 +0200" stop="20260901154305 +0200" channel="pluto_film_azione">
-    <title lang="it">Crypto</title>
-    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
-  </programme>
-  <programme start="20260901154305 +0200" stop="20260901172305 +0200" channel="pluto_film_azione">
-    <title lang="it">Martian Land</title>
-    <desc lang="it">Nel futuro, la razza umana vive su Marte, in città protette da enormi campi di forza. Quando una gigantesca tempesta di sabbia sfonda la cupola e distrugge Mars New York, gli abitanti di Mars Los Angeles dovranno cercare di fermare la tempesta.</desc>
-  </programme>
-  <programme start="20260901172305 +0200" stop="20260901193105 +0200" channel="pluto_film_azione">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
   </programme>
   <programme start="20260901193105 +0200" stop="20260901213005 +0200" channel="pluto_film_azione">
     <title lang="it">Speed Kills</title>
@@ -5261,49 +5184,37 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Mega Quake 20.0</title>
     <desc lang="it">Mentre un mega-terremoto minaccia San Francisco, alcune scosse di preavviso creano scompiglio in città. Una squadra d'élite di servizi di emergenza e di catastrofi converge sull'epicentro previsto, lavorando per salvare quante più vite possibili.</desc>
   </programme>
-  <programme start="20260902152702 +0200" stop="20260902210000 +0200" channel="pluto_film_azione">
+  <programme start="20260902152702 +0200" stop="20260902162308 +0200" channel="pluto_film_azione">
+    <title lang="it">Lupin The IIIrd Ishikawa Goemon Getto Di Sangue</title>
+    <desc lang="it">Il giovane Goemon diventa guardia del corpo di un boss della malavita, ma un avversario implacabile lo uccide. Per salvare il proprio onore, il samurai deve affrontare una sanguinosa sfida mettendo in gioco la propria vita.</desc>
+  </programme>
+  <programme start="20260902162308 +0200" stop="20260902175808 +0200" channel="pluto_film_azione">
+    <title lang="it">Il testamento di Madigan</title>
+    <desc lang="it">Il giovane Frank Putzu diventa un funzionario del Dipartimento del Tesoro statunitense. Apparentemente ingenuo e mite, viene inviato a Roma per recuperare una grossa somma di denaro dovuto al governo degli Stati Uniti da Mike Madigan, un mafioso morto.</desc>
+  </programme>
+  <programme start="20260902175808 +0200" stop="20260902194919 +0200" channel="pluto_film_azione">
+    <title lang="it">Outlawed - Il Fuorilegge</title>
+    <desc lang="it">Quando l’ex fidanzata Jade gli chiede aiuto per scoprire la verità sulla morte del padre, l’ex Royal Marine Jake si ritrova in una rete di corruzione e omicidi, scoprendo prove che potrebbero far incarcerare un alto funzionario governativo.</desc>
+  </programme>
+  <programme start="20260902194919 +0200" stop="20260902213025 +0200" channel="pluto_film_azione">
+    <title lang="it">The gaelic king</title>
+    <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
+  </programme>
+  <programme start="20260902213025 +0200" stop="20260903030000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260903090000 +0200" channel="pluto_film_azione">
+  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903090000 +0200" stop="20260903150000 +0200" channel="pluto_film_azione">
+  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260901090000 +0200" stop="20260901134915 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260901150000 +0200" stop="20260901193615 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901134915 +0200" stop="20260901143915 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Dio dei morti</title>
-    <desc lang="it">Dresden lavora al caso di un padre perseguitato dallo spirito della  figlia, e le circostanze dell'omicidio della ragazza mandano Harry in una direzione diversa che mette in pericolo Connie.</desc>
-  </programme>
-  <programme start="20260901143915 +0200" stop="20260901152915 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Licantropia</title>
-    <desc lang="it">L'FBI prende in carico il caso di Murphy riguardante un serial killer che rimuove capelli e denti dalle sue vittime, ma forse c'è ben altro dietro.</desc>
-  </programme>
-  <programme start="20260901152915 +0200" stop="20260901161815 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Regole d'ingaggio</title>
-    <desc lang="it">Harry scopre una sgradevole alleanza mentre cerca di proteggere la sua cliente da un demone.</desc>
-  </programme>
-  <programme start="20260901161815 +0200" stop="20260901170715 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Terzo Occhio</title>
-    <desc lang="it">Spinto a ripagare un debito del passato, Dresden si ritrova coinvolto in una guerra di potere fra gang di vampiri.</desc>
-  </programme>
-  <programme start="20260901170715 +0200" stop="20260901175715 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La condanna di Bob</title>
-    <desc lang="it">Quando un uomo muore improvvisamente nell'ufficio di Harry, quest'ultimo inizia a investigare su un intricato complotto omicida che ha a che fare con il passato di Bob.</desc>
-  </programme>
-  <programme start="20260901175715 +0200" stop="20260901184615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'uomo di cera</title>
-    <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
-  </programme>
-  <programme start="20260901184615 +0200" stop="20260901193615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Demoni nella bufera</title>
-    <desc lang="it">Dresden si scontra con l'Alto Consiglio dei Maghi nel momento in cui è sospettato di essere coinvolto nelle morti di una studentessa e di un malavitoso del luogo avvenute per magia nera.</desc>
   </programme>
   <programme start="20260901193615 +0200" stop="20260901202615 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Dresden Files: L'aldilà</title>
@@ -5385,15 +5296,43 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Dresden Files: L'uomo di cera</title>
     <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
   </programme>
-  <programme start="20260902152251 +0200" stop="20260902210000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260902152251 +0200" stop="20260902161251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: Demoni nella bufera</title>
+    <desc lang="it">Dresden si scontra con l'Alto Consiglio dei Maghi nel momento in cui è sospettato di essere coinvolto nelle morti di una studentessa e di un malavitoso del luogo avvenute per magia nera.</desc>
+  </programme>
+  <programme start="20260902161251 +0200" stop="20260902170251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'aldilà</title>
+    <desc lang="it">Quando l'investigatore privato di Chicago, Jim Brennan, viene assassinato con mezzi soprannaturali, Harry deve collaborare con l'assistente di Brennan per trovare l'assassino.</desc>
+  </programme>
+  <programme start="20260902170251 +0200" stop="20260902175251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: Un caso riaperto</title>
+    <desc lang="it">Un'avventura di una notte si rivela letale quando la vecchia nemesi di Harry rifà la sua comparsa.</desc>
+  </programme>
+  <programme start="20260902175251 +0200" stop="20260902184251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'Incantesimo</title>
+    <desc lang="it">Morgan e l'Anziana Mai si rifugiano, con riluttanza, da Harry.</desc>
+  </programme>
+  <programme start="20260902184251 +0200" stop="20260902193251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: La seconda chance</title>
+    <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
+  </programme>
+  <programme start="20260902193251 +0200" stop="20260902202151 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Lo shock del nuovo (puntata pilota)</title>
+    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
+  </programme>
+  <programme start="20260902202151 +0200" stop="20260902211051 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Io urlo con il corpo elettrico</title>
+    <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
+  </programme>
+  <programme start="20260902211051 +0200" stop="20260903030000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260903090000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903090000 +0200" stop="20260903150000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
