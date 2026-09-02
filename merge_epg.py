@@ -30,18 +30,24 @@ def fetch_it1_filtered():
     req = urllib.request.Request(IT1_URL, headers=HEADERS)
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
-            compressed = resp.read()
+            raw_data = resp.read()
     except urllib.error.HTTPError as e:
         print(f"⚠️  HTTP {e.code} scaricando epg_ripper_IT1", file=sys.stderr)
         return [], []
     except Exception as e:
         print(f"⚠️  Errore rete scaricando epg_ripper_IT1: {e}", file=sys.stderr)
         return [], []
-    try:
-        xml_bytes = gzip.decompress(compressed)
-    except OSError as e:
-        print(f"⚠️  Errore decompressione epg_ripper_IT1: {e}", file=sys.stderr)
-        return [], []
+
+    # Controlla se il file è compresso (gzip) o è un XML puro
+    if raw_data.startswith(b'\x1f\x8b'):
+        try:
+            xml_bytes = gzip.decompress(raw_data)
+        except OSError as e:
+            print(f"⚠️  Errore decompressione epg_ripper_IT1: {e}", file=sys.stderr)
+            return [], []
+    else:
+        xml_bytes = raw_data
+
     root = ET.fromstring(xml_bytes)
     channels = [el for el in root.findall("channel") if el.get("id") in IT1_KEEP_IDS]
     programmes = [el for el in root.findall("programme") if el.get("channel") in IT1_KEEP_IDS]
