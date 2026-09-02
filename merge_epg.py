@@ -6,8 +6,8 @@ import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 
-IT1_URL = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
-
+# IT1_URL = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+IT1_URL = "https://iptv-epg.org/files/epg-it.xml"
 IT1_KEEP_IDS = {
     "TV8.HD.it", "cielo.it", "Sky.TG24.it", "Rete.4.it", "Canale.5.it",
     "Italia.1.it", "LA7.HD.it", "Nove.it", "20.it", "Iris.it",
