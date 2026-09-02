@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260901150000 +0200" stop="20260901191938 +0200" channel="pluto_film_tv">
+  <programme start="20260902000000 +0200" stop="20260902030638 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901191938 +0200" stop="20260901210138 +0200" channel="pluto_film_tv">
-    <title lang="it">La signora Dalloway</title>
-    <desc lang="it">Clarissa Dalloway, un'attempata signora di Londra, riflette riguardo la propria vita e sulle decisioni prese ingenuamente.</desc>
-  </programme>
-  <programme start="20260901210138 +0200" stop="20260901225038 +0200" channel="pluto_film_tv">
-    <title lang="it">Joe Somebody</title>
-    <desc lang="it">Joe Scheffer è un ragazzo la cui vita è costantemente cambiata in peggio. Quando il bullo dell'ufficio si spinge troppo oltre, Joe decide che è ora di trasformarsi da nessuno in qualcuno.</desc>
-  </programme>
-  <programme start="20260901225038 +0200" stop="20260902004038 +0200" channel="pluto_film_tv">
-    <title lang="it">Johnny &amp; Clyde</title>
-    <desc lang="it">Imperdibile thriller con Megan Fox. Johnny e Clyde, amanti e serial killer, stanno per fare il colpo della vita: rapinare il casinò di Alana Hart. Ma la donna schiera una forza letale a difesa del suo impero. La rapina si trasforma così in un incubo.</desc>
-  </programme>
-  <programme start="20260902004038 +0200" stop="20260902030638 +0200" channel="pluto_film_tv">
-    <title lang="it">Twin Peaks: Fuoco Cammina con Me</title>
-    <desc lang="it">A Twin Peaks viene trovato un sacco con il cadavere di Teresa Banks. Gli agenti spariscono e le indagini non danno risultati. Un anno dopo viene commesso un altro brutale delitto simile al primo. Chi avrà ucciso Laura Palmer?</desc>
   </programme>
   <programme start="20260902030638 +0200" stop="20260902054538 +0200" channel="pluto_film_tv">
     <title lang="it">Frankenstein IT</title>
@@ -72,37 +56,45 @@
     <title lang="it">Life like</title>
     <desc lang="it">James e Sophie si trasferiscono in periferia. Sophie decide di licenziare il personale di servizio. James la convince a sostituirlo con un androide e le sceglie Henry. Tutto è perfetto finchè il cervello di Henry evolve, incominciando a provare emozioni.</desc>
   </programme>
-  <programme start="20260902210126 +0200" stop="20260903030000 +0200" channel="pluto_film_tv">
+  <programme start="20260902210126 +0200" stop="20260902225726 +0200" channel="pluto_film_tv">
+    <title lang="it">Perché un Assassinio</title>
+    <desc lang="it">Warren Beatty è un cronista che, insieme ad altri sette, assiste all'assassinio di un candidato politico.</desc>
+  </programme>
+  <programme start="20260902225726 +0200" stop="20260903002614 +0200" channel="pluto_film_tv">
+    <title lang="it">JACKALS - LA SETTA DEGLI SCIACALLI</title>
+    <desc lang="it">Dopo che i Powell assumono un deprogrammatore specializzato per salvare il loro figlio adolescente da un culto omicida, si trovano sotto assedio quando i cultisti circondano la loro capanna, chiedendo indietro il ragazzo.</desc>
+  </programme>
+  <programme start="20260903002614 +0200" stop="20260903015314 +0200" channel="pluto_film_tv">
+    <title lang="it">Setup</title>
+    <desc lang="it">Un gruppo di amici mette a segno una rapina che si trasforma in qualcosa di mortale quando uno di loro tradisce gli altri e scappa via con il bottino. Sonny chiede aiuto a uno dei boss più pericolosi della città per recuperare ciò che gli spetta.</desc>
+  </programme>
+  <programme start="20260903015314 +0200" stop="20260903034611 +0200" channel="pluto_film_tv">
+    <title lang="it">L'Ora della Verità</title>
+    <desc lang="it">Una drammatica corsa contro il tempo per scoprire la verità e salvare una donna. Frank, ex avvocato, si guadagna da vivere pubblicando le ultime lettere dei condannati. Quando riceve la lettera di Cory, decide di conoscerla e di salvarla.</desc>
+  </programme>
+  <programme start="20260903034611 +0200" stop="20260903053411 +0200" channel="pluto_film_tv">
+    <title lang="it">Vendetta - Una storia d'amore</title>
+    <desc lang="it">Un veterano della Guerra del Golfo (Nicolas Cage), decide di vendicare una donna che dopo essere stata stuprata, ha visto i suoi aggressori rimessi in libertà.</desc>
+  </programme>
+  <programme start="20260903053411 +0200" stop="20260903071648 +0200" channel="pluto_film_tv">
+    <title lang="it">Altamira</title>
+    <desc lang="it">Nel 1879 Maria e suo padre archeologo scoprono in una caverna antichi dipinti preistorici. La madre, appoggiata dalla Chiesa, li vede come un attacco alla Bibbia. Maria resta divisa tra due mondi, senza modelli di riferimento, alla ricerca della verità</desc>
+  </programme>
+  <programme start="20260903071648 +0200" stop="20260903120000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_film_tv">
+  <programme start="20260903120000 +0200" stop="20260904000000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_film_tv">
+  <programme start="20260904000000 +0200" stop="20260904060000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260901150000 +0200" stop="20260901193105 +0200" channel="pluto_film_azione">
+  <programme start="20260902000000 +0200" stop="20260902023307 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901193105 +0200" stop="20260901213005 +0200" channel="pluto_film_azione">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20260901213005 +0200" stop="20260901231222 +0200" channel="pluto_film_azione">
-    <title lang="it">Detour - Fuori Controllo</title>
-    <desc lang="it">Quando Denny e il suo amico Ziggy decidono di tentare un furto ai danni di un potente boss della malavita, non sanno che si stanno cacciando in un guaio.</desc>
-  </programme>
-  <programme start="20260901231222 +0200" stop="20260902010222 +0200" channel="pluto_film_azione">
-    <title lang="it">Boxe</title>
-    <desc lang="it">Ray e Eddie sono gli ultimi rampolli di una famiglia con antiche tradizioni pugilistiche. Ray è un professionista, mentre Eddie milita ancora fra i dilettanti e ha buone chances per le vicine Olimpiadi.</desc>
-  </programme>
-  <programme start="20260902010222 +0200" stop="20260902023307 +0200" channel="pluto_film_azione">
-    <title lang="it">Massacro a San Francisco</title>
-    <desc lang="it">Un poliziotto americano di origini cinesi, esperto nelle arti marziali, combatte la più potente banda criminale di San Francisco, responsabile della morte del suo partner.</desc>
   </programme>
   <programme start="20260902023307 +0200" stop="20260902044107 +0200" channel="pluto_film_azione">
     <title lang="it">Biker Boyz</title>
@@ -148,57 +140,41 @@
     <title lang="it">The gaelic king</title>
     <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
   </programme>
-  <programme start="20260902213025 +0200" stop="20260903030000 +0200" channel="pluto_film_azione">
+  <programme start="20260902213025 +0200" stop="20260902233615 +0200" channel="pluto_film_azione">
+    <title lang="it">In ordine di sparizione</title>
+    <desc lang="it">Una dark - comedy ricca di azione e divertimento ambientata nella selvaggia Norvegia, con un cast eccezionale!</desc>
+  </programme>
+  <programme start="20260902233615 +0200" stop="20260903011115 +0200" channel="pluto_film_azione">
+    <title lang="it">Codice 51</title>
+    <desc lang="it">Uno specialista della chimica americano prevede grandi guadagni con una vendita di droga che capita una volta nella vita. Non tutto va come previsto e presto si ritrova invischiato in una rete di inganni.</desc>
+  </programme>
+  <programme start="20260903011115 +0200" stop="20260903031715 +0200" channel="pluto_film_azione">
+    <title lang="it">The Knight Of Shadows</title>
+    <desc lang="it">Pu Songling è un leggendario cacciatore di demoni a cui viene chiesto di indagare sulle sparizioni di alcune ragazze del villaggio. Quando scopre che i crimini sono stati commessi da delle entità malvagie, Pu Songling combatte contro i demoni.</desc>
+  </programme>
+  <programme start="20260903031715 +0200" stop="20260903045852 +0200" channel="pluto_film_azione">
+    <title lang="it">Golden Job</title>
+    <desc lang="it">Un gruppo di mercenari si riunisce per mettere a segno un'epica rapina.</desc>
+  </programme>
+  <programme start="20260903045852 +0200" stop="20260903062952 +0200" channel="pluto_film_azione">
+    <title lang="it">Fast and Fierce</title>
+    <desc lang="it">Jack Tyson è un giovane che partecipa a una gara automobilistica illegale dal Messico alla California quando, una donna disperata in fuga dal fidanzato gangster violento che finanzia la gara, salta in macchina implorando il suo aiuto.</desc>
+  </programme>
+  <programme start="20260903062952 +0200" stop="20260903120000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_film_azione">
+  <programme start="20260903120000 +0200" stop="20260904000000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_film_azione">
+  <programme start="20260904000000 +0200" stop="20260904060000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260901150000 +0200" stop="20260901193615 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260902000000 +0200" stop="20260902034130 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260901193615 +0200" stop="20260901202615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'aldilà</title>
-    <desc lang="it">Quando l'investigatore privato di Chicago, Jim Brennan, viene assassinato con mezzi soprannaturali, Harry deve collaborare con l'assistente di Brennan per trovare l'assassino.</desc>
-  </programme>
-  <programme start="20260901202615 +0200" stop="20260901211615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Un caso riaperto</title>
-    <desc lang="it">Un'avventura di una notte si rivela letale quando la vecchia nemesi di Harry rifà la sua comparsa.</desc>
-  </programme>
-  <programme start="20260901211615 +0200" stop="20260901220615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'Incantesimo</title>
-    <desc lang="it">Morgan e l'Anziana Mai si rifugiano, con riluttanza, da Harry.</desc>
-  </programme>
-  <programme start="20260901220615 +0200" stop="20260901225615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La seconda chance</title>
-    <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
-  </programme>
-  <programme start="20260901225615 +0200" stop="20260901235607 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
-  </programme>
-  <programme start="20260901235607 +0200" stop="20260902005447 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
-  </programme>
-  <programme start="20260902005447 +0200" stop="20260902014932 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
-  </programme>
-  <programme start="20260902014932 +0200" stop="20260902024514 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
-  </programme>
-  <programme start="20260902024514 +0200" stop="20260902034130 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
   </programme>
   <programme start="20260902034130 +0200" stop="20260902043851 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">The Blackout</title>
@@ -272,15 +248,59 @@
     <title lang="it">Mutant X: Io urlo con il corpo elettrico</title>
     <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
   </programme>
-  <programme start="20260902211051 +0200" stop="20260903030000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260902211051 +0200" stop="20260902215951 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Roulette russa</title>
+    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
+  </programme>
+  <programme start="20260902215951 +0200" stop="20260902224851 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Pazza d'amore</title>
+    <desc lang="it">Shalimar si avvicina a un altro feral quando è "lussuria a prima vista", ma le cose si complicano quando il suo nuovo ragazzo cerca di trovare una cura per la sua condizione.</desc>
+  </programme>
+  <programme start="20260902224851 +0200" stop="20260902233751 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Kilohertz</title>
+    <desc lang="it">Un Nuovo Mutante viene rapito dalla sua famiglia, e Mutant X si mette in viaggio per recuperarlo e scoprire l'interesse di Eckhart per lui.</desc>
+  </programme>
+  <programme start="20260902233751 +0200" stop="20260903002651 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il significato della morte</title>
+    <desc lang="it">Quando una piaga che colpisce solo i mutanti imperversa, Adam e Eckhart accettano di lavorare insieme per trovare una cura.</desc>
+  </programme>
+  <programme start="20260903002651 +0200" stop="20260903011551 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Fusibile</title>
+    <desc lang="it">Eckhart cerca un mutante in grado di assorbire energia, con il quale Brennan si lega sentimentalmente.</desc>
+  </programme>
+  <programme start="20260903011551 +0200" stop="20260903020451 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In presenza del nemico</title>
+    <desc lang="it">Jesse si innamora di un hacker di computer che Eckhart vuole "ingaggiare" per corrompere i canali di notizie del computer pubblico contro i Nuovi Mutanti... e a vantaggio della GSA.</desc>
+  </programme>
+  <programme start="20260903020451 +0200" stop="20260903025351 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il crimine del nuovo secolo</title>
+    <desc lang="it">Un ragazzo che sta sviluppando nuove abilità mutanti è stato rapito e la squadra accetta di trovarlo per sua madre. Più tardi vengono a sapere che è stata lei a far rapire il figlio.</desc>
+  </programme>
+  <programme start="20260903025351 +0200" stop="20260903034251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'ascesa della stella nera</title>
+    <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
+  </programme>
+  <programme start="20260903034251 +0200" stop="20260903043151 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una tonalità più bianca di pallido</title>
+    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
+  </programme>
+  <programme start="20260903043151 +0200" stop="20260903052051 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Visione doppia</title>
+    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
+  </programme>
+  <programme start="20260903052051 +0200" stop="20260903060951 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Legami di sangue</title>
+    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
+  </programme>
+  <programme start="20260903060951 +0200" stop="20260903120000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903030000 +0200" stop="20260903150000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260903120000 +0200" stop="20260904000000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903150000 +0200" stop="20260903210000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260904000000 +0200" stop="20260904060000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
