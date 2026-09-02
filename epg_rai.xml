@@ -287,7 +287,7 @@
     <title lang="it">Sottovoce e dintorni - Cinematografo Speciale 83a Mostra Internazionale d'Arte Cinematografica di Venezia</title>
     <desc lang="it">Cinque puntate speciali di Cinematografo per la Biennale Cinema 2026 che si svolgerà dal 02 al 12 settembre a Venezia.</desc>
   </programme>
-  <programme start="20260904020500 +0200" stop="20260904032000 +0200" channel="Rai1.it">
+  <programme start="20260904030500 +0200" stop="20260904042000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 03/09/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
@@ -3139,12 +3139,16 @@
     <desc lang="it">Mondiali - 3a giornata: Finali (seconda parte)</desc>
   </programme>
   <programme start="20260902083000 +0200" stop="20260902090000 +0200" channel="RaiSport.it">
+    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - prima parte</title>
+    <desc lang="it">Prima parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
+  </programme>
+  <programme start="20260902083000 +0200" stop="20260902090000 +0200" channel="RaiSport.it">
     <title lang="it">I Giochi di Taranto - Puntata del 01/09/2026</title>
     <desc lang="it">Il diario quotidiano dei Giochi del Mediterraneo. Una sintesi di tutto quello che è accaduto: le medaglie italiane, i risultati più importanti, le emozioni, i protagonisti e le storie dietro le gare. Dagli highlights alle interviste, dalle curiosità alle immagini più belle della giornata.</desc>
   </programme>
   <programme start="20260902090000 +0200" stop="20260902100500 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - prima parte</title>
-    <desc lang="it">Prima parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
+    <title lang="it">Giochi del Mediterraneo Taranto 2026 - 1</title>
+    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata: Canottaggio</desc>
   </programme>
   <programme start="20260902100500 +0200" stop="20260902103000 +0200" channel="RaiSport.it">
     <title lang="it">Perle di Sport</title>
@@ -3153,21 +3157,24 @@
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - prima parte</title>
     <desc lang="it">Prima parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
   </programme>
-  <programme start="20260902133000 +0200" stop="20260902160000 +0200" channel="RaiSport.it">
+  <programme start="20260902133000 +0200" stop="20260902152500 +0200" channel="RaiSport.it">
     <title lang="it">European Aquatics Parigi 2026 - Nuoto: Semifinali e Finali (4a giornata)</title>
     <desc lang="it">Sessione serale con le finali di 100 farfalla maschili, 50 dorso femminili, 200 rana maschili, 200 stile libero femminili e staffetta 4×100 stile libero maschile, oltre alle semifinali di 200 stile libero maschili, 100 farfalla femminili, 50 dorso maschili e 200 rana femminili.</desc>
+  </programme>
+  <programme start="20260902152500 +0200" stop="20260902160000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
   <programme start="20260902160000 +0200" stop="20260902213000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 12a giornata - seconda parte</title>
     <desc lang="it">Seconda parte della dodicesima giornata di gare ai Giochi del Mediterraneo 2026, con atletica, canottaggio, ginnastica, karate, pallamano, sollevamento pesi, skateboarding e tennistavolo.</desc>
   </programme>
-  <programme start="20260902213000 +0200" stop="20260902233000 +0200" channel="RaiSport.it">
+  <programme start="20260902213000 +0200" stop="20260902231000 +0200" channel="RaiSport.it">
     <title lang="it">Europei femminili di Pallavolo 2026 - Quarti: Serbia - Grecia</title>
     <desc lang="it">Ai quarti degli Europei femminili di pallavolo 2026, Serbia e Grecia si sfidano per conquistare un posto in semifinale.</desc>
   </programme>
-  <programme start="20260902233000 +0200" stop="20260903001000 +0200" channel="RaiSport.it">
-    <title lang="it">World Rally Championship 2026 - Rally del Paraguay</title>
-    <desc lang="it">World Rally Championship - Rally del Paraguay</desc>
+  <programme start="20260902231000 +0200" stop="20260903001000 +0200" channel="RaiSport.it">
+    <title lang="it">Speciale Medaglie Europei Nuoto Parigi 2026 </title>
+    <desc lang="it">Speciale Medaglie Europei Nuoto Parigi 2026 </desc>
   </programme>
   <programme start="20260903001000 +0200" stop="20260903032000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball: Campionato Italiano Serie A1 2026 - Finale: San Marino - Parma (gara 5)</title>
@@ -3197,23 +3204,27 @@
     <title lang="it">Europei femminili di Pallavolo 2026 - Quarti: Serbia - Grecia</title>
     <desc lang="it">Ai quarti degli Europei femminili di pallavolo 2026, Serbia e Grecia si sfidano per conquistare un posto in semifinale.</desc>
   </programme>
-  <programme start="20260903174000 +0200" stop="20260903184000 +0200" channel="RaiSport.it">
+  <programme start="20260903174000 +0200" stop="20260903190000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Donne</title>
     <desc lang="it">Cross Country Olimpico - Elite Donne</desc>
   </programme>
-  <programme start="20260903184000 +0200" stop="20260903194000 +0200" channel="RaiSport.it">
+  <programme start="20260903190000 +0200" stop="20260903200000 +0200" channel="RaiSport.it">
     <title lang="it">Radiocorsa del 03/09/2026</title>
     <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
-  <programme start="20260903194000 +0200" stop="20260903215000 +0200" channel="RaiSport.it">
+  <programme start="20260903200000 +0200" stop="20260903203000 +0200" channel="RaiSport.it">
+    <title lang="it">Corsa in Montagna La Direttissima Monte </title>
+    <desc lang="it">Corsa in Montagna La Direttissima Monte Bondone</desc>
+  </programme>
+  <programme start="20260903203000 +0200" stop="20260903223000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo XX Edizione Taranto 2026 - Cerimonia di Chiusura</title>
     <desc lang="it">Taranto saluta la XX edizione dei Giochi del Mediterraneo con la cerimonia di chiusura, l’evento conclusivo che celebra gli atleti e le delegazioni protagoniste di due settimane di gare e chiude ufficialmente la manifestazione.</desc>
   </programme>
-  <programme start="20260903215000 +0200" stop="20260904003000 +0200" channel="RaiSport.it">
+  <programme start="20260903223000 +0200" stop="20260904001000 +0200" channel="RaiSport.it">
     <title lang="it">Europei femminili di Pallavolo 2026 - Quarti: Italia - Svezia</title>
     <desc lang="it">Ai quarti degli Europei femminili di pallavolo 2026, l'Italia affronta la Svezia per conquistare un posto in semifinale.</desc>
   </programme>
-  <programme start="20260904003000 +0200" stop="20260904060000 +0200" channel="RaiSport.it">
+  <programme start="20260904001000 +0200" stop="20260904060000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</title>
     <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</desc>
   </programme>
