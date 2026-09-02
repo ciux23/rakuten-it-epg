@@ -6,15 +6,33 @@ import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# IT1_URL = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 IT1_URL = "https://iptv-epg.org/files/epg-it.xml"
-IT1_KEEP_IDS = {
-    "TV8.HD.it", "cielo.it", "Sky.TG24.it", "Rete.4.it", "Canale.5.it",
-    "Italia.1.it", "LA7.HD.it", "Nove.it", "20.it", "Iris.it",
-    "27Twentyseven.it", "La5.it", "Real.Time.it", "Cine34.it",
-    "Focus.it", "Discovery.Channel.it", "Giallo.TV.it", "Top.Crime.it",
-    "Italia.2.it", "TGCom.it", "DMAX.it", "Mediaset.Extra.it",
-    "Motor.Trend.it",
+
+# Dizionario per tradurre i NUOVI id di iptv-epg.org nei VECCHI id della tua playlist M3U
+ID_TRANSLATION = {
+    "Mediaset20.it": "20.it",
+    "TV8.it": "TV8.HD.it",
+    "SkyTG24.it": "Sky.TG24.it",
+    "Rete4.it": "Rete.4.it",
+    "Canale5.it": "Canale.5.it",
+    "Italia1.it": "Italia.1.it",
+    "La7.it": "LA7.HD.it",
+    "NOVE.it": "Nove.it",
+    "Mediaset27Twentyseven.it": "27Twentyseven.it",
+    "RealTime.it": "Real.Time.it",
+    "Discovery.it": "Discovery.Channel.it",
+    "GIALLO.it": "Giallo.TV.it",
+    "TOPcrime.it": "Top.Crime.it",
+    "Italia2.it": "Italia.2.it",
+    "TgCom24.it": "TGCom.it",
+    "MediasetExtra.it": "Mediaset.Extra.it",
+    "MotorTrend.it": "Motor.Trend.it",
+    "DMAX.it": "DMAX.it",
+    "Iris.it": "Iris.it",
+    "Cine34.it": "Cine34.it",
+    "Focus.it": "Focus.it",
+    "La5.it": "La5.it",
+    "cielo.it": "cielo.it",
 }
 
 HEADERS = {
@@ -24,7 +42,6 @@ HEADERS = {
         "Chrome/124.0.0.0 Safari/537.36"
     ),
 }
-
 
 def fetch_it1_filtered():
     req = urllib.request.Request(IT1_URL, headers=HEADERS)
@@ -49,14 +66,37 @@ def fetch_it1_filtered():
         xml_bytes = raw_data
 
     root = ET.fromstring(xml_bytes)
-    channels = [el for el in root.findall("channel") if el.get("id") in IT1_KEEP_IDS]
-    programmes = [el for el in root.findall("programme") if el.get("channel") in IT1_KEEP_IDS]
-    found_ids = {el.get("id") for el in channels}
-    missing = IT1_KEEP_IDS - found_ids
-    if missing:
-        print(f"⚠️  tvg_id non trovati in epg_ripper_IT1: {sorted(missing)}", file=sys.stderr)
-    print(f"→ epg_ripper_IT1: {len(channels)} canali, {len(programmes)} programmi (filtrati)")
+    
+    channels = []
+    programmes = []
+    valid_new_ids = set(ID_TRANSLATION.keys())
+    
+    # 1. Elaboriamo i Canali
+    for ch in root.findall("channel"):
+        raw_id = ch.get("id")
+        if raw_id is None: continue
+        clean_id = raw_id.strip() # Rimuove gli spazi vuoti di iptv-epg.org
+        
+        if clean_id in valid_new_ids:
+            old_id = ID_TRANSLATION[clean_id] # Traduce nel vecchio ID
+            ch.set("id", old_id) 
+            channels.append(ch)
+            
+    # 2. Elaboriamo i Programmi
+    for pr in root.findall("programme"):
+        raw_id = pr.get("channel")
+        if raw_id is None: continue
+        clean_id = raw_id.strip() # Rimuove gli spazi vuoti
+        
+        if clean_id in valid_new_ids:
+            old_id = ID_TRANSLATION[clean_id] # Traduce nel vecchio ID
+            pr.set("channel", old_id)
+            programmes.append(pr)
+
+    print(f"→ epg_ripper_IT1: {len(channels)} canali, {len(programmes)} programmi (filtrati e tradotti)")
     return channels, programmes
+
+# ... (da qui in poi lascia tutto il resto del tuo script invariato: parse_local_xmltv e main) ...
 
 
 def parse_local_xmltv(path):
