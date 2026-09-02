@@ -154,21 +154,25 @@
     <desc lang="it">Tra i ghiacci dell'Antartide, per seguire da vicino le avventure di un carismatico pinguino imperatore da quando si schiude il suo uovo fino al momento in cui si avventura in mare.</desc>
   </programme>
   <programme start="20260903012000 +0200" stop="20260903014500 +0200" channel="Rai1.it">
-    <title lang="it">Tinto Brass - Speciale Sottovoce</title>
-    <desc lang="it">Gigi Marzullo intervista Tinto Brass, regista, sceneggiatore, montatore e scrittore italiano, considerato il maestro del cinema erotico italiano</desc>
+    <title lang="it">Sottovoce: Tinto Brass</title>
+    <desc lang="it">Sottovoce: Tinto Brass</desc>
   </programme>
   <programme start="20260903014500 +0200" stop="20260903015000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260903015000 +0200" stop="20260903024000 +0200" channel="Rai1.it">
+  <programme start="20260903014500 +0200" stop="20260903014500 +0200" channel="Rai1.it">
+    <title lang="it">Tinto Brass - Speciale Sottovoce</title>
+    <desc lang="it">Gigi Marzullo intervista Tinto Brass, regista, sceneggiatore, montatore e scrittore italiano, considerato il maestro del cinema erotico italiano</desc>
+  </programme>
+  <programme start="20260903015000 +0200" stop="20260903030500 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 02/09/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
-  <programme start="20260903024000 +0200" stop="20260903041500 +0200" channel="Rai1.it">
+  <programme start="20260903030500 +0200" stop="20260903044000 +0200" channel="Rai1.it">
     <title lang="it">Provaci ancora prof! S4E5 - Cattivi maestri</title>
     <desc lang="it">Un collega di Camilla rimane chiuso nel bagno di un'alunna a cui dà ripetizioni. Quando la Prof lo fa uscire, scoprono il cadavere della ragazza. E Camilla si unisce alle indagini.</desc>
   </programme>
-  <programme start="20260903041500 +0200" stop="20260903060000 +0200" channel="Rai1.it">
+  <programme start="20260903044000 +0200" stop="20260903060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260903060000 +0200" stop="20260903062800 +0200" channel="Rai1.it">
@@ -253,6 +257,10 @@
     <title lang="it">L'Eredità summer - Puntata del 03/09/2026</title>
     <desc lang="it">Il game show di Rai Uno in cui 5 concorrenti si sfidano in diverse prove ad eliminazione, fino ad arrivare alla fase finale del gioco, la rinnovata Ghigliottina. Qui, il campione della serata deve indovinare una parola attraverso le "parole indizio" per vincere.</desc>
   </programme>
+  <programme start="20260903213000 +0200" stop="20260903235500 +0200" channel="Rai1.it">
+    <title lang="it">Costanza</title>
+    <desc lang="it">FICTION - - Episodio 4: Diana accusa Costanza di aver diffuso una notizia non verificata provocando l'irritazione di Melchiorre. Federica accetta di perdonare Marco, ma a patto di conoscere Costanza;- Episodio 5: Costanza e Marco sono mo - lto turbati e la donna, pur volendo essere onesta con Ludovico, tace per paura di perderlo. Diana scopre di essere incinta, suscitando reazioni contrastanti in Anselmo. Le due donne si riavvicinano quando Diana sostiene Costanza nella ricerca dei resti di Aldegard;- Episodio 6: A Melchiorre vengono negati i fondi per le ricerche: mentre Diana cerca un nuovo bando, Costanza registra forse l'ultima puntata del podcast. Toni decide di sospendere le sedute per l'attrazione verso Stefano, ma poi cambia idea.  - Regia di Fabrizio Costa Con Miriam Dalmazio, Marco Rossetti, Lorenzo Cervasio, Eleonora De Luca, Caterina Shulha, Davide Iacopini, Carola Stagnaro, Franco Castellano, Giulia Arena, Bianca Panconi, Elena Sophia Senise, Alessandro Cremona, Kaspar Capparoni, Grazia Gagliardi, Mia Eustachio, Francesco Ferdinandi, Marco Brandizi, Luigi Di Fiore, Federico Calistri Soggetto di serie Salvatore Basile, Fabrizia Midulla Soggetti di puntata e sceneggiature Salvatore Basile, Fabrizia Midulla, Giorgio Nerone Una coproduzione Rai Fiction- Banijay Studios Italy Prodotto da Massimo Del Frate 2^ puntata</desc>
+  </programme>
   <programme start="20260903213000 +0200" stop="20260903232000 +0200" channel="Rai1.it">
     <title lang="it">Torno indietro e cambio vita</title>
     <desc lang="it">Marco e Claudio sono amici da una vita, l'uno sposato e realizzato, l'altro single e insoddisfatto. Ma non è tutto oro quel che luccica: quando la moglie di Marco annuncia al marito di voler chiedere la separazione l'uomo, disperato chiede aiuto all'amico. Un incidente improvviso porterà i due indietro nel tempo, dando loro la possibilità di correggere gli errori fatti e cambiare la loro vita.</desc>
@@ -264,14 +272,18 @@
   <programme start="20260903235500 +0200" stop="20260904000000 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
   </programme>
-  <programme start="20260904002500 +0200" stop="20260904010000 +0200" channel="Rai1.it">
+  <programme start="20260904000000 +0200" stop="20260904002500 +0200" channel="Rai1.it">
+    <title lang="it">Costanza</title>
+    <desc lang="it">FICTION - - Episodio 4: Diana accusa Costanza di aver diffuso una notizia non verificata provocando l'irritazione di Melchiorre. Federica accetta di perdonare Marco, ma a patto di conoscere Costanza;- Episodio 5: Costanza e Marco sono mo - lto turbati e la donna, pur volendo essere onesta con Ludovico, tace per paura di perderlo. Diana scopre di essere incinta, suscitando reazioni contrastanti in Anselmo. Le due donne si riavvicinano quando Diana sostiene Costanza nella ricerca dei resti di Aldegard;- Episodio 6: A Melchiorre vengono negati i fondi per le ricerche: mentre Diana cerca un nuovo bando, Costanza registra forse l'ultima puntata del podcast. Toni decide di sospendere le sedute per l'attrazione verso Stefano, ma poi cambia idea.  - Regia di Fabrizio Costa Con Miriam Dalmazio, Marco Rossetti, Lorenzo Cervasio, Eleonora De Luca, Caterina Shulha, Davide Iacopini, Carola Stagnaro, Franco Castellano, Giulia Arena, Bianca Panconi, Elena Sophia Senise, Alessandro Cremona, Kaspar Capparoni, Grazia Gagliardi, Mia Eustachio, Francesco Ferdinandi, Marco Brandizi, Luigi Di Fiore, Federico Calistri Soggetto di serie Salvatore Basile, Fabrizia Midulla Soggetti di puntata e sceneggiature Salvatore Basile, Fabrizia Midulla, Giorgio Nerone Una coproduzione Rai Fiction- Banijay Studios Italy Prodotto da Massimo Del Frate 2^ puntata</desc>
+  </programme>
+  <programme start="20260904002500 +0200" stop="20260904020000 +0200" channel="Rai1.it">
     <title lang="it">Bla Bla Baby</title>
     <desc lang="it">Luca è costretto a lavorare in un asilo nido aziendale. Ogni giorno, si trova ad affrontare i piccoli dei dipendenti della Green Light, tra continui pianti, urla e l'impossibilità di instaurare un vero rapporto di comunicazione con i bambini, fino a quando, per un accidente scopre di avere il superpotere di comprendere i poppanti.</desc>
   </programme>
-  <programme start="20260904010000 +0200" stop="20260904010500 +0200" channel="Rai1.it">
+  <programme start="20260904020000 +0200" stop="20260904020500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260904010500 +0200" stop="20260904020500 +0200" channel="Rai1.it">
+  <programme start="20260904020500 +0200" stop="20260904030500 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni - Cinematografo Speciale 83a Mostra Internazionale d'Arte Cinematografica di Venezia</title>
     <desc lang="it">Cinque puntate speciali di Cinematografo per la Biennale Cinema 2026 che si svolgerà dal 02 al 12 settembre a Venezia.</desc>
   </programme>
@@ -283,7 +295,7 @@
     <title lang="it">Il commissario Rex - S9E5 - Sotto narcosi</title>
     <desc lang="it">Una dottoressa, responsabile di una clinica privata, viene trovata morta. Marc concentra le indagini sul portinaio della clinica, che è sospettato di abusare delle pazienti.</desc>
   </programme>
-  <programme start="20260904040500 +0200" stop="20260904060000 +0200" channel="Rai1.it">
+  <programme start="20260904042000 +0200" stop="20260904060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260904060000 +0200" stop="20260904062800 +0200" channel="Rai1.it">
