@@ -40,7 +40,7 @@ jobs:
         run: python generate_pluto.py --hours 48 --out epg_pluto.xml
 
       - name: generate RedBull EPG
-        run: python generate_redbull.py --hours 48 --out epg_redbull.xml
+        run: python generate_redbull.py --out epg_redbull.xml
 
       - name: merge into epg_finale.xml
         run: python merge_epg.py --rai epg_rai.xml --rakuten epg_rakuten.xml --pluto epg_pluto.xml --redbull epg_redbull.xml --out epg_finale.xml
