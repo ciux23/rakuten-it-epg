@@ -12,13 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260903003000 +0200" stop="20260903034611 +0200" channel="pluto_film_tv">
+  <programme start="20260903010000 +0200" stop="20260903053411 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260903034611 +0200" stop="20260903053411 +0200" channel="pluto_film_tv">
-    <title lang="it">Vendetta - Una storia d'amore</title>
-    <desc lang="it">Un veterano della Guerra del Golfo (Nicolas Cage), decide di vendicare una donna che dopo essere stata stuprata, ha visto i suoi aggressori rimessi in libertà.</desc>
   </programme>
   <programme start="20260903053411 +0200" stop="20260903071648 +0200" channel="pluto_film_tv">
     <title lang="it">Altamira</title>
@@ -72,19 +68,23 @@
     <title lang="it">Drone - Scegli il tuo nemico</title>
     <desc lang="it">Neil è un contractor che pilota droni e divide i suoi giorni tra missioni segrete e vita di periferia. La moglie e il figlio non conoscono la sua reale professione, finché un enigmatico imprenditore pakistano non si mette sulle sue tracce...</desc>
   </programme>
-  <programme start="20260904062522 +0200" stop="20260904123000 +0200" channel="pluto_film_tv">
+  <programme start="20260904062522 +0200" stop="20260904082422 +0200" channel="pluto_film_tv">
+    <title lang="it">Draft Day</title>
+    <desc lang="it">Dopo aver concluso uno scambio importante, il Manager Generale Sonny Weaver Jr. (Kevin Costner) è il primo a poter scegliere. Deve attenersi al piano concordato per la scelta o fidarsi del proprio istinto e rischiare di perdere tutto?</desc>
+  </programme>
+  <programme start="20260904082422 +0200" stop="20260904130000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904123000 +0200" stop="20260905003000 +0200" channel="pluto_film_tv">
+  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905003000 +0200" stop="20260905063000 +0200" channel="pluto_film_tv">
+  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903003000 +0200" stop="20260903045852 +0200" channel="pluto_film_azione">
+  <programme start="20260903010000 +0200" stop="20260903045852 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
@@ -144,25 +144,21 @@
     <title lang="it">Vikings - L'invasione dei Franchi</title>
     <desc lang="it">700 dc. I Franchi stanno provando a conquistare l'Europa. L'esercito di Carlo Martello uccide il re dei frisoni e getta in mare suo figlio Redbaldo. Sopravvissuto, farà ritorno con un'armata vichinga invincibile.</desc>
   </programme>
-  <programme start="20260904073329 +0200" stop="20260904123000 +0200" channel="pluto_film_azione">
+  <programme start="20260904073329 +0200" stop="20260904130000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904123000 +0200" stop="20260905003000 +0200" channel="pluto_film_azione">
+  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905003000 +0200" stop="20260905063000 +0200" channel="pluto_film_azione">
+  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903003000 +0200" stop="20260903043151 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260903010000 +0200" stop="20260903052051 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260903043151 +0200" stop="20260903052051 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Visione doppia</title>
-    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
   </programme>
   <programme start="20260903052051 +0200" stop="20260903060951 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Legami di sangue</title>
@@ -288,15 +284,19 @@
     <title lang="it">Mutant X: Risveglio</title>
     <desc lang="it">La squadra aiuta l'equipaggio di una stazione di ricerca oceanica minacciata da una creatura preistorica precedentemente ritenuta estinta.</desc>
   </programme>
-  <programme start="20260904063951 +0200" stop="20260904123000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260904063951 +0200" stop="20260904072851 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Per evitare di diventare</title>
+    <desc lang="it">Shalimar accetta con riluttanza di contattare il suo estraneo padre quando la squadra scopre che la sua azienda è coinvolta in test genetici e manipolazione.</desc>
+  </programme>
+  <programme start="20260904072851 +0200" stop="20260904130000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904123000 +0200" stop="20260905003000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905003000 +0200" stop="20260905063000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
