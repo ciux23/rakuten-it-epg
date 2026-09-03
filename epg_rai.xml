@@ -155,19 +155,15 @@
   <programme start="20260904010000 +0200" stop="20260904010500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260904010500 +0200" stop="20260904020500 +0200" channel="Rai1.it">
+  <programme start="20260904010500 +0200" stop="20260904030500 +0200" channel="Rai1.it">
     <title lang="it">Cinematografo Speciale 83a Mostra Internazionale d'Arte Cinematografica di Venezia - 03/09/2026</title>
     <desc lang="it">Cinque puntate speciali di Cinematografo per la Biennale Cinema 2026 che si svolgerà dal 02 al 12 settembre a Venezia.</desc>
   </programme>
-  <programme start="20260904020500 +0200" stop="20260904032000 +0200" channel="Rai1.it">
+  <programme start="20260904030500 +0200" stop="20260904042000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 03/09/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
-  <programme start="20260904032000 +0200" stop="20260904040500 +0200" channel="Rai1.it">
-    <title lang="it">Il commissario Rex - S9E5 - Sotto narcosi</title>
-    <desc lang="it">Una dottoressa, responsabile di una clinica privata, viene trovata morta. Marc concentra le indagini sul portinaio della clinica, che è sospettato di abusare delle pazienti.</desc>
-  </programme>
-  <programme start="20260904040500 +0200" stop="20260904060000 +0200" channel="Rai1.it">
+  <programme start="20260904042000 +0200" stop="20260904060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260904060000 +0200" stop="20260904062800 +0200" channel="Rai1.it">
@@ -460,7 +456,7 @@
     <desc lang="it">Direttore Antonio Preziosi</desc>
   </programme>
   <programme start="20260903135000 +0200" stop="20260903140000 +0200" channel="Rai2.it">
-    <title lang="it">TG2 Medicina 33</title>
+    <title lang="it">Tg2 Medicina 33 del 21/05/2026</title>
     <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti</desc>
   </programme>
   <programme start="20260903140000 +0200" stop="20260903145300 +0200" channel="Rai2.it">
@@ -868,8 +864,8 @@
     <title lang="it">TG3 LIS</title>
   </programme>
   <programme start="20260903150500 +0200" stop="20260903154500 +0200" channel="Rai3.it">
-    <title lang="it">Il Provinciale</title>
-    <desc lang="it">Federico Quaranta ci accompagna alla scoperta di luoghi affascinanti e sentieri impervi di un'Italia poco conosciuta.</desc>
+    <title lang="it">Il Provinciale - Monti della Meta: il senso del silenzio</title>
+    <desc lang="it">Questa settimana andiamo alla scoperta della catena della Mainarde, un selvaggio massiccio appenninico che funge da spartiacque fra Marsica, Ciociara e provincia d'Isernia all'interno del Parco Nazionale dell'Abruzzo, Lazio e Molise. Luoghi decisamente fuori dalle rotte tradizionali, dove la natura incontaminata e l'asprezza del territorio hanno, in un contesto dominato dal silenzio, ispirato artisti, letterati ed eremiti di ogni epoca. Ma non solo: ogni angolo delle Mainarde ci parla di meraviglie naturali davvero rare, come gli altopiani e le foreste abitate da orsi, lupi, cavalli pentro e di paradisi di biodiversità, come le sorgenti del Volturno.</desc>
   </programme>
   <programme start="20260903154500 +0200" stop="20260903164500 +0200" channel="Rai3.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S8E18 - Lucca, drento e fora</title>
@@ -2112,11 +2108,7 @@
     <title lang="it">Ricominciare S3E74</title>
     <desc lang="it">I Vallesi sono una ricca e potente famiglia proprietaria di una prestigiosa casa editrice perugina, mentre i Ruggeri sono una famiglia molto meno abbiente il cui destino però s'intreccia a quello dei Vallesi.</desc>
   </programme>
-  <programme start="20260904052500 +0200" stop="20260904054500 +0200" channel="RaiPremium.it">
-    <title lang="it">Incantesimo - S9E147 - S9E148</title>
-    <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
-  </programme>
-  <programme start="20260904054500 +0200" stop="20260904061000 +0200" channel="RaiPremium.it">
+  <programme start="20260904052500 +0200" stop="20260904061000 +0200" channel="RaiPremium.it">
     <title lang="it">Incantesimo - S9E147 - S9E148</title>
     <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
   </programme>
@@ -2370,51 +2362,36 @@
     <title lang="it">NEWS</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903082500 +0200" stop="20260903082700 +0200" channel="RaiNews24.it">
+  <programme start="20260903082500 +0200" stop="20260903083000 +0200" channel="RaiNews24.it">
     <title lang="it">CCISS</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903082700 +0200" stop="20260903083000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-BUONGIORNO NEWS 3</title>
   </programme>
   <programme start="20260903083000 +0200" stop="20260903085600 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903085600 +0200" stop="20260903085700 +0200" channel="RaiNews24.it">
+  <programme start="20260903085600 +0200" stop="20260903090000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903085700 +0200" stop="20260903090000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-BUONGIORNO NEWS 4</title>
   </programme>
   <programme start="20260903090000 +0200" stop="20260903092600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903092600 +0200" stop="20260903092700 +0200" channel="RaiNews24.it">
+  <programme start="20260903092600 +0200" stop="20260903093000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903092700 +0200" stop="20260903093000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 1</title>
   </programme>
   <programme start="20260903093000 +0200" stop="20260903094500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903094500 +0200" stop="20260903095700 +0200" channel="RaiNews24.it">
+  <programme start="20260903094500 +0200" stop="20260903100000 +0200" channel="RaiNews24.it">
     <title lang="it">BASTA LA SALUTE</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903095700 +0200" stop="20260903100000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 2</title>
-  </programme>
-  <programme start="20260903100000 +0200" stop="20260903105600 +0200" channel="RaiNews24.it">
+  <programme start="20260903100000 +0200" stop="20260903110000 +0200" channel="RaiNews24.it">
     <title lang="it">Filo diretto estate - Puntata del 03/09/2026</title>
-  </programme>
-  <programme start="20260903105600 +0200" stop="20260903110000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 3</title>
   </programme>
   <programme start="20260903110000 +0200" stop="20260903113000 +0200" channel="RaiNews24.it">
     <title lang="it">TG GIORNO</title>
@@ -2428,19 +2405,13 @@
     <title lang="it">FOCUS 24</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903115600 +0200" stop="20260903115700 +0200" channel="RaiNews24.it">
+  <programme start="20260903115600 +0200" stop="20260903120000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903115700 +0200" stop="20260903120000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MATTINA 4</title>
-  </programme>
-  <programme start="20260903120000 +0200" stop="20260903122700 +0200" channel="RaiNews24.it">
+  <programme start="20260903120000 +0200" stop="20260903123000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903122700 +0200" stop="20260903123000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 1</title>
   </programme>
   <programme start="20260903123000 +0200" stop="20260903124400 +0200" channel="RaiNews24.it">
     <title lang="it">SPORT 24</title>
@@ -2450,40 +2421,28 @@
     <title lang="it">AR</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903125600 +0200" stop="20260903125700 +0200" channel="RaiNews24.it">
+  <programme start="20260903125600 +0200" stop="20260903130000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903125700 +0200" stop="20260903130000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 2</title>
-  </programme>
-  <programme start="20260903130000 +0200" stop="20260903132700 +0200" channel="RaiNews24.it">
+  <programme start="20260903130000 +0200" stop="20260903133000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903132700 +0200" stop="20260903133000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 3</title>
   </programme>
   <programme start="20260903133000 +0200" stop="20260903134500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903134500 +0200" stop="20260903135700 +0200" channel="RaiNews24.it">
+  <programme start="20260903134500 +0200" stop="20260903140000 +0200" channel="RaiNews24.it">
     <title lang="it">FOCUS 24</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903135700 +0200" stop="20260903140000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 4</title>
   </programme>
   <programme start="20260903140000 +0200" stop="20260903143000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903143000 +0200" stop="20260903145700 +0200" channel="RaiNews24.it">
+  <programme start="20260903143000 +0200" stop="20260903150000 +0200" channel="RaiNews24.it">
     <title lang="it">Filo diretto estate - Puntata del 03/09/2026</title>
-  </programme>
-  <programme start="20260903145700 +0200" stop="20260903150000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-MERIDIANA 5</title>
   </programme>
   <programme start="20260903150000 +0200" stop="20260903152100 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
@@ -2493,41 +2452,29 @@
     <title lang="it">TG IN LINGUA UCRAINA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903152600 +0200" stop="20260903152700 +0200" channel="RaiNews24.it">
+  <programme start="20260903152600 +0200" stop="20260903153000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO AM</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903152700 +0200" stop="20260903153000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 1</title>
   </programme>
   <programme start="20260903153000 +0200" stop="20260903160000 +0200" channel="RaiNews24.it">
     <title lang="it">FACCIA A FACCIA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903160000 +0200" stop="20260903162800 +0200" channel="RaiNews24.it">
+  <programme start="20260903160000 +0200" stop="20260903163000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903162800 +0200" stop="20260903163000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 2</title>
   </programme>
   <programme start="20260903163000 +0200" stop="20260903164500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903164500 +0200" stop="20260903165700 +0200" channel="RaiNews24.it">
+  <programme start="20260903164500 +0200" stop="20260903170000 +0200" channel="RaiNews24.it">
     <title lang="it">BASTA LA SALUTE</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903165700 +0200" stop="20260903170000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 3</title>
-  </programme>
-  <programme start="20260903170000 +0200" stop="20260903172800 +0200" channel="RaiNews24.it">
+  <programme start="20260903170000 +0200" stop="20260903173000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903172800 +0200" stop="20260903173000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 4</title>
   </programme>
   <programme start="20260903173000 +0200" stop="20260903174500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO + Economia e borsa</title>
@@ -2541,23 +2488,17 @@
     <title lang="it">NEWS</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903182700 +0200" stop="20260903182800 +0200" channel="RaiNews24.it">
+  <programme start="20260903182700 +0200" stop="20260903183000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903182800 +0200" stop="20260903183000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 5</title>
   </programme>
   <programme start="20260903183000 +0200" stop="20260903184600 +0200" channel="RaiNews24.it">
     <title lang="it">Speciale Mostra del Cinema di Venezia</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903184600 +0200" stop="20260903185800 +0200" channel="RaiNews24.it">
+  <programme start="20260903184600 +0200" stop="20260903190000 +0200" channel="RaiNews24.it">
     <title lang="it">Speciale Mostra del Cinema di Venezia</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903185800 +0200" stop="20260903190000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 6</title>
   </programme>
   <programme start="20260903190000 +0200" stop="20260903193000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
@@ -2567,54 +2508,33 @@
     <title lang="it">RULLO SPORT</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903194500 +0200" stop="20260903195700 +0200" channel="RaiNews24.it">
+  <programme start="20260903194500 +0200" stop="20260903200000 +0200" channel="RaiNews24.it">
     <title lang="it">BASTA LA SALUTE</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903195700 +0200" stop="20260903200000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 1</title>
-  </programme>
-  <programme start="20260903200000 +0200" stop="20260903202700 +0200" channel="RaiNews24.it">
+  <programme start="20260903200000 +0200" stop="20260903203000 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903202700 +0200" stop="20260903203000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 2</title>
-  </programme>
-  <programme start="20260903203000 +0200" stop="20260903205700 +0200" channel="RaiNews24.it">
+  <programme start="20260903203000 +0200" stop="20260903210000 +0200" channel="RaiNews24.it">
     <title lang="it">LA SFIDA DELLA CURA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903205700 +0200" stop="20260903210000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-ACCESS 3</title>
-  </programme>
-  <programme start="20260903210000 +0200" stop="20260903212700 +0200" channel="RaiNews24.it">
+  <programme start="20260903210000 +0200" stop="20260903213000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903212700 +0200" stop="20260903213000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 1</title>
-  </programme>
-  <programme start="20260903213000 +0200" stop="20260903215700 +0200" channel="RaiNews24.it">
+  <programme start="20260903213000 +0200" stop="20260903220000 +0200" channel="RaiNews24.it">
     <title lang="it">FACCIA A FACCIA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903215700 +0200" stop="20260903220000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 2</title>
-  </programme>
-  <programme start="20260903220000 +0200" stop="20260903222700 +0200" channel="RaiNews24.it">
+  <programme start="20260903220000 +0200" stop="20260903223000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + ECONOMIA</title>
     <desc lang="it"> </desc>
   </programme>
-  <programme start="20260903222700 +0200" stop="20260903223000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 3</title>
-  </programme>
-  <programme start="20260903223000 +0200" stop="20260903225700 +0200" channel="RaiNews24.it">
+  <programme start="20260903223000 +0200" stop="20260903230000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + SOMMARIO</title>
     <desc lang="it"> </desc>
-  </programme>
-  <programme start="20260903225700 +0200" stop="20260903230000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-PRIME TIME 4</title>
   </programme>
   <programme start="20260903230000 +0200" stop="20260903233000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
@@ -2720,11 +2640,8 @@
   <programme start="20260904094500 +0200" stop="20260904100000 +0200" channel="RaiNews24.it">
     <title lang="it">TUTTIFRUTTI</title>
   </programme>
-  <programme start="20260904100000 +0200" stop="20260904103000 +0200" channel="RaiNews24.it">
+  <programme start="20260904100000 +0200" stop="20260904110000 +0200" channel="RaiNews24.it">
     <title lang="it">Filo diretto estate - Puntata del 04/09/2026</title>
-  </programme>
-  <programme start="20260904103000 +0200" stop="20260904110000 +0200" channel="RaiNews24.it">
-    <title lang="it">FILO DIRETTO</title>
   </programme>
   <programme start="20260904110000 +0200" stop="20260904113000 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
@@ -3077,42 +2994,50 @@
   </programme>
   <programme start="20260904003000 +0200" stop="20260904060000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</desc>
+    <desc lang="it">Tredicesima e ultima giornata di gare ai Giochi del Mediterraneo 2026, con le ultime medaglie assegnate nel canottaggio, nell'atletica e nella pallanuoto, prima della cerimonia di chiusura della manifestazione.</desc>
   </programme>
   <programme start="20260904060000 +0200" stop="20260904062000 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi di Taranto</title>
+    <title lang="it">I Giochi di Taranto - Puntata del 03/09/2026</title>
+    <desc lang="it">Il diario quotidiano dei Giochi del Mediterraneo. Una sintesi di tutto quello che è accaduto: le medaglie italiane, i risultati più importanti, le emozioni, i protagonisti e le storie dietro le gare. Dagli highlights alle interviste, dalle curiosità alle immagini più belle della giornata.</desc>
   </programme>
   <programme start="20260904062000 +0200" stop="20260904083000 +0200" channel="RaiSport.it">
-    <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
-    <desc lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</desc>
+    <title lang="it">European Aquatics Parigi 2026 - Nuoto: Semifinali e Finali (6a giornata)</title>
+    <desc lang="it">Sessione serale con le finali di 200 farfalla maschili, 50 stile libero femminili, 50 rana maschili, 200 misti femminili, 1500 stile libero maschili, 100 dorso femminili e staffetta mista 4×200 stile libero, oltre a diverse semifinali. In programma anche le finali paralimpiche dei 50 stile libero femminili e 100 stile libero maschili.</desc>
   </programme>
-  <programme start="20260904083000 +0200" stop="20260904163000 +0200" channel="RaiSport.it">
+  <programme start="20260904083000 +0200" stop="20260904160000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - 13a giornata</desc>
+    <desc lang="it">Tredicesima e ultima giornata di gare ai Giochi del Mediterraneo 2026, con le ultime medaglie assegnate nel canottaggio, nell'atletica e nella pallanuoto, prima della cerimonia di chiusura della manifestazione.</desc>
   </programme>
-  <programme start="20260904163000 +0200" stop="20260904183000 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi del Mediterraneo Taranto 2026 - Cerimonia di Chiusura</title>
-    <desc lang="it">Giochi del Mediterraneo Taranto 2026 - Cerimonia di Chiusura</desc>
+  <programme start="20260904160000 +0200" stop="20260904183000 +0200" channel="RaiSport.it">
+    <title lang="it">Giochi del Mediterraneo XX Edizione Taranto 2026 - Cerimonia di Chiusura</title>
+    <desc lang="it">Taranto saluta la XX edizione dei Giochi del Mediterraneo con la cerimonia di chiusura, l’evento conclusivo che celebra gli atleti e le delegazioni protagoniste di due settimane di gare e chiude ufficialmente la manifestazione.</desc>
   </programme>
-  <programme start="20260904183000 +0200" stop="20260904200000 +0200" channel="RaiSport.it">
-    <title lang="it">Canottaggio: Camp. Mondiali Amsterdam 2026 4a giornata: Finali</title>
-    <desc lang="it">Canottaggio: Camp. Mondiali Amsterdam 2026 4a giornata: Finali</desc>
+  <programme start="20260904183000 +0200" stop="20260904190000 +0200" channel="RaiSport.it">
+    <title lang="it">Gli imperdibili</title>
+  </programme>
+  <programme start="20260904190000 +0200" stop="20260904193000 +0200" channel="RaiSport.it">
+    <title lang="it">Canottaggio: Mondiali Amsterdam 2026 - Finali: 4a giornata</title>
+    <desc lang="it">Mondiali - Finali: 4a giornata</desc>
+  </programme>
+  <programme start="20260904193000 +0200" stop="20260904200000 +0200" channel="RaiSport.it">
+    <title lang="it">Corsa in montagna - La Direttissima 2026</title>
+    <desc lang="it">La Direttissima, gara podistica da Trento a Monte Bondone.</desc>
   </programme>
   <programme start="20260904200000 +0200" stop="20260904220000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica. Finale Diamond League: Bruxelles - 1a g.ta</title>
-    <desc lang="it">Atletica. Finale Diamond League: Bruxelles - 1a g.ta</desc>
+    <title lang="it">Atletica: Diamond League 2026 - Finali: 1a giornata</title>
+    <desc lang="it">A Bruxelles va in scena la prima giornata delle finali della Diamond League 2026. Al King Baudouin Stadium i migliori atleti della stagione si sfidano per conquistare i primi Diamond Trophy e i titoli del circuito.</desc>
   </programme>
-  <programme start="20260904220000 +0200" stop="20260905010000 +0200" channel="RaiSport.it">
-    <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
-    <desc lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</desc>
+  <programme start="20260904220000 +0200" stop="20260905003000 +0200" channel="RaiSport.it">
+    <title lang="it">European Aquatics Parigi 2026 - Nuoto: Finali (7a giornata)</title>
+    <desc lang="it">Finali della settima e ultima giornata di gare di nuoto in vasca agli European Aquatics Championships di Parigi.</desc>
   </programme>
-  <programme start="20260905010000 +0200" stop="20260905030000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica Leggera: Diamond League 2026 15a prova: Bruxelles - 1a giornata</title>
-    <desc lang="it">Atletica Leggera: Diamond League 2026 15a prova: Bruxelles - 1a giornata</desc>
+  <programme start="20260905003000 +0200" stop="20260905030000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica: Diamond League 2026 - Finali: 1a giornata</title>
+    <desc lang="it">A Bruxelles va in scena la prima giornata delle finali della Diamond League 2026. Al King Baudouin Stadium i migliori atleti della stagione si sfidano per conquistare i primi Diamond Trophy e i titoli del circuito.</desc>
   </programme>
   <programme start="20260905030000 +0200" stop="20260905060000 +0200" channel="RaiSport.it">
-    <title lang="it">Baseball: Camp. Italiano Serie A1 2026 eventuale Finale gara 5: match da definire</title>
-    <desc lang="it">Baseball: Camp. Italiano Serie A1 2026 eventuale Finale gara 5: match da definire</desc>
+    <title lang="it">Baseball: Campionato Italiano Serie A1 2026 - Finale: San Marino - Parma (gara 5)</title>
+    <desc lang="it">Campionato Italiano - Finale: San Marino - Parma (gara 5)</desc>
   </programme>
   <programme start="20260905060000 +0200" stop="20260905090000 +0200" channel="RaiSport.it">
     <title lang="it">European Aquatics Parigi 2026 - Nuoto Semifinali e finali</title>
