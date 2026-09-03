@@ -113,23 +113,33 @@ def parse_local_xmltv(path):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Unisce gli EPG Rai/Rakuten/Pluto/IT1-filtrato in un unico file")
+    # 1. Aggiunto "RedBull" alla descrizione
+    parser = argparse.ArgumentParser(description="Unisce gli EPG Rai/Rakuten/Pluto/RedBull/IT1-filtrato in un unico file")
     parser.add_argument("--rai", default="epg_rai.xml")
     parser.add_argument("--rakuten", default="epg_rakuten.xml")
     parser.add_argument("--pluto", default="epg_pluto.xml")
+    
+    # 2. AGGIUNTO: Registrazione dell'argomento --redbull
+    parser.add_argument("--redbull", default="epg_redbull.xml")
+    
     parser.add_argument("--skip-it1", action="store_true")
     parser.add_argument("--out", default="epg_finale.xml")
     args = parser.parse_args()
+    
     all_channels = []
     all_programmes = []
-    for label, path in [("Rai", args.rai), ("Rakuten", args.rakuten), ("Pluto", args.pluto)]:
+    
+    # 3. AGGIUNTO: ("RedBull", args.redbull) alla lista dei file da processare
+    for label, path in [("Rai", args.rai), ("Rakuten", args.rakuten), ("Pluto", args.pluto), ("RedBull", args.redbull)]:
         ch, pr = parse_local_xmltv(path)
         all_channels.extend(ch)
         all_programmes.extend(pr)
+        
     if not args.skip_it1:
         ch, pr = fetch_it1_filtered()
         all_channels.extend(ch)
         all_programmes.extend(pr)
+        
     seen_channel_ids = set()
     deduped_channels = []
     for ch in all_channels:
@@ -138,11 +148,13 @@ def main():
             continue
         seen_channel_ids.add(cid)
         deduped_channels.append(ch)
+        
     root = ET.Element("tv", {"generator-info-name": "merged-epg", "generator-info-url": "local"})
     for ch in deduped_channels:
         root.append(ch)
     for pr in all_programmes:
         root.append(pr)
+        
     ET.indent(root, space="  ")
     tree = ET.ElementTree(root)
     tree.write(args.out, encoding="utf-8", xml_declaration=True)
