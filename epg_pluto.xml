@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260903010000 +0200" stop="20260903053411 +0200" channel="pluto_film_tv">
+  <programme start="20260903083000 +0200" stop="20260903124652 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260903053411 +0200" stop="20260903071648 +0200" channel="pluto_film_tv">
-    <title lang="it">Altamira</title>
-    <desc lang="it">Nel 1879 Maria e suo padre archeologo scoprono in una caverna antichi dipinti preistorici. La madre, appoggiata dalla Chiesa, li vede come un attacco alla Bibbia. Maria resta divisa tra due mondi, senza modelli di riferimento, alla ricerca della verità</desc>
-  </programme>
-  <programme start="20260903071648 +0200" stop="20260903085230 +0200" channel="pluto_film_tv">
-    <title lang="it">Rara - Una strana famiglia</title>
-    <desc lang="it">Cile, Vina del Mar. Sara, tredici anni, vive con la sorella minore Catalina, con sua madre Paula e con Lia, la compagna della madre. La loro è una quotidianità serena e spensierata, fino a quando l'adolescenza di Sara non solleva in lei dei problemi.</desc>
-  </programme>
-  <programme start="20260903085230 +0200" stop="20260903104830 +0200" channel="pluto_film_tv">
-    <title lang="it">Perché un Assassinio</title>
-    <desc lang="it">Warren Beatty è un cronista che, insieme ad altri sette, assiste all'assassinio di un candidato politico.</desc>
-  </programme>
-  <programme start="20260903104830 +0200" stop="20260903124652 +0200" channel="pluto_film_tv">
-    <title lang="it">Out of Blue</title>
-    <desc lang="it">La detective della omicidi di New Orleans Mike Hoolihan indaga sulle sparatorie dell'astrofisica e esperta di buchi neri Jennifer Rockwell, la ricerca della verità destabilizza la sua visione dell'universo e di se stessa.</desc>
   </programme>
   <programme start="20260903124652 +0200" stop="20260903144452 +0200" channel="pluto_film_tv">
     <title lang="it">L'Assassinio Di Un Allibratore Cinese</title>
@@ -72,37 +56,33 @@
     <title lang="it">Draft Day</title>
     <desc lang="it">Dopo aver concluso uno scambio importante, il Manager Generale Sonny Weaver Jr. (Kevin Costner) è il primo a poter scegliere. Deve attenersi al piano concordato per la scelta o fidarsi del proprio istinto e rischiare di perdere tutto?</desc>
   </programme>
-  <programme start="20260904082422 +0200" stop="20260904130000 +0200" channel="pluto_film_tv">
+  <programme start="20260904082422 +0200" stop="20260904101322 +0200" channel="pluto_film_tv">
+    <title lang="it">Anchorman: La Leggenda di Ron Burgundy</title>
+    <desc lang="it">Entrate nel mondo delle notizie televisive degli anni '70, dove Ron Burgundy e il suo team di Channel 4 News sono la fonte di notizie numero uno di San Diego. Tutto va bene, fino a quando non arriva la reporter Veronica Corningstone.</desc>
+  </programme>
+  <programme start="20260904101322 +0200" stop="20260904121717 +0200" channel="pluto_film_tv">
+    <title lang="it">The Forgiven - Il Perdono</title>
+    <desc lang="it">1993. L’arcivescovo Tutu è a capo della «Commissione per la Verità e Riconciliazione». Quando riceve la lettera del detenuto Piet Blomfeld, uno psicopatico omicida, si convince che Piet deve essere perdonato.</desc>
+  </programme>
+  <programme start="20260904121717 +0200" stop="20260904140344 +0200" channel="pluto_film_tv">
+    <title lang="it">Hammers over the anvil</title>
+    <desc lang="it">La storia di Alan, adolescente malato di poliomelite che desidera cavalcare e ha come mito personale il west e i cowboy. Dai racconti dell’australiano Allan Marshall, un film sulla giovinezza e su quanti ancora ne custodiscono in cuore il segreto.</desc>
+  </programme>
+  <programme start="20260904140344 +0200" stop="20260904203000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_film_tv">
+  <programme start="20260904203000 +0200" stop="20260905083000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_film_tv">
+  <programme start="20260905083000 +0200" stop="20260905143000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903010000 +0200" stop="20260903045852 +0200" channel="pluto_film_azione">
+  <programme start="20260903083000 +0200" stop="20260903115826 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260903045852 +0200" stop="20260903062952 +0200" channel="pluto_film_azione">
-    <title lang="it">Fast and Fierce</title>
-    <desc lang="it">Jack Tyson è un giovane che partecipa a una gara automobilistica illegale dal Messico alla California quando, una donna disperata in fuga dal fidanzato gangster violento che finanzia la gara, salta in macchina implorando il suo aiuto.</desc>
-  </programme>
-  <programme start="20260903062952 +0200" stop="20260903081752 +0200" channel="pluto_film_azione">
-    <title lang="it">The Legionary - Fuga all'inferno</title>
-    <desc lang="it">Alain è un pugile che deve fuggire da Marsiglia per essersi rifiutato di vendere un incontro. Siamo negli anni Venti, e la sua unica possibilità di fuga è il reclutamento nella Legione Straniera.</desc>
-  </programme>
-  <programme start="20260903081752 +0200" stop="20260903101652 +0200" channel="pluto_film_azione">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20260903101652 +0200" stop="20260903115826 +0200" channel="pluto_film_azione">
-    <title lang="it">La gang degli svitati</title>
-    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
   </programme>
   <programme start="20260903115826 +0200" stop="20260903140210 +0200" channel="pluto_film_azione">
     <title lang="it">Lo Straniero della valle oscura</title>
@@ -144,57 +124,37 @@
     <title lang="it">Vikings - L'invasione dei Franchi</title>
     <desc lang="it">700 dc. I Franchi stanno provando a conquistare l'Europa. L'esercito di Carlo Martello uccide il re dei frisoni e getta in mare suo figlio Redbaldo. Sopravvissuto, farà ritorno con un'armata vichinga invincibile.</desc>
   </programme>
-  <programme start="20260904073329 +0200" stop="20260904130000 +0200" channel="pluto_film_azione">
+  <programme start="20260904073329 +0200" stop="20260904092129 +0200" channel="pluto_film_azione">
+    <title lang="it">A prova di idiota</title>
+    <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
+  </programme>
+  <programme start="20260904092129 +0200" stop="20260904110129 +0200" channel="pluto_film_azione">
+    <title lang="it">Avengers Grimm</title>
+    <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
+  </programme>
+  <programme start="20260904110129 +0200" stop="20260904124507 +0200" channel="pluto_film_azione">
+    <title lang="it">Hostile Territory - Il tempo è il nemico</title>
+    <desc lang="it">Di ritorno dalla Guerra Civile, l'ex prigioniero Jack Calgrove scopre che sua moglie è morta e che i suoi figli, presunti orfani, sono su un treno diretto verso un territorio ostile nel profondo West.</desc>
+  </programme>
+  <programme start="20260904124507 +0200" stop="20260904142646 +0200" channel="pluto_film_azione">
+    <title lang="it">Fatal Instinct</title>
+    <desc lang="it">Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
+  </programme>
+  <programme start="20260904142646 +0200" stop="20260904203000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_film_azione">
+  <programme start="20260904203000 +0200" stop="20260905083000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_film_azione">
+  <programme start="20260905083000 +0200" stop="20260905143000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260903010000 +0200" stop="20260903052051 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260903083000 +0200" stop="20260903124151 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260903052051 +0200" stop="20260903060951 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Legami di sangue</title>
-    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
-  </programme>
-  <programme start="20260903060951 +0200" stop="20260903065851 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Alter Ego</title>
-    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
-  </programme>
-  <programme start="20260903065851 +0200" stop="20260903074751 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
-    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
-  </programme>
-  <programme start="20260903074751 +0200" stop="20260903083651 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Interfaccia</title>
-    <desc lang="it">Emma si riunisce con un vecchio amico che possiede poteri di teletrasporto. La riunione diventa però pericolosa quando Michelle cerca di consegnare Emma alla GSA.</desc>
-  </programme>
-  <programme start="20260903083651 +0200" stop="20260903092551 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Presunto colpevole</title>
-    <desc lang="it">Adam viene incastrato per omicidio da un Nuovo Mutante con la capacità di rubare i ricordi delle persone.</desc>
-  </programme>
-  <programme start="20260903092551 +0200" stop="20260903101451 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Niente da temere</title>
-    <desc lang="it">Un mutante con abilità telepatiche che può far provare alle persone, mentalmente, tutto ciò che vuole, riesce ad entrare nella mente dei Mutanti X. Ora gli sta facendo provare le loro peggiori paure.</desc>
-  </programme>
-  <programme start="20260903101451 +0200" stop="20260903110351 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Ballare sul rasoio</title>
-    <desc lang="it">Quando Mutant X e Genomex vengono ripresi mentre usano i loro poteri, entrambi devono affrontare il reporter che intende rendere pubbliche le informazioni.</desc>
-  </programme>
-  <programme start="20260903110351 +0200" stop="20260903115251 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La X segna il punto</title>
-    <desc lang="it">L'ex fidanzato di Shalimar si presenta e sta cercando di recuperare un uovo Fabergé che contiene un microchip di straordinario potere.</desc>
-  </programme>
-  <programme start="20260903115251 +0200" stop="20260903124151 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Desiderio mortale</title>
-    <desc lang="it">La squadra cerca di impedire a Eckhart di acquisire un elemento raro, ma un ladro lo ottiene. La donna che ha la capacità di far innamorare gli uomini di lei mette gli occhi su Brennan.</desc>
   </programme>
   <programme start="20260903124151 +0200" stop="20260903133051 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Una razza a parte</title>
@@ -288,15 +248,47 @@
     <title lang="it">Mutant X: Per evitare di diventare</title>
     <desc lang="it">Shalimar accetta con riluttanza di contattare il suo estraneo padre quando la squadra scopre che la sua azienda è coinvolta in test genetici e manipolazione.</desc>
   </programme>
-  <programme start="20260904072851 +0200" stop="20260904130000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260904072851 +0200" stop="20260904081751 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In una notte senza luna</title>
+    <desc lang="it">Nell'emozionante apertura di stagione, i membri superstiti di Mutant X emergono da un'esplosione mortale per incontrare Lexa, che li fa iniziare a mettere in discussione i presupposti fondamentali del loro mondo.</desc>
+  </programme>
+  <programme start="20260904081751 +0200" stop="20260904090651 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il prezzo del peccato</title>
+    <desc lang="it">La squadra Mutant X deve fermare l'asta di una sostanza altamente letale che un certo numero di famigerati terroristi internazionali sono in lizza per acquisire.</desc>
+  </programme>
+  <programme start="20260904090651 +0200" stop="20260904095551 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La razza</title>
+    <desc lang="it">La squadra Mutant X viene coinvolta per aiutare una base militare che è stata infettata da una malattia mortale.</desc>
+  </programme>
+  <programme start="20260904095551 +0200" stop="20260904104451 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Dove abita il male</title>
+    <desc lang="it">La squadra Mutant X deve fermare un serial killer che lascia indizi sulle sue prossime vittime sotto forma di puzzle.</desc>
+  </programme>
+  <programme start="20260904104451 +0200" stop="20260904113351 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La presa dei corvi</title>
+    <desc lang="it">Quando Lexa viene inconsapevolmente drogata con una sostanza letale, la squadra deve correre per trovare l'antidoto prima che sia troppo tardi.</desc>
+  </programme>
+  <programme start="20260904113351 +0200" stop="20260904122251 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Ombre nell'oscurità</title>
+    <desc lang="it">La squadra Mutant X è chiamata a indagare su bizzarre attività che si verificano in un ospedale locale.</desc>
+  </programme>
+  <programme start="20260904122251 +0200" stop="20260904131151 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La mano di Dio</title>
+    <desc lang="it">La squadra Mutant X si imbarca in una missione per localizzare e catturare un potente super-mutante che possiede poteri divini.</desc>
+  </programme>
+  <programme start="20260904131151 +0200" stop="20260904140051 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il deserto</title>
+    <desc lang="it">Jesse è costretto a riallacciare i rapporti con la sua ex fidanzata quando la squadra Mutant X viene a sapere che la sua azienda è coinvolta nella manipolazione genetica delle colture.</desc>
+  </programme>
+  <programme start="20260904140051 +0200" stop="20260904203000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260904130000 +0200" stop="20260905010000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260904203000 +0200" stop="20260905083000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260905010000 +0200" stop="20260905070000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260905083000 +0200" stop="20260905143000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
