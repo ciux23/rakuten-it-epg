@@ -160,8 +160,12 @@
   <programme start="20260905040000 +0200" stop="20260905060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
-  <programme start="20260905060000 +0200" stop="20260905070000 +0200" channel="Rai1.it">
+  <programme start="20260905060000 +0200" stop="20260905065500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20260905065500 +0200" stop="20260905070000 +0200" channel="Rai1.it">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">RUBRICA - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.. - Regia di Francesco Pennacchia Autrici Gabriella Belloni, Cinzia De Ponti, Rita Iocchi Produttore esecutivo Clelia Fasano </desc>
   </programme>
   <programme start="20260905070000 +0200" stop="20260905070500 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -177,7 +181,8 @@
     <title lang="it">TG1</title>
   </programme>
   <programme start="20260905082000 +0200" stop="20260905083500 +0200" channel="Rai1.it">
-    <title lang="it">Tg1 Dialogo</title>
+    <title lang="it">Tg1 Dialogo - Viterbo, Santa Rosa, i Pap</title>
+    <desc lang="it">Tg1 Dialogo - Viterbo, Santa Rosa, i Papi</desc>
   </programme>
   <programme start="20260905083500 +0200" stop="20260905090000 +0200" channel="Rai1.it">
     <title lang="it">UnoMattina Weekly - Puntata del 05/09/2026</title>
@@ -228,15 +233,19 @@
     <title lang="it">A Sua immagine - Puntata del 05/09/2026</title>
     <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con fra Daniele Randazzo. Al termine In Punta di Matita l'arte con Rodolfo Papa. Conduce Lorena Bianchetti.</desc>
   </programme>
+  <programme start="20260905165000 +0200" stop="20260905165300 +0200" channel="Rai1.it">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">RUBRICA - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.. - Regia di Francesco Pennacchia Autrici Gabriella Belloni, Cinzia De Ponti, Rita Iocchi Produttore esecutivo Clelia Fasano </desc>
+  </programme>
   <programme start="20260905165000 +0200" stop="20260905165500 +0200" channel="Rai1.it">
     <title lang="it">In Punta di Matita - Puntata del 05/09/2026</title>
     <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con fra Daniele Randazzo. Al termine In Punta di Matita l'arte con Rodolfo Papa.</desc>
   </programme>
-  <programme start="20260905165500 +0200" stop="20260905170500 +0200" channel="Rai1.it">
-    <title lang="it">TG1</title>
-  </programme>
-  <programme start="20260905170500 +0200" stop="20260905171000 +0200" channel="Rai1.it">
+  <programme start="20260905165300 +0200" stop="20260905165500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20260905165500 +0200" stop="20260905171000 +0200" channel="Rai1.it">
+    <title lang="it">TG1</title>
   </programme>
   <programme start="20260905171000 +0200" stop="20260905175500 +0200" channel="Rai1.it">
     <title lang="it">Navigando lungocosta - Puntata del 05/09/2026</title>
@@ -533,9 +542,13 @@
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260905020000 +0200" stop="20260905033000 +0200" channel="Rai2.it">
-    <title lang="it">Calibro 9</title>
-    <desc lang="it">Le 'ndrine dei Corapi e degli Scarfò sono in guerra, e in mezzo a loro finisce l'avvocato penalista Piazza, che aveva ordinato a una hacker di dirottare un trasferimento fondi da cento milioni rimbalzato attraverso mezzo mondo e si è visto soffiare sotto il naso il bottino dalla hacker stessa. Il bottino apparteneva alla 'ndrangheta e si sa, "rubare alla mafia è un suicidio": dunque Piazza è un uomo braccato a livello internazionale.</desc>
+  <programme start="20260905020000 +0200" stop="20260905024000 +0200" channel="Rai2.it">
+    <title lang="it">S.W.A.T. S8E11 -  Scomparsa</title>
+    <desc lang="it">Scompare una bambina dal cortile di casa e tutta la squadra entra in azione. Powell ha una sorta di presentimento e con Deacon fa irruzione in una casa.</desc>
+  </programme>
+  <programme start="20260905024000 +0200" stop="20260905033000 +0200" channel="Rai2.it">
+    <title lang="it">Squadra Speciale Colonia S16E11 - I masnadieri</title>
+    <desc lang="it">Dopo una vita di soprusi, Ruth spinge ed uccide il marito Anton. I sospetti, però, ricadono prima sulla figlia e poi sulla nipote e sulla sua ragazza.</desc>
   </programme>
   <programme start="20260905033000 +0200" stop="20260905041100 +0200" channel="Rai2.it">
     <title lang="it">Squadra Speciale Colonia S16E12 - Orgoglio e pregiudizio</title>
@@ -611,43 +624,31 @@
     <title lang="it">TG2 Week-End</title>
     <desc lang="it">Rubrica del Tg2 dedicata al tempo libero nel fine settimana. Direttore Antonio Preziosi Vicedirettore Fabrizio Frullani A cura di Adele Ammendola</desc>
   </programme>
-  <programme start="20260905140000 +0200" stop="20260905152000 +0200" channel="Rai2.it">
+  <programme start="20260905140000 +0200" stop="20260905151500 +0200" channel="Rai2.it">
     <title lang="it">Storie al bivio Estate - Puntata del 05/09/2026</title>
     <desc lang="it">I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori.</desc>
   </programme>
-  <programme start="20260905152000 +0200" stop="20260905161500 +0200" channel="Rai2.it">
+  <programme start="20260905151500 +0200" stop="20260905160500 +0200" channel="Rai2.it">
     <title lang="it">Performer Cup - Puntata del 05/09/2026</title>
     <desc lang="it">Il primo campionato dedicato alle arti sceniche sportive. Dopo la preparazione atletica degli artisti, le Regioni si sfidano per decretare la regione campione d'Italia 2026 e gli atleti che formeranno la Nazionale Italiana Performer.</desc>
   </programme>
-  <programme start="20260905161500 +0200" stop="20260905170500 +0200" channel="Rai2.it">
-    <title lang="it">S.W.A.T. S8E20 - Un vero marine</title>
-    <desc lang="it">Andre è scomparso dalla base. Il Capitano Peters, capo della Polizia Militare, è convinto che sia responsabile dell'omicidio di un altro soldato. Hondo decide d'indagare con l'aiuto di Deacon.</desc>
+  <programme start="20260905160500 +0200" stop="20260905165000 +0200" channel="Rai2.it">
+    <title lang="it">S.W.A.T. S8E18 - False promesse</title>
+    <desc lang="it">Una banda di motociclisti inizia una sparatoria in un nightclub; uno di loro, ferito, viene arrestato e rivela che la banda è alla ricerca di una certa Kate, una ragazza dello Utah venuta a Los Angeles per fare l'attrice.</desc>
   </programme>
-  <programme start="20260905170500 +0200" stop="20260905175500 +0200" channel="Rai2.it">
+  <programme start="20260905165000 +0200" stop="20260905174000 +0200" channel="Rai2.it">
     <title lang="it">Da Aosta ai 4mila - Puntata del 05/09/2026</title>
     <desc lang="it">Il viaggio che attraversa la Valle d'Aosta seguendo le sue strade meno battute, i suoi sentieri più autentici, le sue altitudini non solo geografiche ma anche umane. Un racconto itinerante fatto di incontri, paesaggi e storie.</desc>
   </programme>
-  <programme start="20260905175500 +0200" stop="20260905175800 +0200" channel="Rai2.it">
+  <programme start="20260905174000 +0200" stop="20260905174500 +0200" channel="Rai2.it">
     <title lang="it">TG2 L.I.S.</title>
   </programme>
-  <programme start="20260905175800 +0200" stop="20260905180000 +0200" channel="Rai2.it">
+  <programme start="20260905174500 +0200" stop="20260905175000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
   </programme>
-  <programme start="20260905180000 +0200" stop="20260905182000 +0200" channel="Rai2.it">
-    <title lang="it">TG Sport Sera</title>
-    <desc lang="it">TG Sport Sera</desc>
-  </programme>
-  <programme start="20260905182000 +0200" stop="20260905190000 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Cobra 11 S18E11 - Vernice pericolosa</title>
-    <desc lang="it">Maxim Bohtmann riesce ad introdurre una pistola all'interno di un tribunale, grazie ad una speciale vernice che elude i controlli degli scanner di sicurezza.</desc>
-  </programme>
-  <programme start="20260905190000 +0200" stop="20260905194100 +0200" channel="Rai2.it">
-    <title lang="it">Blue Bloods S5E10 - Le colpe dei padri</title>
-    <desc lang="it">Durante la cerimonia delle promozioni, Frank individua un uomo a cui i Reagan stanno dando la caccia da anni. È il padre di un giovane detective, sospettato di aver ucciso un poliziotto quando era ragazzo.</desc>
-  </programme>
-  <programme start="20260905194100 +0200" stop="20260905203000 +0200" channel="Rai2.it">
-    <title lang="it">Blue Bloods S5E11 - Fardelli</title>
-    <desc lang="it">Gormley e Garrett sono indecisi su come arginare un artista di strada che lascia in giro per la città dei borsoni dall'aspetto inquietante, costringendo ogni volta il Dipartimento a inviare gli artificieri.</desc>
+  <programme start="20260905175000 +0200" stop="20260905203000 +0200" channel="Rai2.it">
+    <title lang="it">Europei di Pallavolo femminile 2026 - Semifinale: Polonia – Italia</title>
+    <desc lang="it">Campionato Europeo femminili di Pallavolo 2026 - Semifinale: Polonia – Italia</desc>
   </programme>
   <programme start="20260905203000 +0200" stop="20260905210000 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
@@ -837,8 +838,8 @@
     <title lang="it">TG3 LIS</title>
   </programme>
   <programme start="20260904150500 +0200" stop="20260904154500 +0200" channel="Rai3.it">
-    <title lang="it">Il Provinciale</title>
-    <desc lang="it">Federico Quaranta ci accompagna alla scoperta di luoghi affascinanti e sentieri impervi di un'Italia poco conosciuta.</desc>
+    <title lang="it">Il Provinciale - Umbria: i colori del paesaggio - 23/04/2023</title>
+    <desc lang="it">Il Provinciale attraversa l'Umbria cercando di comprendere come si siano definiti, nel corso dei secoli, i colori del suo inconfondibile paesaggio. Un percorso tematico volto a scoprire quale fosse il paesaggio primordiale di questa regione. Infatti, si è abituati a immaginare l'Umbria come terra di colline coltivate a ulivi e viti, ma in origine, le sue vaste valli circondate da alture erano tutte paludose. L'unico ambiente umido rimasto immutato sono le Paludi di Colfiorito, nella zona di Foligno. Da questo paesaggio primordiale si sono poi declinate diverse altre forme di paesaggio. A partire ovviamente da quello agricolo. Ma c'è anche un paesaggio che gli artisti del Rinascimento hanno trasformato in qualcosa di ideale, in un paesaggio della memoria. E non si può dimenticare il paesaggio urbano. Infine, considerando la quantità di esperienze eremitiche che a partire da San Francesco e ancora prima dai monaci siriani si sono verificate e tutt'ora si verificano in Umbria, va considerato anche il suo paesaggio spirituale, perché le numerose aree boschive di questa zona ispirano il nascondimento, la contemplazione e la preghiera. Mia Canestrini, da parte sua, cerca di indagare come le risorse del territorio, come l'acqua a Pale di Foligno, abbia fatto nascere anche delle forme di artigianato importantissime.</desc>
   </programme>
   <programme start="20260904154500 +0200" stop="20260904164500 +0200" channel="Rai3.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S8E17 - Il Cammino dei Briganti</title>
@@ -909,9 +910,13 @@
     <title lang="it">Stanlio e Ollio - Avventura a Vallechiara</title>
     <desc lang="it">Stanlio e Ollio, senza il becco di un quattrino, capitano in una pensione svizzera. E si fanno subito riconoscere. Versione completa, restaurata con doppio audio.</desc>
   </programme>
-  <programme start="20260905091500 +0200" stop="20260905110000 +0200" channel="Rai3.it">
+  <programme start="20260905091500 +0200" stop="20260905105500 +0200" channel="Rai3.it">
     <title lang="it">Mani di fata</title>
     <desc lang="it">Andrea, ingegnere quarantenne, perde il lavoro mentre la moglie Franca ottiene una promozione. Le "posizioni" si invertono: lei lavora, lui è obbligato a svolgere le faccende domestiche. Per guadagnare di più della moglie, lui un giorno accetta un lavoro di colf nella casa di una contessa.</desc>
+  </programme>
+  <programme start="20260905105500 +0200" stop="20260905110000 +0200" channel="Rai3.it">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">RUBRICA - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.. - Regia di Francesco Pennacchia Autrici Gabriella Belloni, Cinzia De Ponti, Rita Iocchi Produttore esecutivo Clelia Fasano  </desc>
   </programme>
   <programme start="20260905110000 +0200" stop="20260905120000 +0200" channel="Rai3.it">
     <title lang="it">Ri-Manda Rai Tre - Puntata del 05/09/2026</title>
@@ -972,20 +977,20 @@
     <desc lang="it">Venti minuti di televisione smontata, rimontata e messa a nudo attraverso il montaggio per raccontare il presente e rileggere la memoria collettiva. Blob ripercorre giorno per giorno gli eventi che hanno segnato la storia contemporanea, offrendo uno sguardo critico sulle immagini e sui loro protagonisti.</desc>
   </programme>
   <programme start="20260905202000 +0200" stop="20260905212000 +0200" channel="Rai3.it">
-    <title lang="it">Sapiens Files - Un solo pianeta - Puntata del 05/09/2026</title>
-    <desc lang="it">Continua anche questa estate il viaggio di Mario Tozzi nel passato, nel presente e nel futuro della vita dei Sapiens, sempre alla ricerca di un equilibrio possibile tra sviluppo e natura, con documentari straordinari ed esplorazione di territori che hanno ancora molto da raccontare.</desc>
+    <title lang="it">Sapiens Files - Un solo pianeta - La gestione dell'acqua a Bologna, lezione di equilibrio tra uomo e fiume - 05/09/2026</title>
+    <desc lang="it">Come sopravviveranno i sapiens in città con sempre meno acqua? Perché l'uomo spreca l'acqua e come può usarla preservandola per i Sapiens futuri? L'acqua è una risorsa che assicura la vita. Amica se l'uomo sa governarla, nemica quando viene ignorata, nascosta o sottovalutata. Del suo uso virtuoso è una prova la Chiusa di Casalecchio del Reno, vicino Bologna: un monumento dell'ingegneria medievale, la più antica opera idraulica in Europa ancora in funzione. La sua storia è la storia di come Bologna ha imparato a governare l'acqua, un rapporto fatto di ingegno, necessità e visione urbana. Non è una semplice diga: è un'infrastruttura pensata per intercettare le acque del Reno, un fiume dal corso irregolare, difficile da sfruttare in modo continuo, per convogliarle nel Canale di Reno. Da questa chiusa fin dal Trecento partivano le acque che alimentavano i canali di Bologna, una città in crescita che aspirava a competere con i centri produttivi dell'Italia settentrionale. Ancora oggi la Chiusa di Casalecchio insegna che la gestione dell'acqua è un patto tra l'uomo e il fiume, un equilibrio da preservare con cura e lungimiranza. Ma Bologna non si affida solo al Reno. Sempre durante il Medioevo un'altra grande arteria idraulica nasce sul Torrente Savena che scorre a Est della città. Anche qui dal XII secolo viene realizzata un'opera di derivazione: la Chiusa di Savena che alimenta il canale omonimo. Due corsi d'acqua, quindi, due chiuse, due canali che entrano in città alimentando una rete sempre più complessa di decine di chilometri di vie d'acqua che hanno innervato l'economia e i commerci dal Medioevo fino all'Ottocento. È così che Bologna diventa una città d'acqua. Non si tratta di reliquie del passato, ma di infrastrutture vive che consentono alla città di mantenere un rapporto equilibrato con l'acqua. Ignorarla e cancellarne il corso può invece costare caro. In Italia sono 12 mila i chilometri di fiumi e canali finiti sottoterra.</desc>
   </programme>
-  <programme start="20260905212000 +0200" stop="20260906000000 +0200" channel="Rai3.it">
+  <programme start="20260905212000 +0200" stop="20260905235500 +0200" channel="Rai3.it">
     <title lang="it">Giù la testa</title>
     <desc lang="it">Juan Miranda, fuorilegge messicano e padre di cinque figli che lo aiutano nelle sue imprese banditesche, si mette in società con John Mallory, dinamitardo irlandese dell'IRA, per svaligiare un banca. I due si ritrovano invece a combattere al fianco dei rivoltosi di Pancho Villa e Emiliano Zapata. Musiche di Ennio Morricone. </desc>
   </programme>
-  <programme start="20260906000000 +0200" stop="20260906001000 +0200" channel="Rai3.it">
+  <programme start="20260905235500 +0200" stop="20260906000500 +0200" channel="Rai3.it">
     <title lang="it">TG3 Sera</title>
   </programme>
-  <programme start="20260906001000 +0200" stop="20260906001500 +0200" channel="Rai3.it">
+  <programme start="20260906000500 +0200" stop="20260906001000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20260906001500 +0200" stop="20260906003000 +0200" channel="Rai3.it">
+  <programme start="20260906001000 +0200" stop="20260906003000 +0200" channel="Rai3.it">
     <title lang="it">Venezia Daily - Puntata del 05/09/2026</title>
     <desc lang="it">Appuntamento quotidiano con gli eventi più significativi della 83ª edizione della Mostra Internazionale d'Arte Cinematografica di Venezia.</desc>
   </programme>
@@ -997,15 +1002,15 @@
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260906021500 +0200" stop="20260906023000 +0200" channel="Rai3.it">
+  <programme start="20260906021500 +0200" stop="20260906022000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta E LA NAVE VA. FUORI ORARIO VENEZIA 2026 di Fulvio Baglivi, Lorenzo Esposito, Simona Fina, Roberto Turigliatto (1)</desc>
   </programme>
-  <programme start="20260906023000 +0200" stop="20260906043500 +0200" channel="Rai3.it">
+  <programme start="20260906022000 +0200" stop="20260906043000 +0200" channel="Rai3.it">
     <title lang="it">Trenque Lauquen - Prima Parte</title>
     <desc lang="it">Il film culto di Laura Citarella ha rivelato internazionalmente uno dei più grandi talenti del cinema contemporaneo, figura di punta del rivoluzionario collettivo di produzione El Pampero Cine, fondato nel 2002 a Buenos Aires e di cui fanno parte anche Mariano Llinás, Agustín Mendilaharzu e Alejo Moguillansky.</desc>
   </programme>
-  <programme start="20260906043500 +0200" stop="20260906061900 +0200" channel="Rai3.it">
+  <programme start="20260906043000 +0200" stop="20260906060000 +0200" channel="Rai3.it">
     <title lang="it">Il maestro giardiniere</title>
     <desc lang="it">Narvel Roth, giardiniere riservato e meticoloso della tenuta di Gracewood, accetta, seppur riluttante, di prendersi cura di Maya, la pronipote della proprietaria Norma Haverhill. La ragazza è orfana e in difficoltà con la droga e l'incarico rischia di far riemergere il passato oscuro dell'uomo.</desc>
   </programme>
@@ -1593,7 +1598,7 @@
   </programme>
   <programme start="20260905013500 +0200" stop="20260905013700 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
-    <desc lang="it"> - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -   ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
   <programme start="20260905013700 +0200" stop="20260905022900 +0200" channel="Rai5.it">
     <title lang="it">Overland 21 - Groenlandia: tra giganti di ghiaccio e antiche leggende - 28/12/2020</title>
@@ -1619,51 +1624,55 @@
     <title lang="it">Un giorno per... i ghiacciai</title>
     <desc lang="it">I ghiacciai sono i più evidenti indicatori dei cambiamenti climatici a livello globale, veri e propri termometri del nostro pianeta. In molte regioni montuose, la loro perdita di massa avviene a una velocità - allarmante, segnale inequivocabile di un clima che si sta trasformando rapidamente. -  con  Nella puntata intervengono: Carlo Barbante, Università Ca' Foscari Venezia; Enrico Camanni, scrittore; Massimo Frezzotti, Glaciologo Università Roma Tre; Caterina Giovanetti, Biologa WWF Italia; Elisa Palazzi Climatologa Università di Torino; Anna Torr 2025 ITA</desc>
   </programme>
-  <programme start="20260905063100 +0200" stop="20260905072800 +0200" channel="Rai5.it">
+  <programme start="20260905063100 +0200" stop="20260905072700 +0200" channel="Rai5.it">
     <title lang="it">I colori dell'arte - S1E4 Verde</title>
     <desc lang="it">Come il colore verde ha plasmato la pittura e le arti visive nel tempo.</desc>
   </programme>
-  <programme start="20260905072800 +0200" stop="20260905082100 +0200" channel="Rai5.it">
+  <programme start="20260905072700 +0200" stop="20260905082000 +0200" channel="Rai5.it">
     <title lang="it">Overland 21 - Groenlandia: tra giganti di ghiaccio e antiche leggende - 28/12/2020</title>
     <desc lang="it">Continuano i viaggi di Overland! Approdiamo in Groenlandia, nel famosissimo Ilulissat Icefiord, l'insenatura ghiacciata d alla quale nasce gran parte degli iceberg che si trovano nell'Oceano Atlantico. Scopriremo insieme questi giganti della natura e resteremo affascinati di fronte alla loro imponenza. Conosceremo la storia dell'antica popolazione indigena degli Inuit, anche attraverso leggende e fiabe ancestrali, per comprendere quali siano i valori e le esperienze che si tramandano di generazione in generazione. Una produzione Overland Network Realizzazione di Filippo e Beppe Tenti Delegato Rai Milvia Licari</desc>
   </programme>
-  <programme start="20260905082100 +0200" stop="20260905090600 +0200" channel="Rai5.it">
+  <programme start="20260905082000 +0200" stop="20260905090500 +0200" channel="Rai5.it">
     <title lang="it">Muti prova Le nozze di Figaro - E1</title>
     <desc lang="it">Magistrale retroscena delle Nozze di Figaro di Mozart, un percorso formativo che guida il pubblico al cuore dell'opera italiana attraverso lo sguardo e l'esperienza di uno dei più grandi direttori d'orchestra del mondo.</desc>
   </programme>
-  <programme start="20260905090600 +0200" stop="20260905095800 +0200" channel="Rai5.it">
+  <programme start="20260905090500 +0200" stop="20260905095700 +0200" channel="Rai5.it">
     <title lang="it">Muti prova Le nozze di Figaro - E2</title>
     <desc lang="it">Magistrale retroscena delle Nozze di Figaro di Mozart, un percorso formativo che guida il pubblico al cuore dell'opera italiana attraverso lo sguardo e l'esperienza di uno dei più grandi direttori d'orchestra del mondo.</desc>
   </programme>
-  <programme start="20260905095800 +0200" stop="20260905100300 +0200" channel="Rai5.it">
-    <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
-    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
+  <programme start="20260905095700 +0200" stop="20260905100200 +0200" channel="Rai5.it">
+    <title lang="it">Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260905100300 +0200" stop="20260905105000 +0200" channel="Rai5.it">
+  <programme start="20260905100200 +0200" stop="20260905104800 +0200" channel="Rai5.it">
     <title lang="it">Nel Cuore Selvaggio della Colombia - S1E4</title>
     <desc lang="it">Nella giungla del nord della Colombia, la piccola tamarina Mona, uno dei primati più minacciati del pianeta, affronta una missione rischiosa: trovare una nuova famiglia prima che predatori e tempeste la raggiungano. Tra falchi, serpenti e foreste in continuo movimento, ogni salto diventa una sfida per la sopravvivenza.</desc>
   </programme>
-  <programme start="20260905105000 +0200" stop="20260905114000 +0200" channel="Rai5.it">
+  <programme start="20260905104800 +0200" stop="20260905113800 +0200" channel="Rai5.it">
     <title lang="it">La vita sulla cima degli alberi</title>
     <desc lang="it">Una tranquilla passeggiata nei boschi può rivelare incontri sorprendenti, ma spesso l'azione si svolge sopra di noi. La chioma degli alberi è un mondo a sé, brulicante di vita: uccelli, scoiattoli, scimmie, panda rossi e vari predatori vivono tra i rami, senza mai toccare terra. Un habitat sospeso, ricco di meraviglie - di Phil Coles 2023 GER</desc>
   </programme>
-  <programme start="20260905114000 +0200" stop="20260905124000 +0200" channel="Rai5.it">
+  <programme start="20260905113800 +0200" stop="20260905123800 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S7E6 - Ostuni, città a colori </title>
     <desc lang="it">Scopriremo un'Ostuni inedita, non solo bianca, ma dalle tante sfumature diverse. Incastonata nella Valle d'Itria, con i suoi vicoli stretti dipinti a calce, gli ulivi e il mare in lontananza, dagli anni '60 Ostuni ha attirato l'interesse internazionale, diventando in poco tempo una meta turistica molto ambita.</desc>
   </programme>
-  <programme start="20260905124000 +0200" stop="20260905133800 +0200" channel="Rai5.it">
+  <programme start="20260905123800 +0200" stop="20260905133400 +0200" channel="Rai5.it">
     <title lang="it">Art Night. Saype (pt.11)</title>
     <desc lang="it">Nel 1989, l'anno in cui cade il muro di Berlino, nasce in Francia Guillaume Legros, conosciuto nel mondo dell'arte con lo pseudonimo Saype. E i muri che crollano sembrano proprio inscritti nel suo destino perché la sua arte ci invita ad abbattere i confini per creare legami, e immaginare un mondo più unito. </desc>
   </programme>
-  <programme start="20260905133800 +0200" stop="20260905140100 +0200" channel="Rai5.it">
+  <programme start="20260905133400 +0200" stop="20260905133900 +0200" channel="Rai5.it">
+    <title lang="it">GLI IMPERDIBILI 2026/2027 EP.01</title>
+    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+  </programme>
+  <programme start="20260905133900 +0200" stop="20260905140200 +0200" channel="Rai5.it">
     <title lang="it">Lorighittas - Geo - 16/02/2022</title>
     <desc lang="it">Siamo nella Sardegna centro orientale, tra entroterra e mare. Nel versante interno del massiccio montuoso del Monte Arci, si trova un paesino famoso per essere ancora oggi l'unico a custodire i segreti delle Lorighittas, una pasta curiosa a forma di anello intrecciato che ha una storia molto antica... </desc>
   </programme>
-  <programme start="20260905140100 +0200" stop="20260905144800 +0200" channel="Rai5.it">
+  <programme start="20260905140200 +0200" stop="20260905144900 +0200" channel="Rai5.it">
     <title lang="it">Nel Cuore Selvaggio della Colombia - S1E5</title>
     <desc lang="it">Nella foresta del Chocò, una delle più piovose al mondo, la letale rana freccia dorata Julieta, intraprende una corsa contro il tempo per trovare il suo Romeo. Tra tempeste tropicali, predatori affamati e una giungla spietata, ogni salto diventa una sfida estrema dove amore, istinto e sopravvivenza si incontrano.</desc>
   </programme>
-  <programme start="20260905144800 +0200" stop="20260905154300 +0200" channel="Rai5.it">
+  <programme start="20260905144900 +0200" stop="20260905154300 +0200" channel="Rai5.it">
     <title lang="it">Tundra</title>
     <desc lang="it">Verso nord, tra i 60 e i 70 gradi di latitudine, le foreste lasciano spazio alla tundra: una terra arida, gelida e ostile, troppo dura persino per gli alberi. Eppure, tra ghiacci e venti artici, vive una fauna sorprendente. Dal lemming al possente bue muschiato, ogni creatura è parte vitale di questo fragile mondo.</desc>
   </programme>
@@ -1677,7 +1686,7 @@
   </programme>
   <programme start="20260905202300 +0200" stop="20260905202600 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
-    <desc lang="it"> - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -   ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
   <programme start="20260905202600 +0200" stop="20260905211900 +0200" channel="Rai5.it">
     <title lang="it">Overland 21 - Groenlandia: Inuit, clima estremo e aurore boreali - 29/12/2020</title>
@@ -1692,8 +1701,8 @@
     <desc lang="it">1979: i Supertramp pubblicano Breakfast In America, ed è un successo mondiale. Segue una tournée internazionale a sostegno dell'album, e l'audio di questa "tappa" al Pavillon di Parigi verrà pubblicato l'anno successivo, il live album "Paris".</desc>
   </programme>
   <programme start="20260906003500 +0200" stop="20260906003800 +0200" channel="Rai5.it">
-    <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
-    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
+    <title lang="it">Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
   <programme start="20260906003800 +0200" stop="20260906012500 +0200" channel="Rai5.it">
     <title lang="it">The Great Songwriters: Ian McCulloch</title>
@@ -1705,7 +1714,7 @@
   </programme>
   <programme start="20260906013300 +0200" stop="20260906013500 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
-    <desc lang="it"> - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -   ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
   <programme start="20260906013500 +0200" stop="20260906022500 +0200" channel="Rai5.it">
     <title lang="it">Overland 21 - Groenlandia: Inuit, clima estremo e aurore boreali - 29/12/2020</title>
@@ -1739,75 +1748,75 @@
     <title lang="it">Overland 21 - Groenlandia: Inuit, clima estremo e aurore boreali - 29/12/2020</title>
     <desc lang="it">Overland 21 Groenlandia: Inuit, clima estremo e aurore boreali 1^ Visione - Prosegue il nostro viaggio a piedi lungo il fiordo di Ilulissat, scavato per oltre 50 chilometri dal ghiacciaio Sermeq Ku jalleq, che si trova alla sua estremità più interna e da cui si stacca un decimo degli iceberg della Groenlandia. Andremo alla scoperta degli insediamenti primitivi e degli antichi riti degli Inuit, e ci immergeremo nelle loro leggende che rivelano il pr ofondo legame di queste popolazioni con la natura. Saliremo a bordo di un aereo per sorvolare il ghiacciaio e osservare il suo incessante scioglimento. Una produzione Overland Network Realizzazione di Filippo e Beppe Tenti Delegato Rai Milvia Licari</desc>
   </programme>
-  <programme start="20260906081700 +0200" stop="20260906094400 +0200" channel="Rai5.it">
+  <programme start="20260906081700 +0200" stop="20260906094500 +0200" channel="Rai5.it">
     <title lang="it">Summer Night Concert 2026</title>
     <desc lang="it">L'Orchestra Filarmonica di Vienna, diretta da Lorenzo Viotti, si esibisce con Sir Bryn Terfel in qualità di ospite solista. In programma Boito, Verdi, Wagner, famosi musical e il Balletto di Stato di Vienna su note di Ravel. Un evento imperdibile trasmesso in oltre 150 paesi del mondo.</desc>
   </programme>
-  <programme start="20260906094400 +0200" stop="20260906094700 +0200" channel="Rai5.it">
-    <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
-    <desc lang="it">RUBRICA - Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
+  <programme start="20260906094500 +0200" stop="20260906094800 +0200" channel="Rai5.it">
+    <title lang="it">Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260906094700 +0200" stop="20260906103400 +0200" channel="Rai5.it">
+  <programme start="20260906094800 +0200" stop="20260906103500 +0200" channel="Rai5.it">
     <title lang="it">Casa Sapiens. Che bella la città ep.7</title>
     <desc lang="it">Oggi, metà della popolazione mondiale vive all'interno delle aree urbane, una percentuale destinata, secondo l'ONU, a salire a due terzi entro il 2050. Le città erano in passato il luogo in cui rifugiarsi per sfuggire alla povertà, oggi sono bersagli di eventi meteorologici estremi sempre più devastanti, agglomerati di cemento e asfalto dove la temperatura è più alta di 5 gradi rispetto alle aree di campagna circostanti. La bulimia costruttiva attanaglia le nostre città, un fenomeno particolarmente vistoso in Cina dove si moltiplicano le "città fantasma", costruite per essere abitate da eserciti di cittadini ma lasciate pressoché disabitate. In tre anni, dal 2011 al 2013 nel paese asiatico è stato utilizzato più cemento che negli Stati Uniti nel XX secolo. Un problema, quello del sovra utilizzo di cemento, che riguarda tutto il mondo: ogni anno si producono 4 miliardi di tonnellate di cemento con enorme dispendio di energia, di acqua e di rocce. </desc>
   </programme>
-  <programme start="20260906103400 +0200" stop="20260906110500 +0200" channel="Rai5.it">
+  <programme start="20260906103500 +0200" stop="20260906110600 +0200" channel="Rai5.it">
     <title lang="it">Habitat. La foresta millenaria di Tarvisio (pt.4)</title>
     <desc lang="it">In provincia di Udine, nel territorio tra Austria e Slovenia, si estende la Foresta di Tarvisio, quasi 24.000 ettari di boschi millenari. È la cosiddetta "foresta dei tre confini", dove uomini e natura convivono in perfetta armonia e dove sono custoditi secoli di storie, tradizioni e memoria.</desc>
   </programme>
-  <programme start="20260906110500 +0200" stop="20260906122200 +0200" channel="Rai5.it">
+  <programme start="20260906110600 +0200" stop="20260906122400 +0200" channel="Rai5.it">
     <title lang="it">Sapiens - Un solo pianeta - Puntata del 14/12/2024</title>
     <desc lang="it">Mario Tozzi ci porta in un viaggio alla scoperta delle radici dell'Occidente. Sull'isola di Creta, situata dove la placca crostale europea si scontra con quella africana, i progenitori dell'uomo qui hanno lasciato le impronte più antiche. A Creta comincia e finisce l'Europa, un continente che nasce da un mito, quello del rapimento di Europa da parte di Zeus. La geologia e la geografia dell'Europa, così diverse da quelle degli altri continenti, ne hanno profondamente influenzato la storia. Il clima generoso ha permesso lo sviluppo dell'agricoltura, le lunghissime coste frastagliate hanno facilitato l'accesso al mare e i numerosi arcipelaghi e fiumi hanno favorito i commerci. Qui sono nati i Neanderthal e si sono forgiati i Sapiens. La storia del Vecchio Continente, culla delle antiche civiltà, dei miti ancestrali, delle rivoluzioni, delle filosofie e delle religioni, delle ideologie e della politica è il risultato della sua conformazione geologica, di antichissimi scontri continentali, di antiche catene montuose spianate dall'erosione, di giovani montagne ancora alte, con i loro terremoti e le loro eruzioni vulcaniche.</desc>
   </programme>
-  <programme start="20260906122200 +0200" stop="20260906125200 +0200" channel="Rai5.it">
+  <programme start="20260906122400 +0200" stop="20260906125400 +0200" channel="Rai5.it">
     <title lang="it">Passepartout: Il Caso Gellner</title>
     <desc lang="it">In questa puntata fra Cortina D'Ampezzo e Corte di Cadore, Daverio illustra l'architettura e il design di Edoardo Gellner. Un programma di e con Philippe Daverio, regia di Mauro Raponi. </desc>
   </programme>
-  <programme start="20260906125200 +0200" stop="20260906132600 +0200" channel="Rai5.it">
+  <programme start="20260906125400 +0200" stop="20260906132700 +0200" channel="Rai5.it">
     <title lang="it">Passepartout: L'Europa Si Fonda Sul Libro</title>
     <desc lang="it">Puntata dedicata alle biblioteche e ai libri in cui Daverio riflette anche sull'abitudine profondamente umana di conservare e tramandare documenti, c - on supporti che cambiano nel corso del tempo. Un programma di e con Philippe Daverio regia Mauro Raponi.</desc>
   </programme>
-  <programme start="20260906132600 +0200" stop="20260906141900 +0200" channel="Rai5.it">
+  <programme start="20260906132700 +0200" stop="20260906142000 +0200" channel="Rai5.it">
     <title lang="it">Visioni Calabria, spiritualità, arte e natura</title>
     <desc lang="it">Uno sguardo attento sulla Calabria, alla ricerca degli aspetti più intimi che caratterizzano il territorio e chi lo abita. - con  Un progetto di A. Greca, regia di D. Doplicher 2025 ITA</desc>
   </programme>
-  <programme start="20260906141900 +0200" stop="20260906151900 +0200" channel="Rai5.it">
+  <programme start="20260906142000 +0200" stop="20260906152100 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S7E6 - Ostuni, città a colori </title>
     <desc lang="it">Scopriremo un'Ostuni inedita, non solo bianca, ma dalle tante sfumature diverse. Incastonata nella Valle d'Itria, con i suoi vicoli stretti dipinti a calce, gli ulivi e il mare in lontananza, dagli anni '60 Ostuni ha attirato l'interesse internazionale, diventando in poco tempo una meta turistica molto ambita.</desc>
   </programme>
-  <programme start="20260906151900 +0200" stop="20260906161000 +0200" channel="Rai5.it">
+  <programme start="20260906152100 +0200" stop="20260906161300 +0200" channel="Rai5.it">
     <title lang="it">Wild Italy - S7E3</title>
     <desc lang="it">Con una densità di popolazione umana fra le più basse in Europa, la Sardegna accoglie vasti territori caratterizzati da flora e faune incontaminate, le stesse che migliaia di anni fa incontrarono i primi abitanti dell'isola e poi i coloni fenici e romani.</desc>
   </programme>
-  <programme start="20260906161000 +0200" stop="20260906174100 +0200" channel="Rai5.it">
+  <programme start="20260906161300 +0200" stop="20260906174500 +0200" channel="Rai5.it">
     <title lang="it">Oblivion Rhapsody</title>
     <desc lang="it">Uno show per festeggiare i primi dieci anni di tournée insieme: 'Oblivion Rhapsody' è la summa del mondo Oblivion come non l'avete mai visto né sentito prima d'ora. In piena crisi di mezza età i cinque rigorosi cialtroni sfidano sé stessi con un'inedita e sorprendente versione acustica della loro opera omnia.</desc>
   </programme>
-  <programme start="20260906174100 +0200" stop="20260906175300 +0200" channel="Rai5.it">
+  <programme start="20260906174500 +0200" stop="20260906175700 +0200" channel="Rai5.it">
     <title lang="it">Recitando si diventa tutti abili</title>
     <desc lang="it">Far vivere, divertire, lavorare insieme ragazzi con e senza disabilità: questo è lo scopo del Laboratorio Teatrale Integrato "Piero Gabrielli". Integrato, perché l'obiettivo è  creare uno spazio in cui le differenze convivano e diventino una ricchezza. Questo è possibile forse soltanto in teatro, dove ci si spoglia della propria identità per diventare altri, per trasformarsi insieme e abitare un universo di fantasia. In scena, il limite – fisico, sociale, psichico o di qualsiasi altra natura – diventa un'occasione creativa, un punto di partenza di un'originalità espressiva e soprattutto un profilo di un'identità. Dal 1995 il Laboratorio porta il nome di chi, nel 1981, ne fu ideatore: Piero Gabrielli, che  dedicò gran parte della sua vita alla sensibilizzazione sui temi della disabilità. Terza linea della Rugby Roma e della Nazionale degli anni Cinquanta, egli ricorreva spesso alla metafora del gioco di squadra per spiegare che insieme si cresce meglio: grandi e piccoli, veloci e lenti. ll  Laboratorio teatrale Integrato, partì dalla scelta di un testo teatrale: la commedia di Aristofane  Gli uccelli. Tra il febbraio e il maggio 1982, una ventina di ragazzi dagli 8 ai 16 anni, tredici dei quali disabili, si incontrarono  due volte alla settimana al Teatro Flaiano, sotto la guida del regista Adriano Dallea coadiuvato da un gruppo di logopediste e insegnanti .Prova  dopo prova, ci si accorse che quello che si stava  delineando era  un vero e proprio spettacolo teatrale da presentare al pubblico. Il  28 maggio 1982  al teatro Argentina accadde proprio questo.</desc>
   </programme>
-  <programme start="20260906175300 +0200" stop="20260906192000 +0200" channel="Rai5.it">
+  <programme start="20260906175700 +0200" stop="20260906192600 +0200" channel="Rai5.it">
     <title lang="it">Ferdinando Scianna - Il fotografo dell'ombra</title>
     <desc lang="it">Il regista Roberto Andò racconta il fotografo Ferdinando Scianna da una prospettiva intima, soprattutto grazie al rapporto di amicizia che lo lega al fotografo. Scianna una volta disse: "Costruisco le immagini a partire dall'ombra". Da qui parte il racconto, che tocca temi diversi e indaga il rapporto di Scianna con la propria terra.</desc>
   </programme>
-  <programme start="20260906192000 +0200" stop="20260906192400 +0200" channel="Rai5.it">
+  <programme start="20260906192600 +0200" stop="20260906193100 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
-    <desc lang="it"> - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -   ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260906192400 +0200" stop="20260906201900 +0200" channel="Rai5.it">
+  <programme start="20260906193100 +0200" stop="20260906202700 +0200" channel="Rai5.it">
     <title lang="it">Claudio Abate. L'obiettivo sull'arte</title>
     <desc lang="it">Un viaggio visivo e intimo nel mondo di Claudio Abate, fotografo iconico dell'Arte Povera. Attraverso fotografie, filmati d'epoca e testimonianze di artisti, amici e familiari, il documentario, firmato da Pappi Corsicato, ricostruisce un'epoca irripetibile dell'arte italiana e di Roma.</desc>
   </programme>
-  <programme start="20260906201900 +0200" stop="20260906212000 +0200" channel="Rai5.it">
+  <programme start="20260906202700 +0200" stop="20260906212000 +0200" channel="Rai5.it">
     <title lang="it">Overland 21 - Danimarca: tra storia, fiabe e leggenda - 30/12/2020</title>
     <desc lang="it">Prosegue il nostro viaggio e dopo aver visitato Groenlandia e Isole Faroe, che fanno parte del suo regno, approderemo infine in Danimarca. Solcheremo i canali della sua capitale Copenaghen a bordo di Kayak e daremo il nostro contributo per combattere l'inquinamento dell'Oceano, mentre ammireremo la città dalle sue acque. Entreremo in contatto con la natura danese e ci immergeremo nel mondo incantato del mitico scrittore Hans Christian Andersen.</desc>
   </programme>
-  <programme start="20260906212000 +0200" stop="20260906231900 +0200" channel="Rai5.it">
+  <programme start="20260906212000 +0200" stop="20260906232200 +0200" channel="Rai5.it">
     <title lang="it">La battaglia di Algeri</title>
     <desc lang="it">Algeri, 1957: Alì La Pointe è assediato dai parà francesi. Un flashback ripercorre la sua trasformazione in leader del Front de Libération Nationale, pronto a tutto per la libertà dell'Algeria. Tra tensioni, guerriglia e ideali, il prezzo dell'indipendenza si rivela altissimo. Due candidature agli oscar e vincitore di tre Nastri d'Argento.</desc>
   </programme>
-  <programme start="20260906231900 +0200" stop="20260907001900 +0200" channel="Rai5.it">
+  <programme start="20260906232200 +0200" stop="20260907002200 +0200" channel="Rai5.it">
     <title lang="it">Italia: Viaggio nella Bellezza. Venezia '64 il monumento per l'uomo</title>
     <desc lang="it">Come far convivere vecchio e nuovo nelle città storiche? La Carta di Venezia, elaborata 60 anni fa durante un Congresso, risponde a questo quesito. </desc>
   </programme>
@@ -2519,197 +2528,369 @@
   <programme start="20260905053000 +0200" stop="20260905060000 +0200" channel="RaiNews24.it">
     <title lang="it">LA SFIDA DELLA CURA</title>
   </programme>
-  <programme start="20260905060000 +0200" stop="20260905062500 +0200" channel="RaiNews24.it">
+  <programme start="20260905060000 +0200" stop="20260905062600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905062500 +0200" stop="20260905063000 +0200" channel="RaiNews24.it">
-    <title lang="it">METEO 24</title>
+  <programme start="20260905062600 +0200" stop="20260905063000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905063000 +0200" stop="20260905064300 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905063000 +0200" stop="20260905064500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905064300 +0200" stop="20260905065500 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTIFRUTTI BREVE</title>
+  <programme start="20260905064500 +0200" stop="20260905065700 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905065500 +0200" stop="20260905070000 +0200" channel="RaiNews24.it">
-    <title lang="it">METEO 24</title>
+  <programme start="20260905065700 +0200" stop="20260905070000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905070000 +0200" stop="20260905073000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905070000 +0200" stop="20260905070300 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA TITOLI QUOTIDIANI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905073000 +0200" stop="20260905080000 +0200" channel="RaiNews24.it">
+  <programme start="20260905070300 +0200" stop="20260905072800 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905080000 +0200" stop="20260905083000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905072800 +0200" stop="20260905073000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905083000 +0200" stop="20260905090000 +0200" channel="RaiNews24.it">
+  <programme start="20260905073000 +0200" stop="20260905074500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905074500 +0200" stop="20260905075700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905075700 +0200" stop="20260905080000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905080000 +0200" stop="20260905082500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905082500 +0200" stop="20260905082700 +0200" channel="RaiNews24.it">
+    <title lang="it">CCISS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905082700 +0200" stop="20260905083000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-BUONGIORNO NEWS 3</title>
+  </programme>
+  <programme start="20260905083000 +0200" stop="20260905085500 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905090000 +0200" stop="20260905093000 +0200" channel="RaiNews24.it">
+  <programme start="20260905085500 +0200" stop="20260905085600 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905085600 +0200" stop="20260905090000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-BUONGIORNO NEWS 4</title>
+  </programme>
+  <programme start="20260905090000 +0200" stop="20260905092600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTI I FRUTTI EXTRA LARGE</title>
+  <programme start="20260905092600 +0200" stop="20260905092700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905100000 +0200" stop="20260905102300 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905092700 +0200" stop="20260905093000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 1</title>
   </programme>
-  <programme start="20260905102300 +0200" stop="20260905103000 +0200" channel="RaiNews24.it">
-    <title lang="it">CCIS</title>
+  <programme start="20260905093000 +0200" stop="20260905094500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905103000 +0200" stop="20260905110000 +0200" channel="RaiNews24.it">
-    <title lang="it">SULLA STRADA</title>
+  <programme start="20260905094500 +0200" stop="20260905095700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905110000 +0200" stop="20260905113000 +0200" channel="RaiNews24.it">
-    <title lang="it">TITOLI + LIS</title>
+  <programme start="20260905095700 +0200" stop="20260905100000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 2</title>
   </programme>
-  <programme start="20260905113000 +0200" stop="20260905120000 +0200" channel="RaiNews24.it">
-    <title lang="it">LA SFIDA DELLA CURA</title>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="RaiNews24.it">
+    <title lang="it">FILO DIRETTO</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
   </programme>
-  <programme start="20260905120000 +0200" stop="20260905123000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905103000 +0200" stop="20260905105600 +0200" channel="RaiNews24.it">
+    <title lang="it">FILO DIRETTO</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
   </programme>
-  <programme start="20260905123000 +0200" stop="20260905124500 +0200" channel="RaiNews24.it">
+  <programme start="20260905105600 +0200" stop="20260905110000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 3</title>
+  </programme>
+  <programme start="20260905110000 +0200" stop="20260905112700 +0200" channel="RaiNews24.it">
+    <title lang="it">TG GIORNO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905112700 +0200" stop="20260905113000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 4</title>
+  </programme>
+  <programme start="20260905113000 +0200" stop="20260905114500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG LIS + TG GIORNO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905114500 +0200" stop="20260905115500 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905115500 +0200" stop="20260905120000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905120000 +0200" stop="20260905122700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905122700 +0200" stop="20260905123000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 1</title>
+  </programme>
+  <programme start="20260905123000 +0200" stop="20260905124400 +0200" channel="RaiNews24.it">
     <title lang="it">SPORT 24</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905124500 +0200" stop="20260905130000 +0200" channel="RaiNews24.it">
-    <title lang="it">SAPORI E COLORI</title>
+  <programme start="20260905124400 +0200" stop="20260905125600 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905130000 +0200" stop="20260905133000 +0200" channel="RaiNews24.it">
+  <programme start="20260905125600 +0200" stop="20260905125700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905125700 +0200" stop="20260905130000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 2</title>
+  </programme>
+  <programme start="20260905130000 +0200" stop="20260905132600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905132600 +0200" stop="20260905132700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905132700 +0200" stop="20260905133000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 3</title>
   </programme>
   <programme start="20260905133000 +0200" stop="20260905134500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905134500 +0200" stop="20260905140000 +0200" channel="RaiNews24.it">
-    <title lang="it">FUTURO24</title>
+  <programme start="20260905134500 +0200" stop="20260905135700 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905135700 +0200" stop="20260905140000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 4</title>
   </programme>
   <programme start="20260905140000 +0200" stop="20260905143000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905143000 +0200" stop="20260905144500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260905143000 +0200" stop="20260905145700 +0200" channel="RaiNews24.it">
+    <title lang="it">FILO DIRETTO</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
   </programme>
-  <programme start="20260905144500 +0200" stop="20260905150000 +0200" channel="RaiNews24.it">
-    <title lang="it">MOTORI24</title>
+  <programme start="20260905145700 +0200" stop="20260905150000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 5</title>
   </programme>
-  <programme start="20260905150000 +0200" stop="20260905153000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260905150000 +0200" stop="20260905152100 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905153000 +0200" stop="20260905160000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260905152100 +0200" stop="20260905152600 +0200" channel="RaiNews24.it">
+    <title lang="it">TG IN LINGUA UCRAINA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905160000 +0200" stop="20260905163000 +0200" channel="RaiNews24.it">
+  <programme start="20260905152600 +0200" stop="20260905152700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905152700 +0200" stop="20260905153000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-METEO NAZIONALE 2</title>
+  </programme>
+  <programme start="20260905153000 +0200" stop="20260905155700 +0200" channel="RaiNews24.it">
+    <title lang="it">FACCIA A FACCIA</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905155700 +0200" stop="20260905160000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 1</title>
+  </programme>
+  <programme start="20260905160000 +0200" stop="20260905162200 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905162200 +0200" stop="20260905162700 +0200" channel="RaiNews24.it">
+    <title lang="it">CCISS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905162700 +0200" stop="20260905163000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 2</title>
   </programme>
   <programme start="20260905163000 +0200" stop="20260905164500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905164500 +0200" stop="20260905170000 +0200" channel="RaiNews24.it">
-    <title lang="it">ALTRI MONDI</title>
+  <programme start="20260905164500 +0200" stop="20260905165700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905170000 +0200" stop="20260905173000 +0200" channel="RaiNews24.it">
+  <programme start="20260905165700 +0200" stop="20260905170000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 3</title>
+  </programme>
+  <programme start="20260905170000 +0200" stop="20260905172700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905173000 +0200" stop="20260905175500 +0200" channel="RaiNews24.it">
-    <title lang="it">LA SFIDA DELLA CURA</title>
+  <programme start="20260905172700 +0200" stop="20260905173000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 4</title>
   </programme>
-  <programme start="20260905175500 +0200" stop="20260905180000 +0200" channel="RaiNews24.it">
-    <title lang="it">CCIS</title>
+  <programme start="20260905173000 +0200" stop="20260905174500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO + Economia e borsa</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905180000 +0200" stop="20260905183000 +0200" channel="RaiNews24.it">
+  <programme start="20260905174500 +0200" stop="20260905180000 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905180000 +0200" stop="20260905182600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905183000 +0200" stop="20260905190000 +0200" channel="RaiNews24.it">
-    <title lang="it">SPOTLIGHT</title>
+  <programme start="20260905182600 +0200" stop="20260905182700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905182700 +0200" stop="20260905183000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 5</title>
+  </programme>
+  <programme start="20260905183000 +0200" stop="20260905184500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905184500 +0200" stop="20260905185700 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905185700 +0200" stop="20260905190000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 6</title>
   </programme>
   <programme start="20260905190000 +0200" stop="20260905193000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905193000 +0200" stop="20260905193500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260905193000 +0200" stop="20260905194500 +0200" channel="RaiNews24.it">
+    <title lang="it">RULLO SPORT</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905193500 +0200" stop="20260905194500 +0200" channel="RaiNews24.it">
-    <title lang="it">RULLO SPORT 24</title>
+  <programme start="20260905194500 +0200" stop="20260905195700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905194500 +0200" stop="20260905200000 +0200" channel="RaiNews24.it">
-    <title lang="it">BASTA LA SALUTE</title>
+  <programme start="20260905195700 +0200" stop="20260905200000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 1</title>
   </programme>
-  <programme start="20260905200000 +0200" stop="20260905203000 +0200" channel="RaiNews24.it">
+  <programme start="20260905200000 +0200" stop="20260905202700 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905203000 +0200" stop="20260905210000 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTI I FRUTTI EXTRA LARGE</title>
+  <programme start="20260905202700 +0200" stop="20260905203000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 2</title>
   </programme>
-  <programme start="20260905210000 +0200" stop="20260905213000 +0200" channel="RaiNews24.it">
+  <programme start="20260905203000 +0200" stop="20260905205700 +0200" channel="RaiNews24.it">
+    <title lang="it">AMARCORD</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905205700 +0200" stop="20260905210000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 3</title>
+  </programme>
+  <programme start="20260905210000 +0200" stop="20260905212700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905213000 +0200" stop="20260905220000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260905212700 +0200" stop="20260905213000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 1</title>
   </programme>
-  <programme start="20260905220000 +0200" stop="20260905223000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260905213000 +0200" stop="20260905215700 +0200" channel="RaiNews24.it">
+    <title lang="it">FACCIA A FACCIA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905223000 +0200" stop="20260905230000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260905215700 +0200" stop="20260905220000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 2</title>
   </programme>
-  <programme start="20260905230000 +0200" stop="20260905231500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260905220000 +0200" stop="20260905222700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + ECONOMIA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260905231500 +0200" stop="20260905233000 +0200" channel="RaiNews24.it">
+  <programme start="20260905222700 +0200" stop="20260905223000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 3</title>
+  </programme>
+  <programme start="20260905223000 +0200" stop="20260905225700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260905225700 +0200" stop="20260905230000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 4</title>
+  </programme>
+  <programme start="20260905230000 +0200" stop="20260905233000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20260905233000 +0200" stop="20260906000000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260906000000 +0200" stop="20260906003000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+  <programme start="20260906000000 +0200" stop="20260906002700 +0200" channel="RaiNews24.it">
+    <title lang="it">TG EDIZIONE PRINCIPALE CON GERENZA</title>
+  </programme>
+  <programme start="20260906002700 +0200" stop="20260906003000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
   </programme>
   <programme start="20260906003000 +0200" stop="20260906010000 +0200" channel="RaiNews24.it">
-    <title lang="it">RASSEGNA STAMPA</title>
-  </programme>
-  <programme start="20260906010000 +0200" stop="20260906013000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260906013000 +0200" stop="20260906014500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260906014500 +0200" stop="20260906020000 +0200" channel="RaiNews24.it">
     <title lang="it">AMARCORD</title>
   </programme>
+  <programme start="20260906010000 +0200" stop="20260906013000 +0200" channel="RaiNews24.it">
+    <title lang="it">TG NOTTE + RASSEGNA STAMPA BREVE</title>
+  </programme>
+  <programme start="20260906013000 +0200" stop="20260906020000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA REPLICA DELLE 23</title>
+  </programme>
   <programme start="20260906020000 +0200" stop="20260906023000 +0200" channel="RaiNews24.it">
-    <title lang="it">RASSEGNA STAMPA</title>
+    <title lang="it">TG NOTTE</title>
   </programme>
   <programme start="20260906023000 +0200" stop="20260906024500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+    <title lang="it">RASSEGNA STAMPA BREVE</title>
   </programme>
   <programme start="20260906024500 +0200" stop="20260906030000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
+    <title lang="it">TUTTIFRUTTI BREVE</title>
   </programme>
-  <programme start="20260906030000 +0200" stop="20260906033000 +0200" channel="RaiNews24.it">
+  <programme start="20260906030000 +0200" stop="20260906031500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG NOTTE</title>
+  </programme>
+  <programme start="20260906031500 +0200" stop="20260906040000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + RASSEGNA STAMPA</title>
-  </programme>
-  <programme start="20260906033000 +0200" stop="20260906034500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260906034500 +0200" stop="20260906040000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
   </programme>
   <programme start="20260906040000 +0200" stop="20260906043000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+    <title lang="it">TG NOTTE</title>
   </programme>
-  <programme start="20260906043000 +0200" stop="20260906044500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+  <programme start="20260906043000 +0200" stop="20260906050000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA + FOCUS</title>
   </programme>
-  <programme start="20260906044500 +0200" stop="20260906050000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
+  <programme start="20260906050000 +0200" stop="20260906051500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG ALBA</title>
   </programme>
-  <programme start="20260906050000 +0200" stop="20260906053000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+  <programme start="20260906051500 +0200" stop="20260906053000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA</title>
   </programme>
   <programme start="20260906053000 +0200" stop="20260906060000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+    <title lang="it">LA SFIDA DELLA CURA</title>
   </programme>
   <programme start="20260906060000 +0200" stop="20260906062700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
@@ -2846,8 +3027,11 @@
   <programme start="20260906210000 +0200" stop="20260906213000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
   </programme>
-  <programme start="20260906213000 +0200" stop="20260906220300 +0200" channel="RaiNews24.it">
+  <programme start="20260906213000 +0200" stop="20260906220000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+  </programme>
+  <programme start="20260906220000 +0200" stop="20260906220300 +0200" channel="RaiNews24.it">
+    <title lang="it">LANCIO DOCUMENTARIO</title>
   </programme>
   <programme start="20260906220300 +0200" stop="20260906223000 +0200" channel="RaiNews24.it">
     <title lang="it">DOCUMENTARIO RAI</title>
@@ -2883,6 +3067,7 @@
   </programme>
   <programme start="20260904183000 +0200" stop="20260904190000 +0200" channel="RaiSport.it">
     <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.</desc>
   </programme>
   <programme start="20260904190000 +0200" stop="20260904193000 +0200" channel="RaiSport.it">
     <title lang="it">Canottaggio: Mondiali Amsterdam 2026 - Finali: 4a giornata</title>
@@ -2925,8 +3110,8 @@
     <desc lang="it">Mondiali - Finali: 4a giornata</desc>
   </programme>
   <programme start="20260905144500 +0200" stop="20260905145000 +0200" channel="RaiSport.it">
-    <title lang="it">Imperdibile</title>
-    <desc lang="it">Imperdibile</desc>
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.</desc>
   </programme>
   <programme start="20260905145000 +0200" stop="20260905173000 +0200" channel="RaiSport.it">
     <title lang="it">Europei femminili di Pallavolo 2026 - Semifinale: Turchia - Serbia</title>
@@ -2935,11 +3120,11 @@
   <programme start="20260905173000 +0200" stop="20260905175000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
-  <programme start="20260905175000 +0200" stop="20260905200000 +0200" channel="RaiSport.it">
+  <programme start="20260905175000 +0200" stop="20260905203000 +0200" channel="RaiSport.it">
     <title lang="it">Basket: Mondiali femminili 2026 - Cechia - Italia</title>
     <desc lang="it">Nel Girone D della Coppa del Mondo femminile di basket 2026, l'Italia affronta la Repubblica Ceca in una sfida importante per il cammino delle azzurre nella fase a gironi.</desc>
   </programme>
-  <programme start="20260905200000 +0200" stop="20260905220000 +0200" channel="RaiSport.it">
+  <programme start="20260905203000 +0200" stop="20260905220000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Diamond League 2026 - Finali: 2a giornata</title>
     <desc lang="it">A Bruxelles va in scena la seconda giornata delle finali della Diamond League 2026. Al King Baudouin Stadium i migliori atleti della stagione si sfidano per conquistare i primi Diamond Trophy e i titoli del circuito.</desc>
   </programme>
@@ -2971,7 +3156,8 @@
     <title lang="it">Memory</title>
   </programme>
   <programme start="20260906085500 +0200" stop="20260906095500 +0200" channel="RaiSport.it">
-    <title lang="it">Il Sabato al 90°</title>
+    <title lang="it">Sabato al 90° del 05/09/2026</title>
+    <desc lang="it">La storica rubrica Rai che mostra tutti i gol e le azioni salienti degli anticipi di campionato di Serie A.</desc>
   </programme>
   <programme start="20260906095500 +0200" stop="20260906110000 +0200" channel="RaiSport.it">
     <title lang="it">Beach Volley. C.to Italiano Gold Caorle - Semifinale femminile 1</title>
