@@ -37,20 +37,20 @@
     <title lang="it">La notte dei serpenti 2026</title>
     <desc lang="it">Il concertone torna come un grande evento spettacolare capace di accendere i sensi e raccontare l'Abruzzo attraverso la forza della musica e della condivisione. Un concerto che è rito collettivo, dove il suono diventa racconto e la tradizione si trasforma in emozione viva. Sul palco, le nuove voci della scena musicale si intrecciano con i cori e i cantori della tradizione, dando vita a un dialogo potente tra passato e presente. Le melodie antiche si rinnovano, i ritmi si amplificano e l'identità di un territorio prende forma in uno spettacolo immersivo, vibrante, contemporaneo.</desc>
   </programme>
-  <programme start="20260905003000 +0200" stop="20260905014000 +0200" channel="Rai1.it">
+  <programme start="20260905003000 +0200" stop="20260905022000 +0200" channel="Rai1.it">
     <title lang="it">Codice: la vita è digitale - Simulazioni - Puntata del 04/09/2026</title>
     <desc lang="it">Barbara Carfagna racconta la zona grigia tra uomo e macchina per capire cosa accade dentro un'intelligenza artificiale tra una domanda e una risposta. Dall'avatar Ipazia al rapporto tra AI, fede e libero arbitrio, dai robot come possibili compagni agli umanoidi e ai World Model, fino alle trasformazioni di industria, scuola e finanza: un viaggio nelle nuove frontiere dell'intelligenza artificiale e nel confine sempre più sottile tra tecnologia e vita umana.</desc>
   </programme>
-  <programme start="20260905014000 +0200" stop="20260905014500 +0200" channel="Rai1.it">
+  <programme start="20260905022000 +0200" stop="20260905022500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260905014500 +0200" stop="20260905024500 +0200" channel="Rai1.it">
-    <title lang="it">Sottovoce e dintorni - Puntata del 04/09/2026</title>
-    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
-  </programme>
-  <programme start="20260905024500 +0200" stop="20260905040000 +0200" channel="Rai1.it">
+  <programme start="20260905022500 +0200" stop="20260905034000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 04/09/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
+  </programme>
+  <programme start="20260905034000 +0200" stop="20260905040000 +0200" channel="Rai1.it">
+    <title lang="it">Il commissario Rex - S9E5 - Sotto narcosi</title>
+    <desc lang="it">Una dottoressa, responsabile di una clinica privata, viene trovata morta. Marc concentra le indagini sul portinaio della clinica, che è sospettato di abusare delle pazienti.</desc>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
@@ -60,7 +60,7 @@
   </programme>
   <programme start="20260905065500 +0200" stop="20260905070000 +0200" channel="Rai1.it">
     <title lang="it">Gli Imperdibili</title>
-    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260905070000 +0200" stop="20260905070500 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -130,7 +130,7 @@
   </programme>
   <programme start="20260905164500 +0200" stop="20260905165000 +0200" channel="Rai1.it">
     <title lang="it">In Punta di Matita - Puntata del 05/09/2026</title>
-    <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con fra Daniele Randazzo. Al termine In Punta di Matita l'arte con Rodolfo Papa.</desc>
+    <desc lang="it">Il prof. Rodolfo Papa conduce "In Punta di Matita", un autentico "matita express" che con la sanguigna disegna dal vivo Milano, Firenze e Napoli, intrecciando capolavori noti, il Cenacolo vinciano, il Battistero fiorentino, il Pio Monte caravaggesco, a tesori meno noti come Santa Maria presso San Satiro o il Beato Angelico a San Marco.</desc>
   </programme>
   <programme start="20260905165000 +0200" stop="20260905165300 +0200" channel="Rai1.it">
     <title lang="it">Gli Imperdibili</title>
@@ -505,8 +505,8 @@
     <title lang="it">Meteo 2</title>
   </programme>
   <programme start="20260905175000 +0200" stop="20260905203000 +0200" channel="Rai2.it">
-    <title lang="it">Europei di Pallavolo femminile 2026 - Semifinale: Polonia – Italia</title>
-    <desc lang="it">Campionato Europeo femminili di Pallavolo 2026 - Semifinale: Polonia – Italia</desc>
+    <title lang="it">Europei di Pallavolo femminile 2026 - Semifinale: Polonia - Italia</title>
+    <desc lang="it">Penultimo atto degli Europei femminili di pallavolo. Ad Instanbul Danesi e compagne si giocano un posto per la finale e puntare al terzo titolo in due anni.</desc>
   </programme>
   <programme start="20260905203000 +0200" stop="20260905210000 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
