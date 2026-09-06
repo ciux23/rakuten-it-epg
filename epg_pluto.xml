@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260906080000 +0200" stop="20260906103617 +0200" channel="pluto_film_tv">
+  <programme start="20260906140000 +0200" stop="20260906180114 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260906103617 +0200" stop="20260906122837 +0200" channel="pluto_film_tv">
-    <title lang="it">Uncle Drew</title>
-    <desc lang="it">Il giovane proprietario di una squadra e Uncle Drew (L’All-Star NBA Kyrie Irving) riuniscono la vecchia squadra di Drew per dimostrare che un gruppo di settuagenari può ancora vincere un grande torneo.</desc>
-  </programme>
-  <programme start="20260906122837 +0200" stop="20260906140837 +0200" channel="pluto_film_tv">
-    <title lang="it">La storia di Matthew Shepard</title>
-    <desc lang="it">Basato su una storia vera, la morte assurdamente violenta e crudele dello studente di college e gay dichiarato Matthew Shepard ha attratto l’attenzione di un’intera nazione.</desc>
-  </programme>
-  <programme start="20260906140837 +0200" stop="20260906161937 +0200" channel="pluto_film_tv">
-    <title lang="it">Kingpin</title>
-    <desc lang="it">Una star del bowling la cui carriera è stata prematuramente stroncata spera di trovare nuova fama e successo grazie a un prodigio.</desc>
-  </programme>
-  <programme start="20260906161937 +0200" stop="20260906180114 +0200" channel="pluto_film_tv">
-    <title lang="it">Otzi - L'ultimo cacciatore</title>
-    <desc lang="it">Neolitico. Il clan guidato da Otzi viene attaccato per sottrarre un oggetto sacro. Rientrato all'accampamento, trova i membri della tribù brutalmente assassinati. Accecato dal dolore e dalla rabbia, ha un unico obiettivo: la vendetta!</desc>
   </programme>
   <programme start="20260906180114 +0200" stop="20260906193158 +0200" channel="pluto_film_tv">
     <title lang="it">Boulevard</title>
@@ -80,37 +64,33 @@
     <title lang="it">Destruction: Los Angeles</title>
     <desc lang="it">Un'esplosione fatale e un improvviso terremoto sconvolgono Los Angeles, e il giornalista John Benson coglie l'occasione per coprire le ultime notizie sull'aumento dell'attività sismica.</desc>
   </programme>
-  <programme start="20260907150043 +0200" stop="20260907200000 +0200" channel="pluto_film_tv">
+  <programme start="20260907150043 +0200" stop="20260907164220 +0200" channel="pluto_film_tv">
+    <title lang="it">Otzi - L'ultimo cacciatore</title>
+    <desc lang="it">Neolitico. Il clan guidato da Otzi viene attaccato per sottrarre un oggetto sacro. Rientrato all'accampamento, trova i membri della tribù brutalmente assassinati. Accecato dal dolore e dalla rabbia, ha un unico obiettivo: la vendetta!</desc>
+  </programme>
+  <programme start="20260907164220 +0200" stop="20260907190820 +0200" channel="pluto_film_tv">
+    <title lang="it">Rob-B-Hood - Tre Rapinatori e un Bebè</title>
+    <desc lang="it">Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo.</desc>
+  </programme>
+  <programme start="20260907190820 +0200" stop="20260907210120 +0200" channel="pluto_film_tv">
+    <title lang="it">Tre Colori: Film Blu</title>
+    <desc lang="it">In seguito alla morte del marito, un famoso compositore deceduto in un incidente automobilistico, Julie si trasferisce a Parigi, dove deve affrontare le difficoltà di una nuova vita. L'amore e la musica le restituiranno la libertà.</desc>
+  </programme>
+  <programme start="20260907210120 +0200" stop="20260908020000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260907200000 +0200" stop="20260908080000 +0200" channel="pluto_film_tv">
+  <programme start="20260908020000 +0200" stop="20260908140000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260908080000 +0200" stop="20260908140000 +0200" channel="pluto_film_tv">
+  <programme start="20260908140000 +0200" stop="20260908200000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260906080000 +0200" stop="20260906112225 +0200" channel="pluto_film_azione">
+  <programme start="20260906140000 +0200" stop="20260906181143 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260906112225 +0200" stop="20260906125625 +0200" channel="pluto_film_azione">
-    <title lang="it">Bad blood - Debito di sangue</title>
-    <desc lang="it">Hannah è bionda, carina e incastrata in una vita buia e sporca, fatta di droghe, spaccio e illegalità in tutte le sue declinazioni. Sulle sue spalle, grava la responsabilità dell'intera famiglia, coinvolta in affari illeciti e amori impossibili.</desc>
-  </programme>
-  <programme start="20260906125625 +0200" stop="20260906143826 +0200" channel="pluto_film_azione">
-    <title lang="it">Elektra</title>
-    <desc lang="it">Elektra, l'eroina più sexy dei fumetti, sa uccidere anche solo con uno sguardo. Ma una missione la costringe a prendere una decisione fatale nella battaglia tra il bene e il male!</desc>
-  </programme>
-  <programme start="20260906143826 +0200" stop="20260906162937 +0200" channel="pluto_film_azione">
-    <title lang="it">Outlawed - Il Fuorilegge</title>
-    <desc lang="it">Quando l’ex fidanzata Jade gli chiede aiuto per scoprire la verità sulla morte del padre, l’ex Royal Marine Jake si ritrova in una rete di corruzione e omicidi, scoprendo prove che potrebbero far incarcerare un alto funzionario governativo.</desc>
-  </programme>
-  <programme start="20260906162937 +0200" stop="20260906181143 +0200" channel="pluto_film_azione">
-    <title lang="it">Borning</title>
-    <desc lang="it">Un appassionato di auto sta preparando la sua Mustang gialla per competere in una gara illegale attraverso il paese. Tuttavia, sua figlia adolescente arriva inaspettatamente per trascorrere le vacanze con lui.</desc>
   </programme>
   <programme start="20260906181143 +0200" stop="20260906195803 +0200" channel="pluto_film_azione">
     <title lang="it">Borning 2 - Corsa Tra I Ghiacci</title>
@@ -160,57 +140,37 @@
     <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
     <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
   </programme>
-  <programme start="20260907141647 +0200" stop="20260907200000 +0200" channel="pluto_film_azione">
+  <programme start="20260907141647 +0200" stop="20260907162031 +0200" channel="pluto_film_azione">
+    <title lang="it">Lo Straniero della valle oscura</title>
+    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
+  </programme>
+  <programme start="20260907162031 +0200" stop="20260907180822 +0200" channel="pluto_film_azione">
+    <title lang="it">Dance to death - Sfida l'arena</title>
+    <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
+  </programme>
+  <programme start="20260907180822 +0200" stop="20260907194316 +0200" channel="pluto_film_azione">
+    <title lang="it">Legendary</title>
+    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
+  </programme>
+  <programme start="20260907194316 +0200" stop="20260907213016 +0200" channel="pluto_film_azione">
+    <title lang="it">Abduction</title>
+    <desc lang="it">Un confuso uomo esce da una fontana del parco in Vietnam senza ricordare chi sia o da dove venga. Mentre vaga per la città, mettendo insieme indizi sul suo passato, viene inseguito senza sosta da figure misteriosamente pericolose.</desc>
+  </programme>
+  <programme start="20260907213016 +0200" stop="20260908020000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260907200000 +0200" stop="20260908080000 +0200" channel="pluto_film_azione">
+  <programme start="20260908020000 +0200" stop="20260908140000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260908080000 +0200" stop="20260908140000 +0200" channel="pluto_film_azione">
+  <programme start="20260908140000 +0200" stop="20260908200000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260906080000 +0200" stop="20260906111919 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260906140000 +0200" stop="20260906184019 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260906111919 +0200" stop="20260906120819 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Una fiamma di dichiarazione</title>
-    <desc lang="it">Dylan protegge l'Andromeda dai mercenari mentre Beka comincia a chiedersi se stanno combattendo la fazione sbagliata.</desc>
-  </programme>
-  <programme start="20260906120819 +0200" stop="20260906125719 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Perdere il lampo fatidico</title>
-    <desc lang="it">Dylan trova una stazione spaziale popolata da bambini che credono che lui sia per lì per portare la pace e uccidere i loro nemici.</desc>
-  </programme>
-  <programme start="20260906125719 +0200" stop="20260906134619 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: D meno zero</title>
-    <desc lang="it">L'equipaggio dell’Andromeda sta ancora imparando come lavorare insieme mentre vengono attaccati dai Risolutori.</desc>
-  </programme>
-  <programme start="20260906134619 +0200" stop="20260906143519 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Doppia elica</title>
-    <desc lang="it">L'Andromeda è coinvolta in una faida tra un pianeta Than e una colonia nietzscheana.</desc>
-  </programme>
-  <programme start="20260906143519 +0200" stop="20260906152419 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Angelo oscuro, demone luminoso</title>
-    <desc lang="it">Uno slipstream catapulta l'Andromeda indietro nel tempo a poco prima della caduta del Commonwealth. L'equipaggio deve intervenire per proteggere la storia.</desc>
-  </programme>
-  <programme start="20260906152419 +0200" stop="20260906161319 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: I legami che accecano</title>
-    <desc lang="it">Dopo aver risposto a una chiamata di soccorso, l'equipaggio raccoglie il fratello di Beka, ora un Wayista, e il suo amico.</desc>
-  </programme>
-  <programme start="20260906161319 +0200" stop="20260906170219 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Le sponde del Lete</title>
-    <desc lang="it">Grazie a un buco nero Dylan riesce a comunicare con la sua ex compagna, 300 anni fa.</desc>
-  </programme>
-  <programme start="20260906170219 +0200" stop="20260906175119 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Una rosa nelle ceneri</title>
-    <desc lang="it">Dylan è prigioniero su un pianeta-prigione e deve trovare una via di fuga mentre l’equipaggio organizza il suo salvataggio.</desc>
-  </programme>
-  <programme start="20260906175119 +0200" stop="20260906184019 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Tutto l'oceano del grande Nettuno</title>
-    <desc lang="it">I Castaliani salgono a bordo dell'Andromeda per ultimare la costituzione del Nuovo Commonwealth. Quando il loro leader viene trovato morto, tutti i sospetti ricadono su Tyr.</desc>
   </programme>
   <programme start="20260906184019 +0200" stop="20260906192919 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Le perle che erano i suoi occhi</title>
@@ -308,15 +268,47 @@
     <title lang="it">Andromeda: Ouroboros</title>
     <desc lang="it">Le uova Magog di Harper stanno iniziando a schiudersi, quindi il team costruisce una macchina Teseract.</desc>
   </programme>
-  <programme start="20260907141619 +0200" stop="20260907200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260907141619 +0200" stop="20260907150519 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Lava e missili</title>
+    <desc lang="it">Dylan prende il controllo di una chiatta turistica nel tentativo di sfuggire ai mercenari.</desc>
+  </programme>
+  <programme start="20260907150519 +0200" stop="20260907155419 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Ricordati di tutti i miei peccati</title>
+    <desc lang="it">Qualcosa va storto durante l’identificazione di un corpo quando si scopre che l'ex collega di Beka non è affatto morto.</desc>
+  </programme>
+  <programme start="20260907155419 +0200" stop="20260907164319 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Danza delle effimere</title>
+    <desc lang="it">L’Andromeda soccorre dei vagabondi in fin di vita che presto si trasformano in zombie controllati da una mente collettiva.</desc>
+  </programme>
+  <programme start="20260907164319 +0200" stop="20260907173219 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: In cielo ora sono tre</title>
+    <desc lang="it">Il motore della creazione è in grado di riscrivere l'universo secondo i desideri del proprietario. Dylan, Beka e Trance devono fare in modo di ottenerlo prima che qualcuno con piani loschi ne entri in possesso.</desc>
+  </programme>
+  <programme start="20260907173219 +0200" stop="20260907182119 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Le cose che non possiamo cambiare</title>
+    <desc lang="it">Dylan perde conoscenza a causa di un buco nero e si ritrova in una realtà alternativa con una moglie e un figlio.</desc>
+  </programme>
+  <programme start="20260907182119 +0200" stop="20260907191019 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Lealtà sconosciuta</title>
+    <desc lang="it">L'equipaggio salva una dei vecchi fondatori del Commonwealth, ma scopre che ciò potrebbe creare più problemi di quanto possa valerne la pena.</desc>
+  </programme>
+  <programme start="20260907191019 +0200" stop="20260907195919 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La pancia della bestia</title>
+    <desc lang="it">Un mostro spaziale mitologico cerca di divorare l'Andromeda.</desc>
+  </programme>
+  <programme start="20260907195919 +0200" stop="20260907204819 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il cavaliere, la morte e il diavolo</title>
+    <desc lang="it">Dylan tenta di liberare una flotta di navi prigioniere, ma la flotta non sembra che voglia essere liberata. I loro AI temono di essere fatti schiavi dai nuovi capitani.</desc>
+  </programme>
+  <programme start="20260907204819 +0200" stop="20260908020000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260907200000 +0200" stop="20260908080000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260908020000 +0200" stop="20260908140000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260908080000 +0200" stop="20260908140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260908140000 +0200" stop="20260908200000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
