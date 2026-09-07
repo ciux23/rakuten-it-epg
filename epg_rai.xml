@@ -535,8 +535,8 @@
     <title lang="it">TG2</title>
   </programme>
   <programme start="20260908084500 +0200" stop="20260908101000 +0200" channel="Rai2.it">
-    <title lang="it">I casi della giovane Miss Fisher S1E1 - Vivi e lascia spiare</title>
-    <desc lang="it">Miss Peregrine Fisher scopre che sua zia Phryne, scomparsa dopo un incidente aereo, era una famosa detective privata, faceva parte del Club delle Avventuriere e, morendo, le ha lasciato un'eredità ed un'indagine.</desc>
+    <title lang="it">I casi della giovane Miss Fisher S1E3 - Il laboratorio dei segreti</title>
+    <desc lang="it">Tanya scompare nel nulla dopo aver sentito il richiamo di un UFO.  La scienziata Cecile Armand, cara amica di Birdie, viene trovata morta nella sua auto dalla stessa Birdie dopo una richiesta d'aiuto tramite telex.</desc>
   </programme>
   <programme start="20260908101000 +0200" stop="20260908110000 +0200" channel="Rai2.it">
     <title lang="it">TG2 Dossier</title>
@@ -671,8 +671,8 @@
     <title lang="it">TG2</title>
   </programme>
   <programme start="20260909084500 +0200" stop="20260909101000 +0200" channel="Rai2.it">
-    <title lang="it">I casi della giovane Miss Fisher S1E2 - Il ritmo della morte</title>
-    <desc lang="it">Durante uno spettacolo televisivo muoiono due giovani ed il primo indiziato sembra essere un ex ragazzo di Peregrine. Le indagini portano allo scoperto segreti e vecchi rancori.</desc>
+    <title lang="it">I casi della giovane Miss Fisher S1E4 - Scuola di cucina con delitto</title>
+    <desc lang="it">In una scuola internazionale di cucina c'è un omicidio. Peregrine indaga sul caso ma non ha idea di quello che la aspetta. Scopre un intreccio di corruzione che coinvolge anche James e lo mette nei guai.</desc>
   </programme>
   <programme start="20260909101000 +0200" stop="20260909110000 +0200" channel="Rai2.it">
     <title lang="it">TG2 Dossier</title>
@@ -865,12 +865,12 @@
     <desc lang="it">Venti minuti di televisione smontata, rimontata e messa a nudo attraverso il montaggio per raccontare il presente e rileggere la memoria collettiva. Blob ripercorre giorno per giorno gli eventi che hanno segnato la storia contemporanea, offrendo uno sguardo critico sulle immagini e sui loro protagonisti.</desc>
   </programme>
   <programme start="20260907201000 +0200" stop="20260907204000 +0200" channel="Rai3.it">
-    <title lang="it">Il Provinciale - Puntata del 07/09/2026</title>
-    <desc lang="it">Federico Quaranta si mette in cammino per farci conoscere le storie e i luoghi più autentici della provincia italiana. </desc>
+    <title lang="it">Il Provinciale - Gibellina, il paesaggio della memoria - 07/09/2026</title>
+    <desc lang="it">Il viaggio di Federico Quaranta parte da Gibellina, in provincia di Trapani, dove il territorio è segnato da un'immane tragedia sublimata in arte. È qui che sorge il Cretto di Burri, una delle opere di land art più estese al mondo, realizzata dall'artista sui resti della città distrutta dal terremoto del 1968. Ma c'è da scoprire anche una "città dell'utopia", pensata essa stessa come opera d'arte: Gibellina Nuova, Capitale italiana dell'arte contemporanea nel 2026. Tra gli ospiti di puntata Pietrangelo Buttafuoco, che racconterà il "paesaggio della memoria", e l'antropologo Franco la Cecla che parlerà delle trasformazioni del territorio dopo il terremoto del Belice del 1968.</desc>
   </programme>
   <programme start="20260907204000 +0200" stop="20260907205000 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 07/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">L'Afd ha stravinto ieri le elezioni in Sassonia-Anhalt. La chiamano l'onda nera, ma è una immagine pigra. È qualcosa di nuovo e di diverso. Nuova è la comunicazione, nuove sono le paure. Marco Damilano riflette sull'anno elettorale che ci aspetta, con Edoardo Purgatori che legge un estratto di "La mia battaglia" di Elio Germano e Chiara Lagani. In chiusura il pensiero di Mauro Biani. </desc>
   </programme>
   <programme start="20260907205000 +0200" stop="20260907212000 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 07/09/2026 EP7021</title>
@@ -928,7 +928,7 @@
   </programme>
   <programme start="20260908122500 +0200" stop="20260908125500 +0200" channel="Rai3.it">
     <title lang="it">Quante storie - Puntata del 08/09/2026</title>
-    <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
+    <desc lang="it">A cinquecento anni dalla sua morte, Niccolò Machiavelli resta uno dei pensatori più fraintesi nella storia occidentale. Ospite di Giorgio Zanchini a Quante Storie, il filosofo e teorico della politica Maurizio Viroli restituisce a Machiavelli la complessità di uno statista che privilegiò sempre la libertà dei cittadini e i valori della repubblica e utilizza la sua visione della società per un confronto con il quadro politico attuale. </desc>
   </programme>
   <programme start="20260908125500 +0200" stop="20260908132000 +0200" channel="Rai3.it">
     <title lang="it">Geo Documentario</title>
@@ -3280,17 +3280,13 @@
     <title lang="it">Europei femminili di Pallavolo 2026 - Finale: Italia - Turchia</title>
     <desc lang="it">Italia contro Turchia, Velasco contro Santarelli. Questa partita è il rematch della finale mondiale dello scorso anno, la tensione agonistica e il tasso tecnico saranno sicuramente gli stessi.</desc>
   </programme>
-  <programme start="20260908150500 +0200" stop="20260908162500 +0200" channel="RaiSport.it">
+  <programme start="20260908150500 +0200" stop="20260908171500 +0200" channel="RaiSport.it">
     <title lang="it">Il Processo del Lunedì del 07/09/2026</title>
     <desc lang="it">L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee.</desc>
   </programme>
-  <programme start="20260908162500 +0200" stop="20260908164500 +0200" channel="RaiSport.it">
+  <programme start="20260908171500 +0200" stop="20260908175000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
     <desc lang="it">Memory</desc>
-  </programme>
-  <programme start="20260908164500 +0200" stop="20260908175000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Gp Industria e Artigianato</title>
-    <desc lang="it">Ciclismo: Gp Industria e Artigianato</desc>
   </programme>
   <programme start="20260908175000 +0200" stop="20260908191000 +0200" channel="RaiSport.it">
     <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 1a giornata: Italia - Moldavia</title>
@@ -3304,25 +3300,25 @@
     <title lang="it">Atletica Leggera - Meeting Internazionale di Rovereto 2026</title>
     <desc lang="it">A Rovereto va in scena la 62ª edizione del Palio Città della Quercia, storico meeting internazionale di atletica leggera. In pista e in pedana alcuni dei migliori atleti italiani e stranieri, protagonisti di una serata di gare di alto livello.</desc>
   </programme>
-  <programme start="20260908221500 +0200" stop="20260908234500 +0200" channel="RaiSport.it">
+  <programme start="20260908221500 +0200" stop="20260909001500 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Diamond League 2026 - Finali: 2a giornata</title>
     <desc lang="it">A Bruxelles va in scena la seconda giornata delle finali della Diamond League 2026. Al King Baudouin Stadium i migliori atleti della stagione si sfidano per conquistare i primi Diamond Trophy e i titoli del circuito.</desc>
   </programme>
-  <programme start="20260908234500 +0200" stop="20260909000000 +0200" channel="RaiSport.it">
-    <title lang="it">TG Sport Notte</title>
-    <desc lang="it">TG Sport Notte</desc>
+  <programme start="20260909001500 +0200" stop="20260909015000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Uomini</title>
+    <desc lang="it">Cross Country Olimpico - Elite Uomini </desc>
   </programme>
-  <programme start="20260909000000 +0200" stop="20260909024500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Uomini</title>
-    <desc lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Uomini</desc>
+  <programme start="20260909015000 +0200" stop="20260909030000 +0200" channel="RaiSport.it">
+    <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 1a giornata: Italia - Moldavia</title>
+    <desc lang="it">Nella prima giornata del girone della EBSL Superfinal 2026, l'Italia campione d'Europa in carica affronta la Moldova a Viareggio nel match d'esordio della competizione.</desc>
   </programme>
-  <programme start="20260909024500 +0200" stop="20260909035500 +0200" channel="RaiSport.it">
-    <title lang="it">Beach Soccer Euro League Maschile 1* giornata Gruppo A: Moldavia - Italia</title>
-    <desc lang="it">Beach Soccer Euro League Maschile 1* giornata Gruppo A: Moldavia - Italia</desc>
+  <programme start="20260909030000 +0200" stop="20260909051000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica Leggera - Meeting Internazionale di Rovereto 2026</title>
+    <desc lang="it">A Rovereto va in scena la 62ª edizione del Palio Città della Quercia, storico meeting internazionale di atletica leggera. In pista e in pedana alcuni dei migliori atleti italiani e stranieri, protagonisti di una serata di gare di alto livello.</desc>
   </programme>
-  <programme start="20260909035500 +0200" stop="20260909060000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica: Meeting Internazionale Rovereto World Athletics Continental Tour</title>
-    <desc lang="it">Atletica: Meeting Internazionale Rovereto World Athletics Continental Tour</desc>
+  <programme start="20260909051000 +0200" stop="20260909060000 +0200" channel="RaiSport.it">
+    <title lang="it">World Rally Championship 2026 - Rally del Paraguay</title>
+    <desc lang="it">World Rally Championship - Rally del Paraguay</desc>
   </programme>
   <programme start="20260909060000 +0200" stop="20260909070000 +0200" channel="RaiSport.it">
     <title lang="it">Beach Volley; Camp. Italiano Gold Caorle 2026 Finale maschile</title>
