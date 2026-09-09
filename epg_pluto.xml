@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260908150000 +0200" stop="20260908193136 +0200" channel="pluto_film_tv">
+  <programme start="20260909000000 +0200" stop="20260909034956 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260908193136 +0200" stop="20260908210133 +0200" channel="pluto_film_tv">
-    <title lang="it">Mrs Mills - Un Tesoro Di Vicina</title>
-    <desc lang="it">Per rubare un’opera d’arte, un uomo si finge un’eccentrica donna americana e affitta l'appartamento accanto ad Helene. Ne nasce una bella amicizia, fino al giorno in cui Helene scopre che in realtà la nuova amica è un uomo.</desc>
-  </programme>
-  <programme start="20260908210133 +0200" stop="20260908230033 +0200" channel="pluto_film_tv">
-    <title lang="it">Abbasso l'amore - Down with love</title>
-    <desc lang="it">New York City .Il giornalista Catcher Block ottiene sempre quello che vuole. Ma quando incontra la donna che potrebbe essere della sua vita, la scrittrice di best seller Barbara Novak...</desc>
-  </programme>
-  <programme start="20260908230033 +0200" stop="20260909003056 +0200" channel="pluto_film_tv">
-    <title lang="it">Next Day Air</title>
-    <desc lang="it">Un incauto fattorino consegna inavvertitamente all'indirizzo sbagliato un pacco contenente panetti di cocaina occultati.</desc>
-  </programme>
-  <programme start="20260909003056 +0200" stop="20260909021056 +0200" channel="pluto_film_tv">
-    <title lang="it">Poliziotto a New York</title>
-    <desc lang="it">Toshi, un poliziotto di New York di origini giapponesi, s’infiltra in una gang di alto profilo e s’innamora della sorella del capo (la premio Oscar Mira Sorvino) in questo thriller ambientato nel mondo del crimine.</desc>
-  </programme>
-  <programme start="20260909021056 +0200" stop="20260909034956 +0200" channel="pluto_film_tv">
-    <title lang="it">Just Like A Woman - Come Una Donna</title>
-    <desc lang="it">Il viaggio da Chicago a Santa Fè di Marylin e Mona, entrambe in fuga per ragioni differenti. Un percorso improvvisato e precario, fonte di un'amicizia solidale tra le due giovani donne. Con Sienna Miller e Golshifteh Farahani.</desc>
   </programme>
   <programme start="20260909034956 +0200" stop="20260909052556 +0200" channel="pluto_film_tv">
     <title lang="it">Fury</title>
@@ -72,41 +52,45 @@
     <title lang="it">Uncle Drew</title>
     <desc lang="it">Il giovane proprietario di una squadra e Uncle Drew (L’All-Star NBA Kyrie Irving) riuniscono la vecchia squadra di Drew per dimostrare che un gruppo di settuagenari può ancora vincere un grande torneo.</desc>
   </programme>
-  <programme start="20260909210126 +0200" stop="20260910030000 +0200" channel="pluto_film_tv">
+  <programme start="20260909210126 +0200" stop="20260909224326 +0200" channel="pluto_film_tv">
+    <title lang="it">Alvin Superstar</title>
+    <desc lang="it">La vita di Dave, musicista spiantato, sta per essere sconvolta da tre scoiattoli canterini: Alvin, Simon e Theodore. Tre forze della natura, ma anche una band strepitosa.</desc>
+  </programme>
+  <programme start="20260909224326 +0200" stop="20260910002226 +0200" channel="pluto_film_tv">
+    <title lang="it">Alvin Superstar 2</title>
+    <desc lang="it">Nel secondo fortunato sequel, Alvin Simon e Theodore vanno a scuola, dove vengono ingaggiati dalla preside per vincere un concorso musicale.</desc>
+  </programme>
+  <programme start="20260910002226 +0200" stop="20260910020126 +0200" channel="pluto_film_tv">
+    <title lang="it">Alvin Superstar 2</title>
+    <desc lang="it">Nel secondo fortunato sequel, Alvin Simon e Theodore vanno a scuola, dove vengono ingaggiati dalla preside per vincere un concorso musicale.</desc>
+  </programme>
+  <programme start="20260910020126 +0200" stop="20260910032734 +0200" channel="pluto_film_tv">
+    <title lang="it">Ninja</title>
+    <desc lang="it">Casey è un americano che da tempo vive in Giappone dove si addestra nelle tecniche di combattimento dei ninja. Quando il suo sensei gli chiede di tornare a New York per una missione, arriva il momento di mettere in pratica il frutto del suo addestramento.</desc>
+  </programme>
+  <programme start="20260910032734 +0200" stop="20260910052356 +0200" channel="pluto_film_tv">
+    <title lang="it">La piscina</title>
+    <desc lang="it">Una coppia in vacanza vede l'equilibrio alterarsi quando arriva un amico con la figlia diciottenne: tra sguardi, gelosie e desideri, il languido sole estivo si trasforma in un gioco pericoloso che culmina in tragedia</desc>
+  </programme>
+  <programme start="20260910052356 +0200" stop="20260910073656 +0200" channel="pluto_film_tv">
+    <title lang="it">Amore Mio Aiutami</title>
+    <desc lang="it">Tra i film più ispirati del Sordi regista. Giovanni e Raffaella sono una coppia affiatata da anni. Quando Raffaella si innamora di Valerio, chiederà aiuto proprio a suo marito per cercare di far passare l'infatuazione. Con Monica Vitti e Alberto Sordi.</desc>
+  </programme>
+  <programme start="20260910073656 +0200" stop="20260910120000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910030000 +0200" stop="20260910150000 +0200" channel="pluto_film_tv">
+  <programme start="20260910120000 +0200" stop="20260911000000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910150000 +0200" stop="20260910210000 +0200" channel="pluto_film_tv">
+  <programme start="20260911000000 +0200" stop="20260911060000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260908150000 +0200" stop="20260908194249 +0200" channel="pluto_film_azione">
+  <programme start="20260909000000 +0200" stop="20260909041610 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260908194249 +0200" stop="20260908213049 +0200" channel="pluto_film_azione">
-    <title lang="it">A prova di idiota</title>
-    <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
-  </programme>
-  <programme start="20260908213049 +0200" stop="20260908225749 +0200" channel="pluto_film_azione">
-    <title lang="it">Setup</title>
-    <desc lang="it">Un gruppo di amici mette a segno una rapina che si trasforma in qualcosa di mortale quando uno di loro tradisce gli altri e scappa via con il bottino. Sonny chiede aiuto a uno dei boss più pericolosi della città per recuperare ciò che gli spetta.</desc>
-  </programme>
-  <programme start="20260908225749 +0200" stop="20260909003910 +0200" channel="pluto_film_azione">
-    <title lang="it">Everly</title>
-    <desc lang="it">Action thriller con Salma Hayek. Un’ex prostituta, ora informatrice FBI, è barricata in casa e deve difendersi dagli assassini inviati dal suo ex, spietato boss della Yakuza, per sopravvivere.</desc>
-  </programme>
-  <programme start="20260909003910 +0200" stop="20260909024410 +0200" channel="pluto_film_azione">
-    <title lang="it">Nome in codice: Top Gun</title>
-    <desc lang="it">Il pilota dell'Aeronautica sudcoreana Tae hun viene cacciato dall divisione speciale Black Eagles per essere trasferito ad un'unità di combattimento dove entra immediatamente in conflitto con il primo pilota Cheoul hui.</desc>
-  </programme>
-  <programme start="20260909024410 +0200" stop="20260909041610 +0200" channel="pluto_film_azione">
-    <title lang="it">In the Name of the King 3: L'ultima Missione</title>
-    <desc lang="it">Trasportato indietro all'epoca medievale, un assassino professionista deve recuperare i figli di un miliardario ma prima si trova a combattere contro un esercito e un drago.</desc>
   </programme>
   <programme start="20260909041610 +0200" stop="20260909065510 +0200" channel="pluto_film_azione">
     <title lang="it">T-34 Eroi D'Acciaio</title>
@@ -144,65 +128,41 @@
     <title lang="it">Gli irriducibili</title>
     <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
   </programme>
-  <programme start="20260909213054 +0200" stop="20260910030000 +0200" channel="pluto_film_azione">
+  <programme start="20260909213054 +0200" stop="20260909233054 +0200" channel="pluto_film_azione">
+    <title lang="it">Lies We Tell</title>
+    <desc lang="it">Un fido autista personale cerca di distruggere tutte le prove della relazione del suo defunto capo con una bella amante. Il passato oscuro della donna, però, lo porta in conflitto col marito criminale.</desc>
+  </programme>
+  <programme start="20260909233054 +0200" stop="20260910011305 +0200" channel="pluto_film_azione">
+    <title lang="it">Boon - Il sicario</title>
+    <desc lang="it">Il mercenario Nick Boon sta cercando di espiare la sua vita come esecutore. In fuga dal suo passato, Boon si trasferisce in una zona remota del Pacifico nord-occidentale dove incontra Catherine, una vedova in difficoltà, e suo figlio.</desc>
+  </programme>
+  <programme start="20260910011305 +0200" stop="20260910025105 +0200" channel="pluto_film_azione">
+    <title lang="it">Punto di non ritorno</title>
+    <desc lang="it">Quando sua moglie e sua figlia vengono uccise senza motivo, un professore universitario in lutto si ritrova coinvolto in una guerra sanguinaria tra la criminalità organizzata e un gruppo di vigilantes.</desc>
+  </programme>
+  <programme start="20260910025105 +0200" stop="20260910043805 +0200" channel="pluto_film_azione">
+    <title lang="it">La legge dei narcos</title>
+    <desc lang="it">Un giovane tormentato fugge in Messico, dove è reclutato in un gruppo paramilitare di adolescenti che combattono i cartelli della droga. Diventa il soldato principale del Capitano ma comincia a chiedersi quale sia il vero scopo del gruppo.</desc>
+  </programme>
+  <programme start="20260910043805 +0200" stop="20260910062105 +0200" channel="pluto_film_azione">
+    <title lang="it">Assalto A Wall Street</title>
+    <desc lang="it">Jim è un ex soldato. Un giorno la moglie si ammala di tumore e lui scopre di aver perso tutti i risparmi a causa degli azzardi del suo consulente finanziario.</desc>
+  </programme>
+  <programme start="20260910062105 +0200" stop="20260910120000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910030000 +0200" stop="20260910150000 +0200" channel="pluto_film_azione">
+  <programme start="20260910120000 +0200" stop="20260911000000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910150000 +0200" stop="20260910210000 +0200" channel="pluto_film_azione">
+  <programme start="20260911000000 +0200" stop="20260911060000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260908150000 +0200" stop="20260908194019 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260909000000 +0200" stop="20260909043919 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260908194019 +0200" stop="20260908202919 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Harper/Elimina</title>
-    <desc lang="it">Due fratelli Nietzscheani sono in lotta per un'arma capace di eliminare le funzioni cerebrali superiori.</desc>
-  </programme>
-  <programme start="20260908202919 +0200" stop="20260908211819 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il vortice si avvicina</title>
-    <desc lang="it">Tyr è ritornato dopo essersi unito ai Collector e chiede ai suoi ex compagni di fare la rotta dei secoli.</desc>
-  </programme>
-  <programme start="20260908211819 +0200" stop="20260908220719 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il mondo gira intorno a lei</title>
-    <desc lang="it">L'equipaggio affronta Tyr e ci sono degli ostaggi.</desc>
-  </programme>
-  <programme start="20260908220719 +0200" stop="20260908225619 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Canale verso il destino</title>
-    <desc lang="it">L’Andromeda si ritrova nel mezzo di una rivolta in carcere a seguito di una manovra sbagliata durante lo slipstream.</desc>
-  </programme>
-  <programme start="20260908225619 +0200" stop="20260908234519 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Meccanismo della mente</title>
-    <desc lang="it">L'equipaggio dell’Andromeda si offre volontario per scoprire chi ha ucciso un gruppo di scienziati.</desc>
-  </programme>
-  <programme start="20260908234519 +0200" stop="20260909003419 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Esaltazione della ragione, figlia gloriosa</title>
-    <desc lang="it">L'equipaggio viene ingaggiato per salvare una principessa da un famigerato fuorilegge. Ma la principessa in verità sta scappando dal padre che vuole ucciderla.</desc>
-  </programme>
-  <programme start="20260909003419 +0200" stop="20260909012319 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il tormento, il rilascio</title>
-    <desc lang="it">Il Commonwealth è sotto il controllo dei Collector, i quali mettono sotto processo l'equipaggio dell’Andromeda.</desc>
-  </programme>
-  <programme start="20260909012319 +0200" stop="20260909021219 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La strategia del ragno</title>
-    <desc lang="it">L'Andromeda scopre un carico di bio-armature.</desc>
-  </programme>
-  <programme start="20260909021219 +0200" stop="20260909030119 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il calore di una luce invisibile</title>
-    <desc lang="it">Un dispositivo sperimentale che permette di nascondersi catapulta Dylan in un universo alternativo.</desc>
-  </programme>
-  <programme start="20260909030119 +0200" stop="20260909035019 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Gli altri</title>
-    <desc lang="it">L'Andromeda si ritrova nel mezzo di una guerra tra due navi, oltre che una malattia mortale.</desc>
-  </programme>
-  <programme start="20260909035019 +0200" stop="20260909043919 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La paura brucia fino ad incenerire</title>
-    <desc lang="it">Dylan cade in un tranello e viene rapito da Rev. Un Collector si rivela inaspettatamente un alleato dell’equipaggio.</desc>
   </programme>
   <programme start="20260909043919 +0200" stop="20260909052819 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Perso in uno spazio inesistente</title>
@@ -288,15 +248,59 @@
     <title lang="it">Andromeda: Il passato è prolisso</title>
     <desc lang="it">Harper scopre un programma in grado di distruggere otto dei pianeti Seefra, uccidendo milioni di persone.</desc>
   </programme>
-  <programme start="20260909214819 +0200" stop="20260910030000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260909214819 +0200" stop="20260909223719 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Gli opposti dell'attrazione</title>
+    <desc lang="it">Mentre Harper cerca un modo per salvare Seefra, una spia s’infiltra a bordo dell’Andromeda e attacca Beka.</desc>
+  </programme>
+  <programme start="20260909223719 +0200" stop="20260909232619 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Luce salvatrice da un sole nero</title>
+    <desc lang="it">Viene fatto un tentativo per riparare il sole lampeggiante di Seefra, ma Trance viene sostituito da un alter ego.</desc>
+  </programme>
+  <programme start="20260909232619 +0200" stop="20260910001519 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Ritiro totale</title>
+    <desc lang="it">Dopo essere stato gravemente ferito in un'esplosione in laboratorio, Dylan viaggia attraverso una serie di realtà alternative.</desc>
+  </programme>
+  <programme start="20260910001519 +0200" stop="20260910010419 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Delirio da trattato quantico</title>
+    <desc lang="it">Rommie viene ricostruita per aiutare a evacuare il sistema Seefra.</desc>
+  </programme>
+  <programme start="20260910010419 +0200" stop="20260910015319 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La luce di un nuovo giorno</title>
+    <desc lang="it">Un capo militare convince i suoi seguaci che l'imminente distruzione dei pianeti esterni è un complotto per saccheggiare il loro pianeta.</desc>
+  </programme>
+  <programme start="20260910015319 +0200" stop="20260910024219 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il caos e la sua calma</title>
+    <desc lang="it">Dylan, Rhade e Beka uniscono le forze per salvare Trance da Methus-2 e Harper dal Generale Burma.</desc>
+  </programme>
+  <programme start="20260910024219 +0200" stop="20260910033119 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il cuore del viaggio (Parte 1)</title>
+    <desc lang="it">L'equipaggio lascia finalmente il sistema Seefra e scopre che Dylan è l'ultimo Paradine.</desc>
+  </programme>
+  <programme start="20260910033119 +0200" stop="20260910042019 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il cuore del viaggio (Parte 2)</title>
+    <desc lang="it">Nell’ultimo episodio della serie, la battaglia finale per salvare il Nuovo Commonwealth del Sistema ha inizio.</desc>
+  </programme>
+  <programme start="20260910042019 +0200" stop="20260910050706 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: La cupola</title>
+    <desc lang="it">Chester's Mill è una tranquilla cittadina americana. Una mattina, un campo di forza invisibile ed impenetrabile, cala sulla città, imprigionando una parte dei suoi abitanti…</desc>
+  </programme>
+  <programme start="20260910050706 +0200" stop="20260910055311 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Dentro il fuoco</title>
+    <desc lang="it">Duke è morto, ma il segreto che condivideva con Big Jim e Il reverendo Coggins potrebbe ancora trapelare. Coggins si reca nell’abitazione che Duke ha lasciato in eredità a Linda per cercare documenti compromettenti.</desc>
+  </programme>
+  <programme start="20260910055311 +0200" stop="20260910063919 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Caccia all'uomo</title>
+    <desc lang="it">Paul Randolph escapes from prison and Big Jim organizes an expedition to capture him. Junior looks for a way out of the dome in the basement of an old cement factory ....</desc>
+  </programme>
+  <programme start="20260910063919 +0200" stop="20260910120000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910030000 +0200" stop="20260910150000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260910120000 +0200" stop="20260911000000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260910150000 +0200" stop="20260910210000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260911000000 +0200" stop="20260911060000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
