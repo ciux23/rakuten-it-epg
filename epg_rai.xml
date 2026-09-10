@@ -207,7 +207,7 @@
   <programme start="20260911133000 +0200" stop="20260911140500 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
-  <programme start="20260911140500 +0200" stop="20260911160000 +0200" channel="Rai1.it">
+  <programme start="20260911140500 +0200" stop="20260911143500 +0200" channel="Rai1.it">
     <title lang="it">La volta buona - Puntata del 11/09/2026</title>
     <desc lang="it">Un programma che si distingue per l'approccio leggero con cui vengono trattati i vari temi e per l'eleganza con cui la conduttrice accoglie ospiti di spicco provenienti dal mondo dello spettacolo, della musica e della cutura. Nel corso del pomeriggio, il salotto diventa un luogo di confronto, dove i partecipanti discutono delle ultime notizie di costume e condividono nostalgici ricordi legati al proprio vissuto, al mondo della musica e della televisione. Gli argomenti spaziano da storie personali a esperienze quotidiane, con un focus particolare sulle relazioni e sulle emozioni. Conduce Caterina Balivo. Regia di Daniela Celotto.</desc>
   </programme>
@@ -436,7 +436,7 @@
     <desc lang="it">Direttore Antonio Preziosi</desc>
   </programme>
   <programme start="20260910135000 +0200" stop="20260910140000 +0200" channel="Rai2.it">
-    <title lang="it">TG2 Medicina 33</title>
+    <title lang="it">Tg2 Medicina 33 del 02/06/2026</title>
     <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti</desc>
   </programme>
   <programme start="20260910140000 +0200" stop="20260910152500 +0200" channel="Rai2.it">
@@ -485,7 +485,7 @@
   </programme>
   <programme start="20260910205500 +0200" stop="20260910230000 +0200" channel="Rai2.it">
     <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Italia - Svezia</title>
-    <desc lang="it">Pallavolo. Campionato Europeo maschile Fase a gruppi: Gruppo A In diretta da Piazza del Plebiscito a Napoli</desc>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Svezia nel suo cammino nella fase a gironi della competizione continentale.</desc>
   </programme>
   <programme start="20260910230000 +0200" stop="20260911011700 +0200" channel="Rai2.it">
     <title lang="it">Diabolik - Chi sei?</title>
@@ -849,7 +849,7 @@
   </programme>
   <programme start="20260910212000 +0200" stop="20260910233000 +0200" channel="Rai3.it">
     <title lang="it">Le cose che non sai - Puntata del 10/09/2026</title>
-    <desc lang="it">Eleonora Daniele ci accompagna in un viaggio immersivo nella storia di celebrità tra ricerche, segreti, testimoni, documenti, filmati, fotografie e lettere. Protagonisti della prima puntata, il giornalista e conduttore Massimo Giletti e l'attrice Claudia Gerini </desc>
+    <desc lang="it">Questa prima puntata avrà per protagonisti il noto giornalista e conduttore televisivo, Massimo Giletti, e la celebre attrice, cantante e regista, Claudia Gerini. Insieme ad Eleonora Daniele e agli esperti in studio, gli ospiti ripercorreranno il l loro albero genealogico , alla scoperta di aneddoti, rivelazioni ed intrecci con la Grande Storia.</desc>
   </programme>
   <programme start="20260910233000 +0200" stop="20260911000000 +0200" channel="Rai3.it">
     <title lang="it">Cronache dal Mito - Apollo: gli oracoli divini</title>
@@ -889,13 +889,13 @@
   <programme start="20260911120000 +0200" stop="20260911122500 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20260911122500 +0200" stop="20260911125500 +0200" channel="Rai3.it">
+  <programme start="20260911122500 +0200" stop="20260911130000 +0200" channel="Rai3.it">
     <title lang="it">Quante storie - Puntata del 11/09/2026</title>
     <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
   </programme>
-  <programme start="20260911125500 +0200" stop="20260911132000 +0200" channel="Rai3.it">
-    <title lang="it">Geo Documentario</title>
-    <desc lang="it">Documentario.</desc>
+  <programme start="20260911130000 +0200" stop="20260911132000 +0200" channel="Rai3.it">
+    <title lang="it">L'avversario</title>
+    <desc lang="it">Aureliano e Simone sembrano appartenere a due mondi diversi. Parlano poco, la loro lingua comune è la scherma. Ad ogni affondo metteranno alla prova il loro talento e la loro lealtà.</desc>
   </programme>
   <programme start="20260911132000 +0200" stop="20260911140000 +0200" channel="Rai3.it">
     <title lang="it">Passato e Presente - La voce delle donne nel secondo dopoguerra. 1945-1958 - 03/06/2026</title>
@@ -924,24 +924,24 @@
     <title lang="it">Rai Parlamento Telegiornale</title>
   </programme>
   <programme start="20260911151000 +0200" stop="20260911160000 +0200" channel="Rai3.it">
-    <title lang="it">Storia di una leggenda. Pininfarina</title>
-    <desc lang="it">La vita e l'eredità di Battista "Pinin" Farina, fondatore di una piccola attività artigianale di carrozzeria diventata poi leader in tutto il mondo per la qualità del design, il senso del bello e di tutti i valori che rappresentano il Made in Italy.</desc>
+    <title lang="it">Divine</title>
+    <desc lang="it">Quello tra le donne e il vino è un rapporto simbiotico e viscerale. Il documentario racconta le storie, i sogni e la rinascita di cinque donne eccezionali: Susanna D'Amico, Carla Benini, Joy Kull, Domenica Luppino e Silvia Fuselli.</desc>
   </programme>
-  <programme start="20260911160000 +0200" stop="20260911170000 +0200" channel="Rai3.it">
-    <title lang="it">Aspettando Geo</title>
-    <desc lang="it">DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu - tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi Un programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone Capo progetto: Fausta Vannutelli Coordinamento editoriale: Caterina Manganella  Regia: Michelangelo Pepe</desc>
+  <programme start="20260911160000 +0200" stop="20260911160500 +0200" channel="Rai3.it">
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="Rai3.it">
+  <programme start="20260911160500 +0200" stop="20260911190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 11/09/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
   <programme start="20260911190000 +0200" stop="20260911193000 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20260911193000 +0200" stop="20260911195100 +0200" channel="Rai3.it">
+  <programme start="20260911193000 +0200" stop="20260911195200 +0200" channel="Rai3.it">
     <title lang="it">TG Regione</title>
   </programme>
-  <programme start="20260911195100 +0200" stop="20260911200000 +0200" channel="Rai3.it">
+  <programme start="20260911195200 +0200" stop="20260911200000 +0200" channel="Rai3.it">
     <title lang="it">TG Regione Meteo</title>
   </programme>
   <programme start="20260911200000 +0200" stop="20260911201000 +0200" channel="Rai3.it">
@@ -960,15 +960,19 @@
     <title lang="it">Un posto al sole - Puntata del 11/09/2026 EP7025</title>
     <desc lang="it">Grillo è ormai una scheggia impazzita anche agli occhi dei suoi colleghi. Eduardo si troverà di fronte ad una decisione che potrebbe cambiare la sua vita.</desc>
   </programme>
-  <programme start="20260911212000 +0200" stop="20260911231000 +0200" channel="Rai3.it">
-    <title lang="it">Guida pratica per insegnanti</title>
-    <desc lang="it">All'inizio di un nuovo anno scolastico in una scuola della banlieue parigina, Benjamin affronta la sua prima esperienza come supplente di matematica. Tra studenti difficili, colleghi appassionati e sfide quotidiane, scopre quanto sia complesso e prezioso il mestiere dell'insegnante. Disponibile anche in lingua originale.</desc>
+  <programme start="20260911212000 +0200" stop="20260911221000 +0200" channel="Rai3.it">
+    <title lang="it">La legge di Lidia Poët - S1E5 - Fantasmi dal passato</title>
+    <desc lang="it">Dopo una seduta spiritica durante una festa, un facoltoso uomo d'affari muore in circostanze misteriose. Quando i sospetti si concentrano su una donna rinchiusa da anni in manicomio, Lidia si trova davanti a un caso pieno di enigmi, apparenze e verità da scoprire. </desc>
   </programme>
-  <programme start="20260911231000 +0200" stop="20260911233000 +0200" channel="Rai3.it">
+  <programme start="20260911221000 +0200" stop="20260911230000 +0200" channel="Rai3.it">
+    <title lang="it">La legge di Lidia Poët - S1E6 - Intrigo internazionale</title>
+    <desc lang="it">Lidia scopre un complotto che potrebbe cambiare tutto. Mentre la verità inizia ad affiorare, si trova davanti a una scelta difficile: continuare a lottare in un ambiente che la ostacola o intraprendere una nuova strada lontano da ciò che conosce. </desc>
+  </programme>
+  <programme start="20260911230000 +0200" stop="20260911232000 +0200" channel="Rai3.it">
     <title lang="it">Quelli che il cinema - La magia della scenografia pt9</title>
     <desc lang="it">Il reparto degli scenografi è il primo a partire quando nasce un nuovo film. Per costruire una storia bisogna sapere innanzitutto dove si svolge. A Cinecittà sono state allestite le scenografie gigantesche di Dante Ferretti per Martin Scorsese. E adesso c'è lo studio digitale più grande d'Europa.</desc>
   </programme>
-  <programme start="20260911233000 +0200" stop="20260912000000 +0200" channel="Rai3.it">
+  <programme start="20260911232000 +0200" stop="20260912000000 +0200" channel="Rai3.it">
     <title lang="it">Blob - Puntata del 11/09/2026</title>
     <desc lang="it">Venti minuti di televisione smontata, rimontata e messa a nudo attraverso il montaggio per raccontare il presente e rileggere la memoria collettiva. Blob ripercorre giorno per giorno gli eventi che hanno segnato la storia contemporanea, offrendo uno sguardo critico sulle immagini e sui loro protagonisti.</desc>
   </programme>
@@ -1245,15 +1249,15 @@
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260911090200 +0200" stop="20260911094400 +0200" channel="Rai4.it">
+  <programme start="20260911090200 +0200" stop="20260911094500 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.20</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260911094400 +0200" stop="20260911102400 +0200" channel="Rai4.it">
+  <programme start="20260911094500 +0200" stop="20260911102500 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.21</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260911102400 +0200" stop="20260911111200 +0200" channel="Rai4.it">
+  <programme start="20260911102500 +0200" stop="20260911111200 +0200" channel="Rai4.it">
     <title lang="it">Fast Forward - S7E10 - Il caso Therese Hasenauer-Kralik</title>
     <desc lang="it">Angelika Schnell è un detective della polizia di Vienna che risolve abilmente intricati casi di omicidio grazie anche all'aiuto dell'anatomopatologo Stefan, ex marito e suo fidato collaboratore. </desc>
   </programme>
@@ -1277,23 +1281,23 @@
     <title lang="it">Drug War</title>
     <desc lang="it">Ming, spietato trafficante di droga, sopravvive ad un incidente e finisce in arresto. Il capitano Zhang gli propone un patto: collaborare per smantellare l'organizzazione in cambio della vita. Per salvarsi, Ming dovrà tradire i suoi compagni, entrando in un pericoloso gioco di inganni. Come finirà?</desc>
   </programme>
-  <programme start="20260911155600 +0200" stop="20260911160000 +0200" channel="Rai4.it">
+  <programme start="20260911155600 +0200" stop="20260911160100 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep46 – Il mistero del ballerino</title>
     <desc lang="it">Tra febbraio e marzo del 1967, i telespettatori italiani tempestavano di lettere e telefonate il centralino Rai per risolvere il mistero del momento: uno dei ballerini della trasmissione Il tappabuchi era davvero Ugo Tognazzi sotto mentite spoglie?</desc>
   </programme>
-  <programme start="20260911160000 +0200" stop="20260911160400 +0200" channel="Rai4.it">
+  <programme start="20260911160100 +0200" stop="20260911160500 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep47 – Da Stoccolma Raimondo Vianello</title>
     <desc lang="it">Lo sapevate che Raimondo Vianello realizzò anche un programma dedicato agli usi e costumi della Svezia? Era il 1° novembre 1965.</desc>
   </programme>
-  <programme start="20260911160400 +0200" stop="20260911164900 +0200" channel="Rai4.it">
+  <programme start="20260911160500 +0200" stop="20260911165300 +0200" channel="Rai4.it">
     <title lang="it">Hudson &amp; Rex - S1E7 - Niente è come sembra</title>
     <desc lang="it">Il corpo del proprietario di una galleria d'arte viene ritrovato nella sala espositiva da cui manca anche una preziosa scultura. Charlie pensa che il gallerista abbia scoperto il ladro in flagrante e sia stato ucciso per questo, ma la verità è più complessa.</desc>
   </programme>
-  <programme start="20260911164900 +0200" stop="20260911173600 +0200" channel="Rai4.it">
+  <programme start="20260911165300 +0200" stop="20260911173700 +0200" channel="Rai4.it">
     <title lang="it">Hudson &amp; Rex - S1E8 - La zia in giallo</title>
     <desc lang="it">La zia di Charlie si trova in una casa di cura, dove viene scoperto il cadavere di un uomo dello staff. Charlie, durante la perquisizione dell'ufficio della vittima scopre una siringa contenente cianuro. L'uomo è stato, quindi, avvelenato.</desc>
   </programme>
-  <programme start="20260911173600 +0200" stop="20260911182100 +0200" channel="Rai4.it">
+  <programme start="20260911173700 +0200" stop="20260911182100 +0200" channel="Rai4.it">
     <title lang="it">Private Eyes S2E14 - Alla ricerca di Leroy</title>
     <desc lang="it">Il penultimo esemplare di una razza di polipo in via di estinzione viene rapito dall'acquario dove lavora la sorella di Maz. La notizia è talmente grave da richiedere l'intervento di Shade ed Angie.</desc>
   </programme>
@@ -1301,11 +1305,11 @@
     <title lang="it">Castle V ep.22</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260911190500 +0200" stop="20260911194500 +0200" channel="Rai4.it">
+  <programme start="20260911190500 +0200" stop="20260911194600 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.23</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260911194500 +0200" stop="20260911203300 +0200" channel="Rai4.it">
+  <programme start="20260911194600 +0200" stop="20260911203300 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.12</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
@@ -1313,15 +1317,15 @@
     <title lang="it">Criminal Minds XIII ep.13</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260911211900 +0200" stop="20260911230000 +0200" channel="Rai4.it">
+  <programme start="20260911211900 +0200" stop="20260911230100 +0200" channel="Rai4.it">
     <title lang="it">Trappola sulle montagne rocciose</title>
     <desc lang="it">Casey Ryback viaggia in treno con la nipote Sarah ma il convoglio viene assaltato da terroristi i quali controllano un satellite capace di scatenare terremoti artificiali e minacciano Washington. L'eroico cuoco-soldato dovrà tornare in azione per sventare la distruzione globale in una corsa contro il tempo. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20260911230000 +0200" stop="20260912004400 +0200" channel="Rai4.it">
+  <programme start="20260911230100 +0200" stop="20260912004500 +0200" channel="Rai4.it">
     <title lang="it">Un uomo sopra la legge</title>
     <desc lang="it">Jim, allevatore e veterano della guerra del Vietnam, sta attraversando un momento difficile. La sua vita è ulteriormente disturbata dall'arrivo inaspettato di due immigrati clandestini: una madre con il suo piccolo figlio, in fuga da un brutale cartello messicano. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20260912004400 +0200" stop="20260912004800 +0200" channel="Rai4.it">
+  <programme start="20260912004500 +0200" stop="20260912004800 +0200" channel="Rai4.it">
     <title lang="it">Anica appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
@@ -1369,15 +1373,15 @@
     <title lang="it">Senza traccia S1E23 In memoria - Parte seconda</title>
     <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni.</desc>
   </programme>
-  <programme start="20260912090200 +0200" stop="20260912094700 +0200" channel="Rai4.it">
+  <programme start="20260912090200 +0200" stop="20260912094600 +0200" channel="Rai4.it">
     <title lang="it">Senza Traccia S2E1 Scuolabus</title>
     <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni.</desc>
   </programme>
-  <programme start="20260912094700 +0200" stop="20260912102800 +0200" channel="Rai4.it">
+  <programme start="20260912094600 +0200" stop="20260912102700 +0200" channel="Rai4.it">
     <title lang="it">Senza Traccia S2E2 Rivelazioni</title>
     <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni.</desc>
   </programme>
-  <programme start="20260912102800 +0200" stop="20260912110800 +0200" channel="Rai4.it">
+  <programme start="20260912102700 +0200" stop="20260912110800 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.4</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
@@ -1389,19 +1393,19 @@
     <title lang="it">Criminal Minds XIII ep.6</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260912123400 +0200" stop="20260912131800 +0200" channel="Rai4.it">
+  <programme start="20260912123400 +0200" stop="20260912131900 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.7</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260912131800 +0200" stop="20260912140100 +0200" channel="Rai4.it">
+  <programme start="20260912131900 +0200" stop="20260912140100 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.8</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260912140100 +0200" stop="20260912155000 +0200" channel="Rai4.it">
+  <programme start="20260912140100 +0200" stop="20260912155100 +0200" channel="Rai4.it">
     <title lang="it">Predator</title>
     <desc lang="it">Un commando statunitense attera in segreto nella giungla centroamericana, alla ricerca di un uomo politico precipitato in elicottero. Nello stesso luogo è però da poco arrivato un cacciatore alieno.</desc>
   </programme>
-  <programme start="20260912155000 +0200" stop="20260912155400 +0200" channel="Rai4.it">
+  <programme start="20260912155100 +0200" stop="20260912155400 +0200" channel="Rai4.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
@@ -1409,15 +1413,15 @@
     <title lang="it">70 x 70 - Vol. 2 Ep48 – La prima gondola d'oro</title>
     <desc lang="it">Dal 3 al 5 luglio 1965 si tenne a Venezia, per la prima volta, una manifestazione canora destinata a diventare per anni la "sorella musicale" della storica Mostra Internazionale del Cinema. Torniamo al 5 luglio per rivivere la serata finale di quella prima edizione, trasmessa in diretta da Piazza San Marco.</desc>
   </programme>
-  <programme start="20260912155800 +0200" stop="20260912160200 +0200" channel="Rai4.it">
+  <programme start="20260912155800 +0200" stop="20260912160300 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep49 – Il raddoppio dal Belgio</title>
     <desc lang="it">È il 1958 e la Rai dimostra già una notevole prontezza tecnologica: per consentire a Gino Bechi di tentare il raddoppio nel celebre Lascia o raddoppia?, organizza un collegamento in Eurovisione dal Belgio, dove il cantante e attore si trovava. Ma non finisce qui...</desc>
   </programme>
-  <programme start="20260912160200 +0200" stop="20260912160600 +0200" channel="Rai4.it">
+  <programme start="20260912160300 +0200" stop="20260912160700 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep50 – Vi piace l'Italia?</title>
     <desc lang="it">Torniamo insieme al 26 Maggio 1976 e scopriamo programmi incredibili in onda tutti nella stessa giornata, con tanto di interviste a Woody Allen, Nino Manfredi e a un giovanissimo Renato Zero</desc>
   </programme>
-  <programme start="20260912160600 +0200" stop="20260912165400 +0200" channel="Rai4.it">
+  <programme start="20260912160700 +0200" stop="20260912165400 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.14</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
@@ -1433,23 +1437,23 @@
     <title lang="it">Castle V ep.17</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912190500 +0200" stop="20260912194500 +0200" channel="Rai4.it">
+  <programme start="20260912190500 +0200" stop="20260912194600 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.18</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912194500 +0200" stop="20260912203300 +0200" channel="Rai4.it">
+  <programme start="20260912194600 +0200" stop="20260912203300 +0200" channel="Rai4.it">
     <title lang="it">C.S.I.: Vegas S3E7 - Un caso per caso</title>
     <desc lang="it">Due uomini vengono rinvenuti senza vita in circostanze molto sospette. Seppure le modalità siano decisamente differenti, uno in una sauna e l'altro in un bosco, la coincidenza è che le due vittime si conoscevano.</desc>
   </programme>
-  <programme start="20260912203300 +0200" stop="20260912211800 +0200" channel="Rai4.it">
+  <programme start="20260912203300 +0200" stop="20260912211900 +0200" channel="Rai4.it">
     <title lang="it">C.S.I.: Vegas S3E8 - L'arte della paura</title>
     <desc lang="it">La squadra è sulle tracce di un bizzarro assassino che si dedica a macabre sculture. Chris suggerisce a Beau di mettere in relazione gli omicidi con le vernici utilizzate per abbellire queste assurde opere d'arte.</desc>
   </programme>
-  <programme start="20260912211800 +0200" stop="20260912225700 +0200" channel="Rai4.it">
+  <programme start="20260912211900 +0200" stop="20260912225700 +0200" channel="Rai4.it">
     <title lang="it">Quelli che mi vogliono morto</title>
     <desc lang="it">Il dodicenne Connor è testimone di un omicidio e viene inserito in un programma di protezione testimoni. Viene nascosto tra le foreste del Montana, ma gli autori dell'assassinio sono sulle sue tracce.</desc>
   </programme>
-  <programme start="20260912225700 +0200" stop="20260913002900 +0200" channel="Rai4.it">
+  <programme start="20260912225700 +0200" stop="20260913003000 +0200" channel="Rai4.it">
     <title lang="it">Clean</title>
     <desc lang="it">Il netturbino Clean, provato da un passato violento da sicario, cerca di trascorrere una vita tranquilla, lavorando e prendendosi cura di chi ha bisogno. Quando però la brutalità di un boss locale prende di mira persone a lui care deve presto tornare alla violenza del suo passato.</desc>
   </programme>
@@ -1546,8 +1550,8 @@
     <desc lang="it">Un racconto del percorso umano e professionale di Flaiano celebrando lo sguardo anticipatore di un intellettuale raro per indipendenza ideologica, talento, eclettismo. Alla voce ritrovata dello scrittore, nei brevi estratti selezionati dalle interviste rilasciate nel corso di tanti anni, si alterna quella di Neri Marcorè che legge citazioni e passi tratti dai suoi scritti, insieme alle testimonianze di chi lo ha conosciuto e ammirato.</desc>
   </programme>
   <programme start="20260910182200 +0200" stop="20260910191200 +0200" channel="Rai5.it">
-    <title lang="it">'14-'18. Grande Guerra cento anni dopo N</title>
-    <desc lang="it">'14-'18. Grande Guerra cento anni dopo Non ancora: L'Italia dalla neutralità all'intervento - DOC. STORIA - Allo scoppio della Prima Guerra Mondiale l'Italia rimane neutrale, anche se parte dell'opinione p - ubblica vorrebbe un intervento immediato nel conflitto, magari a fronte di una restituzione, da parte dell'Austria, di Trento e Trieste. Contrari alla guerra per motivi ideologici sono i socialisti, i cattolici e i liberal -  con Una serie narrata da Carlo Lucarelli. Coordinamento editoriale Pietro Raschillà. produttore esecutivo Roberta Sangermano 2022 ITA</desc>
+    <title lang="it">'14-'18 Grande Guerra 100 anni dopo pt 4 - Non ancora: l'Italia dalla neutralità all'intervento</title>
+    <desc lang="it">Allo scoppio della Prima Guerra Mondiale l'Italia rimane neutrale, anche se l'opinione pubblica si divide fin da subito tra coloro che ritengono la scelta del governo corretta e coloro che, invece, vorrebbero un intervento immediato nel conflitto, magari a fronte di una restituzione, da parte dell'Austria, di Trento e Trieste. Dopo la battaglia della Marna, la situazione precipita e lo spirito nazionalista si rafforza chiedendo a gran voce il passaggio dalla neutralità all'intervento. Radicali, repubblicani, una parte del movimento operaio e i nazionalisti fanno fronte comune, appoggiati da quasi tutti gli intellettuali, chiedendo l'intervento immediato nel conflitto. Il 26 aprile 1915 a Londra viene firmato un patto segreto secondo cui il governo italiano si impegna a mobilitare gli eserciti entro un mese: l'Italia entra in guerra a fianco dell'Intesa.</desc>
   </programme>
   <programme start="20260910191200 +0200" stop="20260910191900 +0200" channel="Rai5.it">
     <title lang="it">La Costituzione - Storia POP - S1E4</title>
@@ -1598,8 +1602,8 @@
     <desc lang="it">Un percorso scanzonato e singolare dentro Bologna, alla ricerca di capolavori e angoli nascosti, fuori dai percorsi turistici convenzionali.</desc>
   </programme>
   <programme start="20260911033100 +0200" stop="20260911042200 +0200" channel="Rai5.it">
-    <title lang="it">'14-'18. Grande Guerra cento anni dopo N</title>
-    <desc lang="it">'14-'18. Grande Guerra cento anni dopo Non ancora: L'Italia dalla neutralità all'intervento - DOC. STORIA - Allo scoppio della Prima Guerra Mondiale l'Italia rimane neutrale, anche se parte dell'opinione p - ubblica vorrebbe un intervento immediato nel conflitto, magari a fronte di una restituzione, da parte dell'Austria, di Trento e Trieste. Contrari alla guerra per motivi ideologici sono i socialisti, i cattolici e i liberal -  con Una serie narrata da Carlo Lucarelli. Coordinamento editoriale Pietro Raschillà. produttore esecutivo Roberta Sangermano 2022 ITA</desc>
+    <title lang="it">'14-'18 Grande Guerra 100 anni dopo pt 4 - Non ancora: l'Italia dalla neutralità all'intervento</title>
+    <desc lang="it">Allo scoppio della Prima Guerra Mondiale l'Italia rimane neutrale, anche se l'opinione pubblica si divide fin da subito tra coloro che ritengono la scelta del governo corretta e coloro che, invece, vorrebbero un intervento immediato nel conflitto, magari a fronte di una restituzione, da parte dell'Austria, di Trento e Trieste. Dopo la battaglia della Marna, la situazione precipita e lo spirito nazionalista si rafforza chiedendo a gran voce il passaggio dalla neutralità all'intervento. Radicali, repubblicani, una parte del movimento operaio e i nazionalisti fanno fronte comune, appoggiati da quasi tutti gli intellettuali, chiedendo l'intervento immediato nel conflitto. Il 26 aprile 1915 a Londra viene firmato un patto segreto secondo cui il governo italiano si impegna a mobilitare gli eserciti entro un mese: l'Italia entra in guerra a fianco dell'Intesa.</desc>
   </programme>
   <programme start="20260911042200 +0200" stop="20260911044000 +0200" channel="Rai5.it">
     <title lang="it">I Borghi di Barbieri - S1E7 - I canederli della Val di Fassa</title>
@@ -1682,8 +1686,8 @@
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
   <programme start="20260911191400 +0200" stop="20260911192200 +0200" channel="Rai5.it">
-    <title lang="it">GLI IMPERDIBILI 2026/2027 EP.02</title>
-    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260911192200 +0200" stop="20260911194100 +0200" channel="Rai5.it">
     <title lang="it">I Borghi di Barbieri - S1E9 - La cucina dei fiori</title>
@@ -1778,8 +1782,8 @@
     <desc lang="it">Protagonista del primo appuntamento è Gesualdo Bufalino, il cui nome raggiunge il grande pubblico quasi per caso, nel 1981, con il romanzo "Diceria dell'untore", folgorante debutto del professore siciliano all'epoca sessantenne. Scenari della puntata sono Comiso e dintorni (Modica, Vittoria, Ragusa Iblea) e, soprattutto, la biblioteca da lui donata alla sua città. Alternate con gli ospiti, le letture di  Marco Baliani e preziosi contributi delle teche RAI.</desc>
   </programme>
   <programme start="20260912125900 +0200" stop="20260912130500 +0200" channel="Rai5.it">
-    <title lang="it">GLI IMPERDIBILI 2026/2027 EP.03</title>
-    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260912130500 +0200" stop="20260912140500 +0200" channel="Rai5.it">
     <title lang="it">Art Night. Renoir in love (pt.12)</title>
@@ -1915,7 +1919,7 @@
   </programme>
   <programme start="20260911153500 +0200" stop="20260911154000 +0200" channel="RaiMovie.it">
     <title lang="it">Gli Imperdibili</title>
-    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260911154000 +0200" stop="20260911173000 +0200" channel="RaiMovie.it">
     <title lang="it">Requiescant</title>
@@ -1953,11 +1957,11 @@
     <title lang="it">Gli spostati</title>
     <desc lang="it">La bella e ingenua Roslyn, da poco divorziata, stringe un legame con Gay, un cow boy sensibile in attesa del divorzio, e con Guido, un meccanico. Rifiutato Guido, Roslyn si avvicina a Gay e nasce una relazione. Ma l'equilibrio si incrina quando Guido propone una caccia ai cavalli selvaggi. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20260912050000 +0200" stop="20260912063500 +0200" channel="RaiMovie.it">
+  <programme start="20260912050000 +0200" stop="20260912064000 +0200" channel="RaiMovie.it">
     <title lang="it">Transamerica</title>
     <desc lang="it">Bree, transessuale in attesa di transizione, scopre di avere un figlio, Toby. La psicoterapeuta la costringe a confrontarsi con lui prima di procedere con l'intervento chirurgico. Bree paga la cauzione di Toby, ragazzo problematico, e lo conduce in un viaggio di formazione per risanare il loro rapporto. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20260912063500 +0200" stop="20260912082000 +0200" channel="RaiMovie.it">
+  <programme start="20260912064000 +0200" stop="20260912082000 +0200" channel="RaiMovie.it">
     <title lang="it">Metti la nonna in freezer</title>
     <desc lang="it">Claudia, giovane restauratrice, attende da tempo un pagamento dalla Sovrintendenza, ma non viene mai pagata. L'unica entrata certa è la pensione della nonna Birgit, che però improvvisamente muore. La ragazza, disperata, ha l'idea di surgelare il cadavere dell'anziana per continuare ad incassare la sua pensione ma non ha fatto i conti con Simone, maldestro finanziere, che si innamora perdutamente di lei.</desc>
   </programme>
@@ -1965,23 +1969,23 @@
     <title lang="it">Anica - Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260912082500 +0200" stop="20260912102000 +0200" channel="RaiMovie.it">
+  <programme start="20260912082500 +0200" stop="20260912102500 +0200" channel="RaiMovie.it">
     <title lang="it">Transcendence</title>
     <desc lang="it">Quando l'esperto di IA Will Caster viene colpito a morte da estremisti, la moglie tenta il tutto per tutto caricando la sua coscienza in un supercomputer avanzato. L'esperimento riesce, ma la mente di Will si espande online, ottenendo un potere immenso e incontrollabile. Solo il gruppo anti-tecnologia sembra comprendere il rischio globale.</desc>
   </programme>
-  <programme start="20260912102000 +0200" stop="20260912120000 +0200" channel="RaiMovie.it">
+  <programme start="20260912102500 +0200" stop="20260912120000 +0200" channel="RaiMovie.it">
     <title lang="it">La seconda volta non si scorda mai</title>
     <desc lang="it">Giulio Terracciano è un giovane e brillante agente immobiliare. Un giorno, durante una rimpatriata tra vecchi compagni di scuola, ritrova Ilaria Fiorito, la bella sorella di un amico e se ne invaghisce immediatamente. Convinto di essere ricambiato, inizia il corteggiamento ma la giovane è già promessa sposa di un noto penalista napoletano. Riuscirà a conquistarla?</desc>
   </programme>
-  <programme start="20260912120000 +0200" stop="20260912135500 +0200" channel="RaiMovie.it">
+  <programme start="20260912120000 +0200" stop="20260912140000 +0200" channel="RaiMovie.it">
     <title lang="it">"FF.SS." - Cioè: "...che mi hai portato a fare sopra a Posillipo se non mi vuoi più bene?"</title>
     <desc lang="it">Una presunta sceneggiatura di Fellini cade dalla finestra... e così nasce la sud story di una ragazza partenopea, guardiana di gabinetti, che approda tra le nebbie del nord per fare la cantante, e di cui diventa becero manager.</desc>
   </programme>
-  <programme start="20260912135500 +0200" stop="20260912140000 +0200" channel="RaiMovie.it">
+  <programme start="20260912140000 +0200" stop="20260912140500 +0200" channel="RaiMovie.it">
     <title lang="it">Gli Imperdibili</title>
-    <desc lang="it">MAGAZINE - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.. - di F. Pennacchia 2026 ITA</desc>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260912140000 +0200" stop="20260912155500 +0200" channel="RaiMovie.it">
+  <programme start="20260912140500 +0200" stop="20260912155500 +0200" channel="RaiMovie.it">
     <title lang="it">Si accettano miracoli</title>
     <desc lang="it">Fulvio, manager licenziato e finito nei pasticci, viene affidato al fratello, parroco di una chiesa in un paesino della provincia italiana. Per aiutare la comunità in crisi di fondi ha una brillante idea: inventarsi un miracolo per attirare fedeli e turisti.</desc>
   </programme>
@@ -1989,11 +1993,11 @@
     <title lang="it">Qua la zampa 2 - Un amico è per sempre</title>
     <desc lang="it">Bailey, un affezionato golden retriever, vive nella fattoria di Ethan, sua moglie Hannah e la nipotina C.J. che protegge con amore. Quando Gloria, la madre della bambina, decide di portarla via, Bailey resta fedele a Ethan. Dieci anni dopo, il cane intraprende una nuova vita, ma mantiene la promessa di non abbandonare mai C.J. </desc>
   </programme>
-  <programme start="20260912174500 +0200" stop="20260912192000 +0200" channel="RaiMovie.it">
+  <programme start="20260912174500 +0200" stop="20260912191500 +0200" channel="RaiMovie.it">
     <title lang="it">Tutto può accadere a Broadway</title>
     <desc lang="it">Arnold Albertson, regista di successo, deve mettere in scena la sua ultima produzione di Broadway. La sua prima sera a New York, chiede la compagnia di una escort e gli viene inviata un'affascinante ragazza che sogna di fare l'attrice. Tra i due "tutto può accadere".</desc>
   </programme>
-  <programme start="20260912192000 +0200" stop="20260912211000 +0200" channel="RaiMovie.it">
+  <programme start="20260912191500 +0200" stop="20260912211000 +0200" channel="RaiMovie.it">
     <title lang="it">Raid - Una poliziotta fuori di testa</title>
     <desc lang="it">Johanna è una giovane donna che sogna di far parte del RAID delle forze di sicurezza nazionale d'élite. Suo padre è ministro dell'Interno e cercherà di farla entrare, ma l'ingresso di una donna in questo corpo speciale non è ben visto da molti. </desc>
   </programme>
@@ -2293,11 +2297,11 @@
     <title lang="it">Il Paradiso delle Signore - Daily - S11E1</title>
     <desc lang="it">Per il Paradiso e la Galleria Milano Moda sono stati mesi estivi spensierati ma anche segnati dal dolore per la morte di Rosa. Marcello torna a Milano con una ferita che sembra incolmabile, ma Roberto e Matteo organizzano una serata per ricordarla e celebrare questo nuovo inizio.</desc>
   </programme>
-  <programme start="20260912165000 +0200" stop="20260912173000 +0200" channel="RaiPremium.it">
+  <programme start="20260912165000 +0200" stop="20260912173500 +0200" channel="RaiPremium.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E2</title>
     <desc lang="it">Marcello reagisce male alla proposta di dedicare un articolo commemorativo a Rosa sul Paradiso Donna. Tornati dal lungo viaggio, Irene e Johnny vorrebbero ritrovare il loro posto al Paradiso. Nel frattempo, Lia e Simona riescono ad aggiudicarsi la settimana di prova come Veneri.</desc>
   </programme>
-  <programme start="20260912173000 +0200" stop="20260912181500 +0200" channel="RaiPremium.it">
+  <programme start="20260912173500 +0200" stop="20260912181500 +0200" channel="RaiPremium.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E3</title>
     <desc lang="it">Iacopo, dopo aver rifiutato l'offerta della GMM, trova la sua arena al Paradiso e sfida apertamente Landi. Lia e Simona vengono messe alla prova per aggiudicarsi il posto di Venere. Irene ha modo di conoscere Elisa con cui instaura da subito un rapporto complicato. </desc>
   </programme>
@@ -3279,64 +3283,71 @@
     <desc lang="it">Italia contro Turchia, Velasco contro Santarelli. Questa partita è il rematch della finale mondiale dello scorso anno, la tensione agonistica e il tasso tecnico saranno sicuramente gli stessi.</desc>
   </programme>
   <programme start="20260911060000 +0200" stop="20260911070000 +0200" channel="RaiSport.it">
-    <title lang="it">Radio Corsa</title>
+    <title lang="it">Radiocorsa del 10/09/2026</title>
     <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
   <programme start="20260911070000 +0200" stop="20260911073000 +0200" channel="RaiSport.it">
-    <title lang="it">TG Sport Mattina</title>
-    <desc lang="it">TG Sport Mattina</desc>
+    <title lang="it">Memory</title>
+    <desc lang="it">Memory</desc>
   </programme>
   <programme start="20260911073000 +0200" stop="20260911090000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Coppa Sabatini 2026 Gran Premio Città di Peccioli</title>
-    <desc lang="it">Ciclismo: Coppa Sabatini 2026 Gran Premio Città di Peccioli</desc>
+    <title lang="it">Ciclismo: Memorial Alfredo Martini 2026 - Coppa Sabatini</title>
+    <desc lang="it">Seconda e ultima prova del Memorial Alfredo Martini 2026 con la Coppa Sabatini - Gran Premio Città di Peccioli. La due giorni toscana si chiude sulle strade della Valdera con una delle classiche più prestigiose del calendario italiano.  </desc>
   </programme>
   <programme start="20260911090000 +0200" stop="20260911102000 +0200" channel="RaiSport.it">
-    <title lang="it">Beach Soccer Euro League Maschile Italia - Germania</title>
-    <desc lang="it">Beach Soccer Euro League Maschile Italia - Germania</desc>
+    <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 2a giornata: Italia - Germania</title>
+    <desc lang="it">Nella seconda giornata del girone della EBSL Superfinal 2026, l'Italia campione d'Europa in carica affronta la Germania a Viareggio.</desc>
   </programme>
-  <programme start="20260911102000 +0200" stop="20260911112000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Formula Regional Imola</title>
-    <desc lang="it">Automobilismo: Formula Regional Imola</desc>
+  <programme start="20260911102000 +0200" stop="20260911104500 +0200" channel="RaiSport.it">
+    <title lang="it">Automobilismo: Campionato Europeo Formula Regional 2026 - Imola</title>
+    <desc lang="it">La Formula Regional 2026 fa tappa all'Autodromo Internazionale Enzo e Dino Ferrari di Imola</desc>
   </programme>
-  <programme start="20260911112000 +0200" stop="20260911130000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Giro della Toscana</title>
-    <desc lang="it">Ciclismo: Giro della Toscana</desc>
+  <programme start="20260911104500 +0200" stop="20260911112000 +0200" channel="RaiSport.it">
+    <title lang="it">Automobilismo: Campionato Italiano GT Endurance 2026 - 3 Ore di Imola</title>
+    <desc lang="it">Il campionato GT Endurance 2026 fa tappa all'Autodromo Internazionale Enzo e Dino Ferrari di Imola.</desc>
   </programme>
-  <programme start="20260911130000 +0200" stop="20260911151000 +0200" channel="RaiSport.it">
-    <title lang="it">Campionati Europei Pallavolo maschile Italia-Svezia</title>
-    <desc lang="it">Campionati Europei Pallavolo maschile Italia-Svezia</desc>
+  <programme start="20260911112000 +0200" stop="20260911122500 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo: Memoriale Alfredo Martini 2026 - Giro di Toscana</title>
+    <desc lang="it">Prima prova del Memorial Alfredo Martini 2026 con il Giro della Toscana. I protagonisti del ciclismo internazionale si sfidano sulle strade toscane in una corsa selettiva che apre la due giorni dedicata alla memoria del grande commissario tecnico azzurro.  </desc>
   </programme>
-  <programme start="20260911151000 +0200" stop="20260911175000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 eventuale Finalissima Italia</title>
-    <desc lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 eventuale Finalissima Italia</desc>
+  <programme start="20260911122500 +0200" stop="20260911124500 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
+    <desc lang="it">Memory</desc>
+  </programme>
+  <programme start="20260911124500 +0200" stop="20260911150000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Italia - Svezia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Svezia nel suo cammino nella fase a gironi della competizione continentale.</desc>
+  </programme>
+  <programme start="20260911150000 +0200" stop="20260911174500 +0200" channel="RaiSport.it">
+    <title lang="it">Europei femminili di Pallavolo 2026 - Finale: Italia - Turchia</title>
+    <desc lang="it">Italia contro Turchia, Velasco contro Santarelli. Questa partita è il rematch della finale mondiale dello scorso anno, la tensione agonistica e il tasso tecnico saranno sicuramente gli stessi.</desc>
+  </programme>
+  <programme start="20260911174500 +0200" stop="20260911175000 +0200" channel="RaiSport.it">
+    <title lang="it">Gli imperdibili</title>
   </programme>
   <programme start="20260911175000 +0200" stop="20260911191000 +0200" channel="RaiSport.it">
-    <title lang="it">Beach Soccer. Euro League Superfinal maschile Viareggio: Italia-Danimarca</title>
-    <desc lang="it">Beach Soccer. Euro League Superfinal maschile Viareggio: Italia-Danimarca</desc>
+    <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Germania</title>
+    <desc lang="it">Nella quarta giornata del girone della EBSL Superfinal 2026, l'Italia affronta la Danimarca. </desc>
   </programme>
   <programme start="20260911191000 +0200" stop="20260911220000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica. Ultimate Championship Budapest - 1a g.ta</title>
-    <desc lang="it">Atletica. Ultimate Championship Budapest - 1a g.ta</desc>
+    <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
+    <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
   <programme start="20260911220000 +0200" stop="20260911234500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Uomini</title>
-    <desc lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 Cross Country Olimpico - prova Elite Uomini</desc>
+    <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Uomini</title>
+    <desc lang="it">Cross Country Olimpico - Elite Uomini </desc>
   </programme>
-  <programme start="20260911234500 +0200" stop="20260912000000 +0200" channel="RaiSport.it">
-    <title lang="it">TG Sport Notte</title>
-    <desc lang="it">TG Sport Notte</desc>
-  </programme>
-  <programme start="20260912000000 +0200" stop="20260912013000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 prova Elite Donne</title>
-    <desc lang="it">Ciclismo Mountain Bike: Camp. Mondiali Val di Sole 2026 prova Elite Donne</desc>
+  <programme start="20260911234500 +0200" stop="20260912013000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Donne</title>
+    <desc lang="it">Cross Country Olimpico - Elite Donne</desc>
   </programme>
   <programme start="20260912013000 +0200" stop="20260912025000 +0200" channel="RaiSport.it">
-    <title lang="it">Beach Soccer Euro League Maschile Italia - Danimarca</title>
-    <desc lang="it">Beach Soccer Euro League Maschile Italia - Danimarca</desc>
+    <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Danimarca</title>
+    <desc lang="it">Nella quarta giornata del girone della EBSL Superfinal 2026, l'Italia affronta la Danimarca. </desc>
   </programme>
   <programme start="20260912025000 +0200" stop="20260912054000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica: Ultimate Challenge Budapest World Athletics Ultimate Championship 1a giornata</title>
-    <desc lang="it">Atletica: Ultimate Challenge Budapest World Athletics Ultimate Championship 1a giornata</desc>
+    <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
+    <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
   <programme start="20260912054000 +0200" stop="20260912060000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
