@@ -46,8 +46,8 @@
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
   <programme start="20260911032500 +0200" stop="20260911041000 +0200" channel="Rai1.it">
-    <title lang="it">Il commissario Rex - S9E10 - Una dritta mortale</title>
-    <desc lang="it">La squadra omicidi indaga sulla morte di un imbianchino. Fra i vari sospettati vi è un suo collega, impossibilitato a difendersi perché analfabeta, scagionato in extremis grazie a una segnalazione di un informatore.</desc>
+    <title lang="it">Il commissario Rex - S9E9 - Assassini per sbaglio</title>
+    <desc lang="it">Una coppia di adolescenti uccide per errore un barbone: tale omicidio svela una serie di attività illecite in cui è coinvolto il padre della ragazza.</desc>
   </programme>
   <programme start="20260911041000 +0200" stop="20260911055500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
@@ -97,10 +97,10 @@
     <title lang="it">E' sempre mezzogiorno - Puntata del 11/09/2026</title>
     <desc lang="it">Antonella Clerici accoglie il pubblico nella cucina più green d'Italia, con tante novità, giochi inediti e dediche a sorpresa.</desc>
   </programme>
-  <programme start="20260911133000 +0200" stop="20260911140500 +0200" channel="Rai1.it">
+  <programme start="20260911133000 +0200" stop="20260911140000 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
-  <programme start="20260911140500 +0200" stop="20260911143500 +0200" channel="Rai1.it">
+  <programme start="20260911140000 +0200" stop="20260911143500 +0200" channel="Rai1.it">
     <title lang="it">La volta buona - Puntata del 11/09/2026</title>
     <desc lang="it">Un programma che si distingue per l'approccio leggero con cui vengono trattati i vari temi e per l'eleganza con cui la conduttrice accoglie ospiti di spicco provenienti dal mondo dello spettacolo, della musica e della cutura. Nel corso del pomeriggio, il salotto diventa un luogo di confronto, dove i partecipanti discutono delle ultime notizie di costume e condividono nostalgici ricordi legati al proprio vissuto, al mondo della musica e della televisione. Gli argomenti spaziano da storie personali a esperienze quotidiane, con un focus particolare sulle relazioni e sulle emozioni. Conduce Caterina Balivo. Regia di Daniela Celotto.</desc>
   </programme>
@@ -126,7 +126,11 @@
   <programme start="20260911200000 +0200" stop="20260911203000 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
-  <programme start="20260911203000 +0200" stop="20260911213000 +0200" channel="Rai1.it">
+  <programme start="20260911203000 +0200" stop="20260911203500 +0200" channel="Rai1.it">
+    <title lang="it">Cinque Minuti: l'ultima intervista a Emma Bonino - 11/09/2026</title>
+    <desc lang="it">L'ultima intervista tv di Emma Bonino: un faccia a faccia a casa sua con Bruno Vespa il 19 maggio 2026.</desc>
+  </programme>
+  <programme start="20260911203500 +0200" stop="20260911213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 11/09/2026</title>
     <desc lang="it">Dal nuovo Studio di Milano venti concorrenti in rappresentanza delle venti regioni italiane. In ogni puntata, il Pacchista sorteggiato gioca con un partner ed insieme dovranno affrontare le insidie del famigerato Dottore. Conduce Stefano De Martino.</desc>
   </programme>
@@ -159,8 +163,8 @@
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260912065500 +0200" stop="20260912070000 +0200" channel="Rai1.it">
-    <title lang="it">Gli imperdibili</title>
-    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.</desc>
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260912070000 +0200" stop="20260912070500 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -380,44 +384,40 @@
     <title lang="it">Speciale Tg1</title>
     <desc lang="it">Settimanale del TG1. Direttore Gian Marco Chiocci.</desc>
   </programme>
-  <programme start="20260911011700 +0200" stop="20260911012000 +0200" channel="Rai2.it">
+  <programme start="20260911015800 +0200" stop="20260911020000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
   </programme>
-  <programme start="20260911012000 +0200" stop="20260911030000 +0200" channel="Rai2.it">
+  <programme start="20260911020000 +0200" stop="20260911033500 +0200" channel="Rai2.it">
     <title lang="it">La ragazza del punk innamorato</title>
     <desc lang="it">È il 1977 nel sobborgo londinese di Croydon. Il giovane Enn, completamente divorato dalla passione per la musica punk rock, a una festa si imbatte nella bella e ribelle Zan. La ragazza in realtà è un'aliena in missione con altri simili e la loro storia d'amore scatenerà una strana guerra tra mondi. Tratto dal racconto "How to Talk to Girls at Parties" scritto da Neil Gaiman. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20260911030000 +0200" stop="20260911033600 +0200" channel="Rai2.it">
+  <programme start="20260911033500 +0200" stop="20260911042000 +0200" channel="Rai2.it">
     <title lang="it">Squadra Speciale Colonia S16E21 - Indifeso</title>
     <desc lang="it">Un fotografo con problemi economici cerca di salvare la situazione realizzando nudi di ragazze minorenni. Finisce così per fotografare la fidanzata del figlio.</desc>
   </programme>
-  <programme start="20260911033600 +0200" stop="20260911041900 +0200" channel="Rai2.it">
+  <programme start="20260911042000 +0200" stop="20260911050000 +0200" channel="Rai2.it">
     <title lang="it">Squadra Speciale Colonia S16E22 - Fiamme fatali</title>
     <desc lang="it">La morte violenta di una giovane ricercatrice e il conseguente incendio appiccato per distruggere ogni prova del delitto, impegnano la squadra nelle ricerche del colpevole.</desc>
   </programme>
-  <programme start="20260911041900 +0200" stop="20260911051000 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Colonia S16E23 - La morte corre in rete</title>
-    <desc lang="it">Una giovane ragazza viene trovata morta dopo aver partecipato a una festa come escort insieme alla sua migliore amica.</desc>
+  <programme start="20260911050000 +0200" stop="20260911051000 +0200" channel="Rai2.it">
+    <title lang="it">Impazienti - S1E30 - Daltonismo - Il punto debole</title>
+    <desc lang="it">C'è gente che vede i colori giusti e altra che imbroglia.</desc>
   </programme>
   <programme start="20260911051000 +0200" stop="20260911053000 +0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
     <desc lang="it">Il commendator Aurelio è il titolare della compagnia aerea low-cost "Piccione AirLines". Sull'aereo e nella cabina di pilotaggio, può accadere di tutto.</desc>
   </programme>
-  <programme start="20260911053000 +0200" stop="20260911060000 +0200" channel="Rai2.it">
+  <programme start="20260911053000 +0200" stop="20260911061500 +0200" channel="Rai2.it">
     <title lang="it">Ritorno a Las Sabinas - S1E66 - Mostri</title>
     <desc lang="it">Manuela e i Molina scoprono la verità su Manterana, mentre Gracia si concentra sulla sua gravidanza.</desc>
-  </programme>
-  <programme start="20260911060000 +0200" stop="20260911061500 +0200" channel="Rai2.it">
-    <title lang="it">Ritorno a Las Sabinas Mostri</title>
-    <desc lang="it">SOAP OPERA - Manuela e i Molina scoprono la verità su Manterana, mentre Gracia si concentra sulla sua gravidanza.... - 1^ stagione Con Celia Freijeiro, Andrés Velencoso, Angela Molina, Olivia Molina, Natalia Sánchez, Nancho Novo, María Casal 2^ parte</desc>
   </programme>
   <programme start="20260911061500 +0200" stop="20260911070000 +0200" channel="Rai2.it">
     <title lang="it">La Grande Vallata S3E23 - A caccia di un Barkley Episodio 83</title>
     <desc lang="it">Nick corteggia una donna che gli ha tenuto nascosto che ha un marito che fa il killer perché ha paura per la sua incolumità. Episodio 83</desc>
   </programme>
   <programme start="20260911070000 +0200" stop="20260911070500 +0200" channel="Rai2.it">
-    <title lang="it">Gli imperdibili</title>
-    <desc lang="it">RUBRICA - Backstage, anteprime, eventi e curiosità dentro lo schermo. E' il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI. - Regia di Valerio Fagioli Autrici Gabriella Belloni, Cinzia De Ponti, Rita Iocchi Produttore esecutivo Clelia Fasano</desc>
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260911070500 +0200" stop="20260911074600 +0200" channel="Rai2.it">
     <title lang="it">Baywatch S8E2 - La nuova generazione</title>
@@ -435,8 +435,8 @@
     <desc lang="it">Durante uno spettacolo televisivo muoiono due giovani ed il primo indiziato sembra essere un ex ragazzo di Peregrine. Le indagini portano allo scoperto segreti e vecchi rancori.</desc>
   </programme>
   <programme start="20260911101000 +0200" stop="20260911110000 +0200" channel="Rai2.it">
-    <title lang="it">TG2 Storie. I racconti della settimana</title>
-    <desc lang="it">Le storie e i protagonisti di fatti di cronaca e di costume che si raccontano nella loro quotidianità. Direttore Antonio Preziosi Vicedirettore Alfonso Samengo  Curato e condotto da Adriana Pannitteri</desc>
+    <title lang="it">TG2 Storie - I racconti della settimana - Puntata del 15/11/2025</title>
+    <desc lang="it">Adriana Pannitteri intervista Fabrizio Moro che torna sulla scena musicale dopo oltre due anni. In occasione della Giornata internazionale contro la violenza sulle donne, Barbara Bartolotti racconta la sua esperienza di sopravvissuta a un tentato femminicidio, mentre il magistrato Fabio Roia analizza lo stato delle leggi e le criticità della società civile. Il programma propone poi un reportage da Gaza, dove l'inverno e la fragilità della tregua aggravano la situazione della popolazione, e dà voce all'appello di una madre ucraina che chiede il ritorno del figlio prigioniero. Spazio anche a una storia di imprenditoria di successo nella provincia di Caserta, alla vicenda del ginnasta Lorenzo Bonicelli, ancora alle prese con gravi lesioni dopo una caduta in gara, e a un approfondimento ambientale con il CNR sulla salute dei mari italiani. In chiusura, le immagini di Martina Orsini, che ha raccontato il mare attraverso i suoi reportage fotografici.</desc>
   </programme>
   <programme start="20260911110000 +0200" stop="20260911111000 +0200" channel="Rai2.it">
     <title lang="it">TG2 Flash</title>
@@ -469,8 +469,8 @@
     <desc lang="it">20 concorrenti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
   </programme>
   <programme start="20260911170000 +0200" stop="20260911175000 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Cobra 11 Una pista per </title>
-    <desc lang="it">Squadra Speciale Cobra 11 Una pista per Alex - TELEFILM - Durante una festa di compleanno, Semir, Andrea e Robert vengono rapiti da una banda di criminali capeggiata da un certo Grigorov... - 18^ stagione Con Erdogan Atalay, Tom Beck</desc>
+    <title lang="it">Squadra Speciale Cobra 11 S18E10  - Una pista per Alex</title>
+    <desc lang="it">Nel bel mezzo di una festa di compleanno, Semir, Andrea e Robert vengono rapiti da una banda di criminali capeggiata da un certo Grigorov.</desc>
   </programme>
   <programme start="20260911175000 +0200" stop="20260911180500 +0200" channel="Rai2.it">
     <title lang="it">Il meglio di Radio2 Social Club - 11/09/2026</title>
@@ -478,7 +478,7 @@
   </programme>
   <programme start="20260911180500 +0200" stop="20260911181000 +0200" channel="Rai2.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
-    <desc lang="it">NOTIZIARIO. - Direttore Giuseppe Carboni</desc>
+    <desc lang="it">Direttore Giuseppe Carboni</desc>
   </programme>
   <programme start="20260911181000 +0200" stop="20260911181500 +0200" channel="Rai2.it">
     <title lang="it">TG2 L.I.S.</title>
@@ -494,12 +494,12 @@
     <title lang="it">Meteo 2</title>
   </programme>
   <programme start="20260911190000 +0200" stop="20260911194200 +0200" channel="Rai2.it">
-    <title lang="it">Blue Bloods - Cattive compagnie</title>
-    <desc lang="it">- Danny e Baez indagano sulla scomparsa di alcune ragazze serbe e chiedono a Janko, che è di origine serbe, di aiutarli fingendo di cascare nella rete dei presunti rapitori....</desc>
+    <title lang="it">Blue Bloods S5E18 - Cattive compagnie</title>
+    <desc lang="it">Danny e Baez indagano sulla scomparsa di alcune ragazze serbe e chiedono a Janko, che è di origine serbe, di aiutarli fingendo di cascare nella rete dei presunti rapitori.</desc>
   </programme>
   <programme start="20260911194200 +0200" stop="20260911203000 +0200" channel="Rai2.it">
-    <title lang="it">Nel paese delle meraviglie</title>
-    <desc lang="it">TELEFILM - - Un senzatetto viene arso vivo durante un rito iniziatico. Frank si scontra con una giornalista in merito alla sfiducia che gli abitanti di certi quartieri disagiati nutrono nei confronti della Polizia.... - 5^ stagione Con Tom Selleck, Bridget Moynahan, Donnie Wahlberg</desc>
+    <title lang="it">Blue Bloods S5E19 - Nel paese delle meraviglie</title>
+    <desc lang="it">Un senzatetto viene arso vivo durante un rito iniziatico. Frank si scontra con una giornalista in merito alla sfiducia che gli abitanti di certi quartieri disagiati nutrono nei confronti della Polizia.</desc>
   </programme>
   <programme start="20260911203000 +0200" stop="20260911210000 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
@@ -529,20 +529,20 @@
     <desc lang="it">Il presidente Harry Carrey , la sua carismatica stagista e i due tecnici delle fibre ottiche, si ritrovano bloccati nello Studio Ovale della Casa Bianca. Un sedicente commando extraterrestre ha comunicato loro via email che la stanza è minata e che è impossibile entrare o uscire.</desc>
   </programme>
   <programme start="20260912033000 +0200" stop="20260912041400 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Colonia S16E24 - Ultima fermata</title>
-    <desc lang="it">1^ Visione Rai - Un ragazzo viene trovato morto alla fermata di un autobus. La squadra indaga sul suo omicidio e scopre un caso di furto di medicinali e il tradimento di una moglie.</desc>
+    <title lang="it">Squadra Speciale Colonia S16E23 - La morte corre in rete</title>
+    <desc lang="it">Una giovane ragazza viene trovata morta dopo aver partecipato a una festa come escort insieme alla sua migliore amica.</desc>
   </programme>
   <programme start="20260912041400 +0200" stop="20260912045500 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Colonia S16E25 - Affari di famiglia</title>
-    <desc lang="it">1^ Visione Rai - Un uomo viene trovato morto nel giardino di una donna facoltosa. Le indagini lo identificano come un amante delle donne anziane con un cospicuo conto in banca.</desc>
+    <title lang="it">Squadra Speciale Colonia S16E24 - Ultima fermata</title>
+    <desc lang="it">Un ragazzo viene trovato morto alla fermata di un autobus. La squadra indaga sul suo omicidio e scopre un caso di furto di medicinali e il tradimento di una moglie.</desc>
   </programme>
   <programme start="20260912045500 +0200" stop="20260912054000 +0200" channel="Rai2.it">
-    <title lang="it">Rex Il calendario</title>
-    <desc lang="it">TELEFILM - Le appassionanti avventure del più famoso pastore tedesco impegnato nella risoluzione di delicati casi polizieschi.... - Con Francesco Arca, Domenico Fortunato</desc>
+    <title lang="it">Rex S8E4 - Il calendario</title>
+    <desc lang="it">Il commissario Terzani conosce un poliziotto modello, Michele Freda, durante gli scatti per un calendario della polizia. Ma, anche in quest'occasione, Rex ha fiuto: Terzani e Monterosso vengono coinvolti da una banda di tre rapinatori.</desc>
   </programme>
   <programme start="20260912054000 +0200" stop="20260912055000 +0200" channel="Rai2.it">
-    <title lang="it">Impazienti - Risvegli - Day Hospital - L</title>
-    <desc lang="it">Impazienti - Risvegli - Day Hospital - L'ospite - Perversioni - SIT COM - Una manovra imprevista e crash... un incidente! Nessuna ferita, per fortuna, ma ha inizio di un'interminabile controversia tra due  - automobilisti coll'unico obiettivo d'incassare un risarcimento... - Da un'idea di Massimiliano Tortora Con Enrico Bertolino e Max Tortora Regia di Celeste Laudisio</desc>
+    <title lang="it">Impazienti - S1E31 - Risvegli - Day Hospital - L'ospite - Perversioni</title>
+    <desc lang="it">A volte i risvegli notturni possono essere molto traumatci.</desc>
   </programme>
   <programme start="20260912055000 +0200" stop="20260912055500 +0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
@@ -570,11 +570,11 @@
   </programme>
   <programme start="20260912085000 +0200" stop="20260912093400 +0200" channel="Rai2.it">
     <title lang="it">Squadra Fluviale Elbe S2E7 - Lo scalatore</title>
-    <desc lang="it">1^ Visione Rai - Sull'argine dell'Elbe è disteso il corpo senza vita di uno scalatore. La Scientifica accerta che la sua attrezzatura è stata manomessa.</desc>
+    <desc lang="it">Sull'argine dell'Elbe è disteso il corpo senza vita di uno scalatore. La Scientifica accerta che la sua attrezzatura è stata manomessa.</desc>
   </programme>
   <programme start="20260912093400 +0200" stop="20260912102500 +0200" channel="Rai2.it">
     <title lang="it">Squadra Fluviale Elbe S2E8 - Solo dieci minuti</title>
-    <desc lang="it">1^ Visione Rai - Timo Faiser, un uomo da poco uscito dal carcere, vuole rivedere la figlia e fa pressione a Maike per aiutarlo. Quando lei si rifiuta, l'uomo rapisce Doris, la moglie di Maike.</desc>
+    <desc lang="it">Timo Faiser, un uomo da poco uscito dal carcere, vuole rivedere la figlia e fa pressione a Maike per aiutarlo. Quando lei si rifiuta, l'uomo rapisce Doris, la moglie di Maike.</desc>
   </programme>
   <programme start="20260912102500 +0200" stop="20260912105500 +0200" channel="Rai2.it">
     <title lang="it">Pets - Animali del Cuore - Puntata del 12/09/2026</title>
@@ -603,16 +603,16 @@
     <desc lang="it">Rubrica del Tg2 dedicata al tempo libero nel fine settimana. Direttore Antonio Preziosi Vicedirettore Fabrizio Frullani A cura di Adele Ammendola</desc>
   </programme>
   <programme start="20260912140000 +0200" stop="20260912153500 +0200" channel="Rai2.it">
-    <title lang="it">Omicidio a Mystery Island - Fino all'ultimo respiro</title>
-    <desc lang="it">1^ Visione Rai - A Mystery Island, Emilia Priestly si ritrova a ospitare il suo ex marito con la nuova moglie e un weekend di giochi investigativi si trasforma in un vero omicidio.</desc>
+    <title lang="it">Omicidi a Mystery Island - Fino all'ultimo respiro</title>
+    <desc lang="it">A Mystery Island, Emilia Priestly si ritrova a ospitare il suo ex marito con la nuova moglie e un weekend di giochi investigativi si trasforma in un vero omicidio.</desc>
   </programme>
   <programme start="20260912153500 +0200" stop="20260912171000 +0200" channel="Rai2.it">
-    <title lang="it">Omicidio a Mystery Island - Enigma mortale</title>
-    <desc lang="it">1^ Visione Rai - Per testare un nuovo gioco immersivo, due team rivali si sfidano in isolamento, ma viene commesso un omicidio. Emilia e Jason devono decifrare gli enigmi per smascherare l'assassino e sopravvivere.</desc>
+    <title lang="it">Omicidi a Mystery Island - Enigma mortale</title>
+    <desc lang="it"> Per testare un nuovo gioco immersivo, due team rivali si sfidano in isolamento, ma viene commesso un omicidio. Emilia e Jason devono decifrare gli enigmi per smascherare l'assassino e sopravvivere.</desc>
   </programme>
   <programme start="20260912171000 +0200" stop="20260912175500 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">TELEFILM - Situazioni delicate e pericolose, inseguimenti estremi, acrobazie ed incidenti sono all'ordine del giorno per i Commissari della pattuglia Cobra 11 della Polizia Autostradale Tedesca.... - 19^ stagione Con Erdogan Atalay</desc>
+    <title lang="it">Squadra Speciale Cobra 11 S18E11 - Vernice pericolosa</title>
+    <desc lang="it">Maxim Bohtmann riesce ad introdurre una pistola all'interno di un tribunale, grazie ad una speciale vernice che elude i controlli degli scanner di sicurezza.</desc>
   </programme>
   <programme start="20260912175500 +0200" stop="20260912175800 +0200" channel="Rai2.it">
     <title lang="it">TG2 L.I.S.</title>
@@ -621,15 +621,15 @@
     <title lang="it">Meteo 2</title>
   </programme>
   <programme start="20260912180000 +0200" stop="20260912203000 +0200" channel="Rai2.it">
-    <title lang="it">World Athletics Ultimate Championships</title>
-    <desc lang="it">1a edizione dell'evento: un format spettacolare che prevede 3 serate di finali, dall'11 al 13 settembre, in cui si sfidano i migliori atleti al mondo di ogni disciplina.</desc>
+    <title lang="it">Atletica: Ultimate Championship 2026 - 2a giornata: Semifinali e Finali</title>
+    <desc lang="it">Seconda giornata dell'Ultimate Championship 2026 a Budapest, con un ricco programma di finali e semifinali. In palio i titoli nei 100 metri maschili e femminili, negli 800 e 1500 metri femminili, nei 400 ostacoli, nel salto con l'asta femminile, nel lungo maschile e nel giavellotto femminile.</desc>
   </programme>
   <programme start="20260912203000 +0200" stop="20260912205500 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
   </programme>
   <programme start="20260912205500 +0200" stop="20260912230000 +0200" channel="Rai2.it">
     <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Grecia - Italia</title>
-    <desc lang="it">Pallavolo. Campionato Europeo maschile Fase a gruppi: Gruppo A In diretta dal PalaPanini di Modena</desc>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Grecia in una nuova sfida della fase a gironi, con gli Azzurri a caccia di punti importanti per la classifica.</desc>
   </programme>
   <programme start="20260912230000 +0200" stop="20260913000500 +0200" channel="Rai2.it">
     <title lang="it">Sabato al 90° del 12/09/2026</title>
@@ -703,7 +703,15 @@
   <programme start="20260913135800 +0200" stop="20260913140000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
   </programme>
-  <programme start="20260913140000 +0200" stop="20260913175500 +0200" channel="Rai2.it">
+  <programme start="20260913140000 +0200" stop="20260913145500 +0200" channel="Rai2.it">
+    <title lang="it">Domenica Sportiva Pomeriggio - Puntata del 13/09/2026</title>
+    <desc lang="it">Conducono Gianluca Semprini, Francesca Spaziani Testa Supervisione Massimo Proietto A cura di Alessandro Antinelli Produttore esecutivo Marco Benucci</desc>
+  </programme>
+  <programme start="20260913145500 +0200" stop="20260913170000 +0200" channel="Rai2.it">
+    <title lang="it">Calcio. Campionato Italiano Serie C 2026/27  Ravenna – Perugia</title>
+    <desc lang="it">Calcio. Campionato Italiano Serie C 2026/27  Ravenna – Perugia</desc>
+  </programme>
+  <programme start="20260913170000 +0200" stop="20260913175500 +0200" channel="Rai2.it">
     <title lang="it">Domenica Sportiva Pomeriggio - Puntata del 13/09/2026</title>
     <desc lang="it">Conducono Gianluca Semprini, Francesca Spaziani Testa Supervisione Massimo Proietto A cura di Alessandro Antinelli Produttore esecutivo Marco Benucci</desc>
   </programme>
@@ -742,16 +750,16 @@
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260911080000 +0200" stop="20260911095000 +0200" channel="Rai3.it">
-    <title lang="it">Agorà - Puntata del 11/09/2026</title>
-    <desc lang="it">Annalisa Bruchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
+    <title lang="it">Da allora in poi - Agorà</title>
+    <desc lang="it">Il presidente Trump alla convention repubblicana a Dallas cerca di recuperare consensi promettendo, in caso di vittoria alle elezioni di midterm, 5 mila dollari a tutti gli americani. Gli Stati Uniti, intanto, celebrano il 25° anniversario dell'11 settembre. Spazio anche ai timori sull'AI dopo l'allarme lanciato dal ricercatore I-tech Jacob Coxon: "sterminerà" realmente l'uomo? E ancora, la legge elettorale: il Senato boccia l'emendamento del Pd, ma approva quello che introduce le preferenze con capolista bloccati ed è subito bagarre. Dopo un focus sul maltempo che sta sferzando l'Italia, un collegamento dal Festival Risó, a Vercelli, con il ministro dell'Agricoltura Francesco Lollobrigida. Ospiti Francesco Lollobrigida, ministro dell'Agricoltura; Marco Lisei, Fratelli d'Italia; Edoardo Ziello, Futuro Nazionale; Pietro Senaldi, condirettore Libero; Federico Rampini, editorialista Corriere della Sera e saggista; Maria Cuffaro, Tg3 Mondo; Marco Minniti, presidente fondazione Med-Or; Antonio Rapisarda, direttore Secolo d'Italia; Francesco Cancellato, direttore Fanpage; Francesco Costa, direttore Il Post.</desc>
   </programme>
   <programme start="20260911095000 +0200" stop="20260911104500 +0200" channel="Rai3.it">
-    <title lang="it">Agorà Extra - Puntata del 11/09/2026</title>
-    <desc lang="it">Giulia Di Stefano racconta l'attualità attraverso analisi, interviste e dibattiti con i protagonisti della politica e del giornalismo per comprendere i cambiamenti dell'Italia e del mondo.</desc>
+    <title lang="it">Clima e agricoltura - Agorà Extra</title>
+    <desc lang="it">In questa puntata si parla di agricoltura e clima pazzo: le temperature roventi che bruciano i raccolti e fanno crollare le rese produttive con danni enormi e prezzi in costante aumento. Ospiti Giorgio Maria Bergesio, Lega; Francesco Emilio Borrelli, Alleanza Verdi e Sinistra; David Granieri, vicepresidente Coldiretti; Massimiliano Fazzini, climatologo Unicam-Sigea; Francesca Santolini, La Stampa; Vincenzo Pepe, presidente nazionale FareAmbiente; Marco Bottega, chef.</desc>
   </programme>
   <programme start="20260911104500 +0200" stop="20260911115500 +0200" channel="Rai3.it">
     <title lang="it">Elisir - Puntata del 11/09/2026</title>
-    <desc lang="it">Michele Mirabella, Francesca Parisella e Benedetta Rinaldi presentano nuovi approfondimenti su benessere fisico e psicologico, alimentazione, stili di vita e attualità medico-scientifica, grazie al contributo di esperti e a servizi sempre aggiornati.</desc>
+    <desc lang="it">Oggi Elisir si occupa di mal di testa, un disturbo che colpisce 15 milioni di italiani. Quali sono le terapie più innovative? Che differenza c'è tra emicrania e cefalea? A parlarne in studio sarà il professor Fabio Frediani, vice presidente della Fondazione Italiana Cefalee. A seguire, il focus sarà sul diabete, una malattia cronica caratterizzata da alti livelli di zucchero nel sangue. Quali sono i valori di glicemia da non superare? Come riconoscere i campanelli d'allarme? Quanto conta l'alimentazione nella gestione di questa malattia? Lo spiegherà il dottor Massimo Magi, medico di famiglia. L'ultimo approfondimento sarà sul dito a scatto: questa patologia può essere innescata da uno sforzo ripetuto? È sempre necessario l'intervento chirurgico? A fare chiarezza sarà il professor Rocco De Vitis, dirigente medico di Ortopedia e Chirurgia della mano alla Fondazione Policlinico Gemelli IRCCS di Roma. </desc>
   </programme>
   <programme start="20260911115500 +0200" stop="20260911120000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
@@ -760,8 +768,8 @@
     <title lang="it">TG3</title>
   </programme>
   <programme start="20260911122500 +0200" stop="20260911130000 +0200" channel="Rai3.it">
-    <title lang="it">Quante storie - Puntata del 11/09/2026</title>
-    <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
+    <title lang="it">Speciale Tg3 - Addio a Emma Bonino - 11/09/2026</title>
+    <desc lang="it">Il Tg3 ricorda Emma Bonino, protagonista per oltre cinquant'anni della vita politica italiana ed europea. Dalle battaglie radicali per i diritti civili all'impegno per le donne e contro la pena di morte, fino agli incarichi nelle istituzioni italiane ed europee, lo speciale ripercorre la storia e l'eredità politica di una delle figure più significative della vita pubblica italiana.</desc>
   </programme>
   <programme start="20260911130000 +0200" stop="20260911132000 +0200" channel="Rai3.it">
     <title lang="it">L'avversario</title>
@@ -1057,10 +1065,6 @@
   <programme start="20260913203000 +0200" stop="20260913231500 +0200" channel="Rai3.it">
     <title lang="it">PresaDiretta - Governati dal fossile - Puntata del 13/09/2026</title>
     <desc lang="it">Il reportage di PresaDiretta indaga il costo della dipendenza energetica italiana, tra gas, petrolio, rinnovabili e bollette. Dall'Italia al delta del Niger, un viaggio tra territori segnati dall'industria fossile, extraprofitti delle compagnie energetiche, progetti per le rinnovabili bloccati e nuove tecnologie che stanno trasformando la mobilità. Chi paga davvero il prezzo delle scelte energetiche? Al centro dell'inchiesta anche il polo petrolchimico siciliano, tra inquinamento e bonifiche incompiute, e le conseguenze della mancata prevenzione sul dissesto idrogeologico. In studio, il ministro dell'Ambiente e della Sicurezza Energetica Gilberto Pichetto Fratin.</desc>
-  </programme>
-  <programme start="20260913203000 +0200" stop="20260913212000 +0200" channel="Rai3.it">
-    <title lang="it">PresaDiretta Open - Puntata del 13/09/2026</title>
-    <desc lang="it">Riccardo Iacona racconta la fragilità del territorio calabrese tra mancata prevenzione e continue emergenze. Dalle alluvioni alle frane, dalle mareggiate all'erosione delle coste, l'inchiesta attraversa la Calabria colpita dai cicloni del 2026 e segue il filo delle responsabilità, dei ritardi e delle opere mai realizzate, nonostante centinaia di milioni di euro stanziati. </desc>
   </programme>
   <programme start="20260913231500 +0200" stop="20260914000000 +0200" channel="Rai3.it">
     <title lang="it">Un giorno in Pretura - Omicidi in diretta - Puntata del 13/09/2026</title>
@@ -1738,11 +1742,11 @@
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260913101100 +0200" stop="20260913104500 +0200" channel="Rai5.it">
+  <programme start="20260913101000 +0200" stop="20260913104400 +0200" channel="Rai5.it">
     <title lang="it">Habitat. Trasimeno, il primo lago (pt.2)</title>
     <desc lang="it">Il lago Trasimeno, in Umbria, è il più antico d'Italia. La sua è una storia di innumerevoli mutazioni, a partire dal livello delle acque, che dipende solo dalle piogge. Come tutti i laghi, il Trasimeno è un crocevia per le specie aviarie migratorie e nidificanti. Ma è anche un luogo di ricerca e di studio di pipistrelli e chironomidi. Il lago Trasimeno è un habitat la cui sopravvivenza sembra minacciata dalla natura stessa, ma in cui l'uomo investe risorse e tecnologie per preservarne l'autenticità. </desc>
   </programme>
-  <programme start="20260913104500 +0200" stop="20260913121300 +0200" channel="Rai5.it">
+  <programme start="20260913104400 +0200" stop="20260913121200 +0200" channel="Rai5.it">
     <title lang="it">Sapiens, un solo pianeta - Predatori di futuro - Puntata del 11/10/2025</title>
     <desc lang="it">I Sapiens sono gli unici animali capaci di distruggere la propria casa. In nome del profitto, hanno trasformato la Terra in un immenso mercato, dove tutto — acqua, foreste, animali, perfino l'aria — ha un prezzo. Ma perché, a differenza delle altre specie, mercifichiamo le risorse da cui dipende la nostra stessa sopravvivenza? E perché continuiamo a inseguire un modello economico che consuma il pianeta più velocemente di quanto esso riesca a rigenerarsi? Nel nuovo appuntamento Mario Tozzi ci porta nel cuore dell'Amazzonia, a Manaus, città simbolo dell'assalto dei Sapiens al pianeta. Un tempo prospera grazie al commercio della gomma, oggi è un grande polo industriale che genera miliardi di dollari ma al prezzo di deforestazione, inquinamento e disuguaglianze sociali estreme. Da qui parte il viaggio per capire come siamo diventati i predatori delle risorse naturali e di noi stessi. Nella giungla amazzonica, Tozzi incontra Guy, capo della comunità indigena Cipià, custode di un equilibrio antichissimo con l'ambiente: un modo diverso di essere Sapiens, fondato sul rispetto e non sull'accumulo. Un racconto che attraversa la storia, la scienza e la filosofia per interrogarsi sul prezzo del progresso e su cosa significhi davvero, oggi, essere "umani" su un solo pianeta.</desc>
   </programme>
@@ -1754,19 +1758,19 @@
     <title lang="it">Passepartout - Il mito pop</title>
     <desc lang="it">Passepartout questa settimana rivela ai telespettatori una delle sue fondamentali chiavi di ricerca e di indagine: l'antropologia culturale. Le forme simboliche come le arti e i miti diventano gli strumenti per interpretare i modi in cui le persone e i popoli esprimono la loro visione sul mondo e il contesto che li circonda. La cultura si pone al centro dell'interesse dell'indagine con tutte le sue modalità di trasmissione, innovazione, variazione, conservazione</desc>
   </programme>
-  <programme start="20260913131600 +0200" stop="20260913140800 +0200" channel="Rai5.it">
+  <programme start="20260913131500 +0200" stop="20260913140700 +0200" channel="Rai5.it">
     <title lang="it">Visioni - La danza dell'aria e dell'acqua - 28/07/2023</title>
     <desc lang="it">Dalla notte dei tempi l'uomo ha cercato di dare un ordine alla natura dividendo i fenomeni in elementi. Visioni, cerca di indagare con l'aiuto di Telmo Pievani, Michelangelo Pistoletto, Alex Bellini e tanti altri la profonda correlazione fra uomo e natura. </desc>
   </programme>
-  <programme start="20260913140800 +0200" stop="20260913151000 +0200" channel="Rai5.it">
+  <programme start="20260913140700 +0200" stop="20260913151000 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S7E7 - Sul confine del Carso</title>
     <desc lang="it">Lucrezia Lo Bianco ci guida nel Carso, dove l'identità è plasmata dalle storie di chi lo abita. Tra incontri, racconti, cibo e fotografie, esploriamo un mosaico di esperienze legate dal confine che ha segnato le vite di chi ha attraversato questa terra.  </desc>
   </programme>
-  <programme start="20260913151000 +0200" stop="20260913160400 +0200" channel="Rai5.it">
+  <programme start="20260913151000 +0200" stop="20260913160300 +0200" channel="Rai5.it">
     <title lang="it">Wild Italy - S7E4</title>
     <desc lang="it">Negli ultimi cinquanta anni la superficie forestale dell'Italia è aumentata di un buon dieci per cento, in pratica è come se una regione intera delle dimensioni della valle d'Aosta fatta di boschi di querce e di faggi, di pini e di lecci, si fosse aggiunta a quelle già esistenti.</desc>
   </programme>
-  <programme start="20260913160400 +0200" stop="20260913173500 +0200" channel="Rai5.it">
+  <programme start="20260913160300 +0200" stop="20260913173500 +0200" channel="Rai5.it">
     <title lang="it">Manicomic</title>
     <desc lang="it">'Manicomic' è l'ennesima sfida per il celebre gruppo comico e teatral-musicale pugliese Rimbamband. In una strana clinica psichiatrica si ritrovano un medico e i quattro pazienti più gravi, affetti da varie patologie.</desc>
   </programme>
@@ -1782,19 +1786,19 @@
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260913193100 +0200" stop="20260913202700 +0200" channel="Rai5.it">
+  <programme start="20260913193000 +0200" stop="20260913202700 +0200" channel="Rai5.it">
     <title lang="it">Profumo di Pizzi. Dolce Vita (pt.1)</title>
     <desc lang="it">L'epoca di Pizzi è quella della pellicola e questo non è solo un dettaglio tecnico. Fare una foto, allora, era ben diverso, lo scatto era unico, simbolico, non era mai sequenza ma racconto in sé. La pellicola è anche "materiale", si tocca, si sviluppa e poi si stampa, rimane un negativo che è come il cliché da cui si stampano le banconote. È il tesoro di Umberto Pizzi, la sua personale zecca.Il tempo che verrà quando si racconta una storia del passato, come l'amore da copertina tra Liz Taylor e Richard Burton, che si trasformerà nel racconto del contemporaneo, arrivando agli amori dei nostri giorni, così diversi da quelli del passato. Il bianco e nero che diventa colore.</desc>
   </programme>
-  <programme start="20260913202700 +0200" stop="20260913212200 +0200" channel="Rai5.it">
+  <programme start="20260913202700 +0200" stop="20260913212300 +0200" channel="Rai5.it">
     <title lang="it">Overland 22 - Dalla Turchia al Pakistan: sempre più a Est - 29/12/2021</title>
     <desc lang="it">Percorriamo gli ultimi chilometri nel Sud-est della Turchia, sull'altopiano di Tur Abdin, prima di proseguire il nostro viaggio verso oriente. Tra i vicoli color miele di Midyat, il brulicante bazar di Mardin, monasteri e madrase, assaporiamo la grande ricchezza storica, culturale e artigianale della Mesopotamia. Voliamo in Pakistan, ultima tappa di questa edizione a cui partecipa anche il mitico Beppe Tenti, papà di Filippo e di Overland. Iniziamo il nostro itinerario dalla ex capitale del Paese, Karachi, per poi addentrarci in quella attuale: Islamabad. Qui approfondiamo la storia e le usanze del popolo pakistano. - Una produzione Overland Network Realizzazione di Filippo e Beppe Tenti Delegato Rai Milvia Licari</desc>
   </programme>
-  <programme start="20260913212200 +0200" stop="20260913231300 +0200" channel="Rai5.it">
+  <programme start="20260913212300 +0200" stop="20260913231400 +0200" channel="Rai5.it">
     <title lang="it">Fortapàsc</title>
     <desc lang="it">La vicenda del giornalista "praticante abusivo" del Il Mattino di Napoli, Giancarlo Siani, ucciso dalla camorra il 23 settembre 1985, colpevole di aver portato l'attenzione dei media sulle manovre della criminalità organizzata.</desc>
   </programme>
-  <programme start="20260913231300 +0200" stop="20260914001400 +0200" channel="Rai5.it">
+  <programme start="20260913231400 +0200" stop="20260914001500 +0200" channel="Rai5.it">
     <title lang="it">Italia viaggio nella bellezza - Sublime Aquileia - 04/12/2023</title>
     <desc lang="it">Nel Nord Est d'Italia, a pochi chilometri dalla laguna, c'è uno scrigno di tesori: Aquileia, città fondata dai romani e annoverata tra le più importanti dell'Impero. La sua meravigliosa basilica conserva i più vasti mosaici pavimentali cristiani d'Occidente. Un'eredità incommensurabile, tutelata dall'Unesco che venticinque anni fa ha inserito Aquileia nella lista dei luoghi patrimonio dell'umanità. </desc>
   </programme>
@@ -1826,15 +1830,15 @@
     <title lang="it">Mani di fata</title>
     <desc lang="it">Andrea, ingegnere quarantenne, perde il lavoro mentre la moglie Franca ottiene una promozione. Le "posizioni" si invertono: lei lavora, lui è obbligato a svolgere le faccende domestiche. Per guadagnare di più della moglie, lui un giorno accetta un lavoro di colf nella casa di una contessa.</desc>
   </programme>
-  <programme start="20260911121000 +0200" stop="20260911140000 +0200" channel="RaiMovie.it">
+  <programme start="20260911121000 +0200" stop="20260911140100 +0200" channel="RaiMovie.it">
     <title lang="it">I mitici - Colpo gobbo a Milano</title>
     <desc lang="it">Fabio ed Enzo, due amici romani che hanno perso il lavoro, decidono di  rapinare una gioielleria di via Montenapoleone a Milano.</desc>
   </programme>
-  <programme start="20260911140000 +0200" stop="20260911153500 +0200" channel="RaiMovie.it">
+  <programme start="20260911140100 +0200" stop="20260911153700 +0200" channel="RaiMovie.it">
     <title lang="it">7 pistole per un massacro</title>
     <desc lang="it">Dopo dieci anni di ingiusta prigionia per una rapina mai commessa, Will Flaherty riassapora la libertà con un unico obiettivo: la giustizia. Il destino lo mette faccia a faccia con il vero colpevole, l'uomo che gli ha rubato la vita. Tra polvere e piombo, per Will scocca l'ora di un riscatto violento e definitivo nel cuore del selvaggio West.</desc>
   </programme>
-  <programme start="20260911153500 +0200" stop="20260911154000 +0200" channel="RaiMovie.it">
+  <programme start="20260911153700 +0200" stop="20260911154000 +0200" channel="RaiMovie.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
@@ -3038,34 +3042,26 @@
     <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
   <programme start="20260911070000 +0200" stop="20260911073000 +0200" channel="RaiSport.it">
-    <title lang="it">Memory</title>
-    <desc lang="it">Memory</desc>
+    <title lang="it">Corsa in montagna - La Direttissima 2026</title>
+    <desc lang="it">La Direttissima, gara podistica da Trento a Monte Bondone.</desc>
   </programme>
   <programme start="20260911073000 +0200" stop="20260911090000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Memorial Alfredo Martini 2026 - Coppa Sabatini</title>
     <desc lang="it">Seconda e ultima prova del Memorial Alfredo Martini 2026 con la Coppa Sabatini - Gran Premio Città di Peccioli. La due giorni toscana si chiude sulle strade della Valdera con una delle classiche più prestigiose del calendario italiano.  </desc>
   </programme>
-  <programme start="20260911090000 +0200" stop="20260911102000 +0200" channel="RaiSport.it">
+  <programme start="20260911090000 +0200" stop="20260911101500 +0200" channel="RaiSport.it">
     <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 2a giornata: Italia - Germania</title>
     <desc lang="it">Nella seconda giornata del girone della EBSL Superfinal 2026, l'Italia campione d'Europa in carica affronta la Germania a Viareggio.</desc>
   </programme>
-  <programme start="20260911102000 +0200" stop="20260911104500 +0200" channel="RaiSport.it">
+  <programme start="20260911101500 +0200" stop="20260911113000 +0200" channel="RaiSport.it">
     <title lang="it">Automobilismo: Campionato Europeo Formula Regional 2026 - Imola</title>
     <desc lang="it">La Formula Regional 2026 fa tappa all'Autodromo Internazionale Enzo e Dino Ferrari di Imola</desc>
   </programme>
-  <programme start="20260911104500 +0200" stop="20260911112000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Campionato Italiano GT Endurance 2026 - 3 Ore di Imola</title>
-    <desc lang="it">Il campionato GT Endurance 2026 fa tappa all'Autodromo Internazionale Enzo e Dino Ferrari di Imola.</desc>
-  </programme>
-  <programme start="20260911112000 +0200" stop="20260911122500 +0200" channel="RaiSport.it">
+  <programme start="20260911113000 +0200" stop="20260911131000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Memoriale Alfredo Martini 2026 - Giro di Toscana</title>
     <desc lang="it">Prima prova del Memorial Alfredo Martini 2026 con il Giro della Toscana. I protagonisti del ciclismo internazionale si sfidano sulle strade toscane in una corsa selettiva che apre la due giorni dedicata alla memoria del grande commissario tecnico azzurro.  </desc>
   </programme>
-  <programme start="20260911122500 +0200" stop="20260911124500 +0200" channel="RaiSport.it">
-    <title lang="it">Memory</title>
-    <desc lang="it">Memory</desc>
-  </programme>
-  <programme start="20260911124500 +0200" stop="20260911150000 +0200" channel="RaiSport.it">
+  <programme start="20260911131000 +0200" stop="20260911150000 +0200" channel="RaiSport.it">
     <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Italia - Svezia</title>
     <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Svezia nel suo cammino nella fase a gironi della competizione continentale.</desc>
   </programme>
@@ -3074,7 +3070,8 @@
     <desc lang="it">Italia contro Turchia, Velasco contro Santarelli. Questa partita è il rematch della finale mondiale dello scorso anno, la tensione agonistica e il tasso tecnico saranno sicuramente gli stessi.</desc>
   </programme>
   <programme start="20260911174500 +0200" stop="20260911175000 +0200" channel="RaiSport.it">
-    <title lang="it">Gli imperdibili</title>
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260911175000 +0200" stop="20260911191000 +0200" channel="RaiSport.it">
     <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Germania</title>
@@ -3084,15 +3081,11 @@
     <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
     <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
-  <programme start="20260911220000 +0200" stop="20260911234500 +0200" channel="RaiSport.it">
+  <programme start="20260911220000 +0200" stop="20260912013000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Uomini</title>
     <desc lang="it">Cross Country Olimpico - Elite Uomini </desc>
   </programme>
-  <programme start="20260911234500 +0200" stop="20260912013000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo MTB: Mondiali Val di Sole 2026 - Cross Country Olimpico - Elite Donne</title>
-    <desc lang="it">Cross Country Olimpico - Elite Donne</desc>
-  </programme>
-  <programme start="20260912013000 +0200" stop="20260912025000 +0200" channel="RaiSport.it">
+  <programme start="20260912013000 +0200" stop="20260912030000 +0200" channel="RaiSport.it">
     <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Danimarca</title>
     <desc lang="it">Nella quarta giornata del girone della EBSL Superfinal 2026, l'Italia affronta la Danimarca. </desc>
   </programme>
@@ -3100,52 +3093,60 @@
     <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
     <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
-  <programme start="20260912054000 +0200" stop="20260912060000 +0200" channel="RaiSport.it">
+  <programme start="20260912030000 +0200" stop="20260912055000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
+    <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
+  </programme>
+  <programme start="20260912055000 +0200" stop="20260912060000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20260912060000 +0200" stop="20260912070000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Fia Wec Le Mans 2026</title>
-    <desc lang="it">Automobilismo: Fia Wec Le Mans 2026</desc>
+    <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 Ore di Austin</title>
+    <desc lang="it">Il FIA World Endurance Championship fa tappa ad Austin, in Texas, per la Lone Star Le Mans.</desc>
   </programme>
   <programme start="20260912070000 +0200" stop="20260912073000 +0200" channel="RaiSport.it">
-    <title lang="it">TG Sport Mattina</title>
-    <desc lang="it">TG Sport Mattina</desc>
+    <title lang="it">Memory</title>
+    <desc lang="it">Memory</desc>
   </programme>
   <programme start="20260912073000 +0200" stop="20260912094500 +0200" channel="RaiSport.it">
-    <title lang="it">Basket Femminile: Coppa del Mondo Germania 2026 ev Italia posto Spareggio 2° 3°</title>
-    <desc lang="it">Basket Femminile: Coppa del Mondo Germania 2026 ev Italia posto Spareggio 2° 3°</desc>
+    <title lang="it">Basket: Mondiali femminili 2026 - Ottavi di finale: Italia - Australia</title>
+    <desc lang="it">L'Italia affronta l'Australia negli ottavi di finale dei Mondiali femminili di basket 2026. Per le Azzurre una sfida decisiva che vale l'accesso ai quarti di finale.</desc>
   </programme>
   <programme start="20260912094500 +0200" stop="20260912110500 +0200" channel="RaiSport.it">
-    <title lang="it">Beach Soccer Euro League Maschile Italia - Danimarca</title>
-    <desc lang="it">Beach Soccer Euro League Maschile Italia - Danimarca</desc>
+    <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Danimarca</title>
+    <desc lang="it">Nella quarta giornata del girone della EBSL Superfinal 2026, l'Italia affronta la Danimarca. </desc>
   </programme>
-  <programme start="20260912110500 +0200" stop="20260912135500 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica: Ultimate Challenge Budapest 1° giornata</title>
-    <desc lang="it">Atletica: Ultimate Challenge Budapest 1° giornata</desc>
+  <programme start="20260912104500 +0200" stop="20260912135500 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
+    <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
   <programme start="20260912135500 +0200" stop="20260912145000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: GT Endurance 2026</title>
-    <desc lang="it">Automobilismo: GT Endurance 2026</desc>
+    <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 Ore di Austin</title>
+    <desc lang="it">Il FIA World Endurance Championship fa tappa ad Austin, in Texas, per la Lone Star Le Mans.</desc>
+  </programme>
+  <programme start="20260912144000 +0200" stop="20260912145000 +0200" channel="RaiSport.it">
+    <title lang="it">Gli Imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
   <programme start="20260912145000 +0200" stop="20260912170000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio. Mondiali U20 Donne Polonia: Italia - Giappone</title>
-    <desc lang="it">Calcio. Mondiali U20 Donne Polonia: Italia - Giappone</desc>
+    <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Gruppo D: Italia - Giappone</title>
+    <desc lang="it">Nel Gruppo D dei Mondiali femminili Under 20 2026, l'Italia affronta il Giappone in una sfida importante per il cammino delle Azzurrine nella fase a gironi.</desc>
   </programme>
   <programme start="20260912170000 +0200" stop="20260912175000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Memorial Pantani</title>
-    <desc lang="it">Ciclismo. Memorial Pantani</desc>
+    <title lang="it">Ciclismo - Memorial Pantani 2026</title>
+    <desc lang="it">Il grande ciclismo torna sulle strade della Romagna con il Memorial Pantani 2026. Una classica internazionale in linea dedicata alla memoria del Pirata, con partenza e percorso nel territorio cesenate e un tracciato selettivo adatto agli attacchi.</desc>
   </programme>
   <programme start="20260912175000 +0200" stop="20260912203000 +0200" channel="RaiSport.it">
-    <title lang="it">Rugby. Supercoppa Italiana: Finale</title>
-    <desc lang="it">Rugby. Supercoppa Italiana: Finale</desc>
+    <title lang="it">Rugby: Finale Supercoppa Italiana 2026: Valorugby - Petrarca</title>
+    <desc lang="it">Allo Stadio Tommaso Fattori dell’Aquila, Valorugby Emilia e Petrarca Rugby si sfidano nella finale della Supercoppa Italiana 2026.</desc>
   </programme>
   <programme start="20260912203000 +0200" stop="20260912210000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica. Ultimate Championship Budapest - 2a g.ta</title>
-    <desc lang="it">Atletica. Ultimate Championship Budapest - 2a g.ta</desc>
+    <title lang="it">Atletica: Ultimate Championship 2026 - 2a giornata: Semifinali e Finali</title>
+    <desc lang="it">Seconda giornata dell'Ultimate Championship 2026 a Budapest, con un ricco programma di finali e semifinali. In palio i titoli nei 100 metri maschili e femminili, negli 800 e 1500 metri femminili, nei 400 ostacoli, nel salto con l'asta femminile, nel lungo maschile e nel giavellotto femminile.</desc>
   </programme>
   <programme start="20260912210000 +0200" stop="20260912220000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo MTB. C.ti del Mondo Uci Marathon Valle di Primiero</title>
-    <desc lang="it">Ciclismo MTB. C.ti del Mondo Uci Marathon Valle di Primiero</desc>
+    <title lang="it">Ciclismo MTB: Mondiali Marathon 2026 - Valle di Primiero</title>
+    <desc lang="it">I migliori specialisti della mountain bike sulle lunghe distanze si sfidano nei Campionati del Mondo UCI Marathon 2026. Un percorso impegnativo e selettivo assegna le maglie iridate della disciplina, tra resistenza, tecnica e grandi dislivelli.</desc>
   </programme>
   <programme start="20260912220000 +0200" stop="20260913010000 +0200" channel="RaiSport.it">
     <title lang="it">Rugby Elite Supercoppa: Valorugby Emilia - Petrarca Rugby Finale</title>
@@ -3160,7 +3161,8 @@
     <desc lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 eventuali Finalissima Italia</desc>
   </programme>
   <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="RaiSport.it">
-    <title lang="it">Il Sabato al 90°</title>
+    <title lang="it">Sabato al 90° del 12/09/2026</title>
+    <desc lang="it">La storica rubrica Rai che mostra tutti i gol e le azioni salienti degli anticipi di campionato di Serie A.</desc>
   </programme>
   <programme start="20260913070000 +0200" stop="20260913090000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Ultimate Challenge Budapest 1° giornata</title>
@@ -3378,7 +3380,7 @@
     <title lang="it">Radio2 lounge</title>
     <desc lang="it">Con Jodie Alivernini. Regia di Luca Cucchetti. A cura di Linda Critelli e Pietro Luchetti.</desc>
   </programme>
-  <programme start="20260913190000 +0200" stop="20260914055500 +0200" channel="RaiRadio2Visual.it">
+  <programme start="20260913190000 +0200" stop="20260914055600 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 Hits</title>
     <desc lang="it">Regia di Gaia Bottaro. A cura di Davide Verticelli</desc>
   </programme>
