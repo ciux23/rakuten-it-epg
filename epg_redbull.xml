@@ -15,10 +15,6 @@
   <channel id="redbull_action_reel">
     <display-name lang="it">Red Bull Action Reel</display-name>
   </channel>
-  <programme start="20260911124208 +0000" stop="20260911130208 +0000" channel="redbull_tv">
-    <title lang="it">Osaka Daggers</title>
-    <desc lang="it">Madars Apse travels to Osaka, Japan, to meet the Osaka Daggers skate crew. This crew built the underground skate scene in Japan and when you see them skate you'll see the passion they bring.</desc>
-  </programme>
   <programme start="20260911130208 +0000" stop="20260911133608 +0000" channel="redbull_tv">
     <title lang="it">South America Tour</title>
     <desc lang="it">Skaters Ryan Sheckler, Jamie Foy, Torey Pudwill, Felipe Gustavo, Ryan Decenzo, Alex Sorgente, Angelo Caro, Gustavo Ribeiro, Gavin Bottger and friends rip right through Brazil, Argentina and Chile.</desc>
@@ -95,9 +91,9 @@
     <title lang="it">Hard Enduro 2025: The Hardest Season Yet?</title>
     <desc lang="it">Go behind the scenes of Red Bull Erzbergrodeo, Red Bull Romaniacs and Red Bull Outliers as the toughest Hard Enduro riders on Earth did battle across the world in 2025.</desc>
   </programme>
-  <programme start="20260911123420 +0000" stop="20260911125849 +0000" channel="redbull_bike">
-    <title lang="it">Ecuador</title>
-    <desc lang="it">Rob Warner va in Ecuador con la stella nascente della MTB Finn Iles per affrontare il Cotopaxi, nelle Ande. I due si preparano in modo insolito per poter affrontare l’alta quota.</desc>
+  <programme start="20260911221758 +0000" stop="20260911224158 +0000" channel="redbull_tv">
+    <title lang="it">South African street dance culture</title>
+    <desc lang="it">Exploring South Africa's vibrant dance culture and how Red Bull Dance Your Style was established, featuring disciplines like Amapiano, Sbujwa, Loxion Bhenga, and Pantsula.</desc>
   </programme>
   <programme start="20260911125849 +0000" stop="20260911131532 +0000" channel="redbull_bike">
     <title lang="it">Remy Morton: Seven Days and $7K</title>
@@ -174,6 +170,10 @@
   <programme start="20260911203745 +0000" stop="20260911205903 +0000" channel="redbull_bike">
     <title lang="it">Bas Keep: More Walls</title>
     <desc lang="it">In questo seguito del suo progetto "Walls", la stella della BMX Sebastian Keep affronta ostacoli e rampe in un paesaggio urbano tipicamente british.</desc>
+  </programme>
+  <programme start="20260911205903 +0000" stop="20260911211705 +0000" channel="redbull_bike">
+    <title lang="it">EMIL – Every Mystery I've Lived: The Next Chapter</title>
+    <desc lang="it">Ancora combattendo per tenere il passo con la sua malattia autoimmune, vediamo come si comporta il campione di slopestyle MTB Emil Johansson mentre cerca di riconquistare il suo titolo nel 2020.</desc>
   </programme>
   <programme start="20260911115854 +0000" stop="20260911133731 +0000" channel="redbull_adventure">
     <title lang="it">Valley Uprising</title>
@@ -255,10 +255,6 @@
     <title lang="it">United States of Joe's</title>
     <desc lang="it">Un gruppo di scalatori scopre i boulder di arenaria e lancia la rivoluzione americana del bouldering.</desc>
   </programme>
-  <programme start="20260911114808 +0000" stop="20260911125034 +0000" channel="redbull_motorsports">
-    <title lang="it">Erzbergfodeo Red Bull Hare Scramble</title>
-    <desc lang="it">The action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?</desc>
-  </programme>
   <programme start="20260911125034 +0000" stop="20260911131420 +0000" channel="redbull_motorsports">
     <title lang="it">Moto Maverick</title>
     <desc lang="it">Join all-round motorcycle rider Ryan Sipes and a supporting cast of the world's best motocross and supercross racers in a cinematic look at the current state of racing.</desc>
@@ -335,29 +331,9 @@
     <title lang="it">Brotherly love at Red Bud</title>
     <desc lang="it">While Jett's race hits a snag, Hunter scoops the red plate – the Lawrence brothers compete at the RedBud track in Michigan as the 250 Pro Motocross battle hits mid-season.</desc>
   </programme>
-  <programme start="20260911124534 +0000" stop="20260911124942 +0000" channel="redbull_action_reel">
-    <title lang="it">Rhine Line</title>
-    <desc lang="it">Prepare to witness not one, not two, but three world firsts. Freestyle motocross rider Luc Ackermann turns the Rhenus logistics stockyard in Duisburg, Germany into his personal FMX playground.</desc>
-  </programme>
-  <programme start="20260911124942 +0000" stop="20260911125307 +0000" channel="redbull_action_reel">
-    <title lang="it">Wakeskate reflection</title>
-    <desc lang="it">South African wakeskater Matti Buys invited one of the most influential pioneers of the sport, USA’s Brian Grubb, to South Africa to hit some of the most prominent spots around Durban.</desc>
-  </programme>
-  <programme start="20260911125307 +0000" stop="20260911125558 +0000" channel="redbull_action_reel">
-    <title lang="it">Breaking in the elements</title>
-    <desc lang="it">It’s a battle of the elements as Red Bull BC One All Stars Menno, dancing in water, and Lil G, dancing while on fire, stage the most visually stunning dance-off.</desc>
-  </programme>
-  <programme start="20260911125558 +0000" stop="20260911125843 +0000" channel="redbull_action_reel">
-    <title lang="it">Tahnée Seagrave tears up Lousã, Portugal</title>
-    <desc lang="it">After incurring a life-changing head injury, British cyclist Tahnée Seagrave returns to full pace and is prepared to battle for a top spot at the UCI Downhill Mountain Bike World Cup.</desc>
-  </programme>
-  <programme start="20260911125843 +0000" stop="20260911130122 +0000" channel="redbull_action_reel">
-    <title lang="it">Uncontainable</title>
-    <desc lang="it">Always looking for bigger set-ups, Drew Bezanson built a custom BMX park using enormous shipping containers. Drew worked with a team of renowned ramp builders led by Nate Wessel to put together some of the biggest BMX obstacles ever ridden.</desc>
-  </programme>
-  <programme start="20260911130122 +0000" stop="20260911130642 +0000" channel="redbull_action_reel">
-    <title lang="it">Benny Milam’s snowmobile session with Levi LaVallee</title>
-    <desc lang="it">With some creativity Benny Milam and Levi LaVallee turn a field and a few bales of hay into the perfect setup for a one-of-a-kind tow-in snowboarding session in Minnesota, USA.</desc>
+  <programme start="20260911230150 +0000" stop="20260911232402 +0000" channel="redbull_motorsports">
+    <title lang="it">Ripping it up in Romania</title>
+    <desc lang="it">Mani Lettenbichler and Paul Bolton head to Sibiu for Red Bull Romaniacs, probably the most anticipated and most feared event on the Hard Enduro calendar.</desc>
   </programme>
   <programme start="20260911130642 +0000" stop="20260911131234 +0000" channel="redbull_action_reel">
     <title lang="it">Running Reverse</title>
@@ -414,5 +390,29 @@
   <programme start="20260911134944 +0000" stop="20260911135352 +0000" channel="redbull_action_reel">
     <title lang="it">Freerunner's guide to the Sydney Opera House</title>
     <desc lang="it">Watch Dominic Di Tommaso freerun on the roof of the Sydney Opera House – all the way to tip of the sails. (Activities performed in a controlled environment under the supervision of professionals.)</desc>
+  </programme>
+  <programme start="20260911135352 +0000" stop="20260911135639 +0000" channel="redbull_action_reel">
+    <title lang="it">Laurie Greenland</title>
+    <desc lang="it">Goditi la vista e il suono puro e crudo che accompagna la discesa della professionista di MTB Laurie Greenland attraverso una montagna boscosa in Nuova Zelanda: solo il suono cristallino degli pneumatici sulla roccia e sulla ghiaia e nient'altro.</desc>
+  </programme>
+  <programme start="20260911135639 +0000" stop="20260911135929 +0000" channel="redbull_action_reel">
+    <title lang="it">Kolohe Andino</title>
+    <desc lang="it">Filmer Jacob Vanderwork brings us his best Kolohe Andino clips from their work together over the winter. Watch as Andino tears through the Hawaiian barrels.</desc>
+  </programme>
+  <programme start="20260911135929 +0000" stop="20260911140136 +0000" channel="redbull_action_reel">
+    <title lang="it">The Folgefonna session</title>
+    <desc lang="it">Go behind the scenes with The Collective crew as they capture some of the film's most stunning shots high on the Folgefonna plateau in Norway.</desc>
+  </programme>
+  <programme start="20260911140136 +0000" stop="20260911141028 +0000" channel="redbull_action_reel">
+    <title lang="it">Una monoposto di F1 vs l'Outback australiano</title>
+    <desc lang="it">Oracle Red Bull Racing ha mandato Daniel Ricciardo in Australia per conoscere il circuito di Albert Park. Il team può contare su alcuni dei migliori esperti di motorsport del Paese per affinare la strategia.</desc>
+  </programme>
+  <programme start="20260911141028 +0000" stop="20260911141310 +0000" channel="redbull_action_reel">
+    <title lang="it">Catching storm waves</title>
+    <desc lang="it">Mentre una violenta tempesta del Pacifico Settentrionale si abbatte sulle Hawaii, Kai Lenny, Joao Maffini, Torrey Meister, Nic Lamb e altri si lanciano sulle onde selvagge di Jaws.</desc>
+  </programme>
+  <programme start="20260911141310 +0000" stop="20260911141723 +0000" channel="redbull_action_reel">
+    <title lang="it">CJ Collins FER DAYZ</title>
+    <desc lang="it">Abandoned pools, desert DIYs and even some action in the streets from everyone's favourite all-terrain animal, CJ Collins. Do your best to keep up with the action.</desc>
   </programme>
 </tv>

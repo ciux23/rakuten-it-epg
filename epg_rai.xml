@@ -127,8 +127,8 @@
     <title lang="it">TELEGIORNALE</title>
   </programme>
   <programme start="20260911203000 +0200" stop="20260911203500 +0200" channel="Rai1.it">
-    <title lang="it">Cinque Minuti: l'ultima intervista a Emma Bonino - 11/09/2026</title>
-    <desc lang="it">L'ultima intervista tv di Emma Bonino: un faccia a faccia a casa sua con Bruno Vespa il 19 maggio 2026.</desc>
+    <title lang="it">Speciale Cinque Minuti: l'ultima intervista a Emma Bonino - 11/09/2026</title>
+    <desc lang="it">Bruno Vespa torna su Rai 1 con uno speciale di Cinque Minuti per ricordare Emma Bonino nel giorno della sua scomparsa: un faccia a faccia a casa sua con Bruno Vespa lo scorso 19 maggio 2026.</desc>
   </programme>
   <programme start="20260911203500 +0200" stop="20260911213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 11/09/2026</title>
@@ -801,15 +801,19 @@
   <programme start="20260911150500 +0200" stop="20260911151000 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
   </programme>
-  <programme start="20260911151000 +0200" stop="20260911160000 +0200" channel="Rai3.it">
-    <title lang="it">Divine</title>
-    <desc lang="it">Quello tra le donne e il vino è un rapporto simbiotico e viscerale. Il documentario racconta le storie, i sogni e la rinascita di cinque donne eccezionali: Susanna D'Amico, Carla Benini, Joy Kull, Domenica Luppino e Silvia Fuselli.</desc>
+  <programme start="20260911151000 +0200" stop="20260911154500 +0200" channel="Rai3.it">
+    <title lang="it">Emma Bonino – Anima Liberale</title>
+    <desc lang="it">Emma Bonino – Anima Liberale</desc>
   </programme>
-  <programme start="20260911160000 +0200" stop="20260911160500 +0200" channel="Rai3.it">
+  <programme start="20260911154500 +0200" stop="20260911155000 +0200" channel="Rai3.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260911160500 +0200" stop="20260911190000 +0200" channel="Rai3.it">
+  <programme start="20260911155000 +0200" stop="20260911170000 +0200" channel="Rai3.it">
+    <title lang="it">Aspettando Geo</title>
+    <desc lang="it">DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu - tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi Un programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone Capo progetto: Fausta Vannutelli Coordinamento editoriale: Caterina Manganella  Regia: Michelangelo Pepe</desc>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 11/09/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
@@ -1262,11 +1266,11 @@
     <title lang="it">Criminal Minds XIII ep.6</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260912123400 +0200" stop="20260912131900 +0200" channel="Rai4.it">
+  <programme start="20260912123400 +0200" stop="20260912132000 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.7</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
-  <programme start="20260912131900 +0200" stop="20260912140100 +0200" channel="Rai4.it">
+  <programme start="20260912132000 +0200" stop="20260912140100 +0200" channel="Rai4.it">
     <title lang="it">Criminal Minds XIII ep.8</title>
     <desc lang="it">La squadra di Unità Analisi Comportamentale è ancora al lavoro su casi border line: inarrestabili serial killer, ragazze ritrovate a pezzi all'interno di valigie, terroristi, donne rapite.</desc>
   </programme>
@@ -1274,75 +1278,75 @@
     <title lang="it">Predator</title>
     <desc lang="it">Un commando statunitense attera in segreto nella giungla centroamericana, alla ricerca di un uomo politico precipitato in elicottero. Nello stesso luogo è però da poco arrivato un cacciatore alieno.</desc>
   </programme>
-  <programme start="20260912155100 +0200" stop="20260912155400 +0200" channel="Rai4.it">
+  <programme start="20260912155100 +0200" stop="20260912155500 +0200" channel="Rai4.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260912155400 +0200" stop="20260912155800 +0200" channel="Rai4.it">
+  <programme start="20260912155500 +0200" stop="20260912155900 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep48 – La prima gondola d'oro</title>
     <desc lang="it">Dal 3 al 5 luglio 1965 si tenne a Venezia, per la prima volta, una manifestazione canora destinata a diventare per anni la "sorella musicale" della storica Mostra Internazionale del Cinema. Torniamo al 5 luglio per rivivere la serata finale di quella prima edizione, trasmessa in diretta da Piazza San Marco.</desc>
   </programme>
-  <programme start="20260912155800 +0200" stop="20260912160300 +0200" channel="Rai4.it">
+  <programme start="20260912155900 +0200" stop="20260912160300 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep49 – Il raddoppio dal Belgio</title>
     <desc lang="it">È il 1958 e la Rai dimostra già una notevole prontezza tecnologica: per consentire a Gino Bechi di tentare il raddoppio nel celebre Lascia o raddoppia?, organizza un collegamento in Eurovisione dal Belgio, dove il cantante e attore si trovava. Ma non finisce qui...</desc>
   </programme>
-  <programme start="20260912160300 +0200" stop="20260912160700 +0200" channel="Rai4.it">
+  <programme start="20260912160300 +0200" stop="20260912160800 +0200" channel="Rai4.it">
     <title lang="it">70 x 70 - Vol. 2 Ep50 – Vi piace l'Italia?</title>
     <desc lang="it">Torniamo insieme al 26 Maggio 1976 e scopriamo programmi incredibili in onda tutti nella stessa giornata, con tanto di interviste a Woody Allen, Nino Manfredi e a un giovanissimo Renato Zero</desc>
   </programme>
-  <programme start="20260912160700 +0200" stop="20260912165400 +0200" channel="Rai4.it">
+  <programme start="20260912160800 +0200" stop="20260912165500 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.14</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912165400 +0200" stop="20260912173800 +0200" channel="Rai4.it">
+  <programme start="20260912165500 +0200" stop="20260912173900 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.15</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912173800 +0200" stop="20260912182100 +0200" channel="Rai4.it">
+  <programme start="20260912173900 +0200" stop="20260912182200 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.16</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912182100 +0200" stop="20260912190500 +0200" channel="Rai4.it">
+  <programme start="20260912182200 +0200" stop="20260912190600 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.17</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912190500 +0200" stop="20260912194600 +0200" channel="Rai4.it">
+  <programme start="20260912190600 +0200" stop="20260912194700 +0200" channel="Rai4.it">
     <title lang="it">Castle V ep.18</title>
     <desc lang="it">Quinta stagione della fortunatissima serie poliziesca sulle indagini di Richard Castle, celebre scrittore di romanzi gialli, e Kate Beckett, detective della squadra omicidi del New York City Police Department.</desc>
   </programme>
-  <programme start="20260912194600 +0200" stop="20260912203300 +0200" channel="Rai4.it">
+  <programme start="20260912194700 +0200" stop="20260912203400 +0200" channel="Rai4.it">
     <title lang="it">C.S.I.: Vegas S3E7 - Un caso per caso</title>
     <desc lang="it">Due uomini vengono rinvenuti senza vita in circostanze molto sospette. Seppure le modalità siano decisamente differenti, uno in una sauna e l'altro in un bosco, la coincidenza è che le due vittime si conoscevano.</desc>
   </programme>
-  <programme start="20260912203300 +0200" stop="20260912211900 +0200" channel="Rai4.it">
+  <programme start="20260912203400 +0200" stop="20260912211900 +0200" channel="Rai4.it">
     <title lang="it">C.S.I.: Vegas S3E8 - L'arte della paura</title>
     <desc lang="it">La squadra è sulle tracce di un bizzarro assassino che si dedica a macabre sculture. Chris suggerisce a Beau di mettere in relazione gli omicidi con le vernici utilizzate per abbellire queste assurde opere d'arte.</desc>
   </programme>
-  <programme start="20260912211900 +0200" stop="20260912225700 +0200" channel="Rai4.it">
+  <programme start="20260912211900 +0200" stop="20260912225900 +0200" channel="Rai4.it">
     <title lang="it">Quelli che mi vogliono morto</title>
     <desc lang="it">Il dodicenne Connor è testimone di un omicidio e viene inserito in un programma di protezione testimoni. Viene nascosto tra le foreste del Montana, ma gli autori dell'assassinio sono sulle sue tracce.</desc>
   </programme>
-  <programme start="20260912225700 +0200" stop="20260913003000 +0200" channel="Rai4.it">
+  <programme start="20260912225900 +0200" stop="20260913003100 +0200" channel="Rai4.it">
     <title lang="it">Clean</title>
     <desc lang="it">Il netturbino Clean, provato da un passato violento da sicario, cerca di trascorrere una vita tranquilla, lavorando e prendendosi cura di chi ha bisogno. Quando però la brutalità di un boss locale prende di mira persone a lui care deve presto tornare alla violenza del suo passato.</desc>
   </programme>
-  <programme start="20260913003000 +0200" stop="20260913003300 +0200" channel="Rai4.it">
+  <programme start="20260913003100 +0200" stop="20260913003400 +0200" channel="Rai4.it">
     <title lang="it">Anica appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260913003300 +0200" stop="20260913020500 +0200" channel="Rai4.it">
+  <programme start="20260913003400 +0200" stop="20260913020700 +0200" channel="Rai4.it">
     <title lang="it">Last Man Down</title>
     <desc lang="it">Il soldato delle forze speciali John Wood si è ritirato a vita privata dopo la morte della moglie, ma deve tornare in azione per proteggere la donna il cui DNA potrebbe essere la chiave per una cura mondiale contro la pandemia che ha devastato la specie umana.</desc>
   </programme>
-  <programme start="20260913020500 +0200" stop="20260913033700 +0200" channel="Rai4.it">
+  <programme start="20260913020700 +0200" stop="20260913033900 +0200" channel="Rai4.it">
     <title lang="it">Endangered Species - Caccia Mortale</title>
     <desc lang="it">Una ricca e problematica famiglia americana in vacanza in Kenya, durante un safari viene attaccata da un rinoceronte. La jeep si capovolge e per Jack Halsey, sua moglie Lauren, i figli Noah e Zoe, accompagnata da suo ragazzo Billy, inizia una dura lotta per la sopravvivenza.</desc>
   </programme>
-  <programme start="20260913033700 +0200" stop="20260913041900 +0200" channel="Rai4.it">
+  <programme start="20260913033900 +0200" stop="20260913042000 +0200" channel="Rai4.it">
     <title lang="it">Coroner S4E3 L'ultima goccia</title>
     <desc lang="it">Jenny indaga sulla morte della signora Chan, sua figlia Helen è convinta che sia stata assassinata mentre Michael crede sia morta naturalmente, nonostante il ristorante sia in rosso; al laboratorio del coroner, dopo una tac, Jenny e la sua squadra scoprono che ha subito un colpo alla testa che ha portato alla sua morte.</desc>
   </programme>
-  <programme start="20260913041900 +0200" stop="20260913050000 +0200" channel="Rai4.it">
+  <programme start="20260913042000 +0200" stop="20260913050000 +0200" channel="Rai4.it">
     <title lang="it">Stranger Europe - Praga</title>
     <desc lang="it">Esoterica capitale della magia, Praga è la città protagonista della puntata. Ema Stokholma e Mattia Briga si avvicinano alla scienza occulta attraverso alchimisti, maghi, cimiteri e strumenti di tortura, mentre i meccanismi dell'orologio astronomico scandiscono il tempo della guerra fredda, fino all'ingresso di un bunker atomico. Attraverso l'arte fantasy del regista Karel Zeman e il droide R2-D2, i due viaggiatori cercano il lato oscuro della città, si fermano davanti al secondo edificio più brutto del mondo, prendono un caffè tra i fumetti di Saudek, visitano un museo microscopico… nel vero senso della parola. Non manca un tour dentro la biblioteca più bella del mondo e la visione di oltre duecento macchine del sesso. La giornata si chiude andando a ballare tra suggestive installazioni in ferro.</desc>
   </programme>
@@ -1650,11 +1654,11 @@
     <title lang="it">Art Night. Renoir in love (pt.12)</title>
     <desc lang="it">Il nostro mondo sta cambiando: le relazioni sociali e sentimentali sono in crisi. Ma è davvero qualcosa di nuovo? Nel XIX secolo, Auguste Renoir mise l'amore e l'amicizia al centro della sua pittura per sottolinearne l'importanza vitale, mentre la società appena industrializzata e urbanizzata metteva in discussione codici e tradizioni. </desc>
   </programme>
-  <programme start="20260912140500 +0200" stop="20260912142100 +0200" channel="Rai5.it">
+  <programme start="20260912140500 +0200" stop="20260912142200 +0200" channel="Rai5.it">
     <title lang="it">Il pescato della costa di Amalfi - Geo 02/12/2022</title>
     <desc lang="it">Il legame profondo tra i pescatori e il mare della Costiera Amalfitana, tra tradizioni antiche e quotidianità. Un viaggio alla scoperta del pescato locale, delle tecniche di pesca e dei sapori che nascono dal rapporto autentico con il Mediterraneo.</desc>
   </programme>
-  <programme start="20260912142100 +0200" stop="20260912151600 +0200" channel="Rai5.it">
+  <programme start="20260912142200 +0200" stop="20260912151600 +0200" channel="Rai5.it">
     <title lang="it">Borneo, la foresta ancestrale</title>
     <desc lang="it">Un viaggio nel cuore del Borneo, tra fiumi e colline, alla scoperta di una fauna straordinaria, con oranghi, elefanti, scimmie, buceri e insetti giganti. Qui si trova la foresta primaria più antica del mondo, uno degli ecosistemi più ricchi, affascinanti e fragili del pianeta.</desc>
   </programme>
@@ -1662,55 +1666,55 @@
     <title lang="it">Serengeti S1E6 - Rinascita</title>
     <desc lang="it">Una storia di fantasia basata sulla vita reale degli animali della savana africana. La pioggia torrenziale porta speranza e la terra rinasce in un paradiso verde. Gli anziani del Serengeti preparano i loro giovani all'età adulta e a una vita indipendente. La leonessa Kali è viva, ma uno dei suoi tre cuccioli... -  2019 GBR</desc>
   </programme>
-  <programme start="20260912161000 +0200" stop="20260912181800 +0200" channel="Rai5.it">
+  <programme start="20260912161000 +0200" stop="20260912181900 +0200" channel="Rai5.it">
     <title lang="it">Kilimangiaro collection 2026</title>
     <desc lang="it">I filmati più belli e significativi del Kilimangiaro ci faranno fare il giro del mondo per immagini attraversando i paesaggi e i luoghi della contemporaneità. Il rapporto tra uomo e natura, la vita nelle città, l'avventura e la storia. Un racconto spettacolare basato sui migliori reportage di viaggio del Kilimangiaro, - Un programma di Massimo Favia, Sergio Leszczynski. Collaborazione di Riccardo Pintori, Floriana Pastore. Produttore esecutivo Alessandro Bruno. Capo progetto Luisa Pistacchio. Regia Massimo Favia, Sergio Leszczynski 2026 ITA</desc>
   </programme>
-  <programme start="20260912181800 +0200" stop="20260912202300 +0200" channel="Rai5.it">
+  <programme start="20260912181900 +0200" stop="20260912202400 +0200" channel="Rai5.it">
     <title lang="it">La città ideale - Helsinki - Puntata del 03/01/2026</title>
     <desc lang="it">Helsinki è una città giovane, ma con una visione: mettere al centro le persone, a partire dai bambini. Massimiliano Ossini racconta perché la Finlandia sia considerata uno dei Paesi migliori al mondo per crescere una famiglia. Servizi pubblici capillari, quartieri sicuri, spazi condivisi e una profonda fiducia tra cittadini e istituzioni rendono possibile ciò che altrove sembra impensabile: bambini autonomi fin dall'asilo, famiglie sostenute concretamente dallo Stato, una quotidianità in cui il benessere dell'infanzia è una priorità reale. Emblema di questo modello è la Maternity Box, il pacco che ogni neonato riceve alla nascita: un gesto semplice che racconta un'idea di cura collettiva. Da qui il racconto si allarga alla città che funziona. Helsinki è un laboratorio di mobilità intelligente e qualità della vita: un solo biglietto per muoversi su metro, tram, autobus e traghetti; limiti di velocità che hanno portato all'obiettivo "zero vittime" sulle strade; spazi urbani pensati per rallentare e vivere meglio. Il lavoro si adatta alla vita, con orari flessibili e un equilibrio che lascia tempo alle relazioni, alla natura e alla cultura. Anche luoghi simbolici come l'isola-fortezza di Suomenlinna raccontano un'idea diversa di società, fondata sulla responsabilizzazione e sulla fiducia.  La puntata entra poi nel cuore dell'innovazione sostenibile grazie alle tecnologie pensate per ridurre l'impatto ambientale e restituire tempo e spazio alle persone. Infine, la cultura, con la biblioteca Oodi. Ospiti: Mario Biondi, Dacia Maraini, Maurizio Molinari, Veera Kinnunen e Oney Tapia, Prof. Alessandro Rosina, Prof. Andrea Giuricin.</desc>
   </programme>
-  <programme start="20260912202300 +0200" stop="20260912202800 +0200" channel="Rai5.it">
+  <programme start="20260912202400 +0200" stop="20260912202900 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260912202800 +0200" stop="20260912212200 +0200" channel="Rai5.it">
+  <programme start="20260912202900 +0200" stop="20260912212300 +0200" channel="Rai5.it">
     <title lang="it">Overland 22 - Turchia: i doni dell'Eufrate - 24/12/2021</title>
     <desc lang="it">Prosegue l'esplorazione della Turchia sud orientale, anche navigando sul Tigri e l'Eufrate ai confini della Mesopotamia: un territorio poco conosciuto ma incredibilmente interessante, alla frontiera con Siria e Iraq. Sempre più ad Est, in Pakistan percorreremo la Karakorum Highway, la strada internazionale più alta del mondo che si snoda tra i giganti montuosi della Terra fino a raggiungere il cuore dell'Asia e il confine con la Cina: panorami mozzafiato e popolazioni locali molto ospitali accoglieranno la nostra spedizione tra Himalaya, Hindu Kush e Karakorum, alla ricerca di nuove storie tra le culture che si sono incredibilmente adattate in queste zone.</desc>
   </programme>
-  <programme start="20260912212200 +0200" stop="20260912225800 +0200" channel="Rai5.it">
+  <programme start="20260912212300 +0200" stop="20260912225900 +0200" channel="Rai5.it">
     <title lang="it">Manicomic</title>
     <desc lang="it">'Manicomic' è l'ennesima sfida per il celebre gruppo comico e teatral-musicale pugliese Rimbamband. In una strana clinica psichiatrica si ritrovano un medico e i quattro pazienti più gravi, affetti da varie patologie.</desc>
   </programme>
-  <programme start="20260912225800 +0200" stop="20260913004600 +0200" channel="Rai5.it">
+  <programme start="20260912225900 +0200" stop="20260913004700 +0200" channel="Rai5.it">
     <title lang="it">The Rolling Stones: Havana Moon in Cuba</title>
     <desc lang="it">Ciudad Deportiva dell'Avana: 25 marzo 2016, il concerto dei Rolling Stones con oltre 300 mila spettatori. Introdotto dalle note di Jumpin' Jack Flash, Mick Jagger e la sua band, si sono esibiti per oltre due ore per la prima volta a Cuba, con 18 dei loro brani più famosi.</desc>
   </programme>
-  <programme start="20260913004600 +0200" stop="20260913011200 +0200" channel="Rai5.it">
+  <programme start="20260913004700 +0200" stop="20260913011300 +0200" channel="Rai5.it">
     <title lang="it">Pino Daniele Live</title>
     <desc lang="it">Pino Daniele esprime tutto il suo amore per il blues in questo concerto registrato nel 1980 a Pescara. Le canzoni che interpreta sono quelle più classiche del suo repertorio.</desc>
   </programme>
-  <programme start="20260913011200 +0200" stop="20260913011700 +0200" channel="Rai5.it">
+  <programme start="20260913011300 +0200" stop="20260913011800 +0200" channel="Rai5.it">
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260913011700 +0200" stop="20260913011800 +0200" channel="Rai5.it">
+  <programme start="20260913011800 +0200" stop="20260913011900 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260913011800 +0200" stop="20260913021100 +0200" channel="Rai5.it">
+  <programme start="20260913011900 +0200" stop="20260913021200 +0200" channel="Rai5.it">
     <title lang="it">Overland 22 - Turchia: i doni dell'Eufrate - 24/12/2021</title>
     <desc lang="it">Prosegue l'esplorazione della Turchia sud orientale, anche navigando sul Tigri e l'Eufrate ai confini della Mesopotamia: un territorio poco conosciuto ma incredibilmente interessante, alla frontiera con Siria e Iraq. Sempre più ad Est, in Pakistan percorreremo la Karakorum Highway, la strada internazionale più alta del mondo che si snoda tra i giganti montuosi della Terra fino a raggiungere il cuore dell'Asia e il confine con la Cina: panorami mozzafiato e popolazioni locali molto ospitali accoglieranno la nostra spedizione tra Himalaya, Hindu Kush e Karakorum, alla ricerca di nuove storie tra le culture che si sono incredibilmente adattate in queste zone.</desc>
   </programme>
-  <programme start="20260913021100 +0200" stop="20260913030700 +0200" channel="Rai5.it">
+  <programme start="20260913021200 +0200" stop="20260913030800 +0200" channel="Rai5.it">
     <title lang="it">I colori dell'arte - S1E5 Nero</title>
     <desc lang="it">Come il colore nero ha plasmato la pittura e le arti visive nel tempo.</desc>
   </programme>
-  <programme start="20260913030700 +0200" stop="20260913040000 +0200" channel="Rai5.it">
+  <programme start="20260913030800 +0200" stop="20260913040100 +0200" channel="Rai5.it">
     <title lang="it">Borneo, la foresta ancestrale</title>
     <desc lang="it">Un viaggio nel cuore del Borneo, tra fiumi e colline, alla scoperta di una fauna straordinaria, con oranghi, elefanti, scimmie, buceri e insetti giganti. Qui si trova la foresta primaria più antica del mondo, uno degli ecosistemi più ricchi, affascinanti e fragili del pianeta.</desc>
   </programme>
-  <programme start="20260913040000 +0200" stop="20260913045400 +0200" channel="Rai5.it">
+  <programme start="20260913040100 +0200" stop="20260913045400 +0200" channel="Rai5.it">
     <title lang="it">Serengeti S1E6 - Rinascita</title>
     <desc lang="it">Una storia di fantasia basata sulla vita reale degli animali della savana africana. La pioggia torrenziale porta speranza e la terra rinasce in un paradiso verde. Gli anziani del Serengeti preparano i loro giovani all'età adulta e a una vita indipendente. La leonessa Kali è viva, ma uno dei suoi tre cuccioli... -  2019 GBR</desc>
   </programme>
@@ -1738,7 +1742,7 @@
     <title lang="it">Casa Sapiens. Attento, lupo ep.9</title>
     <desc lang="it">Nella favola di Cappuccetto Rosso rappresentiamo il lupo come infido, ingannatore, predatore, quando sappiamo che il lupo molto difficilmente caccia l'uomo. È anche per la loro cattiva fama che i lupi hanno più volte rischiato l'estinzione. Sono stati cacciati e in alcune zone del mondo del tutto sterminati. Negli Stati Uniti ne esistevano 250 mila prima dell'arrivo dei coloni, oggi ne sono rimasti 6 mila. Il lupo è un mammifero tra i più diffusi al mondo. Grazie alle sue capacità di adattamento ha popolato tutti gli ambienti e in Italia lo si poteva incontrare perfino sulle coste. Poi è stato ricacciato sugli Appennini, nei boschi e le sue colonie sono andate riducendosi per poi, ultimamente, crescere di nuovo. Non arrivavano a 200 alla fine degli anni Settanta, sono diventati 300 secondo stime recenti del WWF, dopo che i Sapiens hanno cominciato a proteggerli lasciandoli liberi di vivere in equilibrio con le proprie fonti di approvvigionamento. Ma restano una specie a rischio, complice anche il bracconaggio, e non sono gli unici. Secondo l'Istituto Superiore per la Protezione e la Ricerca Ambientale perdiamo 50 specie viventi al giorno. Negli ultimi 500 anni sono scomparse tra le 150 mila e le 260 mila specie dei 2 milioni di specie esistenti.</desc>
   </programme>
-  <programme start="20260913100400 +0200" stop="20260913101100 +0200" channel="Rai5.it">
+  <programme start="20260913100400 +0200" stop="20260913101000 +0200" channel="Rai5.it">
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
@@ -1750,11 +1754,11 @@
     <title lang="it">Sapiens, un solo pianeta - Predatori di futuro - Puntata del 11/10/2025</title>
     <desc lang="it">I Sapiens sono gli unici animali capaci di distruggere la propria casa. In nome del profitto, hanno trasformato la Terra in un immenso mercato, dove tutto — acqua, foreste, animali, perfino l'aria — ha un prezzo. Ma perché, a differenza delle altre specie, mercifichiamo le risorse da cui dipende la nostra stessa sopravvivenza? E perché continuiamo a inseguire un modello economico che consuma il pianeta più velocemente di quanto esso riesca a rigenerarsi? Nel nuovo appuntamento Mario Tozzi ci porta nel cuore dell'Amazzonia, a Manaus, città simbolo dell'assalto dei Sapiens al pianeta. Un tempo prospera grazie al commercio della gomma, oggi è un grande polo industriale che genera miliardi di dollari ma al prezzo di deforestazione, inquinamento e disuguaglianze sociali estreme. Da qui parte il viaggio per capire come siamo diventati i predatori delle risorse naturali e di noi stessi. Nella giungla amazzonica, Tozzi incontra Guy, capo della comunità indigena Cipià, custode di un equilibrio antichissimo con l'ambiente: un modo diverso di essere Sapiens, fondato sul rispetto e non sull'accumulo. Un racconto che attraversa la storia, la scienza e la filosofia per interrogarsi sul prezzo del progresso e su cosa significhi davvero, oggi, essere "umani" su un solo pianeta.</desc>
   </programme>
-  <programme start="20260913121300 +0200" stop="20260913124400 +0200" channel="Rai5.it">
+  <programme start="20260913121200 +0200" stop="20260913124200 +0200" channel="Rai5.it">
     <title lang="it">Passepartout - Abitare il nostro tempo</title>
     <desc lang="it">Viaggi nella storia e nell'arte. Scritto e condotto da Philippe Daverio.</desc>
   </programme>
-  <programme start="20260913124400 +0200" stop="20260913131600 +0200" channel="Rai5.it">
+  <programme start="20260913124200 +0200" stop="20260913131500 +0200" channel="Rai5.it">
     <title lang="it">Passepartout - Il mito pop</title>
     <desc lang="it">Passepartout questa settimana rivela ai telespettatori una delle sue fondamentali chiavi di ricerca e di indagine: l'antropologia culturale. Le forme simboliche come le arti e i miti diventano gli strumenti per interpretare i modi in cui le persone e i popoli esprimono la loro visione sul mondo e il contesto che li circonda. La cultura si pone al centro dell'interesse dell'indagine con tutte le sue modalità di trasmissione, innovazione, variazione, conservazione</desc>
   </programme>
@@ -1782,7 +1786,7 @@
     <title lang="it">Casina Pio IV - L'architettura del pensiero</title>
     <desc lang="it">In un tumultuoso '500, nel cuore del Vaticano l'architetto Pirro Ligorio usa il suo sapere enciclopedico per creare l'architettura universale della Casina Pio IV, uno scrigno di bellezza che diviene specchio dei radicali mutamenti socio-religiosi dell'epoca, dal violento Sacco di Roma all'importante Riforma Tridentina.</desc>
   </programme>
-  <programme start="20260913192600 +0200" stop="20260913193100 +0200" channel="Rai5.it">
+  <programme start="20260913192600 +0200" stop="20260913193000 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
@@ -1958,15 +1962,15 @@
     <title lang="it">La seconda volta non si scorda mai</title>
     <desc lang="it">Giulio Terracciano è un giovane e brillante agente immobiliare. Un giorno, durante una rimpatriata tra vecchi compagni di scuola, ritrova Ilaria Fiorito, la bella sorella di un amico e se ne invaghisce immediatamente. Convinto di essere ricambiato, inizia il corteggiamento ma la giovane è già promessa sposa di un noto penalista napoletano. Riuscirà a conquistarla?</desc>
   </programme>
-  <programme start="20260913103000 +0200" stop="20260913122000 +0200" channel="RaiMovie.it">
+  <programme start="20260913103000 +0200" stop="20260913121500 +0200" channel="RaiMovie.it">
     <title lang="it">Totò e Cleopatra</title>
     <desc lang="it">Dopo l'assassinio di Cesare, Marco Antonio inizia la sua relazione politico-amorosa con Cleopatra, regina d'Egitto. Al suo ritorno a Roma viene fatto sequestrare dalla moglie e sostituito dal suo sosia Totonno, che viene rimandato da Cleopatra a suo posto.</desc>
   </programme>
-  <programme start="20260913122000 +0200" stop="20260913141000 +0200" channel="RaiMovie.it">
+  <programme start="20260913121500 +0200" stop="20260913140500 +0200" channel="RaiMovie.it">
     <title lang="it">Raid - Una poliziotta fuori di testa</title>
     <desc lang="it">Johanna è una giovane donna che sogna di far parte del RAID delle forze di sicurezza nazionale d'élite. Suo padre è ministro dell'Interno e cercherà di farla entrare, ma l'ingresso di una donna in questo corpo speciale non è ben visto da molti. </desc>
   </programme>
-  <programme start="20260913141000 +0200" stop="20260913153500 +0200" channel="RaiMovie.it">
+  <programme start="20260913140500 +0200" stop="20260913153500 +0200" channel="RaiMovie.it">
     <title lang="it">Ibiza</title>
     <desc lang="it">Philippe e Carole si innamorano dopo il divorzio, ma per conquistare i figli di lei, Philippe accetta di portarli in vacanza dove vogliono. Destinazione: Ibiza! Tra feste, eccessi e imprevisti, per lui sarà un viaggio tutto da sopportare... e forse anche da imparare!</desc>
   </programme>
@@ -2150,11 +2154,11 @@
     <title lang="it">Ho sposato uno sbirro S1E5 - Solo per amore</title>
     <desc lang="it">Durante un semplice prelievo in banca, Diego viene ferito da un colpo di pistola nel tentativo di salvare una bambina. Fortunatamente non viene colpito nessun organo vitale e Lorenza gli dona anche il suo sangue per salvargli la vita.</desc>
   </programme>
-  <programme start="20260912135500 +0200" stop="20260912153000 +0200" channel="RaiPremium.it">
+  <programme start="20260912135500 +0200" stop="20260912153500 +0200" channel="RaiPremium.it">
     <title lang="it">La nave dei sogni - Argentina</title>
     <desc lang="it">A bordo di una lussuosa nave da crociera, rotte incrociate e vecchie ferite si riaprono tra risate, segreti e seconde possibilità. L'arrivo del nuovo chef Leon Müller accende subito tensioni.</desc>
   </programme>
-  <programme start="20260912153000 +0200" stop="20260912155500 +0200" channel="RaiPremium.it">
+  <programme start="20260912153500 +0200" stop="20260912155500 +0200" channel="RaiPremium.it">
     <title lang="it">I mestieri di Mirko - L'arte della pizza al taglio - pt1</title>
     <desc lang="it">Tra forno e mare, Mirko scopre la pizza al taglio e l'asta del pesce.</desc>
   </programme>
@@ -2222,11 +2226,11 @@
     <title lang="it">L'Oriana - S1E1</title>
     <desc lang="it">In uno dei suoi ultimi ritorni in Italia, Oriana decide di rimettere ordine tra i materiali giornalistici e fotografici stratificatisi per anni nell'antica casa di famiglia, in piena campagna toscana. Per farlo si rivolge all'università di Firenze, che le manda una aspirante giornalista, di nome Lisa, piena di buona volontà ma di nessuna competenza specifica, che accetta di fare il lavoro solo per avere la possibilità di conoscere quella che rappresenta per lei un vero mito.</desc>
   </programme>
-  <programme start="20260913072000 +0200" stop="20260913085000 +0200" channel="RaiPremium.it">
+  <programme start="20260913072000 +0200" stop="20260913085500 +0200" channel="RaiPremium.it">
     <title lang="it">L'Oriana - S1E2</title>
     <desc lang="it">Nell'agosto 1973 Oriana conosce Alekos Panagulis, leader della resistenza greca. Si incontrano il giorno in cui lui esce dal carcere: si innamorano, diventano inseparabili. E' l'unico periodo della sua esistenza in cui si divide tra vita pubblica e vita privata. Poi, di colpo, nel giro di pochi mesi, l'idillio si rompe.</desc>
   </programme>
-  <programme start="20260913085000 +0200" stop="20260913094500 +0200" channel="RaiPremium.it">
+  <programme start="20260913085500 +0200" stop="20260913094500 +0200" channel="RaiPremium.it">
     <title lang="it">Ho sposato uno sbirro S1E4 - Per un figlio</title>
     <desc lang="it">Viene trovato il corpo di una ragazza ucraina sulle rive del Tevere. Diego e Stella indagano negli ambienti frequentati della giovane, soprattutto nella casa nella quale lavorava come domestica, dove una sua connazionale lavora ancora come babysitter.</desc>
   </programme>
@@ -2246,11 +2250,11 @@
     <title lang="it">Ho sposato uno sbirro  S1E8 - Segreto di famiglia </title>
     <desc lang="it">Viene trovato morto il proprietario di un barcone sul Tevere. I sospetti cadono sull'ex marito della convivente della vittima e sembra essere coinvolto anche il figlio di Lojacono. Diego intanto organizza una gita in Spagna con la moto insieme agli amici, ma Stella vuole ristrutturare il bagno.</desc>
   </programme>
-  <programme start="20260913133000 +0200" stop="20260913143000 +0200" channel="RaiPremium.it">
+  <programme start="20260913133000 +0200" stop="20260913142500 +0200" channel="RaiPremium.it">
     <title lang="it">Ho sposato uno sbirro S1E9 - Questione di fiducia</title>
     <desc lang="it">In un circolo di tennis viene trovato il cadavere del direttore. Principale sospettato è il fratello di Lorenza, maestro di tennis, che sembra avere buone ragioni per volere la morte del capo.</desc>
   </programme>
-  <programme start="20260913143000 +0200" stop="20260913155500 +0200" channel="RaiPremium.it">
+  <programme start="20260913142500 +0200" stop="20260913155500 +0200" channel="RaiPremium.it">
     <title lang="it">Un amore in Cornovaglia</title>
     <desc lang="it">In seguito alla morte della madre, il professor Joss sta attraversando una crisi creativa e, per ritrovare l'ispirazione perduta, decide di lasciare gli Stati Uniti per recarsi in Cornovaglia, dove si trova la fattoria che un tempo era di proprietà della sua famiglia. La dimora è ora diventata un piccolo albergo gestito da Daniel e dalla madre. Qui incontra Tegan, la figlia di Daniel, affetta da dislessia: tra loro nascerà un legame destinato a crescere.</desc>
   </programme>
@@ -2266,11 +2270,11 @@
     <title lang="it">Leonardo - S1E1</title>
     <desc lang="it">A Milano, nel 1506, Leonardo da Vinci viene arrestato con l'accusa di avere avvelenato Caterina da Cremona. Dopo aver dichiarato la sua innocenza a Stefano Giraldi, un ufficiale del Podestà, Leonardo ricorda i suoi giorni da apprendista nella bottega di Andrea del Verrocchio, dove incontra per la prima volta la modella Caterina.</desc>
   </programme>
-  <programme start="20260913184000 +0200" stop="20260913193500 +0200" channel="RaiPremium.it">
+  <programme start="20260913184000 +0200" stop="20260913193000 +0200" channel="RaiPremium.it">
     <title lang="it">Leonardo - S1E2</title>
     <desc lang="it">Mentre i successi di Leonardo vengono riconosciuti e la sua reputazione cresce, una decisione rischiosa potrebbe distruggere tutto quello per cui ha lavorato. Quando una situazione imprevista mette ancora più in crisi la sua reputazione di artista, l'artista punta lo sguardo verso il ducato di Milano e lascia Firenze.</desc>
   </programme>
-  <programme start="20260913193500 +0200" stop="20260913203000 +0200" channel="RaiPremium.it">
+  <programme start="20260913193000 +0200" stop="20260913203000 +0200" channel="RaiPremium.it">
     <title lang="it">Leonardo - S1E3</title>
     <desc lang="it">Leonardo si trasferisce a Milano, deciso a ottenere il patrocinio del Duca Reggente Ludovico Sforza. Quando la realtà si dimostra meno allettante del previsto e a Leonardo viene richiesto di dedicarsi a un grande spettacolo teatrale invece che a un dipinto, è un nuovo incontro ad aiutarlo a liberare l'immaginazione, permettendogli di vedere proprio nell'allestimento teatrale una grande opportunità.</desc>
   </programme>
@@ -2676,197 +2680,366 @@
   <programme start="20260912053000 +0200" stop="20260912060000 +0200" channel="RaiNews24.it">
     <title lang="it">FACCIA A FACCIA</title>
   </programme>
-  <programme start="20260912060000 +0200" stop="20260912062500 +0200" channel="RaiNews24.it">
+  <programme start="20260912060000 +0200" stop="20260912062600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912062500 +0200" stop="20260912063000 +0200" channel="RaiNews24.it">
-    <title lang="it">METEO 24</title>
+  <programme start="20260912062600 +0200" stop="20260912063000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912063000 +0200" stop="20260912064300 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912063000 +0200" stop="20260912064500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912064300 +0200" stop="20260912065500 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTIFRUTTI BREVE</title>
+  <programme start="20260912064500 +0200" stop="20260912065700 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912065500 +0200" stop="20260912070000 +0200" channel="RaiNews24.it">
-    <title lang="it">METEO 24</title>
+  <programme start="20260912065700 +0200" stop="20260912070000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912070000 +0200" stop="20260912073000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912070000 +0200" stop="20260912070300 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA TITOLI QUOTIDIANI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912073000 +0200" stop="20260912080000 +0200" channel="RaiNews24.it">
+  <programme start="20260912070300 +0200" stop="20260912072800 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912080000 +0200" stop="20260912083000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912072800 +0200" stop="20260912073000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912083000 +0200" stop="20260912090000 +0200" channel="RaiNews24.it">
+  <programme start="20260912073000 +0200" stop="20260912074500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912074500 +0200" stop="20260912075700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912075700 +0200" stop="20260912080000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912080000 +0200" stop="20260912082500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912082500 +0200" stop="20260912082700 +0200" channel="RaiNews24.it">
+    <title lang="it">CCISS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912082700 +0200" stop="20260912083000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-BUONGIORNO NEWS 3</title>
+  </programme>
+  <programme start="20260912083000 +0200" stop="20260912085500 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912090000 +0200" stop="20260912093000 +0200" channel="RaiNews24.it">
+  <programme start="20260912085500 +0200" stop="20260912085600 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912085600 +0200" stop="20260912090000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-BUONGIORNO NEWS 4</title>
+  </programme>
+  <programme start="20260912090000 +0200" stop="20260912092500 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912093000 +0200" stop="20260912100000 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTI I FRUTTI EXTRA LARGE</title>
+  <programme start="20260912092500 +0200" stop="20260912092600 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912100000 +0200" stop="20260912102300 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912092600 +0200" stop="20260912093000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 1</title>
   </programme>
-  <programme start="20260912102300 +0200" stop="20260912103000 +0200" channel="RaiNews24.it">
-    <title lang="it">CCIS</title>
+  <programme start="20260912093000 +0200" stop="20260912094500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912103000 +0200" stop="20260912110000 +0200" channel="RaiNews24.it">
-    <title lang="it">SULLA STRADA</title>
+  <programme start="20260912094500 +0200" stop="20260912095700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912095700 +0200" stop="20260912100000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 2</title>
+  </programme>
+  <programme start="20260912100000 +0200" stop="20260912103000 +0200" channel="RaiNews24.it">
+    <title lang="it">FILO DIRETTO</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
+  </programme>
+  <programme start="20260912103000 +0200" stop="20260912105600 +0200" channel="RaiNews24.it">
+    <title lang="it">FILO DIRETTO</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
+  </programme>
+  <programme start="20260912105600 +0200" stop="20260912110000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 3</title>
   </programme>
   <programme start="20260912110000 +0200" stop="20260912113000 +0200" channel="RaiNews24.it">
-    <title lang="it">TITOLI + LIS</title>
+    <title lang="it">TG GIORNO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912113000 +0200" stop="20260912120000 +0200" channel="RaiNews24.it">
-    <title lang="it">LA SFIDA DELLA CURA</title>
+  <programme start="20260912113000 +0200" stop="20260912114500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG LIS + TG GIORNO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912120000 +0200" stop="20260912123000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912114500 +0200" stop="20260912115600 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912123000 +0200" stop="20260912124500 +0200" channel="RaiNews24.it">
+  <programme start="20260912115600 +0200" stop="20260912115700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912115700 +0200" stop="20260912120000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MATTINA 4</title>
+  </programme>
+  <programme start="20260912120000 +0200" stop="20260912122700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912122700 +0200" stop="20260912123000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 1</title>
+  </programme>
+  <programme start="20260912123000 +0200" stop="20260912124400 +0200" channel="RaiNews24.it">
     <title lang="it">SPORT 24</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912124500 +0200" stop="20260912130000 +0200" channel="RaiNews24.it">
-    <title lang="it">SAPORI E COLORI</title>
+  <programme start="20260912124400 +0200" stop="20260912125600 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912130000 +0200" stop="20260912133000 +0200" channel="RaiNews24.it">
+  <programme start="20260912125600 +0200" stop="20260912125700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912125700 +0200" stop="20260912130000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 2</title>
+  </programme>
+  <programme start="20260912130000 +0200" stop="20260912132400 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912133000 +0200" stop="20260912134500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260912132400 +0200" stop="20260912132700 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 3</title>
   </programme>
-  <programme start="20260912134500 +0200" stop="20260912140000 +0200" channel="RaiNews24.it">
-    <title lang="it">FUTURO24</title>
+  <programme start="20260912132700 +0200" stop="20260912133000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912133000 +0200" stop="20260912134400 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912134400 +0200" stop="20260912135600 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912135600 +0200" stop="20260912140000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 4</title>
   </programme>
   <programme start="20260912140000 +0200" stop="20260912143000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912143000 +0200" stop="20260912144500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260912143000 +0200" stop="20260912145600 +0200" channel="RaiNews24.it">
+    <title lang="it">SPECIALE ANNIVERSARIO 11 SETTEMBRE</title>
+    <desc lang="it">ATTUALITA - ,. - ,</desc>
   </programme>
-  <programme start="20260912144500 +0200" stop="20260912150000 +0200" channel="RaiNews24.it">
-    <title lang="it">MOTORI24</title>
+  <programme start="20260912145600 +0200" stop="20260912150000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-MERIDIANA 5</title>
   </programme>
-  <programme start="20260912150000 +0200" stop="20260912153000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260912150000 +0200" stop="20260912152200 +0200" channel="RaiNews24.it">
+    <title lang="it">SPECIALE ANNIVERSARIO 11 SETTEMBRE</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912153000 +0200" stop="20260912160000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260912152200 +0200" stop="20260912152800 +0200" channel="RaiNews24.it">
+    <title lang="it">TG IN LINGUA UCRAINA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912160000 +0200" stop="20260912163000 +0200" channel="RaiNews24.it">
+  <programme start="20260912152800 +0200" stop="20260912153000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO AM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912153000 +0200" stop="20260912155700 +0200" channel="RaiNews24.it">
+    <title lang="it">FACCIA A FACCIA</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912155700 +0200" stop="20260912160000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 1</title>
+  </programme>
+  <programme start="20260912160000 +0200" stop="20260912162200 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912162200 +0200" stop="20260912162700 +0200" channel="RaiNews24.it">
+    <title lang="it">CCISS</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912162700 +0200" stop="20260912163000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 2</title>
   </programme>
   <programme start="20260912163000 +0200" stop="20260912164500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912164500 +0200" stop="20260912170000 +0200" channel="RaiNews24.it">
-    <title lang="it">ALTRI MONDI</title>
+  <programme start="20260912164500 +0200" stop="20260912165700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912170000 +0200" stop="20260912173000 +0200" channel="RaiNews24.it">
+  <programme start="20260912165700 +0200" stop="20260912170000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 3</title>
+  </programme>
+  <programme start="20260912170000 +0200" stop="20260912172700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912173000 +0200" stop="20260912175500 +0200" channel="RaiNews24.it">
-    <title lang="it">LA SFIDA DELLA CURA</title>
+  <programme start="20260912172700 +0200" stop="20260912173000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 4</title>
   </programme>
-  <programme start="20260912175500 +0200" stop="20260912180000 +0200" channel="RaiNews24.it">
-    <title lang="it">CCIS</title>
+  <programme start="20260912173000 +0200" stop="20260912174500 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO + Economia e borsa</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912180000 +0200" stop="20260912183000 +0200" channel="RaiNews24.it">
+  <programme start="20260912174500 +0200" stop="20260912180000 +0200" channel="RaiNews24.it">
+    <title lang="it">FOCUS 24</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912180000 +0200" stop="20260912182600 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912183000 +0200" stop="20260912190000 +0200" channel="RaiNews24.it">
-    <title lang="it">SPOTLIGHT</title>
+  <programme start="20260912182600 +0200" stop="20260912182700 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912182700 +0200" stop="20260912183000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 5</title>
+  </programme>
+  <programme start="20260912183000 +0200" stop="20260912184600 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912184600 +0200" stop="20260912185800 +0200" channel="RaiNews24.it">
+    <title lang="it">24 MM</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912185800 +0200" stop="20260912190000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-POMERIGGIO 6</title>
   </programme>
   <programme start="20260912190000 +0200" stop="20260912193000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912193000 +0200" stop="20260912193500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260912193000 +0200" stop="20260912194500 +0200" channel="RaiNews24.it">
+    <title lang="it">RULLO SPORT</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912193500 +0200" stop="20260912194500 +0200" channel="RaiNews24.it">
-    <title lang="it">RULLO SPORT 24</title>
+  <programme start="20260912194500 +0200" stop="20260912195700 +0200" channel="RaiNews24.it">
+    <title lang="it">TUTTIFRUTTI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912194500 +0200" stop="20260912200000 +0200" channel="RaiNews24.it">
-    <title lang="it">BASTA LA SALUTE</title>
+  <programme start="20260912195700 +0200" stop="20260912200000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 1</title>
   </programme>
-  <programme start="20260912200000 +0200" stop="20260912203000 +0200" channel="RaiNews24.it">
+  <programme start="20260912200000 +0200" stop="20260912202700 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912203000 +0200" stop="20260912210000 +0200" channel="RaiNews24.it">
-    <title lang="it">TUTTI I FRUTTI EXTRA LARGE</title>
+  <programme start="20260912202700 +0200" stop="20260912203000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 2</title>
   </programme>
-  <programme start="20260912210000 +0200" stop="20260912213000 +0200" channel="RaiNews24.it">
+  <programme start="20260912203000 +0200" stop="20260912205700 +0200" channel="RaiNews24.it">
+    <title lang="it">AMARCORD</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912205700 +0200" stop="20260912210000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-ACCESS 3</title>
+  </programme>
+  <programme start="20260912210000 +0200" stop="20260912212700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912213000 +0200" stop="20260912220000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS SOMMARIO</title>
+  <programme start="20260912212700 +0200" stop="20260912213000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 1</title>
   </programme>
-  <programme start="20260912220000 +0200" stop="20260912223000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260912213000 +0200" stop="20260912215700 +0200" channel="RaiNews24.it">
+    <title lang="it">FACCIA A FACCIA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912223000 +0200" stop="20260912230000 +0200" channel="RaiNews24.it">
-    <title lang="it">DOCUMENTARIO</title>
+  <programme start="20260912215700 +0200" stop="20260912220000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 2</title>
   </programme>
-  <programme start="20260912230000 +0200" stop="20260912231500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + TITOLI</title>
+  <programme start="20260912220000 +0200" stop="20260912222700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + ECONOMIA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260912231500 +0200" stop="20260912233000 +0200" channel="RaiNews24.it">
+  <programme start="20260912222700 +0200" stop="20260912223000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 3</title>
+  </programme>
+  <programme start="20260912223000 +0200" stop="20260912225700 +0200" channel="RaiNews24.it">
+    <title lang="it">NEWS + SOMMARIO</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20260912225700 +0200" stop="20260912230000 +0200" channel="RaiNews24.it">
+    <title lang="it">RN-PRIME TIME 4</title>
+  </programme>
+  <programme start="20260912230000 +0200" stop="20260912233000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20260912233000 +0200" stop="20260913000000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
+    <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260913000000 +0200" stop="20260913003000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+  <programme start="20260913000000 +0200" stop="20260913002700 +0200" channel="RaiNews24.it">
+    <title lang="it">TG EDIZIONE PRINCIPALE CON GERENZA</title>
+  </programme>
+  <programme start="20260913002700 +0200" stop="20260913003000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
   </programme>
   <programme start="20260913003000 +0200" stop="20260913010000 +0200" channel="RaiNews24.it">
-    <title lang="it">RASSEGNA STAMPA</title>
-  </programme>
-  <programme start="20260913010000 +0200" stop="20260913013000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260913013000 +0200" stop="20260913014500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260913014500 +0200" stop="20260913020000 +0200" channel="RaiNews24.it">
     <title lang="it">AMARCORD</title>
   </programme>
+  <programme start="20260913010000 +0200" stop="20260913013000 +0200" channel="RaiNews24.it">
+    <title lang="it">TG NOTTE + RASSEGNA STAMPA BREVE</title>
+  </programme>
+  <programme start="20260913013000 +0200" stop="20260913020000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA REPLICA DELLE 23</title>
+  </programme>
   <programme start="20260913020000 +0200" stop="20260913023000 +0200" channel="RaiNews24.it">
-    <title lang="it">RASSEGNA STAMPA</title>
+    <title lang="it">TG NOTTE</title>
   </programme>
   <programme start="20260913023000 +0200" stop="20260913024500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+    <title lang="it">RASSEGNA STAMPA BREVE</title>
   </programme>
   <programme start="20260913024500 +0200" stop="20260913030000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
+    <title lang="it">TUTTIFRUTTI BREVE</title>
   </programme>
-  <programme start="20260913030000 +0200" stop="20260913033000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS+ RASSEGNA STAMPA</title>
+  <programme start="20260913030000 +0200" stop="20260913031500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG NOTTE</title>
   </programme>
-  <programme start="20260913033000 +0200" stop="20260913034500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
-  </programme>
-  <programme start="20260913034500 +0200" stop="20260913040000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
+  <programme start="20260913031500 +0200" stop="20260913040000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA LUNGA - REPLICA DELLE 23</title>
   </programme>
   <programme start="20260913040000 +0200" stop="20260913043000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+    <title lang="it">TG NOTTE</title>
   </programme>
-  <programme start="20260913043000 +0200" stop="20260913044500 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS</title>
+  <programme start="20260913043000 +0200" stop="20260913050000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA + FOCUS</title>
   </programme>
-  <programme start="20260913044500 +0200" stop="20260913050000 +0200" channel="RaiNews24.it">
-    <title lang="it">FOCUS 24</title>
+  <programme start="20260913050000 +0200" stop="20260913051500 +0200" channel="RaiNews24.it">
+    <title lang="it">TG ALBA</title>
   </programme>
-  <programme start="20260913050000 +0200" stop="20260913053000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+  <programme start="20260913051500 +0200" stop="20260913053000 +0200" channel="RaiNews24.it">
+    <title lang="it">RASSEGNA STAMPA</title>
   </programme>
   <programme start="20260913053000 +0200" stop="20260913060000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + RASSEGNA STAMPA</title>
+    <title lang="it">LA SFIDA DELLA CURA</title>
   </programme>
   <programme start="20260913060000 +0200" stop="20260913062700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
@@ -3116,7 +3289,7 @@
     <title lang="it">Beach Soccer - Euro League Superfinal 2026 Uomini - 4a giornata: Italia - Danimarca</title>
     <desc lang="it">Nella quarta giornata del girone della EBSL Superfinal 2026, l'Italia affronta la Danimarca. </desc>
   </programme>
-  <programme start="20260912104500 +0200" stop="20260912135500 +0200" channel="RaiSport.it">
+  <programme start="20260912110500 +0200" stop="20260912135500 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
     <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
