@@ -128,7 +128,7 @@
   </programme>
   <programme start="20260911203000 +0200" stop="20260911203500 +0200" channel="Rai1.it">
     <title lang="it">Speciale Cinque Minuti: l'ultima intervista a Emma Bonino - 11/09/2026</title>
-    <desc lang="it">Bruno Vespa torna su Rai 1 con uno speciale di Cinque Minuti per ricordare Emma Bonino nel giorno della sua scomparsa: un faccia a faccia a casa sua con Bruno Vespa lo scorso 19 maggio 2026.</desc>
+    <desc lang="it">Bruno Vespa torna su Rai 1 con uno speciale di Cinque Minuti per ricordare Emma Bonino nel giorno della sua scomparsa: un faccia a faccia a casa della politica lo scorso 19 maggio 2026.</desc>
   </programme>
   <programme start="20260911203500 +0200" stop="20260911213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 11/09/2026</title>
@@ -148,18 +148,18 @@
   <programme start="20260912012500 +0200" stop="20260912013000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260912013000 +0200" stop="20260912030000 +0200" channel="Rai1.it">
-    <title lang="it">Sottovoce e dintorni - Puntata del 11/09/2026</title>
-    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
+  <programme start="20260912021500 +0200" stop="20260912034500 +0200" channel="Rai1.it">
+    <title lang="it">Cinematografo - Puntata del 11/09/2026</title>
+    <desc lang="it">Gigi Marzullo presenta i film in programmazione nelle sale e sul piccolo schermo, in compagnia di professionisti del settore come registi, attori e critici cinematografici.</desc>
   </programme>
-  <programme start="20260912030000 +0200" stop="20260912041500 +0200" channel="Rai1.it">
-    <title lang="it">Reazione a catena - Puntata del 11/09/2026</title>
-    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
+  <programme start="20260912034500 +0200" stop="20260912041500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni in ricordo di Emma Bonino - Puntata del 11/09/2026</title>
+    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
   </programme>
   <programme start="20260912041500 +0200" stop="20260912060000 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
-  <programme start="20260912060000 +0200" stop="20260912070000 +0200" channel="Rai1.it">
+  <programme start="20260912060000 +0200" stop="20260912065500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260912065500 +0200" stop="20260912070000 +0200" channel="Rai1.it">
@@ -227,7 +227,7 @@
     <title lang="it">Passaggio a Nord-Ovest - Puntata del 12/09/2026</title>
     <desc lang="it">Popoli e luoghi lontani, civiltà dimenticate, siti archeologici da scoprire in compagnia di Alberto Angela. Tante nuove sorprese tra cui una scenografia completamente rinnovata e due nuove rubriche: un diario sugli scavi di Pompei e incursioni nelle mostre d'arte dei nostri Musei senza dimenticare le storie e filmati in giro per il mondo</desc>
   </programme>
-  <programme start="20260912155000 +0200" stop="20260912162500 +0200" channel="Rai1.it">
+  <programme start="20260912155000 +0200" stop="20260912162000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 12/09/2026</title>
     <desc lang="it">Un viaggio tra fede, tradizioni e devozioni con Lorena Bianchetti, commento al Vangelo con fra Daniele Randazzo. Al termine In Punta di Matita l'arte con Rodolfo Papa. Conduce Lorena Bianchetti. </desc>
   </programme>
@@ -411,6 +411,10 @@
     <title lang="it">Ritorno a Las Sabinas - S1E66 - Mostri</title>
     <desc lang="it">Manuela e i Molina scoprono la verità su Manterana, mentre Gracia si concentra sulla sua gravidanza.</desc>
   </programme>
+  <programme start="20260911060000 +0200" stop="20260911061500 +0200" channel="Rai2.it">
+    <title lang="it">Ritorno a Las Sabinas Mostri</title>
+    <desc lang="it">SOAP OPERA - Manuela e i Molina scoprono la verità su Manterana, mentre Gracia si concentra sulla sua gravidanza.... - 1^ stagione Con Celia Freijeiro, Andrés Velencoso, Angela Molina, Olivia Molina, Natalia Sánchez, Nancho Novo, María Casal 2^ parte</desc>
+  </programme>
   <programme start="20260911061500 +0200" stop="20260911070000 +0200" channel="Rai2.it">
     <title lang="it">La Grande Vallata S3E23 - A caccia di un Barkley Episodio 83</title>
     <desc lang="it">Nick corteggia una donna che gli ha tenuto nascosto che ha un marito che fa il killer perché ha paura per la sua incolumità. Episodio 83</desc>
@@ -433,6 +437,10 @@
   <programme start="20260911084500 +0200" stop="20260911101000 +0200" channel="Rai2.it">
     <title lang="it">I casi della giovane Miss Fisher S1E2 - Il ritmo della morte</title>
     <desc lang="it">Durante uno spettacolo televisivo muoiono due giovani ed il primo indiziato sembra essere un ex ragazzo di Peregrine. Le indagini portano allo scoperto segreti e vecchi rancori.</desc>
+  </programme>
+  <programme start="20260911101000 +0200" stop="20260911110000 +0200" channel="Rai2.it">
+    <title lang="it">TG2 - Storie. I racconti della settimana</title>
+    <desc lang="it">SPECIALE - Le storie e i protagonisti di fatti di cronaca e di costume che si raccontano nella loro quotidianità.. - Direttore Antonio Preziosi Vicedirettore Alfonso Samengo  Curato e condotto da Adriana Pannitteri</desc>
   </programme>
   <programme start="20260911101000 +0200" stop="20260911110000 +0200" channel="Rai2.it">
     <title lang="it">TG2 Storie - I racconti della settimana - Puntata del 15/11/2025</title>
@@ -462,7 +470,7 @@
   </programme>
   <programme start="20260911140000 +0200" stop="20260911152500 +0200" channel="Rai2.it">
     <title lang="it">Ore 14 - Puntata del 11/09/2026</title>
-    <desc lang="it">Un faro acceso sui principali avvenimenti del giorno di cronaca e attualità, raccontati con collegamenti in diretta dai luoghi dove i fatti sono avvenuti e commentati da autorevoli opinionisti.</desc>
+    <desc lang="it">I casi della puntata: il femminicidio di Aurora Tila con lo sconto di pena in appello all'ex fidanzato che l'ha uccisa; il mistero della morte di Noemi Impellizzeri; il giallo della morte di Pierina Paganelli; le novità sull'inchiesta per la morte del piccolo Domenico Caliendo; le ultime su Garlasco. </desc>
   </programme>
   <programme start="20260911152500 +0200" stop="20260911170000 +0200" channel="Rai2.it">
     <title lang="it">BellaMa' - Puntata del 11/09/2026</title>
@@ -504,17 +512,17 @@
   <programme start="20260911203000 +0200" stop="20260911210000 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
   </programme>
-  <programme start="20260911210000 +0200" stop="20260911212000 +0200" channel="Rai2.it">
+  <programme start="20260911210000 +0200" stop="20260911214500 +0200" channel="Rai2.it">
     <title lang="it">TG2 Post</title>
     <desc lang="it">Rubrica informativa del TG2. Direttore Antonio Preziosi</desc>
   </programme>
-  <programme start="20260911212000 +0200" stop="20260911232500 +0200" channel="Rai2.it">
+  <programme start="20260911214500 +0200" stop="20260911221500 +0200" channel="Rai2.it">
+    <title lang="it">Emma Bonino - Belve 10/10/2023</title>
+    <desc lang="it">Chi la detesta la stima, chi la ama la venera. La sua è una vita di lotta. La Senatrice, leader radicale, Emma Bonino ospite di Francesca Fagnani si racconta: le sue scelte, la vita privata, la malattia e la guarigione e infine la delusione per la lite con Marco Pannella, il compagno di tante battaglie radicali. </desc>
+  </programme>
+  <programme start="20260911221500 +0200" stop="20260912001500 +0200" channel="Rai2.it">
     <title lang="it">L'ispettore Coliandro S7E4 - Caccia grossa</title>
     <desc lang="it">In Questura Coliandro conosce Asmareth, giovane e bella mediatrice culturale eritrea che lavora per la polizia. Credendola una clandestina, Coliandro inanella una gaffe dietro l'altra. Per farsi perdonare, accetta di aiutarla in una ricerca che la ragazza sta facendo sul lavoro nero. Coliandro e Asmareth smascherano così una banda che organizza "cacce all'uomo" per annoiati ricconi di provincia.  </desc>
-  </programme>
-  <programme start="20260911232500 +0200" stop="20260912001500 +0200" channel="Rai2.it">
-    <title lang="it">Cronaca di un crimine</title>
-    <desc lang="it">1^ Visione Rai - Italia, anni '30: il ritrovamento di tre valigie con i resti smembrati di una donna fa emergere una vicenda di cronaca nera che diventa anche ritratto di un'epoca: controllo sociale, ruolo subordinato della donna e uso degli annunci matrimoniali come spazio di fiducia e inganno.</desc>
   </programme>
   <programme start="20260912001500 +0200" stop="20260912014500 +0200" channel="Rai2.it">
     <title lang="it">Paradise. La finestra sullo showbiz - Puntata del 11/09/2026</title>
@@ -528,17 +536,13 @@
     <title lang="it">The President's Staff</title>
     <desc lang="it">Il presidente Harry Carrey , la sua carismatica stagista e i due tecnici delle fibre ottiche, si ritrovano bloccati nello Studio Ovale della Casa Bianca. Un sedicente commando extraterrestre ha comunicato loro via email che la stanza è minata e che è impossibile entrare o uscire.</desc>
   </programme>
-  <programme start="20260912033000 +0200" stop="20260912041400 +0200" channel="Rai2.it">
+  <programme start="20260912033000 +0200" stop="20260912041500 +0200" channel="Rai2.it">
     <title lang="it">Squadra Speciale Colonia S16E23 - La morte corre in rete</title>
     <desc lang="it">Una giovane ragazza viene trovata morta dopo aver partecipato a una festa come escort insieme alla sua migliore amica.</desc>
   </programme>
-  <programme start="20260912041400 +0200" stop="20260912045500 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Colonia S16E24 - Ultima fermata</title>
-    <desc lang="it">Un ragazzo viene trovato morto alla fermata di un autobus. La squadra indaga sul suo omicidio e scopre un caso di furto di medicinali e il tradimento di una moglie.</desc>
-  </programme>
-  <programme start="20260912045500 +0200" stop="20260912054000 +0200" channel="Rai2.it">
-    <title lang="it">Rex S8E4 - Il calendario</title>
-    <desc lang="it">Il commissario Terzani conosce un poliziotto modello, Michele Freda, durante gli scatti per un calendario della polizia. Ma, anche in quest'occasione, Rex ha fiuto: Terzani e Monterosso vengono coinvolti da una banda di tre rapinatori.</desc>
+  <programme start="20260912041500 +0200" stop="20260912054000 +0200" channel="Rai2.it">
+    <title lang="it">Rex </title>
+    <desc lang="it">Rex </desc>
   </programme>
   <programme start="20260912054000 +0200" stop="20260912055000 +0200" channel="Rai2.it">
     <title lang="it">Impazienti - S1E31 - Risvegli - Day Hospital - L'ospite - Perversioni</title>
@@ -690,8 +694,8 @@
     <desc lang="it">TG Sport Giorno</desc>
   </programme>
   <programme start="20260913112000 +0200" stop="20260913130000 +0200" channel="Rai2.it">
-    <title lang="it">La Nave dei Sogni - Miami </title>
-    <desc lang="it">1^ Visione Rai - A bordo della nave diretta a Miami, durante una traversata piena di colpi di scena, s'intrecciano sogni, illusioni e sentimenti irrisolti.</desc>
+    <title lang="it">La Nave dei Sogni - Miami</title>
+    <desc lang="it">A bordo della nave diretta a Miami, durante una traversata piena di colpi di scena, s'intrecciano sogni, illusioni e sentimenti irrisolti.</desc>
   </programme>
   <programme start="20260913130000 +0200" stop="20260913133000 +0200" channel="Rai2.it">
     <title lang="it">TG2 GIORNO</title>
@@ -802,18 +806,14 @@
     <title lang="it">Rai Parlamento Telegiornale</title>
   </programme>
   <programme start="20260911151000 +0200" stop="20260911154500 +0200" channel="Rai3.it">
-    <title lang="it">Emma Bonino – Anima Liberale</title>
-    <desc lang="it">Emma Bonino – Anima Liberale</desc>
+    <title lang="it">Biografie - Emma Bonino. Anima liberale</title>
+    <desc lang="it">Un ritratto di Emma Bonino, leader radicale, ministro, commissario Ue e fondatrice di + Europa.</desc>
   </programme>
   <programme start="20260911154500 +0200" stop="20260911155000 +0200" channel="Rai3.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260911155000 +0200" stop="20260911170000 +0200" channel="Rai3.it">
-    <title lang="it">Aspettando Geo</title>
-    <desc lang="it">DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu - tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi Un programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone Capo progetto: Fausta Vannutelli Coordinamento editoriale: Caterina Manganella  Regia: Michelangelo Pepe</desc>
-  </programme>
-  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="Rai3.it">
+  <programme start="20260911155000 +0200" stop="20260911190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 11/09/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
@@ -836,7 +836,7 @@
   </programme>
   <programme start="20260911204000 +0200" stop="20260911205500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 11/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Marco Damilano ricorda Emma Bonino, protagonista di una lunga stagione della politica italiana ed europea. Le sue battaglie civili, le sue lotte per i diritti.</desc>
   </programme>
   <programme start="20260911205500 +0200" stop="20260911212000 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 11/09/2026 EP7025</title>
@@ -1099,11 +1099,11 @@
     <desc lang="it">Ema Stokholma ci conduce nei luoghi urbani della nuova scena musicale rap e Trap italiana, alla scoperta dei luoghi "speciali" dei suoi ospiti che hanno una stretta affinità con la loro storia artistica e vita privata. La conduttrice è andata a Torino per incontrare Shade e Rosa Chemical</desc>
   </programme>
   <programme start="20260911052500 +0200" stop="20260911060500 +0200" channel="Rai4.it">
-    <title lang="it">Senza Traccia S2E4</title>
+    <title lang="it">Senza Traccia S2E4 Bambina prodigio</title>
     <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni.</desc>
   </programme>
   <programme start="20260911060500 +0200" stop="20260911064600 +0200" channel="Rai4.it">
-    <title lang="it">Senza Traccia S2E5</title>
+    <title lang="it">Senza Traccia S2E5 L'emulatore</title>
     <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni.</desc>
   </programme>
   <programme start="20260911064600 +0200" stop="20260911073000 +0200" channel="Rai4.it">
@@ -3293,7 +3293,7 @@
     <title lang="it">Atletica: Ultimate Championship 2026 - 1a giornata: Semifinali e Finali</title>
     <desc lang="it">Prima giornata dell'Ultimate Championship 2026 a Budapest, con alcune delle stelle dell'atletica mondiale in gara tra semifinali e finali. In palio i primi titoli della manifestazione nei 5000 metri maschili, 100 ostacoli femminili, 110 ostacoli maschili, salto in alto femminile, salto con l'asta maschile, salto in lungo femminile, martello maschile e staffetta 4x100 mista.</desc>
   </programme>
-  <programme start="20260912135500 +0200" stop="20260912145000 +0200" channel="RaiSport.it">
+  <programme start="20260912135500 +0200" stop="20260912144000 +0200" channel="RaiSport.it">
     <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 Ore di Austin</title>
     <desc lang="it">Il FIA World Endurance Championship fa tappa ad Austin, in Texas, per la Lone Star Le Mans.</desc>
   </programme>
@@ -3321,17 +3321,21 @@
     <title lang="it">Ciclismo MTB: Mondiali Marathon 2026 - Valle di Primiero</title>
     <desc lang="it">I migliori specialisti della mountain bike sulle lunghe distanze si sfidano nei Campionati del Mondo UCI Marathon 2026. Un percorso impegnativo e selettivo assegna le maglie iridate della disciplina, tra resistenza, tecnica e grandi dislivelli.</desc>
   </programme>
-  <programme start="20260912220000 +0200" stop="20260913010000 +0200" channel="RaiSport.it">
-    <title lang="it">Rugby Elite Supercoppa: Valorugby Emilia - Petrarca Rugby Finale</title>
-    <desc lang="it">Rugby Elite Supercoppa: Valorugby Emilia - Petrarca Rugby Finale</desc>
+  <programme start="20260912220000 +0200" stop="20260912220500 +0200" channel="RaiSport.it">
+    <title lang="it">memory</title>
+    <desc lang="it">memory</desc>
+  </programme>
+  <programme start="20260912220500 +0200" stop="20260913010000 +0200" channel="RaiSport.it">
+    <title lang="it">Rugby: Finale Supercoppa Italiana 2026: Valorugby - Petrarca</title>
+    <desc lang="it">Allo Stadio Tommaso Fattori dell'Aquila, Valorugby Emilia e Petrarca Rugby si sfidano nella finale della Supercoppa Italiana 2026.</desc>
   </programme>
   <programme start="20260913010000 +0200" stop="20260913030000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 Italia - Giappone</title>
-    <desc lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 Italia - Giappone</desc>
+    <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Gruppo D: Italia - Giappone</title>
+    <desc lang="it">Nel Gruppo D dei Mondiali femminili Under 20 2026, l'Italia affronta il Giappone in una sfida importante per il cammino delle Azzurrine nella fase a gironi.</desc>
   </programme>
   <programme start="20260913030000 +0200" stop="20260913060000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 eventuali Finalissima Italia</title>
-    <desc lang="it">Pallavolo Femminile: Camp. Europei Istanbul 2026 eventuali Finalissima Italia</desc>
+    <title lang="it">Europei femminili di Pallavolo 2026 - Finale: Italia - Turchia</title>
+    <desc lang="it">Italia contro Turchia, Velasco contro Santarelli. Questa partita è il rematch della finale mondiale dello scorso anno, la tensione agonistica e il tasso tecnico saranno sicuramente gli stessi.</desc>
   </programme>
   <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="RaiSport.it">
     <title lang="it">Sabato al 90° del 12/09/2026</title>
