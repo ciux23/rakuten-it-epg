@@ -12,17 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260912080000 +0200" stop="20260912122737 +0200" channel="pluto_film_tv">
+  <programme start="20260912140000 +0200" stop="20260912162837 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260912122737 +0200" stop="20260912141237 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20260912141237 +0200" stop="20260912162837 +0200" channel="pluto_film_tv">
-    <title lang="it">Another Happy Day</title>
-    <desc lang="it">Alla vigilia del matrimonio di suo figlio, Lynn, una donna che ha sempre nascosto le sue emozioni, insieme ai suoi tre figli dovrà fare i conti con le montagne russe emotive di una riunione di famiglia. Una commedia oscura con Ellen Barkin e Demi Moore.</desc>
   </programme>
   <programme start="20260912162837 +0200" stop="20260912190652 +0200" channel="pluto_film_tv">
     <title lang="it">The House of the Spirits</title>
@@ -72,37 +64,33 @@
     <title lang="it">Gli irriducibili</title>
     <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
   </programme>
-  <programme start="20260913150620 +0200" stop="20260913200000 +0200" channel="pluto_film_tv">
+  <programme start="20260913150620 +0200" stop="20260913170320 +0200" channel="pluto_film_tv">
+    <title lang="it">Election</title>
+    <desc lang="it">Reese Witherspoon interpreta Tracy Flick, un'ambiziosa ragazza determinata a diventare presidente del corpo studentesco della Carver High. Il popolare insegnante Jim McAllister (Broderick) decide di intralciare l'ambizione di Tracy.</desc>
+  </programme>
+  <programme start="20260913170320 +0200" stop="20260913184120 +0200" channel="pluto_film_tv">
+    <title lang="it">Ercole a New York</title>
+    <desc lang="it">Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.</desc>
+  </programme>
+  <programme start="20260913184120 +0200" stop="20260913210133 +0200" channel="pluto_film_tv">
+    <title lang="it">Queen of the desert</title>
+    <desc lang="it">Gertrude Bell, personaggio realmente esistito è una donna inglese dalla vita ricca e avventurosa che, all'alba del XX secolo, fu viaggiatrice, scrittrice, archeologa, esploratrice, cartografa, agente segreto e diplomatica per conto dell'Impero Britannico.</desc>
+  </programme>
+  <programme start="20260913210133 +0200" stop="20260914020000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260913200000 +0200" stop="20260914080000 +0200" channel="pluto_film_tv">
+  <programme start="20260914020000 +0200" stop="20260914140000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914080000 +0200" stop="20260914140000 +0200" channel="pluto_film_tv">
+  <programme start="20260914140000 +0200" stop="20260914200000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260912080000 +0200" stop="20260912114405 +0200" channel="pluto_film_azione">
+  <programme start="20260912140000 +0200" stop="20260912181238 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260912114405 +0200" stop="20260912131638 +0200" channel="pluto_film_azione">
-    <title lang="it">Trading Paint - Oltre La Leggenda</title>
-    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
-  </programme>
-  <programme start="20260912131638 +0200" stop="20260912145638 +0200" channel="pluto_film_azione">
-    <title lang="it">Avengers Grimm</title>
-    <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
-  </programme>
-  <programme start="20260912145638 +0200" stop="20260912162738 +0200" channel="pluto_film_azione">
-    <title lang="it">Rampage</title>
-    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
-  </programme>
-  <programme start="20260912162738 +0200" stop="20260912181238 +0200" channel="pluto_film_azione">
-    <title lang="it">Midnight Chronicles</title>
-    <desc lang="it">In un mondo oscuro e avvolto dalle tenebre, il dio Izrador regna con il pugno di ferro e costringe gli uomini a vivere un'esistenza oppressa.</desc>
   </programme>
   <programme start="20260912181238 +0200" stop="20260912195616 +0200" channel="pluto_film_azione">
     <title lang="it">Hostile Territory - Il tempo è il nemico</title>
@@ -152,53 +140,37 @@
     <title lang="it">Bad blood - Debito di sangue</title>
     <desc lang="it">Hannah è bionda, carina e incastrata in una vita buia e sporca, fatta di droghe, spaccio e illegalità in tutte le sue declinazioni. Sulle sue spalle, grava la responsabilità dell'intera famiglia, coinvolta in affari illeciti e amori impossibili.</desc>
   </programme>
-  <programme start="20260913141120 +0200" stop="20260913200000 +0200" channel="pluto_film_azione">
+  <programme start="20260913141120 +0200" stop="20260913160320 +0200" channel="pluto_film_azione">
+    <title lang="it">Furious Speed - Curve Pericolose</title>
+    <desc lang="it">Mikel, fidanzato con la ricca ereditiera di una famiglia di gioiellieri, non riesce a resistere al fascino della bella cameriera Ari che, dopo aver trascorso una notte di fuoco insieme, lo trascina nel mondo delle corse clandestine.</desc>
+  </programme>
+  <programme start="20260913160320 +0200" stop="20260913175357 +0200" channel="pluto_film_azione">
+    <title lang="it">Crypto</title>
+    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
+  </programme>
+  <programme start="20260913175357 +0200" stop="20260913194057 +0200" channel="pluto_film_azione">
+    <title lang="it">Pressione in cabina</title>
+    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
+  </programme>
+  <programme start="20260913194057 +0200" stop="20260913213057 +0200" channel="pluto_film_azione">
+    <title lang="it">Striscia Vincente</title>
+    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
+  </programme>
+  <programme start="20260913213057 +0200" stop="20260914020000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260913200000 +0200" stop="20260914080000 +0200" channel="pluto_film_azione">
+  <programme start="20260914020000 +0200" stop="20260914140000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914080000 +0200" stop="20260914140000 +0200" channel="pluto_film_azione">
+  <programme start="20260914140000 +0200" stop="20260914200000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260912080000 +0200" stop="20260912123816 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260912140000 +0200" stop="20260912185925 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260912123816 +0200" stop="20260912132816 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Notte Della Terra</title>
-    <desc lang="it">La dottoressa Helen Magnus si sveglia per trovare il Santuario in rovina e l'intera città decimata, senza alcun ricordo di come sia avvenuta la devastazione.</desc>
-  </programme>
-  <programme start="20260912132816 +0200" stop="20260912141705 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Mostro In Noi</title>
-    <desc lang="it">La dott.ssa Magnus lotta per salvare la vita di uno dei ricercatori del Santuario che è stato attaccato da un Anormale addomesticato. Henry cerca di capire cosa, o chi, abbia causato la reazione così violenta dell'Anormale.</desc>
-  </programme>
-  <programme start="20260912141705 +0200" stop="20260912150232 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: La quarta mano</title>
-    <desc lang="it">Sulla scena compare Max, un'avvenente trafficante di droga che sembra conoscere i segreti di tutti. Nel frattempo, Joe, Norrie e Angie fanno un'ulteriore scoperta riguardo all'uovo sotto la mini-cupola…</desc>
-  </programme>
-  <programme start="20260912150232 +0200" stop="20260912154940 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Giochi pericolosi</title>
-    <desc lang="it">Mentre Julia e Linda scoprono la verità sulla morte di Peter, Joe, Norrie e Angie scoprono a chi appartiene la 'quarta mano' che fa da chiave per la mini-cupola…</desc>
-  </programme>
-  <programme start="20260912154940 +0200" stop="20260912163357 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Parla del diavolo</title>
-    <desc lang="it">Il rifiuto di Junior di avere a che fare con la mini-Cupola sembra scatenare le ire della Cupola che provoca una specie di tornado. Norrie, Joe, Angie e Junior toccano tutti insieme la grande Cupola ed hanno una visione scioccante…</desc>
-  </programme>
-  <programme start="20260912163357 +0200" stop="20260912172032 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Stato di emergenza</title>
-    <desc lang="it">Big Jim è riuscito a convincere tutti i cittadini di Chester's Mill a dare la caccia a Barbie per gli omicidi di cui è stato accusato. Joe e Norrie nel frattempo spostano la mini-cupola.</desc>
-  </programme>
-  <programme start="20260912172032 +0200" stop="20260912181032 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Triade</title>
-    <desc lang="it">Will si mette contro i capi della Rete dei Santuari per difendere Magnus che è accusata di un omicidio. Ma mentre le prove si accumulano contro di lei, anche Will ha difficoltà a trovare un modo per difendere in modo convincente la sua innocenza.</desc>
-  </programme>
-  <programme start="20260912181032 +0200" stop="20260912185925 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: S.O.S In Alto Mare</title>
-    <desc lang="it">Magnus e Will si schiantano con il loro elicottero in un pozzo petrolifero abbandonato nel Golfo del Messico insieme a una creatura marina arrabbiata... senza via di fuga.</desc>
   </programme>
   <programme start="20260912185925 +0200" stop="20260912194819 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Fuoco Purificatore</title>
@@ -296,15 +268,47 @@
     <title lang="it">Sanctuary: Pax Romana</title>
     <desc lang="it">Dopo aver ottenuto con successo l'accesso alla città di Praxis nella Terra Cava, Magnus e la squadra sono accolti con ostilità dal leader della città Ranna che ha un'agenda segreta.</desc>
   </programme>
-  <programme start="20260913141638 +0200" stop="20260913200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260913141638 +0200" stop="20260913150059 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Sipario</title>
+    <desc lang="it">Julia è il Monarca e Junior decide di stare dalla parte di suo padre. La città si riunisce per l'impiccagione di Barbie e si scopre che la cupola è stata creata per proteggere Chester's Mill</desc>
+  </programme>
+  <programme start="20260913150059 +0200" stop="20260913154827 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Sacrificio</title>
+    <desc lang="it">Ritroviamo Barbie in procinto di essere impiccato e una forte luce in cielo. La cupola esercita una fortissima attrazione magnetica che mette fuori combattimento quasi tutti gli abitanti di Chester's Mill...</desc>
+  </programme>
+  <programme start="20260913154827 +0200" stop="20260913163444 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Le piaghe di Chester's Hill</title>
+    <desc lang="it">Rebecca scopre un'infestazione di bruchi di farfalle monarca che minaccia di distruggere tutto ciò che viene coltivato sotto la cupola. Junior scopre il cadavere di Angie.</desc>
+  </programme>
+  <programme start="20260913163444 +0200" stop="20260913172103 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Fede e scienza</title>
+    <desc lang="it">Su Chester's Mill cade una pioggia rossa e acida. C'è chi la interpreta come un segno divino e chi l'affronta con gli strumenti della scienza. Norrie è sempre più sospettosa della misteriosa ragazza del bosco…</desc>
+  </programme>
+  <programme start="20260913172103 +0200" stop="20260913181103 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Difficile Risveglio</title>
+    <desc lang="it">Magnus torna a casa da un viaggio notturno per trovare il Santuario in uno stato di caos sconcertante:detriti di battaglia ovunque,nessuno in vista,e un'ispezione programmata della squadra di sicurezza delle Nazioni Unite a poche ore di distanza.</desc>
+  </programme>
+  <programme start="20260913181103 +0200" stop="20260913190044 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Una Notte</title>
+    <desc lang="it">Quello che è iniziato come un innocente primo appuntamento per Will e Abby, si trasforma in un pericoloso rapimento da parte di una banda il cui leader affronta morte certa senza il loro aiuto.</desc>
+  </programme>
+  <programme start="20260913190044 +0200" stop="20260913195029 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'Uomo Falena</title>
+    <desc lang="it">Will è insolitamente assente alla riunione mattutina della squadra. E il motivo della sua assenza lo fa letteralmente arrampicare sui muri.</desc>
+  </programme>
+  <programme start="20260913195029 +0200" stop="20260913203917 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Wingman</title>
+    <desc lang="it">Il doppio appuntamento di Will  e Henry va storto quando Magnus insiste che facciano una consegna diretta di un Anormale mentre vanno alla loro prenotazione per la cena.</desc>
+  </programme>
+  <programme start="20260913203917 +0200" stop="20260914020000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260913200000 +0200" stop="20260914080000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260914020000 +0200" stop="20260914140000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914080000 +0200" stop="20260914140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260914140000 +0200" stop="20260914200000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
