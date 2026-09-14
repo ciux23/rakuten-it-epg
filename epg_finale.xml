@@ -238,14 +238,14 @@
   </programme>
   <programme start="20260914115500 +0200" stop="20260914133000 +0200" channel="Rai1.it">
     <title lang="it">E' sempre mezzogiorno - Puntata del 14/09/2026</title>
-    <desc lang="it">Antolella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
+    <desc lang="it">Antonella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
   </programme>
   <programme start="20260914133000 +0200" stop="20260914140500 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
   <programme start="20260914140500 +0200" stop="20260914160000 +0200" channel="Rai1.it">
     <title lang="it">La volta buona - Puntata del 14/09/2026</title>
-    <desc lang="it">Interviste faccia a faccia, spettacolo, musica, tv, cinema, letteratura e attualità, ogni giorno in diretta con Caterina Balivo e i suoi ospiti. </desc>
+    <desc lang="it">Un programma che si distingue per l'approccio leggero con cui vengono trattati i vari temi e per l'eleganza con cui la conduttrice accoglie ospiti di spicco provenienti dal mondo dello spettacolo, della musica e della cultura. Nel corso del pomeriggio, il salotto diventa un luogo di confronto, dove i partecipanti discutono delle ultime notizie di costume e condividono nostalgici ricordi legati al proprio vissuto, al mondo della musica e della televisione. Gli argomenti spaziano da storie personali a esperienze quotidiane, con un focus particolare sulle relazioni e sulle emozioni. Conduce Caterina Balivo. Regia di Daniela Celotto.</desc>
   </programme>
   <programme start="20260914160000 +0200" stop="20260914164500 +0200" channel="Rai1.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E6</title>
@@ -339,13 +339,9 @@
     <title lang="it">UnoMattina - Puntata del 15/09/2026</title>
     <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera celebra quest'anno il quarantesimo anniversario della sua nascita. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini e Daniela Ferolla.</desc>
   </programme>
-  <programme start="20260915095000 +0200" stop="20260915115500 +0200" channel="Rai1.it">
+  <programme start="20260915095000 +0200" stop="20260915122000 +0200" channel="Rai1.it">
     <title lang="it">Storie italiane - Puntata del 15/09/2026</title>
     <desc lang="it">Eleonora Daniele approfondisce i temi di stretta attualità e i principali casi di cronaca con i protagonisti che raccontano in prima persona le loro esperienze.</desc>
-  </programme>
-  <programme start="20260915115500 +0200" stop="20260915133000 +0200" channel="Rai1.it">
-    <title lang="it">E' sempre mezzogiorno</title>
-    <desc lang="it">RUBRICA - Show quotidiano che usa la cucina come contesto in cui parlare di attualità con gli ospiti fissi del programma e giocare con il pubblico a casa.. - Conduce Antonella Clerici Un programma di Antonella Clerici, Davide Corallo  E Francesco Lucibello, Giorgio Pomi, Francesco Canino, Francesco Megalizzi, Gianfranco D'Attoma Con la collaborazione di Valeria Manera e Giacomo Tarantino Scenografia di Giuseppe Chiara Prodotto in collaborazione con Stand By Me Regia di Laura Ferraresi</desc>
   </programme>
   <programme start="20260915122000 +0200" stop="20260915133000 +0200" channel="Rai1.it">
     <title lang="it">Campidoglio, funerali di Stato di Emma Bonino </title>
@@ -460,7 +456,7 @@
   </programme>
   <programme start="20260916115500 +0200" stop="20260916133000 +0200" channel="Rai1.it">
     <title lang="it">E' sempre mezzogiorno - Puntata del 16/09/2026</title>
-    <desc lang="it">Antolella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
+    <desc lang="it">Antonella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
   </programme>
   <programme start="20260916133000 +0200" stop="20260916140500 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
@@ -745,8 +741,8 @@
     <title lang="it">TG2 20.30</title>
   </programme>
   <programme start="20260915205500 +0200" stop="20260915230000 +0200" channel="Rai2.it">
-    <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Cechia - Italia</title>
-    <desc lang="it">Pallavolo. Campionato Europeo maschile Fase a gruppi: Gruppo A In diretta dal PalaPanini di Modena</desc>
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Repubblica Ceca - Italia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Repubblica Ceca in una sfida importante per la classifica e per il cammino degli Azzurri verso la fase a eliminazione diretta.</desc>
   </programme>
   <programme start="20260915230000 +0200" stop="20260916004500 +0200" channel="Rai2.it">
     <title lang="it">Pompei</title>
@@ -1028,11 +1024,11 @@
   </programme>
   <programme start="20260914201000 +0200" stop="20260914204000 +0200" channel="Rai3.it">
     <title lang="it">Il Provinciale - Vesuvio e Pompei: il fuoco e la memoria - 14/09/2026</title>
-    <desc lang="it">Dal bordo del cratere del Vesuvio, Federico Quaranta incontra Mario, uno psico-mago che vive appena poco sotto il vulcano. Qui la terra non dorme, trattiene il fiato.  È come stare sopra un gigante che respira piano, ma che potrebbe svegliarsi da un momento all’altro. È come stare sopra ad una bomba pronta ad esplodere. È anche un modo per sentire la vita nella sua forma più pura: quella che non promette niente, ma che brucia. Lo psico mago racconta come ci sia un forte legame tra il Vesuvio e la città di Napoli, la Napoli del tempo perso all’utile e sacrificato alla poesia. Da Napoli si va a Pompei, dove il Direttore degli scavi del sito archeologico Gabriel Zuchtriegel racconta non le grandi ville dei notabili, ma la vita e le abitazioni degli schiavi, della gente comune e dei loro passatempi. Pompei è una macchina del tempo e si prova a dare una risposta su cosa voglia dire andare a Pompei oggi, quale sia lo spirito giusto per affrontare questa visita. Dopo il Direttore degli scavi c’è il racconto delle suore del Santuario della Madonna di Pompei che raccolgono donazioni di vestiti da sposa e dopo averli “restaurati” li regalano a chi sta per sposarsi ma non può permettersi di comprarne uno. </desc>
+    <desc lang="it">Dal bordo del cratere del Vesuvio, Federico Quaranta incontra Mario, uno psico-mago che vive appena poco sotto il vulcano. Qui la terra non dorme, trattiene il fiato.  È come stare sopra un gigante che respira piano, ma che potrebbe svegliarsi da un momento all'altro. È come stare sopra ad una bomba pronta ad esplodere. È anche un modo per sentire la vita nella sua forma più pura: quella che non promette niente, ma che brucia. Lo psico mago racconta come ci sia un forte legame tra il Vesuvio e la città di Napoli, la Napoli del tempo perso all'utile e sacrificato alla poesia. Da Napoli si va a Pompei, dove il Direttore degli scavi del sito archeologico Gabriel Zuchtriegel racconta non le grandi ville dei notabili, ma la vita e le abitazioni degli schiavi, della gente comune e dei loro passatempi. Pompei è una macchina del tempo e si prova a dare una risposta su cosa voglia dire andare a Pompei oggi, quale sia lo spirito giusto per affrontare questa visita. Dopo il Direttore degli scavi c'è il racconto delle suore del Santuario della Madonna di Pompei che raccolgono donazioni di vestiti da sposa e dopo averli "restaurati" li regalano a chi sta per sposarsi ma non può permettersi di comprarne uno. </desc>
   </programme>
   <programme start="20260914204000 +0200" stop="20260914205000 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 14/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Una democrazia non è quel regime che ammette il giornalismo di inchiesta, la critica al potere, il dissenso che non è tradimento? E oggi dove si muove la Costituzione? Marco Damilano dialoga con il costituzionalista Michele Ainis, che nel suo ultimo libro si chiede se siamo andati oltre le democrature e le democrazie illiberali, le regressioni costituzionali, e siamo al fascismo bianco.</desc>
   </programme>
   <programme start="20260914205000 +0200" stop="20260914211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 14/09/2026 EP7026</title>
@@ -3360,19 +3356,19 @@
     <desc lang="it">Euro League Superfinal Donne - Finale: Spagna - Italia</desc>
   </programme>
   <programme start="20260914170000 +0200" stop="20260914173000 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in montagna. Marcialonga Running Coop</title>
-    <desc lang="it">Corsa in montagna. Marcialonga Running Coop</desc>
+    <title lang="it">Corsa in montagna - Marcialonga Running 2026</title>
+    <desc lang="it">Marcialonga Running</desc>
   </programme>
   <programme start="20260914173000 +0200" stop="20260914184000 +0200" channel="RaiSport.it">
-    <title lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</title>
-    <desc lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</desc>
+    <title lang="it">Pattinaggio a rotelle - Campionati Italiani Corsa su strada 2026</title>
+    <desc lang="it">Campionati Italiani corsa su strada</desc>
   </programme>
   <programme start="20260914184000 +0200" stop="20260914193000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. C.ti Italiani Targa Canegrate</title>
-    <desc lang="it">Tiro con l'Arco. C.ti Italiani Targa Canegrate</desc>
+    <title lang="it">Tiro con l'Arco - Campionati Italiani Targa 2026</title>
+    <desc lang="it">Campionati Italiani Targa  Photo credit: Fausto Ercoli</desc>
   </programme>
   <programme start="20260914193000 +0200" stop="20260914203500 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 14/09/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20260914203500 +0200" stop="20260914224500 +0200" channel="RaiSport.it">
@@ -3385,65 +3381,69 @@
   </programme>
   <programme start="20260915004500 +0200" stop="20260915033500 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Ultimate Championship 2026 - 3a giornata: Semifinali e Finali</title>
-    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  Photo credit: World Athletics via Getty Images</desc>
+    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  </desc>
   </programme>
   <programme start="20260915033500 +0200" stop="20260915060000 +0200" channel="RaiSport.it">
     <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Svezia - Cechia</title>
     <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Svezia e Repubblica Ceca si affrontano in una sfida importante per la classifica e per il cammino nella fase a gironi.</desc>
   </programme>
-  <programme start="20260915060000 +0200" stop="20260915084000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Italia - Slovacchia</title>
-    <desc lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Italia - Slovacchia</desc>
+  <programme start="20260915060000 +0200" stop="20260915081000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Italia - Slovacchia</title>
+    <desc lang="it">Prosegue il percorso dell'Italvolley maschile agli Europei. I ragazzi di Ferdinando De Giorgi affrontano al PalaPanini di Modena la nazionale slovacca.</desc>
   </programme>
-  <programme start="20260915084000 +0200" stop="20260915114000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica Leggera: Ultimate Championship 3a giornata: Finali</title>
-    <desc lang="it">Atletica Leggera: Ultimate Championship 3a giornata: Finali</desc>
+  <programme start="20260915081000 +0200" stop="20260915084000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
+    <desc lang="it">Memory</desc>
   </programme>
-  <programme start="20260915114000 +0200" stop="20260915123500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Formula Regional Imola</title>
-    <desc lang="it">Automobilismo: Formula Regional Imola</desc>
+  <programme start="20260915084000 +0200" stop="20260915111000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica: Ultimate Championship 2026 - 3a giornata: Semifinali e Finali</title>
+    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  </desc>
   </programme>
-  <programme start="20260915123500 +0200" stop="20260915133500 +0200" channel="RaiSport.it">
-    <title lang="it">Il Processo del lunedì</title>
+  <programme start="20260915111000 +0200" stop="20260915121000 +0200" channel="RaiSport.it">
+    <title lang="it">Bordocampo</title>
   </programme>
-  <programme start="20260915133500 +0200" stop="20260915153500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Giro d'Abruzzo: 1a tappa</title>
-    <desc lang="it">Ciclismo. Giro d'Abruzzo: 1a tappa</desc>
+  <programme start="20260915121000 +0200" stop="20260915133500 +0200" channel="RaiSport.it">
+    <title lang="it">Il Processo del Lunedì del 14/09/2026</title>
+    <desc lang="it">L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee.</desc>
   </programme>
-  <programme start="20260915153500 +0200" stop="20260915155000 +0200" channel="RaiSport.it">
-    <title lang="it">Perle di Sport</title>
+  <programme start="20260915133500 +0200" stop="20260915155000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo - Giro d'Abruzzo 2026 - 1a tappa: Cupello - Casalincontrada</title>
+    <desc lang="it">Il Giro d'Abruzzo 2026 prende il via con la prima tappa da Cupello a Casalincontrada. Una frazione inaugurale sulle strade abruzzesi che apre la corsa e dà il via alla sfida per la classifica generale.</desc>
   </programme>
   <programme start="20260915155000 +0200" stop="20260915183000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo. Europeo maschile: Grecia-Svezia</title>
-    <desc lang="it">Pallavolo. Europeo maschile: Grecia-Svezia</desc>
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Grecia - Svezia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Grecia e Svezia si affrontano in una sfida importante per la classifica e per il cammino verso la fase a eliminazione diretta.</desc>
   </programme>
-  <programme start="20260915183000 +0200" stop="20260915211000 +0200" channel="RaiSport.it">
-    <title lang="it">Basket Femminile: Coppa del Mondo Germania 2026 Finale</title>
-    <desc lang="it">Basket Femminile: Coppa del Mondo Germania 2026 Finale</desc>
+  <programme start="20260915183000 +0200" stop="20260915205200 +0200" channel="RaiSport.it">
+    <title lang="it">Basket: Mondiali femminili 2026 - Finale: USA - Francia</title>
+    <desc lang="it">Atto conclusivo ai Mondiali femminili di basket di Germania. Stati Uniti e Francia si giocano il gradino più alto del podio.</desc>
   </programme>
-  <programme start="20260915211000 +0200" stop="20260915224000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Trofeo Matteotti Maschile e Femminile</title>
-    <desc lang="it">Ciclismo: Trofeo Matteotti Maschile e Femminile</desc>
+  <programme start="20260915211000 +0200" stop="20260915220000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo - Trofeo Matteotti 2026 Uomini</title>
+    <desc lang="it">Trofeo Matteotti Uomini</desc>
   </programme>
-  <programme start="20260915224000 +0200" stop="20260916011000 +0200" channel="RaiSport.it">
-    <title lang="it">Campionati Europei Pallavolo Maschile Grecia-Svezia</title>
-    <desc lang="it">Campionati Europei Pallavolo Maschile Grecia-Svezia</desc>
+  <programme start="20260915220000 +0200" stop="20260915223000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
-  <programme start="20260916011000 +0200" stop="20260916014000 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in montagna: Marcialonga Running Coop</title>
-    <desc lang="it">Corsa in montagna: Marcialonga Running Coop</desc>
+  <programme start="20260915223000 +0200" stop="20260915233000 +0200" channel="RaiSport.it">
+    <title lang="it">Mondiale Motocross 2026 - GP di Shangai: MX2 (gara 2)</title>
+    <desc lang="it">Seconda manche della classe MX2 nel Gran Premio di Shanghai, appuntamento del Mondiale Motocross 2026. </desc>
   </programme>
-  <programme start="20260916014000 +0200" stop="20260916025500 +0200" channel="RaiSport.it">
-    <title lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</title>
-    <desc lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</desc>
+  <programme start="20260915233000 +0200" stop="20260916004000 +0200" channel="RaiSport.it">
+    <title lang="it">Mondiale Motocross 2026 - GP di Shangai: MXGP (gara 2)</title>
+    <desc lang="it">Seconda manche della classe MXGP nel Gran Premio di Shanghai, appuntamento del Mondiale Motocross 2026.</desc>
   </programme>
-  <programme start="20260916025500 +0200" stop="20260916051500 +0200" channel="RaiSport.it">
-    <title lang="it">Campionati Europei Pallavolo Maschile Rep. Ceca - Italia</title>
-    <desc lang="it">Campionati Europei Pallavolo Maschile Rep. Ceca - Italia</desc>
+  <programme start="20260916004000 +0200" stop="20260916031000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Grecia - Svezia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Grecia e Svezia si affrontano in una sfida importante per la classifica e per il cammino verso la fase a eliminazione diretta.</desc>
   </programme>
-  <programme start="20260916051500 +0200" stop="20260916060000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'arco Campionati Italiani Targa</title>
-    <desc lang="it">Tiro con l'arco Campionati Italiani Targa</desc>
+  <programme start="20260916031000 +0200" stop="20260916041000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio a rotelle - Campionati Italiani Corsa su strada 2026</title>
+    <desc lang="it">Campionati Italiani corsa su strada</desc>
+  </programme>
+  <programme start="20260916041000 +0200" stop="20260916060000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Repubblica Ceca - Italia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Repubblica Ceca in una sfida importante per la classifica e per il cammino degli Azzurri verso la fase a eliminazione diretta.</desc>
   </programme>
   <programme start="20260916060000 +0200" stop="20260916080000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Giro d'Abruzzo 1° giornata</title>
@@ -5206,21 +5206,9 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Una nuova vita per Zoe</title>
     <desc lang="it">Zoe viene ferita in una sparatoria mentre raccoglie la denuncia di un giovane fotografo derubato. Lui muore, e il caso si trasforma in un’indagine per omicidio. Mentre Dan collabora con la polizia, Zoe, dimessa dall’ospedale, indaga da sola ignorando i consigli medici.</desc>
   </programme>
-  <programme start="20260914103000 +0200" stop="20260914134040 +0200" channel="pluto_film_tv">
+  <programme start="20260914160000 +0200" stop="20260914191340 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914134040 +0200" stop="20260914154140 +0200" channel="pluto_film_tv">
-    <title lang="it">Half Nelson</title>
-    <desc lang="it">Candidatura agli Oscar per Ryan Gosling. Dan è un insegnante di scuola pubblica, brillante e capace di motivare i suoi allievi nonostante le difficoltà della vita di periferia. Nel privato però affoga i suoi tormenti nell'abuso di alcool e droghe.</desc>
-  </programme>
-  <programme start="20260914154140 +0200" stop="20260914172640 +0200" channel="pluto_film_tv">
-    <title lang="it">Tutta colpa di Sara</title>
-    <desc lang="it">Dopo essere stata notificata della richiesta di divorzio, una donna convince un ufficiale giudiziario ad aiutarla a riottenere ciò che le è dovuto.</desc>
-  </programme>
-  <programme start="20260914172640 +0200" stop="20260914191340 +0200" channel="pluto_film_tv">
-    <title lang="it">Amarsi sotto la pioggia</title>
-    <desc lang="it">Casey decide di rispettare le ultime volontà di sua madre e si reca a Londra per consegnare una lettera a Lord Benton. La donna si innamora del figlio del nobile britannico, Micheal.</desc>
   </programme>
   <programme start="20260914191340 +0200" stop="20260914210040 +0200" channel="pluto_film_tv">
     <title lang="it">Pressione in cabina</title>
@@ -5270,33 +5258,33 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Lovers</title>
     <desc lang="it">Tradimenti, vendette, amori e colpi di scena animano quattro storie parallele interpretate dai medesimi attori sullo sfondo di Bologna. Amore, commedia, dubbio e sospetto si fondono nel film italiano pluripremiato all'estero.</desc>
   </programme>
-  <programme start="20260915171906 +0200" stop="20260915223000 +0200" channel="pluto_film_tv">
+  <programme start="20260915171906 +0200" stop="20260915190159 +0200" channel="pluto_film_tv">
+    <title lang="it">Mr. Magorium e la bottega delle meraviglie</title>
+    <desc lang="it">Molly Mahoney è la goffa e insicura della Bottega delle Meraviglie di Mr. Magorium, il negozio di giocattoli più strano e fantastico del mondo.</desc>
+  </programme>
+  <programme start="20260915190159 +0200" stop="20260915210059 +0200" channel="pluto_film_tv">
+    <title lang="it">Draft Day</title>
+    <desc lang="it">Dopo aver concluso uno scambio importante, il Manager Generale Sonny Weaver Jr. (Kevin Costner) è il primo a poter scegliere. Deve attenersi al piano concordato per la scelta o fidarsi del proprio istinto e rischiare di perdere tutto?</desc>
+  </programme>
+  <programme start="20260915210059 +0200" stop="20260915231159 +0200" channel="pluto_film_tv">
+    <title lang="it">Sono affari di famiglia</title>
+    <desc lang="it">Vito, suo padre Jessie e il figlio Adam gestiscono insieme un'azienda di carne all'ingrosso.</desc>
+  </programme>
+  <programme start="20260915231159 +0200" stop="20260916040000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260915223000 +0200" stop="20260916103000 +0200" channel="pluto_film_tv">
+  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916103000 +0200" stop="20260916163000 +0200" channel="pluto_film_tv">
+  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914103000 +0200" stop="20260914143720 +0200" channel="pluto_film_azione">
+  <programme start="20260914160000 +0200" stop="20260914194910 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914143720 +0200" stop="20260914162420 +0200" channel="pluto_film_azione">
-    <title lang="it">Pressione in cabina</title>
-    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
-  </programme>
-  <programme start="20260914162420 +0200" stop="20260914180736 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e la ricerca della tomba di Akhenaten</title>
-    <desc lang="it">Mentre è sulle tracce del tesoro di Ugarit, Jack Hunter si reca in Turchia, dove viene informato su un presunto complotto tra americani e mafiosi russi per impossessarsi della Stella del Cielo, un artefatto dagli straordinari poteri.</desc>
-  </programme>
-  <programme start="20260914180736 +0200" stop="20260914194910 +0200" channel="pluto_film_azione">
-    <title lang="it">La gang degli svitati</title>
-    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
   </programme>
   <programme start="20260914194910 +0200" stop="20260914213049 +0200" channel="pluto_film_azione">
     <title lang="it">Fatal Instinct</title>
@@ -5342,49 +5330,37 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">A prova di idiota</title>
     <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
   </programme>
-  <programme start="20260915162029 +0200" stop="20260915223000 +0200" channel="pluto_film_azione">
+  <programme start="20260915162029 +0200" stop="20260915180713 +0200" channel="pluto_film_azione">
+    <title lang="it">Dead Heat</title>
+    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
+  </programme>
+  <programme start="20260915180713 +0200" stop="20260915194718 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
+    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
+  </programme>
+  <programme start="20260915194718 +0200" stop="20260915213056 +0200" channel="pluto_film_azione">
+    <title lang="it">Hostile Territory - Il tempo è il nemico</title>
+    <desc lang="it">Di ritorno dalla Guerra Civile, l'ex prigioniero Jack Calgrove scopre che sua moglie è morta e che i suoi figli, presunti orfani, sono su un treno diretto verso un territorio ostile nel profondo West.</desc>
+  </programme>
+  <programme start="20260915213056 +0200" stop="20260915234521 +0200" channel="pluto_film_azione">
+    <title lang="it">In the name of the King</title>
+    <desc lang="it">La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.</desc>
+  </programme>
+  <programme start="20260915234521 +0200" stop="20260916040000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260915223000 +0200" stop="20260916103000 +0200" channel="pluto_film_azione">
+  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916103000 +0200" stop="20260916163000 +0200" channel="pluto_film_azione">
+  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914103000 +0200" stop="20260914144850 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260914160000 +0200" stop="20260914201712 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914144850 +0200" stop="20260914153430 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Rivelazione</title>
-    <desc lang="it">Rebecca prepara un virus ricavato dall'influenza suina da diffondere tra la popolazione di Chester's Mill. Pensando che Barbie non sia più suo alleato, Julia chiede aiuto a Sam per contrastare il piano...</desc>
-  </programme>
-  <programme start="20260914153430 +0200" stop="20260914162345 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Riconciliazione</title>
-    <desc lang="it">Julia cerca di ridistribuire le scorte di cibo, ma solo metà di Chester's Mill è con lei. Il processo a Big Jim e Rebecca rischia di provocare una mini-guerra civile…</desc>
-  </programme>
-  <programme start="20260914162345 +0200" stop="20260914170930 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Nel buio</title>
-    <desc lang="it">Junior, Sam e Barbie scendono nella galleria che si apre nell'armadietto 18-21, in cerca di Lyle. Restano intrappolati da un crollo, e mentre Julia e Rebecca cercano un sistema per farli uscire, i due finiscono davanti a un baratro senza fondo…</desc>
-  </programme>
-  <programme start="20260914170930 +0200" stop="20260914175643 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Tornando a casa</title>
-    <desc lang="it">Barbie decide di indagare e di calarsi all'interno del misterioso tunnel senza apparente fine che ha inghiottito Sam. Una volta addentratosi, una forza magnetica lo spinge verso il basso.</desc>
-  </programme>
-  <programme start="20260914175643 +0200" stop="20260914184331 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Gli Abissi</title>
-    <desc lang="it">Quando Magnus e Will vengono a conoscenza di un piano per catturare degli Anormali molto rari e pericolosi, si recano in una grotta remota per impedire poi la caccia.</desc>
-  </programme>
-  <programme start="20260914184331 +0200" stop="20260914193019 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Prima Parte</title>
-    <desc lang="it">Quando il Santuario è avvicinato da un leader degli anormali per un piano radicale per la pace, Magnus si impegna a dare il suo supporto. Tuttavia, quando Will è costretto a lasciare il Santuario, la sua decisione potrebbe mettere tutti in pericolo.</desc>
-  </programme>
-  <programme start="20260914193019 +0200" stop="20260914201712 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Seconda Parte</title>
-    <desc lang="it">La SCIU ha circondato il Quinto Reparto con truppe e uno scudo elettrico che impedisce loro di uscire. Caleb ha un virus che può trasformare la popolazione umana in anormali. Magnus mette in atto il suo piano finale per la rete dei Santuari.</desc>
   </programme>
   <programme start="20260914201712 +0200" stop="20260914210712 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Dresden Files: Due gocce d'acqua</title>
@@ -5486,49 +5462,45 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Dresden Files: Il Terzo Occhio</title>
     <desc lang="it">Spinto a ripagare un debito del passato, Dresden si ritrova coinvolto in una guerra di potere fra gang di vampiri.</desc>
   </programme>
-  <programme start="20260915163703 +0200" stop="20260915223000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260915163703 +0200" stop="20260915172703 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: La condanna di Bob</title>
+    <desc lang="it">Quando un uomo muore improvvisamente nell'ufficio di Harry, quest'ultimo inizia a investigare su un intricato complotto omicida che ha a che fare con il passato di Bob.</desc>
+  </programme>
+  <programme start="20260915172703 +0200" stop="20260915181603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'uomo di cera</title>
+    <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
+  </programme>
+  <programme start="20260915181603 +0200" stop="20260915190603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: Demoni nella bufera</title>
+    <desc lang="it">Dresden si scontra con l'Alto Consiglio dei Maghi nel momento in cui è sospettato di essere coinvolto nelle morti di una studentessa e di un malavitoso del luogo avvenute per magia nera.</desc>
+  </programme>
+  <programme start="20260915190603 +0200" stop="20260915195603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'aldilà</title>
+    <desc lang="it">Quando l'investigatore privato di Chicago, Jim Brennan, viene assassinato con mezzi soprannaturali, Harry deve collaborare con l'assistente di Brennan per trovare l'assassino.</desc>
+  </programme>
+  <programme start="20260915195603 +0200" stop="20260915204603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: Un caso riaperto</title>
+    <desc lang="it">Un'avventura di una notte si rivela letale quando la vecchia nemesi di Harry rifà la sua comparsa.</desc>
+  </programme>
+  <programme start="20260915204603 +0200" stop="20260915213603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: L'Incantesimo</title>
+    <desc lang="it">Morgan e l'Anziana Mai si rifugiano, con riluttanza, da Harry.</desc>
+  </programme>
+  <programme start="20260915213603 +0200" stop="20260915222603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: La seconda chance</title>
+    <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
+  </programme>
+  <programme start="20260915222603 +0200" stop="20260916040000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260915223000 +0200" stop="20260916103000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916103000 +0200" stop="20260916163000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914144126 +0000" stop="20260914150139 +0000" channel="redbull_tv">
-    <title lang="it">Vitória Mendonça</title>
-    <desc lang="it">Madars Apse meets Brazilian female skateboarding trailblazer Vitória Mendonça, who came from humble roots to become a skateboarder, model and youth icon.</desc>
-  </programme>
-  <programme start="20260914150139 +0000" stop="20260914152247 +0000" channel="redbull_tv">
-    <title lang="it">Richie Jackson</title>
-    <desc lang="it">Richie Jackson has thrown skateboarding's unwritten rulebook in the bin. His wild imagination and inventive approach broke the internet and split skating opinion in two.</desc>
-  </programme>
-  <programme start="20260914152247 +0000" stop="20260914160313 +0000" channel="redbull_tv">
-    <title lang="it">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="it">Get a glimpse into surfer Lucas Chianca's incredible life as the Brazilian waterman balances chasing heavy waves around the world with his biggest challenge yet, becoming a father for the first time.</desc>
-  </programme>
-  <programme start="20260914160313 +0000" stop="20260914164223 +0000" channel="redbull_tv">
-    <title lang="it">Drive Thru California</title>
-    <desc lang="it">Donavon Frankenreiter, Timmy Curran, Greg Browning and Shawn 'Barney' Barron journey down the coast of California, while living in a rented RV.</desc>
-  </programme>
-  <programme start="20260914164223 +0000" stop="20260914172057 +0000" channel="redbull_tv">
-    <title lang="it">Drive Thru Caribbean</title>
-    <desc lang="it">Surfers Donavon Frankenreiter, Benji Weatherley, Pat O'Conell, Kalani Robb and Yadin Nicol get wrapped up in some serious hijinks during their search for waves through the Caribbean.</desc>
-  </programme>
-  <programme start="20260914172057 +0000" stop="20260914180457 +0000" channel="redbull_tv">
-    <title lang="it">WSL Vivo Rio Pro wrap show</title>
-    <desc lang="it">Get all the expert analysis you need after the 2025 WSL Vivo Rio Pro champions are crowned on the sands of Saquarema, Brazil.</desc>
-  </programme>
-  <programme start="20260914180457 +0000" stop="20260914183314 +0000" channel="redbull_tv">
-    <title lang="it">Questo è il surf a New York!</title>
-    <desc lang="it">Uno sguardo approfondito verso i personaggi pittoreschi che caratterizzano la scena del surf a New York.  in-depth look at the colourful characters comprising the New York surf scene. Tra i freddi inverni con Balaram Stack e il divertimento estivo con la crew di Kolohe Andino, viaggia anche tu da Brooklyn fino a Babylon.</desc>
-  </programme>
-  <programme start="20260914183314 +0000" stop="20260914195142 +0000" channel="redbull_tv">
-    <title lang="it">Against Gravity</title>
-    <desc lang="it">Born in the water, shaped by the ocean: surf pro Leon Glatzer shares how the sea shaped his life. Full of ups and downs, his story is all about the search for freedom.</desc>
   </programme>
   <programme start="20260914195142 +0000" stop="20260914212026 +0000" channel="redbull_tv">
     <title lang="it">Johannesburg, South Africa</title>
@@ -5578,125 +5550,117 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Best of Red Bull Soapbox Race part 2</title>
     <desc lang="it">Check out the most memorable moments of Red Bull Soapbox Race, from the impeccable driving skills to the high speed spills take look at weird and wonderful events around the globe.</desc>
   </programme>
-  <programme start="20260914143523 +0000" stop="20260914150133 +0000" channel="redbull_bike">
-    <title lang="it">Chasing the Inca II</title>
-    <desc lang="it">Quattro atleti rivisitano le Ande, spingendo i limiti del possibile in mountain bike, alla ricerca di una strada Inca perduta individuata quasi dieci anni prima in una spedizione precedente (Chasing the Inca I).</desc>
+  <programme start="20260915034750 +0000" stop="20260915043629 +0000" channel="redbull_tv">
+    <title lang="it">Red Bull Flugtag </title>
+    <desc lang="it">See the best of Red Bull Flugtag in Cincinnati, Ohio, where participants competed to showcase their ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
   </programme>
-  <programme start="20260914150133 +0000" stop="20260914151420 +0000" channel="redbull_bike">
-    <title lang="it">Instinct vs science</title>
-    <desc lang="it">The best MTB riders race on instinct. Why? Because understanding the science of speed doesn't always help them know when to go fast and when to slow down. They have to work it out themselves.</desc>
+  <programme start="20260915043629 +0000" stop="20260915045500 +0000" channel="redbull_tv">
+    <title lang="it">Ignorando le distrazioni</title>
+    <desc lang="it">La strada per il successo non è sempre semplice, nemmeno per i Lawrence, che hanno dovuto fare qualche sacrificio. Ma i risultati si vedono alla tappa di Hangtown del 250 Pro Motocross Championship 2021.</desc>
   </programme>
-  <programme start="20260914151420 +0000" stop="20260914161827 +0000" channel="redbull_bike">
-    <title lang="it">Emerald Storm</title>
-    <desc lang="it">Across four decades and five generations, watch the evolution of Irish MTB, from casual rides with friends to fierce battles on the world’s biggest stage: the UCI Downhill World Cup.</desc>
+  <programme start="20260915045500 +0000" stop="20260915051043 +0000" channel="redbull_tv">
+    <title lang="it">Business of Supercross</title>
+    <desc lang="it">Jett preps for the 2022 AMA Supercross season and Hunter rips pit bikes with a fellow Aussie motorsport legend, F1’s Daniel Ricciardo. And Jett’s agent kicks off plans for the Jettson clothing brand.</desc>
   </programme>
-  <programme start="20260914161827 +0000" stop="20260914171027 +0000" channel="redbull_bike">
-    <title lang="it">Le highlights di Whistler</title>
-    <desc lang="it">Resta al passo con tutto quello che è successo a Whistler negli eventi di slalom, pump track, downhill e slopestyle.</desc>
+  <programme start="20260915051043 +0000" stop="20260915054250 +0000" channel="redbull_tv">
+    <title lang="it">Dropping Molly</title>
+    <desc lang="it">Join climber Molly Mitchell on her intense, years-long journey to complete a rare all-gear ascent of Crank-it in Boulder Canyon, a route known for its extreme difficulty and high risks.</desc>
   </programme>
-  <programme start="20260914171027 +0000" stop="20260914173421 +0000" channel="redbull_bike">
-    <title lang="it">Colombia</title>
-    <desc lang="it">Rob Warner e Finn Iles in Colombia in cerca dei più selvaggi trail del Sud America.</desc>
+  <programme start="20260915054250 +0000" stop="20260915060000 +0000" channel="redbull_tv">
+    <title lang="it">Redemption</title>
+    <desc lang="it">Renowned trials rider Danny MacAskill returns to San Francisco, five years after plans to film there were derailed by a career-changing injury.</desc>
   </programme>
-  <programme start="20260914173421 +0000" stop="20260914185808 +0000" channel="redbull_bike">
-    <title lang="it">The Engine Inside</title>
-    <desc lang="it">Six people from different worlds dedicate their lives to a simple, age-old machine: the bicycle. Facing overwhelming challenges, their stories reveal the power within us to build a better world.</desc>
+  <programme start="20260915060000 +0000" stop="20260915062600 +0000" channel="redbull_tv">
+    <title lang="it">Freerunning</title>
+    <desc lang="it">Tony Hawk and influential figures like Jason Paul and Pasha Petkuns tell the story of competitive freerunning – and how the scene around it transcended the sport to establish Red Bull Art of Motion.</desc>
   </programme>
-  <programme start="20260914185808 +0000" stop="20260914190519 +0000" channel="redbull_bike">
-    <title lang="it">The power of bikes</title>
-    <desc lang="it">L'atleta di endurance Rebecca Rusch e l'avventuriero Patrick Sweeney sono pronti a sfidare il Kilimanjaro in bici, in Tanzania. L'obiettivo è di raccogliere fondi per l'organizzazione no-profit World Bicycle Relief.</desc>
+  <programme start="20260915062600 +0000" stop="20260915065200 +0000" channel="redbull_tv">
+    <title lang="it">Freestyle football</title>
+    <desc lang="it">This is the story of freestyle football – and how the scene around it has transcended sport and established Red Bull Street Style as a competition that brings the world together.</desc>
   </programme>
-  <programme start="20260914190519 +0000" stop="20260914192320 +0000" channel="redbull_bike">
-    <title lang="it">EMIL – Every Mystery I've Lived: The Next Chapter</title>
-    <desc lang="it">Ancora combattendo per tenere il passo con la sua malattia autoimmune, vediamo come si comporta il campione di slopestyle MTB Emil Johansson mentre cerca di riconquistare il suo titolo nel 2020.</desc>
+  <programme start="20260915065200 +0000" stop="20260915071836 +0000" channel="redbull_tv">
+    <title lang="it">Breaking</title>
+    <desc lang="it">L'evoluzione e i progressi del breaking spiegati insieme a Busta Rhymes e ballerini di diverse generazioni. </desc>
   </programme>
-  <programme start="20260914192320 +0000" stop="20260914193520 +0000" channel="redbull_bike">
-    <title lang="it">Skill vs luck</title>
-    <desc lang="it">Which gets a rider better results – having the support of a factory team behind them or going it alone? Top MTB riders like Kate Courtney, Loïc Bruni and Finn Iles share their experiences.</desc>
-  </programme>
-  <programme start="20260914193520 +0000" stop="20260914194803 +0000" channel="redbull_bike">
-    <title lang="it">Underdogs e overdogs</title>
-    <desc lang="it">I top rider di MTB Kate Courtney e Loïc Bruni ricordano alcuni degli alti e bassi della loro carriera in mountain bike. Le star americane dell'XCO e francesi della DH raccontano come hanno reagito loro e il mondo intero.</desc>
-  </programme>
-  <programme start="20260914194803 +0000" stop="20260914195246 +0000" channel="redbull_bike">
-    <title lang="it">Courage Adams</title>
-    <desc lang="it">Guarda lo street rider di BMX Courage Adams mentre atterra nella città di Johannesburg, in Sud Africa, per creare un'elettrizzante linea urbana attraverso le strade di Soweto.</desc>
-  </programme>
-  <programme start="20260914195246 +0000" stop="20260914201405 +0000" channel="redbull_bike">
-    <title lang="it">Bas Keep: More Walls</title>
-    <desc lang="it">In questo seguito del suo progetto "Walls", la stella della BMX Sebastian Keep affronta ostacoli e rampe in un paesaggio urbano tipicamente british.</desc>
-  </programme>
-  <programme start="20260914201405 +0000" stop="20260914202243 +0000" channel="redbull_bike">
+  <programme start="20260914201405 +0000" stop="20260914202242 +0000" channel="redbull_bike">
     <title lang="it">Tom Oehler sulle Dolomiti</title>
     <desc lang="it">Il leggendario trial rider Tom Oehler affronta le Dolomiti in questo video semplicemente pazzesco.</desc>
   </programme>
-  <programme start="20260914202243 +0000" stop="20260914204332 +0000" channel="redbull_bike">
+  <programme start="20260914202242 +0000" stop="20260914204331 +0000" channel="redbull_bike">
     <title lang="it">Ora o mai più</title>
     <desc lang="it">Con le poche gare della stagione 2020, la pressione per gareggiare al meglio è immensa.</desc>
   </programme>
-  <programme start="20260914204332 +0000" stop="20260914210758 +0000" channel="redbull_bike">
+  <programme start="20260914204331 +0000" stop="20260914210757 +0000" channel="redbull_bike">
     <title lang="it">Kenya</title>
     <desc lang="it">Rob Warner e il professionista del freeride Matt Jones si recano in Kenya, dove esplorano una delle montagne più alte dell’Africa e fanno incontri ravvicinati con la fauna locale.</desc>
   </programme>
-  <programme start="20260914210758 +0000" stop="20260914213152 +0000" channel="redbull_bike">
+  <programme start="20260914210757 +0000" stop="20260914213151 +0000" channel="redbull_bike">
     <title lang="it">Colombia</title>
     <desc lang="it">Rob Warner e Finn Iles in Colombia in cerca dei più selvaggi trail del Sud America.</desc>
   </programme>
-  <programme start="20260914213152 +0000" stop="20260914225538 +0000" channel="redbull_bike">
+  <programme start="20260914213151 +0000" stop="20260914225538 +0000" channel="redbull_bike">
     <title lang="it">The Engine Inside</title>
     <desc lang="it">Six people from different worlds dedicate their lives to a simple, age-old machine: the bicycle. Facing overwhelming challenges, their stories reveal the power within us to build a better world.</desc>
   </programme>
-  <programme start="20260914225538 +0000" stop="20260914232149 +0000" channel="redbull_bike">
+  <programme start="20260914225538 +0000" stop="20260914232148 +0000" channel="redbull_bike">
     <title lang="it">Chasing the Inca II</title>
     <desc lang="it">Quattro atleti rivisitano le Ande, spingendo i limiti del possibile in mountain bike, alla ricerca di una strada Inca perduta individuata quasi dieci anni prima in una spedizione precedente (Chasing the Inca I).</desc>
   </programme>
-  <programme start="20260914232149 +0000" stop="20260915001349 +0000" channel="redbull_bike">
+  <programme start="20260914232148 +0000" stop="20260915001348 +0000" channel="redbull_bike">
     <title lang="it">Le highlights di Whistler</title>
     <desc lang="it">Resta al passo con tutto quello che è successo a Whistler negli eventi di slalom, pump track, downhill e slopestyle.</desc>
   </programme>
-  <programme start="20260915001349 +0000" stop="20260915003817 +0000" channel="redbull_bike">
+  <programme start="20260915001348 +0000" stop="20260915003817 +0000" channel="redbull_bike">
     <title lang="it">Nepal</title>
     <desc lang="it">Rob Warner e il professionista di downhill Olly Wilkins affrontano la catena montuosa più alta del mondo partendo dalle pendici dell’Himalaya, in Nepal.</desc>
   </programme>
-  <programme start="20260914142603 +0000" stop="20260914151404 +0000" channel="redbull_adventure">
-    <title lang="it">360 Ascent</title>
-    <desc lang="it">I climber di fama mondiale Janja Garnbret e Domen Škofic affrontano la scalata del percorso multi-pitch artificiale più alto al mondo: la ciminiera più alta d'Europa, la Trbovlje Power Station, in Slovenia.</desc>
+  <programme start="20260915003817 +0000" stop="20260915005028 +0000" channel="redbull_bike">
+    <title lang="it">Recap show – Nové Město</title>
+    <desc lang="it">Watch a full recap of the cross-country action from Nové Město, which saw Rebecca McConnell take three wins from three, while Tom Pidcock left it late to secure his second victory of the season.</desc>
   </programme>
-  <programme start="20260914151404 +0000" stop="20260914153346 +0000" channel="redbull_adventure">
-    <title lang="it">The Filer Creek Expedition</title>
-    <desc lang="it">Ed Muggridge and his crew of intrepid kayakers seek out a first descent of Filer Creek – a 66km stretch of river that takes them from British Columbia's alpine coast mountains to the Pacific Ocean.</desc>
+  <programme start="20260915005028 +0000" stop="20260915011438 +0000" channel="redbull_bike">
+    <title lang="it">Lesotho</title>
+    <desc lang="it">Rob Warner con il freerider Matt Jones a Lesotho in Africa</desc>
   </programme>
-  <programme start="20260914153346 +0000" stop="20260914155113 +0000" channel="redbull_adventure">
-    <title lang="it">One Day, 4061m &amp; 4478m</title>
-    <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
+  <programme start="20260915011438 +0000" stop="20260915013719 +0000" channel="redbull_bike">
+    <title lang="it">The Road Back: Brook MacDonald</title>
+    <desc lang="it">Witness the recovery of top New Zealand mountain biker Brook MacDonald after a devastating accident jeopardised his chances of competing again.</desc>
   </programme>
-  <programme start="20260914155113 +0000" stop="20260914161121 +0000" channel="redbull_adventure">
-    <title lang="it">All You Need is a Ball</title>
-    <desc lang="it">Learn how the world’s best freestyle footballers, like Red Bull Street Style World Final 2022 winner Caitlyn Schrepfer, have pushed the sport forward and are paving the way for a new generation.</desc>
+  <programme start="20260915013719 +0000" stop="20260915024126 +0000" channel="redbull_bike">
+    <title lang="it">Emerald Storm</title>
+    <desc lang="it">Across four decades and five generations, watch the evolution of Irish MTB, from casual rides with friends to fierce battles on the world’s biggest stage: the UCI Downhill World Cup.</desc>
   </programme>
-  <programme start="20260914161121 +0000" stop="20260914163452 +0000" channel="redbull_adventure">
-    <title lang="it">Filming free solo on Les Drus in France</title>
-    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
+  <programme start="20260915024126 +0000" stop="20260915024833 +0000" channel="redbull_bike">
+    <title lang="it">Harriet Burbidge-Smith – Australian style</title>
+    <desc lang="it">Enjoy just the sound of tyres on dirt as Australian freeride mountain biker Harriet Burbidge-Smith puts it down at gravity-focused Maydena Bike Park near her home in Tasmania.</desc>
   </programme>
-  <programme start="20260914163452 +0000" stop="20260914165354 +0000" channel="redbull_adventure">
-    <title lang="it">The high road - Scalata al successo parte 2</title>
-    <desc lang="it">Nina Williams prova un'incredibile impresa: un boulder di 15 metri chiamato Too Big to Flail.</desc>
+  <programme start="20260915024833 +0000" stop="20260915030345 +0000" channel="redbull_bike">
+    <title lang="it">Erik Fedko checks out Emil Johansson's home spots</title>
+    <desc lang="it">Following success at the 2020 Crankworx Rotorua, mountain biker Erik Fedko makes the long journey from New Zealand to Sweden to check out some of fellow rider Emil Johansson's favourite spots to ride.</desc>
   </programme>
-  <programme start="20260914165354 +0000" stop="20260914171455 +0000" channel="redbull_adventure">
-    <title lang="it">Fairy Flight </title>
-    <desc lang="it">Frenchman Valentin Delluc drops from the iconic hot air balloons of magical Cappadocia in Turkey for a speedflying adventure filled with action. </desc>
+  <programme start="20260915030345 +0000" stop="20260915031545 +0000" channel="redbull_bike">
+    <title lang="it">Skill vs luck</title>
+    <desc lang="it">Which gets a rider better results – having the support of a factory team behind them or going it alone? Top MTB riders like Kate Courtney, Loïc Bruni and Finn Iles share their experiences.</desc>
   </programme>
-  <programme start="20260914171455 +0000" stop="20260914185332 +0000" channel="redbull_adventure">
-    <title lang="it">Valley Uprising</title>
-    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
+  <programme start="20260915031545 +0000" stop="20260915042438 +0000" channel="redbull_bike">
+    <title lang="it">The Old World</title>
+    <desc lang="it">The Old World è una vetrina per i rider europei che dominano il palco mondiale della mountain bike.</desc>
   </programme>
-  <programme start="20260914185332 +0000" stop="20260914193002 +0000" channel="redbull_adventure">
-    <title lang="it">Red Bull Dual Ascent</title>
-    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
+  <programme start="20260915042438 +0000" stop="20260915043052 +0000" channel="redbull_bike">
+    <title lang="it">Wee day out</title>
+    <desc lang="it">Guarda Danny MacAskill in azione nella Scozia rurale, mentre si gode un giro semplice e divertente su piste meno battute.</desc>
   </programme>
-  <programme start="20260914193002 +0000" stop="20260914194729 +0000" channel="redbull_adventure">
-    <title lang="it">One Day, 4061m &amp; 4478m</title>
-    <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
+  <programme start="20260915043052 +0000" stop="20260915045210 +0000" channel="redbull_bike">
+    <title lang="it">Bas Keep: More Walls</title>
+    <desc lang="it">In questo seguito del suo progetto "Walls", la stella della BMX Sebastian Keep affronta ostacoli e rampe in un paesaggio urbano tipicamente british.</desc>
+  </programme>
+  <programme start="20260915045210 +0000" stop="20260915050704 +0000" channel="redbull_bike">
+    <title lang="it">It's all about the drama</title>
+    <desc lang="it">MTB riders Kate Courtney, Finn Iles, Loïc Bruni and more look back at past editions of Fast Life, remember the good times, as well as the some of their toughest moments.</desc>
+  </programme>
+  <programme start="20260915050704 +0000" stop="20260915052138 +0000" channel="redbull_bike">
+    <title lang="it">Si ricomincia</title>
+    <desc lang="it">Kate Courtney, Loïc Bruni e Finn Iles parlano delle sfide di una stagione 2020 diversa dal solito.</desc>
   </programme>
   <programme start="20260914194729 +0000" stop="20260914205316 +0000" channel="redbull_adventure">
     <title lang="it">K2: The Impossible Descent</title>
@@ -5734,55 +5698,63 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Dom-ination Cairo</title>
     <desc lang="it">The Egyptian city of Cairo is host to Australian freerunner Dominic Di Tommaso, who showcases his impressive parkour skills at a series of iconic locations, including the River Nile and the pyramids.</desc>
   </programme>
-  <programme start="20260915012336 +0000" stop="20260915014950 +0000" channel="redbull_adventure">
+  <programme start="20260915012336 +0000" stop="20260915014949 +0000" channel="redbull_adventure">
     <title lang="it">The Nose speed record parte 3</title>
     <desc lang="it">Dopo settimane di allenamento e qualche errore di troppo, Alex Honnold e Tommy Caldwell provano a infrangere il record.</desc>
   </programme>
-  <programme start="20260914145328 +0000" stop="20260914153732 +0000" channel="redbull_motorsports">
-    <title lang="it">Nitro Rallycross</title>
-    <desc lang="it">per il quarto anno consecutivo i migliori atleti si danno battaglia nella spettacolare competizione di Travis Pastrana, con una serie di eventi che alzano il livello di FMX, BMX, skate, scooter e rallycross.</desc>
+  <programme start="20260915014949 +0000" stop="20260915021320 +0000" channel="redbull_adventure">
+    <title lang="it">Filming free solo on Les Drus in France</title>
+    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
   </programme>
-  <programme start="20260914153732 +0000" stop="20260914163059 +0000" channel="redbull_motorsports">
-    <title lang="it">Romaniacs</title>
-    <desc lang="it">La gara più lunga della stagione di Hard Enduro inizia con una sfida per le strade di Sibiu, in Transilvania, per poi passare a quattro giorni di gara su un percorso vergine attraverso un terreno brutale che si rivela proibitivo anche solo da attraversare.</desc>
+  <programme start="20260915021320 +0000" stop="20260915030121 +0000" channel="redbull_adventure">
+    <title lang="it">360 Ascent</title>
+    <desc lang="it">I climber di fama mondiale Janja Garnbret e Domen Škofic affrontano la scalata del percorso multi-pitch artificiale più alto al mondo: la ciminiera più alta d'Europa, la Trbovlje Power Station, in Slovenia.</desc>
   </programme>
-  <programme start="20260914163059 +0000" stop="20260914164304 +0000" channel="redbull_motorsports">
-    <title lang="it">Rivivi l'intensa stagione 2020</title>
-    <desc lang="it">La stagione 2020 dell'MX World Championship è stata tra le più intense della storia del motocross. Riviviamo gli highlight dell'anno insieme a Tony Cairoli, Jeffrey Herlings e Jorge Prado.</desc>
+  <programme start="20260915030121 +0000" stop="20260915031809 +0000" channel="redbull_adventure">
+    <title lang="it">Beneath the Ice</title>
+    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
   </programme>
-  <programme start="20260914164304 +0000" stop="20260914165313 +0000" channel="redbull_motorsports">
-    <title lang="it">Motorbikes and bicycles</title>
-    <desc lang="it">Manuel Lettenbichler heads to Erzberg, Austria, for a special project where he gets the whole mountain to himself. Meanwhile, Paul Bolton takes on the first race after his shoulder injury.</desc>
+  <programme start="20260915031809 +0000" stop="20260915032543 +0000" channel="redbull_adventure">
+    <title lang="it">City of Gold</title>
+    <desc lang="it">Freerunner Dominic Di Tommaso is transported inside a video game where he must collect gold coins. But can he find them all in order to complete the final level and escape back to real life?</desc>
   </programme>
-  <programme start="20260914165313 +0000" stop="20260914175539 +0000" channel="redbull_motorsports">
-    <title lang="it">Erzbergfodeo Red Bull Hare Scramble</title>
-    <desc lang="it">The action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?</desc>
+  <programme start="20260915032543 +0000" stop="20260915040213 +0000" channel="redbull_adventure">
+    <title lang="it">Red Bull Dual Ascent</title>
+    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
   </programme>
-  <programme start="20260914175539 +0000" stop="20260914183939 +0000" channel="redbull_motorsports">
-    <title lang="it">Red Bull Straight Rhythm</title>
-    <desc lang="it">La battaglia dei dossi vede i piloti di supercross affrontare una pista ritmica "srotolata" di 800 metri con salti e doppi a Pomona, California, negli USA.</desc>
+  <programme start="20260915040213 +0000" stop="20260915042025 +0000" channel="redbull_adventure">
+    <title lang="it">L'esperimento in VR</title>
+    <desc lang="it">Alex Honnold, Nico Hojac e il team affrontano le dolomiti</desc>
   </programme>
-  <programme start="20260914183939 +0000" stop="20260914193139 +0000" channel="redbull_motorsports">
-    <title lang="it">Mint 400</title>
-    <desc lang="it">Con quattro estenuanti giri di 160 chilometri ciascuno attraverso l’implacabile deserto che circonda Las Vegas, l’eroe di casa Bryze Menzies difende il titolo nella gara di fuoristrada più prestigiosa degli Stati Uniti, resa famosa dal film "Paura e delirio a Las Vegas" di Hunter S. Thompson.</desc>
+  <programme start="20260915042025 +0000" stop="20260915042600 +0000" channel="redbull_adventure">
+    <title lang="it">Dom-ination Cairo</title>
+    <desc lang="it">The Egyptian city of Cairo is host to Australian freerunner Dominic Di Tommaso, who showcases his impressive parkour skills at a series of iconic locations, including the River Nile and the pyramids.</desc>
   </programme>
-  <programme start="20260914193139 +0000" stop="20260914200905 +0000" channel="redbull_motorsports">
-    <title lang="it">Flight Mode by Tom Pagès</title>
-    <desc lang="it">FMX legend Tom Pagès keeps making history by pushing the limits of his sport. After reinventing FMX on land, he combines freestyle motocross and freefall off a 135m cliff in Avoriaz, France.</desc>
+  <programme start="20260915042600 +0000" stop="20260915044702 +0000" channel="redbull_adventure">
+    <title lang="it">Fairy Flight </title>
+    <desc lang="it">Frenchman Valentin Delluc drops from the iconic hot air balloons of magical Cappadocia in Turkey for a speedflying adventure filled with action. </desc>
+  </programme>
+  <programme start="20260915044702 +0000" stop="20260915062539 +0000" channel="redbull_adventure">
+    <title lang="it">Valley Uprising</title>
+    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
+  </programme>
+  <programme start="20260915062539 +0000" stop="20260915071804 +0000" channel="redbull_adventure">
+    <title lang="it">Best moments from Copenhagen</title>
+    <desc lang="it">Do look down! These are the best moments from the third event of the 2022 Red Bull Cliff Diving World Series in Copenhagen, Denmark, so you can catch every detail of the top dives.</desc>
   </programme>
   <programme start="20260914200905 +0000" stop="20260914211233 +0000" channel="redbull_motorsports">
     <title lang="it">Crandon</title>
     <desc lang="it">I migliori piloti professionisti di ogni classe competono per la Coppa del Mondo off-road sul leggendario percorso breve di Crandon International Raceway nel Wisconsin, Stati Uniti.</desc>
   </programme>
-  <programme start="20260914211233 +0000" stop="20260914212857 +0000" channel="redbull_motorsports">
+  <programme start="20260914211233 +0000" stop="20260914212856 +0000" channel="redbull_motorsports">
     <title lang="it">Taking on a brand new race</title>
     <desc lang="it">Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the Abestone Hard Enduro race. This race is brand new for the riders, and the excitement is real!</desc>
   </programme>
-  <programme start="20260914212857 +0000" stop="20260914214454 +0000" channel="redbull_motorsports">
+  <programme start="20260914212856 +0000" stop="20260914214453 +0000" channel="redbull_motorsports">
     <title lang="it">Meet Honda HRC's newest rider</title>
     <desc lang="it">Jett and Hunter go thrifting and put their interior design skills to the test. Also on the cards is a trip to Daytona Bike Week, and brother Tate joining Honda HRC’s team.</desc>
   </programme>
-  <programme start="20260914214454 +0000" stop="20260914220021 +0000" channel="redbull_motorsports">
+  <programme start="20260914214453 +0000" stop="20260914220021 +0000" channel="redbull_motorsports">
     <title lang="it">Formula Schnitzeljagd – warm up in Austria</title>
     <desc lang="it">I piloti F1 di Red Bull Racing e Scuderia AlphaTauri F1 alle prese con una gara in Austria diversa dal solito, tra sfide uniche a bordo di particolari veicoli: un modo tutto speciale per prepararsi al meglio ai GP austriaci in arrivo.</desc>
   </programme>
@@ -5790,19 +5762,19 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">Romaniacs</title>
     <desc lang="it">Entrando nella quarta giornata con un vantaggio di cinque minuti sul campione in carica Graham Jarvis, lo sfidante Jonny Walker spinge al massimo fin da subito. Spera di distruggere le speranze di Jarvis di conquistare una quinta vittoria in uno dei più difficili eventi di Hard Enduro del mondo.</desc>
   </programme>
-  <programme start="20260914225221 +0000" stop="20260914235951 +0000" channel="redbull_motorsports">
+  <programme start="20260914225221 +0000" stop="20260914235950 +0000" channel="redbull_motorsports">
     <title lang="it">Red Bull Straight Rhythm</title>
     <desc lang="it">The battle of the bumps is back in Pomona, California, as the finals go down under the lights on a half-mile 'unwound' supercross track.</desc>
   </programme>
-  <programme start="20260914235951 +0000" stop="20260915002412 +0000" channel="redbull_motorsports">
+  <programme start="20260914235950 +0000" stop="20260915002411 +0000" channel="redbull_motorsports">
     <title lang="it">Abu Dhabi Desert Challenge</title>
     <desc lang="it">The Abu Dhabi Desert Challenge has seen many of the biggest names in motorsport tackle the dunes of the UAE. We review what went down during 1300km of racing over five days and five special stages.</desc>
   </programme>
-  <programme start="20260915002412 +0000" stop="20260915003958 +0000" channel="redbull_motorsports">
+  <programme start="20260915002411 +0000" stop="20260915003957 +0000" channel="redbull_motorsports">
     <title lang="it">The next generation</title>
     <desc lang="it">Nine-time world champion Antonio Cairoli is one of the top MX riders of his generation, but several up-and-coming riders are poised to make it big. Can Tony win a 10th title before he's overtaken?</desc>
   </programme>
-  <programme start="20260915003958 +0000" stop="20260915010331 +0000" channel="redbull_motorsports">
+  <programme start="20260915003957 +0000" stop="20260915010331 +0000" channel="redbull_motorsports">
     <title lang="it">Tackling Red Bull TKO</title>
     <desc lang="it">Barely 10 days after Red Bull Romaniacs Mani Lettenbichler and Paul Bolton are in the USA for Red Bull Knockout Extreme Enduro, chatting with drivers, scouting trails and checking out trucks.</desc>
   </programme>
@@ -5814,89 +5786,121 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
     <title lang="it">GP Ice Race </title>
     <desc lang="it">Guarda Max Verstappen in azione con il suo bolide F1, munito di speciali pneumatici chiodati Pirelli, su un tracciato ghiacciato unico nel suo genere. A fargli compagnia c'è la stella dell'ice speedway Franky Zorn.</desc>
   </programme>
-  <programme start="20260915012300 +0000" stop="20260915022630 +0000" channel="redbull_motorsports">
+  <programme start="20260915012300 +0000" stop="20260915022629 +0000" channel="redbull_motorsports">
     <title lang="it">Straight Rhythm</title>
     <desc lang="it">Red Bull Straight Rhythm è un’evoluzione innovativa del supercross in cui una pista viene "srotolata": nessuna curva, solo una sezione ritmica dritta lunga 800 metri. Questo nuovo formato di gara ha messo in campo 32 piloti in un testa a testa di puro MX racing.</desc>
   </programme>
-  <programme start="20260914145322 +0000" stop="20260914145842 +0000" channel="redbull_action_reel">
-    <title lang="it">Benny Milam’s snowmobile session with Levi LaVallee</title>
-    <desc lang="it">With some creativity Benny Milam and Levi LaVallee turn a field and a few bales of hay into the perfect setup for a one-of-a-kind tow-in snowboarding session in Minnesota, USA.</desc>
+  <programme start="20260915022629 +0000" stop="20260915024119 +0000" channel="redbull_motorsports">
+    <title lang="it">Silk Way Rally</title>
+    <desc lang="it">Russian trucking giants KAMAZ debuted a new look machine at the Silk Way Rally as Red Bull KTM Factory Racing got back to winning ways. There was also a last-minute course correction to deal with.</desc>
   </programme>
-  <programme start="20260914145842 +0000" stop="20260914150147 +0000" channel="redbull_action_reel">
-    <title lang="it">Dreamland</title>
-    <desc lang="it">Professional freerunners Jason Paul and Dimitris Kyrsanidis explore a shipping container-filled obstacle course through Port of Haydarpaşa in Turkey, at the entrance of the Bosphorus.</desc>
+  <programme start="20260915024119 +0000" stop="20260915025350 +0000" channel="redbull_motorsports">
+    <title lang="it">La vista dalla cima</title>
+    <desc lang="it">Tony Cairoli è il rider di maggior successo del campionato, ma il tempo non è dalla sua, visto che dovrà sfidare atleti con 10 anni in meno di lui. Riuscirà ancora a competere ai livelli top di sempre?</desc>
   </programme>
-  <programme start="20260914150147 +0000" stop="20260914150336 +0000" channel="redbull_action_reel">
-    <title lang="it">Brandon Semenuk – Raw 100, V6</title>
-    <desc lang="it">Brandon Semenuk porta l'azione in una miniera abbandonata a Merritt, British Columbia, per il suo sesto contributo alla nostra serie Raw 100.</desc>
+  <programme start="20260915025350 +0000" stop="20260915031001 +0000" channel="redbull_motorsports">
+    <title lang="it">Wanting the win</title>
+    <desc lang="it">Toni Cairoli feels the pressure as he prepares to race in his home country. With Tim Gaiser's homeland right over the border in Slovenia he also wants the win at the Trentino race.</desc>
   </programme>
-  <programme start="20260914150336 +0000" stop="20260914152101 +0000" channel="redbull_action_reel">
+  <programme start="20260915031001 +0000" stop="20260915032010 +0000" channel="redbull_motorsports">
+    <title lang="it">Motorbikes and bicycles</title>
+    <desc lang="it">Manuel Lettenbichler heads to Erzberg, Austria, for a special project where he gets the whole mountain to himself. Meanwhile, Paul Bolton takes on the first race after his shoulder injury.</desc>
+  </programme>
+  <programme start="20260915032010 +0000" stop="20260915043522 +0000" channel="redbull_motorsports">
+    <title lang="it">Mint 400</title>
+    <desc lang="it">La Mint 400 torna a ruggire nel deserto del Nevada per la 48esima volta e la gara di quest’anno è la più emozionante di sempre. Guarda i migliori piloti di off-road lanciati sui loro Unlimited Trick Truck da 800 cavalli attraverso 650 chilometri di percorso durissimo.</desc>
+  </programme>
+  <programme start="20260915043522 +0000" stop="20260915053751 +0000" channel="redbull_motorsports">
+    <title lang="it">Red Bull X-Fighters</title>
+    <desc lang="it">Per il 16° anno, Plaza de Toros de Las Ventas, a Madrid, in Spagna, diventa il palcoscenico per uno spettacolo FMX nel più grande evento di motocross freestyle al mondo. I migliori piloti del mondo si lanceranno in alcuni trick pazzeschi, alcuni dei quali non si erano mai visti prima.</desc>
+  </programme>
+  <programme start="20260915053751 +0000" stop="20260915055858 +0000" channel="redbull_motorsports">
+    <title lang="it">Motocross of Nations has arrived</title>
+    <desc lang="it">Top American and European riders compete at Motocross of Nations. The sandy track of the Assen TT Circuit in the Netherlands gives the Europeans an advantage, but will it be enough for victory?</desc>
+  </programme>
+  <programme start="20260915055858 +0000" stop="20260915062110 +0000" channel="redbull_motorsports">
+    <title lang="it">Ripping it up in Romania</title>
+    <desc lang="it">Mani Lettenbichler and Paul Bolton head to Sibiu for Red Bull Romaniacs, probably the most anticipated and most feared event on the Hard Enduro calendar.</desc>
+  </programme>
+  <programme start="20260914201324 +0000" stop="20260914203049 +0000" channel="redbull_action_reel">
     <title lang="it">Just the Tricks</title>
     <desc lang="it">Per chi è alla ricerca di emozioni allo stato puro, questa esplosione concentrata di trick mostrata nel film è come buttar giù in un sol colpo un triplo espresso. È il modo perfetto per caricarsi a palla e lanciarsi in una giornata di shredding.</desc>
   </programme>
-  <programme start="20260914152101 +0000" stop="20260914152600 +0000" channel="redbull_action_reel">
-    <title lang="it">Skating in Mayan lands</title>
-    <desc lang="it">Explore the skate terrain throughout the ancient Mayan lands of Guatemala, Mexico and tiny Belize with Jaakko Ojanen, Madars Apse, Zack Wallin and Angelo Caro.</desc>
+  <programme start="20260914203049 +0000" stop="20260914203550 +0000" channel="redbull_action_reel">
+    <title lang="it">Kriss Kyle swaps BMX for MTB</title>
+    <desc lang="it">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle. Watch as he transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
   </programme>
-  <programme start="20260914152600 +0000" stop="20260914152822 +0000" channel="redbull_action_reel">
-    <title lang="it">The Soul Flyers</title>
-    <desc lang="it">Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door!</desc>
+  <programme start="20260914203550 +0000" stop="20260914203810 +0000" channel="redbull_action_reel">
+    <title lang="it">Dancing in the lights</title>
+    <desc lang="it">Welcome 2019 with a dance on the roofs of Mumbai, India. Combining outstanding dance skills with fireworks, the celebratory performance is beautiful and electrifying.</desc>
   </programme>
-  <programme start="20260914152822 +0000" stop="20260914153806 +0000" channel="redbull_action_reel">
-    <title lang="it">Jason Paul a caccia del telefono</title>
-    <desc lang="it">Nel suo nuovo video, il freerunner Jason Paul corre tra i tetti e le strade di Amburgo alla ricerca disperata del suo telefono, ma sempre con lo stile e la follia che lo contraddistinguono.</desc>
+  <programme start="20260914203810 +0000" stop="20260914204829 +0000" channel="redbull_action_reel">
+    <title lang="it">The Ultimate Run</title>
+    <desc lang="it">In questo film di 10 minuti, Markus Eder fonde tutte le sue skill nello sci in una singola, impossibile run. Una che unisce tutti i sotto-generi del freeskiing moderno. Insomma, un'opera unica nel suo genere.</desc>
   </programme>
-  <programme start="20260914153806 +0000" stop="20260914154303 +0000" channel="redbull_action_reel">
-    <title lang="it">First sessions = INSANE</title>
-    <desc lang="it">It's competition warm-up at Red Bull Imagination 2022 and the riders are already sending it to the moon. If this is practice, imagine what the competition holds.</desc>
+  <programme start="20260914204829 +0000" stop="20260914205157 +0000" channel="redbull_action_reel">
+    <title lang="it">Realm con Brandon Semenuk</title>
+    <desc lang="it">I contributi di Brandon Semenuk al mondo della mountain bike sono in continua evoluzione. Dai podi dei concorsi agli edit, le sue abilità e visioni su una bicicletta siedono in un regno tutto loro.</desc>
   </programme>
-  <programme start="20260914154303 +0000" stop="20260914154551 +0000" channel="redbull_action_reel">
+  <programme start="20260914205157 +0000" stop="20260914205522 +0000" channel="redbull_action_reel">
+    <title lang="it">Wakeskate reflection</title>
+    <desc lang="it">South African wakeskater Matti Buys invited one of the most influential pioneers of the sport, USA’s Brian Grubb, to South Africa to hit some of the most prominent spots around Durban.</desc>
+  </programme>
+  <programme start="20260914205522 +0000" stop="20260914210023 +0000" channel="redbull_action_reel">
+    <title lang="it">Off-road</title>
+    <desc lang="it">Off-roaders Seth Quintero and Mitch Guthrie Jr carve lines and crawl over rocks in the King of the Hammers desert to reach the top of the mountain – all captured in a single take from an aerial drone.</desc>
+  </programme>
+  <programme start="20260914210023 +0000" stop="20260914210539 +0000" channel="redbull_action_reel">
+    <title lang="it">Tyler Bereman</title>
+    <desc lang="it">Watch as a drone captures freestyle motocross rider Tyler Bereman on one epic ride from start to finish. No cuts, no edits, just maximum FMX action.</desc>
+  </programme>
+  <programme start="20260914210539 +0000" stop="20260914211214 +0000" channel="redbull_action_reel">
+    <title lang="it">Skate highlights</title>
+    <desc lang="it">Watch skateboarding highlights from Ryan Sheckler, Margie Didal, Jamie Foy, Gustavo Ribeiro, Zion Wright, Torey Pudwill, Leticia Bufoni and Felipe Gustavo during Red Bull's Drop In Euro Tour in 2022.</desc>
+  </programme>
+  <programme start="20260914211214 +0000" stop="20260914211502 +0000" channel="redbull_action_reel">
     <title lang="it">Laurie Greenland</title>
     <desc lang="it">Goditi la vista e il suono puro e crudo che accompagna la discesa della professionista di MTB Laurie Greenland attraverso una montagna boscosa in Nuova Zelanda: solo il suono cristallino degli pneumatici sulla roccia e sulla ghiaia e nient'altro.</desc>
   </programme>
-  <programme start="20260914154551 +0000" stop="20260914154830 +0000" channel="redbull_action_reel">
-    <title lang="it">Uncontainable</title>
-    <desc lang="it">Always looking for bigger set-ups, Drew Bezanson built a custom BMX park using enormous shipping containers. Drew worked with a team of renowned ramp builders led by Nate Wessel to put together some of the biggest BMX obstacles ever ridden.</desc>
-  </programme>
-  <programme start="20260914154830 +0000" stop="20260914155333 +0000" channel="redbull_action_reel">
-    <title lang="it">Cracked</title>
-    <desc lang="it">Il campione mondiale di off-road ed enduro Toby Price sfreccia per l'outback australiano a bordo di un trophy truck e della sua moto da rally per consegnare una confezione di uova.</desc>
-  </programme>
-  <programme start="20260914155333 +0000" stop="20260914155547 +0000" channel="redbull_action_reel">
-    <title lang="it">Adrenaline Spike</title>
-    <desc lang="it">Polish freerunner Krystian Kowalewski gets an Adrenaline Spike, as he takes on VALORANT agent Jett's abilities and races through the streets of Berlin.</desc>
-  </programme>
-  <programme start="20260914155547 +0000" stop="20260914155904 +0000" channel="redbull_action_reel">
+  <programme start="20260914211502 +0000" stop="20260914211818 +0000" channel="redbull_action_reel">
     <title lang="it">Uncorked</title>
     <desc lang="it">With a gorgeous sunset providing the backdrop for a perfect evening session, Mark McMorris, Seb Toots, and friends rip up a perfectly manicured snowboard park.</desc>
   </programme>
-  <programme start="20260914155904 +0000" stop="20260914160311 +0000" channel="redbull_action_reel">
+  <programme start="20260914211818 +0000" stop="20260914212104 +0000" channel="redbull_action_reel">
+    <title lang="it">360° of Jaxson Riddle</title>
+    <desc lang="it">See Jaxson Riddle lay down tricks in 360 degrees as he carves through the landscape of southwest Utah ahead of competing in his second Red Bull Rampage.</desc>
+  </programme>
+  <programme start="20260914212104 +0000" stop="20260914212342 +0000" channel="redbull_action_reel">
+    <title lang="it">Uncontainable</title>
+    <desc lang="it">Always looking for bigger set-ups, Drew Bezanson built a custom BMX park using enormous shipping containers. Drew worked with a team of renowned ramp builders led by Nate Wessel to put together some of the biggest BMX obstacles ever ridden.</desc>
+  </programme>
+  <programme start="20260914212342 +0000" stop="20260914212632 +0000" channel="redbull_action_reel">
+    <title lang="it">The mighty waves of Nazaré</title>
+    <desc lang="it">Le onde di Nazaré, in Portogallo, sono rinomate per la loro selvaggia ferocia, che le rende una vera calamita per i surfisti di big wave. Guarda Justine Dupont, Andrew Cotton, Conor Maguire, Kai Lenny e molti altri affrontare delle slab terrificanti.</desc>
+  </programme>
+  <programme start="20260914212632 +0000" stop="20260914212913 +0000" channel="redbull_action_reel">
+    <title lang="it">Catching storm waves</title>
+    <desc lang="it">Mentre una violenta tempesta del Pacifico Settentrionale si abbatte sulle Hawaii, Kai Lenny, Joao Maffini, Torrey Meister, Nic Lamb e altri si lanciano sulle onde selvagge di Jaws.</desc>
+  </programme>
+  <programme start="20260914212913 +0000" stop="20260914213320 +0000" channel="redbull_action_reel">
     <title lang="it">Freerunner's guide to the Sydney Opera House</title>
     <desc lang="it">Watch Dominic Di Tommaso freerun on the roof of the Sydney Opera House – all the way to tip of the sails. (Activities performed in a controlled environment under the supervision of professionals.)</desc>
   </programme>
-  <programme start="20260914160311 +0000" stop="20260914160601 +0000" channel="redbull_action_reel">
-    <title lang="it">Kolohe Andino</title>
-    <desc lang="it">Filmer Jacob Vanderwork brings us his best Kolohe Andino clips from their work together over the winter. Watch as Andino tears through the Hawaiian barrels.</desc>
+  <programme start="20260914213320 +0000" stop="20260914213817 +0000" channel="redbull_action_reel">
+    <title lang="it">First sessions = INSANE</title>
+    <desc lang="it">It's competition warm-up at Red Bull Imagination 2022 and the riders are already sending it to the moon. If this is practice, imagine what the competition holds.</desc>
   </programme>
-  <programme start="20260914160601 +0000" stop="20260914161113 +0000" channel="redbull_action_reel">
-    <title lang="it">Eli Hanneman 2020</title>
-    <desc lang="it">Seen by many as the best young surfer in the world, this Eli Hanneman edit brings you his finest recent work, from his home waves in Maui to the proving grounds of Oahu and further afield in Tahiti.</desc>
+  <programme start="20260914213817 +0000" stop="20260914214024 +0000" channel="redbull_action_reel">
+    <title lang="it">Freerunning illusions</title>
+    <desc lang="it">Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions.</desc>
   </programme>
-  <programme start="20260914161113 +0000" stop="20260914161648 +0000" channel="redbull_action_reel">
-    <title lang="it">Duct Out</title>
-    <desc lang="it">Stuck in the notorious LA traffic, freeride motocrossers Tyler Bereman and Robbie Maddison escape the gridlock by parking their truck, hopping on their dirt bikes and ripping through the city.</desc>
+  <programme start="20260914214024 +0000" stop="20260914214252 +0000" channel="redbull_action_reel">
+    <title lang="it">Wakeboarding on dams</title>
+    <desc lang="it">Austrian wakeboarder Dominik Hernler sets out with nothing but a winch, some friends and his wakeboard to take the sport where it's never been before – shredding the Purgstall dams in Austria.</desc>
   </programme>
-  <programme start="20260914161648 +0000" stop="20260914161912 +0000" channel="redbull_action_reel">
-    <title lang="it">Matt Jones</title>
-    <desc lang="it">Per diventare uno dei migliori rider di MTB slopestyle al mondo bisogna dedicarsi all'allenamento nelle giuste condizioni. Entra nella base segreta di Matt Jones per scoprire cosa serve per battere i migliori.</desc>
-  </programme>
-  <programme start="20260914161912 +0000" stop="20260914162229 +0000" channel="redbull_action_reel">
-    <title lang="it">Keys to the track</title>
-    <desc lang="it">To Travis Pastrana, Alexander Rossi and Gregg Duffy, plunging winter temps just mean they won't be bothered as they let themselves into Indianapolis Motor Speedway for a day of high-octane fun.</desc>
-  </programme>
-  <programme start="20260914162229 +0000" stop="20260914162439 +0000" channel="redbull_action_reel">
-    <title lang="it">Wake Crane</title>
-    <desc lang="it">Three top wakeboarders – Dominik Gührs, Felix Georgii and Dominik Hernler – rip around a custom wakeboard park built from a crane and a bunch of cargo containers in the port of Pula, Croatia.</desc>
+  <programme start="20260914214252 +0000" stop="20260914214633 +0000" channel="redbull_action_reel">
+    <title lang="it">Last call for Mr Paul</title>
+    <desc lang="it">Molte persone corrono in aeroporto quando sono in ritardo per il loro volo. Il freerunner professionista Jason Paul lo fa in modo un po’ diverso e lungo il percorso vede parti dell’aeroporto che la maggior parte dei passeggeri non nota mai.</desc>
   </programme>
   <programme start="20260913165900 +0000" stop="20260913191000 +0000" channel="20.it">
     <category lang="it">Film</category>

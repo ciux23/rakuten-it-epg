@@ -91,14 +91,14 @@
   </programme>
   <programme start="20260914115500 +0200" stop="20260914133000 +0200" channel="Rai1.it">
     <title lang="it">E' sempre mezzogiorno - Puntata del 14/09/2026</title>
-    <desc lang="it">Antolella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
+    <desc lang="it">Antonella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
   </programme>
   <programme start="20260914133000 +0200" stop="20260914140500 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
   <programme start="20260914140500 +0200" stop="20260914160000 +0200" channel="Rai1.it">
     <title lang="it">La volta buona - Puntata del 14/09/2026</title>
-    <desc lang="it">Interviste faccia a faccia, spettacolo, musica, tv, cinema, letteratura e attualità, ogni giorno in diretta con Caterina Balivo e i suoi ospiti. </desc>
+    <desc lang="it">Un programma che si distingue per l'approccio leggero con cui vengono trattati i vari temi e per l'eleganza con cui la conduttrice accoglie ospiti di spicco provenienti dal mondo dello spettacolo, della musica e della cultura. Nel corso del pomeriggio, il salotto diventa un luogo di confronto, dove i partecipanti discutono delle ultime notizie di costume e condividono nostalgici ricordi legati al proprio vissuto, al mondo della musica e della televisione. Gli argomenti spaziano da storie personali a esperienze quotidiane, con un focus particolare sulle relazioni e sulle emozioni. Conduce Caterina Balivo. Regia di Daniela Celotto.</desc>
   </programme>
   <programme start="20260914160000 +0200" stop="20260914164500 +0200" channel="Rai1.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E6</title>
@@ -192,13 +192,9 @@
     <title lang="it">UnoMattina - Puntata del 15/09/2026</title>
     <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera celebra quest'anno il quarantesimo anniversario della sua nascita. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini e Daniela Ferolla.</desc>
   </programme>
-  <programme start="20260915095000 +0200" stop="20260915115500 +0200" channel="Rai1.it">
+  <programme start="20260915095000 +0200" stop="20260915122000 +0200" channel="Rai1.it">
     <title lang="it">Storie italiane - Puntata del 15/09/2026</title>
     <desc lang="it">Eleonora Daniele approfondisce i temi di stretta attualità e i principali casi di cronaca con i protagonisti che raccontano in prima persona le loro esperienze.</desc>
-  </programme>
-  <programme start="20260915115500 +0200" stop="20260915133000 +0200" channel="Rai1.it">
-    <title lang="it">E' sempre mezzogiorno</title>
-    <desc lang="it">RUBRICA - Show quotidiano che usa la cucina come contesto in cui parlare di attualità con gli ospiti fissi del programma e giocare con il pubblico a casa.. - Conduce Antonella Clerici Un programma di Antonella Clerici, Davide Corallo  E Francesco Lucibello, Giorgio Pomi, Francesco Canino, Francesco Megalizzi, Gianfranco D'Attoma Con la collaborazione di Valeria Manera e Giacomo Tarantino Scenografia di Giuseppe Chiara Prodotto in collaborazione con Stand By Me Regia di Laura Ferraresi</desc>
   </programme>
   <programme start="20260915122000 +0200" stop="20260915133000 +0200" channel="Rai1.it">
     <title lang="it">Campidoglio, funerali di Stato di Emma Bonino </title>
@@ -313,7 +309,7 @@
   </programme>
   <programme start="20260916115500 +0200" stop="20260916133000 +0200" channel="Rai1.it">
     <title lang="it">E' sempre mezzogiorno - Puntata del 16/09/2026</title>
-    <desc lang="it">Antolella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
+    <desc lang="it">Antonella Clerici riapre la cucina più green della televisione italiana e torna con i suoi compagni di È sempre mezzogiorno per un nuovo anno di interviste, giochi e sorprese.</desc>
   </programme>
   <programme start="20260916133000 +0200" stop="20260916140500 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
@@ -598,8 +594,8 @@
     <title lang="it">TG2 20.30</title>
   </programme>
   <programme start="20260915205500 +0200" stop="20260915230000 +0200" channel="Rai2.it">
-    <title lang="it">Europei di Pallavolo maschile 2026 - Gruppo A: Cechia - Italia</title>
-    <desc lang="it">Pallavolo. Campionato Europeo maschile Fase a gruppi: Gruppo A In diretta dal PalaPanini di Modena</desc>
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Repubblica Ceca - Italia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Repubblica Ceca in una sfida importante per la classifica e per il cammino degli Azzurri verso la fase a eliminazione diretta.</desc>
   </programme>
   <programme start="20260915230000 +0200" stop="20260916004500 +0200" channel="Rai2.it">
     <title lang="it">Pompei</title>
@@ -881,11 +877,11 @@
   </programme>
   <programme start="20260914201000 +0200" stop="20260914204000 +0200" channel="Rai3.it">
     <title lang="it">Il Provinciale - Vesuvio e Pompei: il fuoco e la memoria - 14/09/2026</title>
-    <desc lang="it">Dal bordo del cratere del Vesuvio, Federico Quaranta incontra Mario, uno psico-mago che vive appena poco sotto il vulcano. Qui la terra non dorme, trattiene il fiato.  È come stare sopra un gigante che respira piano, ma che potrebbe svegliarsi da un momento all’altro. È come stare sopra ad una bomba pronta ad esplodere. È anche un modo per sentire la vita nella sua forma più pura: quella che non promette niente, ma che brucia. Lo psico mago racconta come ci sia un forte legame tra il Vesuvio e la città di Napoli, la Napoli del tempo perso all’utile e sacrificato alla poesia. Da Napoli si va a Pompei, dove il Direttore degli scavi del sito archeologico Gabriel Zuchtriegel racconta non le grandi ville dei notabili, ma la vita e le abitazioni degli schiavi, della gente comune e dei loro passatempi. Pompei è una macchina del tempo e si prova a dare una risposta su cosa voglia dire andare a Pompei oggi, quale sia lo spirito giusto per affrontare questa visita. Dopo il Direttore degli scavi c’è il racconto delle suore del Santuario della Madonna di Pompei che raccolgono donazioni di vestiti da sposa e dopo averli “restaurati” li regalano a chi sta per sposarsi ma non può permettersi di comprarne uno. </desc>
+    <desc lang="it">Dal bordo del cratere del Vesuvio, Federico Quaranta incontra Mario, uno psico-mago che vive appena poco sotto il vulcano. Qui la terra non dorme, trattiene il fiato.  È come stare sopra un gigante che respira piano, ma che potrebbe svegliarsi da un momento all'altro. È come stare sopra ad una bomba pronta ad esplodere. È anche un modo per sentire la vita nella sua forma più pura: quella che non promette niente, ma che brucia. Lo psico mago racconta come ci sia un forte legame tra il Vesuvio e la città di Napoli, la Napoli del tempo perso all'utile e sacrificato alla poesia. Da Napoli si va a Pompei, dove il Direttore degli scavi del sito archeologico Gabriel Zuchtriegel racconta non le grandi ville dei notabili, ma la vita e le abitazioni degli schiavi, della gente comune e dei loro passatempi. Pompei è una macchina del tempo e si prova a dare una risposta su cosa voglia dire andare a Pompei oggi, quale sia lo spirito giusto per affrontare questa visita. Dopo il Direttore degli scavi c'è il racconto delle suore del Santuario della Madonna di Pompei che raccolgono donazioni di vestiti da sposa e dopo averli "restaurati" li regalano a chi sta per sposarsi ma non può permettersi di comprarne uno. </desc>
   </programme>
   <programme start="20260914204000 +0200" stop="20260914205000 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 14/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Una democrazia non è quel regime che ammette il giornalismo di inchiesta, la critica al potere, il dissenso che non è tradimento? E oggi dove si muove la Costituzione? Marco Damilano dialoga con il costituzionalista Michele Ainis, che nel suo ultimo libro si chiede se siamo andati oltre le democrature e le democrazie illiberali, le regressioni costituzionali, e siamo al fascismo bianco.</desc>
   </programme>
   <programme start="20260914205000 +0200" stop="20260914211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 14/09/2026 EP7026</title>
@@ -3213,19 +3209,19 @@
     <desc lang="it">Euro League Superfinal Donne - Finale: Spagna - Italia</desc>
   </programme>
   <programme start="20260914170000 +0200" stop="20260914173000 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in montagna. Marcialonga Running Coop</title>
-    <desc lang="it">Corsa in montagna. Marcialonga Running Coop</desc>
+    <title lang="it">Corsa in montagna - Marcialonga Running 2026</title>
+    <desc lang="it">Marcialonga Running</desc>
   </programme>
   <programme start="20260914173000 +0200" stop="20260914184000 +0200" channel="RaiSport.it">
-    <title lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</title>
-    <desc lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</desc>
+    <title lang="it">Pattinaggio a rotelle - Campionati Italiani Corsa su strada 2026</title>
+    <desc lang="it">Campionati Italiani corsa su strada</desc>
   </programme>
   <programme start="20260914184000 +0200" stop="20260914193000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. C.ti Italiani Targa Canegrate</title>
-    <desc lang="it">Tiro con l'Arco. C.ti Italiani Targa Canegrate</desc>
+    <title lang="it">Tiro con l'Arco - Campionati Italiani Targa 2026</title>
+    <desc lang="it">Campionati Italiani Targa  Photo credit: Fausto Ercoli</desc>
   </programme>
   <programme start="20260914193000 +0200" stop="20260914203500 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 14/09/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20260914203500 +0200" stop="20260914224500 +0200" channel="RaiSport.it">
@@ -3238,65 +3234,69 @@
   </programme>
   <programme start="20260915004500 +0200" stop="20260915033500 +0200" channel="RaiSport.it">
     <title lang="it">Atletica: Ultimate Championship 2026 - 3a giornata: Semifinali e Finali</title>
-    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  Photo credit: World Athletics via Getty Images</desc>
+    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  </desc>
   </programme>
   <programme start="20260915033500 +0200" stop="20260915060000 +0200" channel="RaiSport.it">
     <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Svezia - Cechia</title>
     <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Svezia e Repubblica Ceca si affrontano in una sfida importante per la classifica e per il cammino nella fase a gironi.</desc>
   </programme>
-  <programme start="20260915060000 +0200" stop="20260915084000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Italia - Slovacchia</title>
-    <desc lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Italia - Slovacchia</desc>
+  <programme start="20260915060000 +0200" stop="20260915081000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Italia - Slovacchia</title>
+    <desc lang="it">Prosegue il percorso dell'Italvolley maschile agli Europei. I ragazzi di Ferdinando De Giorgi affrontano al PalaPanini di Modena la nazionale slovacca.</desc>
   </programme>
-  <programme start="20260915084000 +0200" stop="20260915114000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica Leggera: Ultimate Championship 3a giornata: Finali</title>
-    <desc lang="it">Atletica Leggera: Ultimate Championship 3a giornata: Finali</desc>
+  <programme start="20260915081000 +0200" stop="20260915084000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
+    <desc lang="it">Memory</desc>
   </programme>
-  <programme start="20260915114000 +0200" stop="20260915123500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Formula Regional Imola</title>
-    <desc lang="it">Automobilismo: Formula Regional Imola</desc>
+  <programme start="20260915084000 +0200" stop="20260915111000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica: Ultimate Championship 2026 - 3a giornata: Semifinali e Finali</title>
+    <desc lang="it">Si chiude la prima edizione dell'Ultimate Championship con la terza giornata di gare.  </desc>
   </programme>
-  <programme start="20260915123500 +0200" stop="20260915133500 +0200" channel="RaiSport.it">
-    <title lang="it">Il Processo del lunedì</title>
+  <programme start="20260915111000 +0200" stop="20260915121000 +0200" channel="RaiSport.it">
+    <title lang="it">Bordocampo</title>
   </programme>
-  <programme start="20260915133500 +0200" stop="20260915153500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Giro d'Abruzzo: 1a tappa</title>
-    <desc lang="it">Ciclismo. Giro d'Abruzzo: 1a tappa</desc>
+  <programme start="20260915121000 +0200" stop="20260915133500 +0200" channel="RaiSport.it">
+    <title lang="it">Il Processo del Lunedì del 14/09/2026</title>
+    <desc lang="it">L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee.</desc>
   </programme>
-  <programme start="20260915153500 +0200" stop="20260915155000 +0200" channel="RaiSport.it">
-    <title lang="it">Perle di Sport</title>
+  <programme start="20260915133500 +0200" stop="20260915155000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo - Giro d'Abruzzo 2026 - 1a tappa: Cupello - Casalincontrada</title>
+    <desc lang="it">Il Giro d'Abruzzo 2026 prende il via con la prima tappa da Cupello a Casalincontrada. Una frazione inaugurale sulle strade abruzzesi che apre la corsa e dà il via alla sfida per la classifica generale.</desc>
   </programme>
   <programme start="20260915155000 +0200" stop="20260915183000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo. Europeo maschile: Grecia-Svezia</title>
-    <desc lang="it">Pallavolo. Europeo maschile: Grecia-Svezia</desc>
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Grecia - Svezia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Grecia e Svezia si affrontano in una sfida importante per la classifica e per il cammino verso la fase a eliminazione diretta.</desc>
   </programme>
-  <programme start="20260915183000 +0200" stop="20260915211000 +0200" channel="RaiSport.it">
-    <title lang="it">Basket Femminile: Coppa del Mondo Germania 2026 Finale</title>
-    <desc lang="it">Basket Femminile: Coppa del Mondo Germania 2026 Finale</desc>
+  <programme start="20260915183000 +0200" stop="20260915205200 +0200" channel="RaiSport.it">
+    <title lang="it">Basket: Mondiali femminili 2026 - Finale: USA - Francia</title>
+    <desc lang="it">Atto conclusivo ai Mondiali femminili di basket di Germania. Stati Uniti e Francia si giocano il gradino più alto del podio.</desc>
   </programme>
-  <programme start="20260915211000 +0200" stop="20260915224000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Trofeo Matteotti Maschile e Femminile</title>
-    <desc lang="it">Ciclismo: Trofeo Matteotti Maschile e Femminile</desc>
+  <programme start="20260915211000 +0200" stop="20260915220000 +0200" channel="RaiSport.it">
+    <title lang="it">Ciclismo - Trofeo Matteotti 2026 Uomini</title>
+    <desc lang="it">Trofeo Matteotti Uomini</desc>
   </programme>
-  <programme start="20260915224000 +0200" stop="20260916011000 +0200" channel="RaiSport.it">
-    <title lang="it">Campionati Europei Pallavolo Maschile Grecia-Svezia</title>
-    <desc lang="it">Campionati Europei Pallavolo Maschile Grecia-Svezia</desc>
+  <programme start="20260915220000 +0200" stop="20260915223000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
-  <programme start="20260916011000 +0200" stop="20260916014000 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in montagna: Marcialonga Running Coop</title>
-    <desc lang="it">Corsa in montagna: Marcialonga Running Coop</desc>
+  <programme start="20260915223000 +0200" stop="20260915233000 +0200" channel="RaiSport.it">
+    <title lang="it">Mondiale Motocross 2026 - GP di Shangai: MX2 (gara 2)</title>
+    <desc lang="it">Seconda manche della classe MX2 nel Gran Premio di Shanghai, appuntamento del Mondiale Motocross 2026. </desc>
   </programme>
-  <programme start="20260916014000 +0200" stop="20260916025500 +0200" channel="RaiSport.it">
-    <title lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</title>
-    <desc lang="it">Pattinaggio a rotelle. Finali C.to Italiano Corsa su strada Vado Ligure</desc>
+  <programme start="20260915233000 +0200" stop="20260916004000 +0200" channel="RaiSport.it">
+    <title lang="it">Mondiale Motocross 2026 - GP di Shangai: MXGP (gara 2)</title>
+    <desc lang="it">Seconda manche della classe MXGP nel Gran Premio di Shanghai, appuntamento del Mondiale Motocross 2026.</desc>
   </programme>
-  <programme start="20260916025500 +0200" stop="20260916051500 +0200" channel="RaiSport.it">
-    <title lang="it">Campionati Europei Pallavolo Maschile Rep. Ceca - Italia</title>
-    <desc lang="it">Campionati Europei Pallavolo Maschile Rep. Ceca - Italia</desc>
+  <programme start="20260916004000 +0200" stop="20260916031000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Grecia - Svezia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, Grecia e Svezia si affrontano in una sfida importante per la classifica e per il cammino verso la fase a eliminazione diretta.</desc>
   </programme>
-  <programme start="20260916051500 +0200" stop="20260916060000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'arco Campionati Italiani Targa</title>
-    <desc lang="it">Tiro con l'arco Campionati Italiani Targa</desc>
+  <programme start="20260916031000 +0200" stop="20260916041000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio a rotelle - Campionati Italiani Corsa su strada 2026</title>
+    <desc lang="it">Campionati Italiani corsa su strada</desc>
+  </programme>
+  <programme start="20260916041000 +0200" stop="20260916060000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei maschili di Pallavolo 2026 - Gruppo A: Repubblica Ceca - Italia</title>
+    <desc lang="it">Nel Gruppo A degli Europei maschili di pallavolo 2026, l'Italia affronta la Repubblica Ceca in una sfida importante per la classifica e per il cammino degli Azzurri verso la fase a eliminazione diretta.</desc>
   </programme>
   <programme start="20260916060000 +0200" stop="20260916080000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Giro d'Abruzzo 1° giornata</title>
