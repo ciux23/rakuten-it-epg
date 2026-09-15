@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260914160000 +0200" stop="20260914191340 +0200" channel="pluto_film_tv">
+  <programme start="20260915000000 +0200" stop="20260915041009 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914191340 +0200" stop="20260914210040 +0200" channel="pluto_film_tv">
-    <title lang="it">Pressione in cabina</title>
-    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
-  </programme>
-  <programme start="20260914210040 +0200" stop="20260914225012 +0200" channel="pluto_film_tv">
-    <title lang="it">Aloha</title>
-    <desc lang="it">Un appaltatore militare torna sul luogo del suo più grande trionfo e riallaccia i rapporti con un amore del passato.</desc>
-  </programme>
-  <programme start="20260914225012 +0200" stop="20260915003112 +0200" channel="pluto_film_tv">
-    <title lang="it">Delitti Perfetti</title>
-    <desc lang="it">Barney Thomson fa il barbiere e vive nella piovosa Glasgow. Coinvolto in un omicidio accidentale, si rivolge alla sua feroce madre in cerca di aiuto. Sarà proprio lei a svelargli il gusto della vendetta e a mostrargli come sottrarsi alla polizia.</desc>
-  </programme>
-  <programme start="20260915003112 +0200" stop="20260915022409 +0200" channel="pluto_film_tv">
-    <title lang="it">L'Ora della Verità</title>
-    <desc lang="it">Una drammatica corsa contro il tempo per scoprire la verità e salvare una donna. Frank, ex avvocato, si guadagna da vivere pubblicando le ultime lettere dei condannati. Quando riceve la lettera di Cory, decide di conoscerla e di salvarla.</desc>
-  </programme>
-  <programme start="20260915022409 +0200" stop="20260915041009 +0200" channel="pluto_film_tv">
-    <title lang="it">Yakuza americana</title>
-    <desc lang="it">Un agente segreto del FBI è entrato a far parte della Yakuza e ora è invischiato in una guerra tra la Yakuza, la Mafia e l'FBI.</desc>
   </programme>
   <programme start="20260915041009 +0200" stop="20260915060109 +0200" channel="pluto_film_tv">
     <title lang="it">Volavérunt</title>
@@ -76,37 +56,41 @@
     <title lang="it">Sono affari di famiglia</title>
     <desc lang="it">Vito, suo padre Jessie e il figlio Adam gestiscono insieme un'azienda di carne all'ingrosso.</desc>
   </programme>
-  <programme start="20260915231159 +0200" stop="20260916040000 +0200" channel="pluto_film_tv">
+  <programme start="20260915231159 +0200" stop="20260916005516 +0200" channel="pluto_film_tv">
+    <title lang="it">Eden</title>
+    <desc lang="it">Eden è una giovane ragazza coreana-americana, rapita e costretta a prostituirsi nel Nevada. Nei due anni di prigionia, Eden unisce le forze con i suoi rapitori in una disperata lotta per la sopravvivenza, fino al riscatto finale.</desc>
+  </programme>
+  <programme start="20260916005516 +0200" stop="20260916023733 +0200" channel="pluto_film_tv">
+    <title lang="it">Detour - Fuori Controllo</title>
+    <desc lang="it">Quando Denny e il suo amico Ziggy decidono di tentare un furto ai danni di un potente boss della malavita, non sanno che si stanno cacciando in un guaio.</desc>
+  </programme>
+  <programme start="20260916023733 +0200" stop="20260916041733 +0200" channel="pluto_film_tv">
+    <title lang="it">Seized - Sotto Ricatto</title>
+    <desc lang="it">Il figlio di un ex agente delle forze speciali viene rapito e ora lui deve spazzare via tre pericolosi sindacati criminali, se vuole rivedere suo figlio vivo.</desc>
+  </programme>
+  <programme start="20260916041733 +0200" stop="20260916055433 +0200" channel="pluto_film_tv">
+    <title lang="it">February - L'Innocenza Del Male</title>
+    <desc lang="it">Emma Roberts (Scream Queens), Kiernan Shipka (Le terrificanti avventure di Sabrina) e Lucy Boynton (Bohemian Rhapsody) sono le protagoniste di una terrificante storia di possessione demoniaca diretta da Oz Perkins.</desc>
+  </programme>
+  <programme start="20260916055433 +0200" stop="20260916080533 +0200" channel="pluto_film_tv">
+    <title lang="it">Sono affari di famiglia</title>
+    <desc lang="it">Vito, suo padre Jessie e il figlio Adam gestiscono insieme un'azienda di carne all'ingrosso.</desc>
+  </programme>
+  <programme start="20260916080533 +0200" stop="20260916120000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_film_tv">
+  <programme start="20260916120000 +0200" stop="20260917000000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_film_tv">
+  <programme start="20260917000000 +0200" stop="20260917060000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914160000 +0200" stop="20260914194910 +0200" channel="pluto_film_azione">
+  <programme start="20260915000000 +0200" stop="20260915033245 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914194910 +0200" stop="20260914213049 +0200" channel="pluto_film_azione">
-    <title lang="it">Fatal Instinct</title>
-    <desc lang="it">Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
-  </programme>
-  <programme start="20260914213049 +0200" stop="20260915000949 +0200" channel="pluto_film_azione">
-    <title lang="it">T-34 Eroi D'Acciaio</title>
-    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
-  </programme>
-  <programme start="20260915000949 +0200" stop="20260915014145 +0200" channel="pluto_film_azione">
-    <title lang="it">Tainted</title>
-    <desc lang="it">Lance è un ex membro della Fratellanza ariana uscito di prigione. Vorrebbe vivere tranquillo ma la mafia russa lo avvicina per chiedergli un ultimo lavoro.</desc>
-  </programme>
-  <programme start="20260915014145 +0200" stop="20260915033245 +0200" channel="pluto_film_azione">
-    <title lang="it">Pazzi per fucili</title>
-    <desc lang="it">Una teenager da quattro soldi (Drew Barrymore) uccide il suo patrigno che commette violenzs sessuali, aiuta il suo amico di penna riformato e in prigione a venire liberato per buona condotta e se le da' a gambe.</desc>
   </programme>
   <programme start="20260915033245 +0200" stop="20260915054845 +0200" channel="pluto_film_azione">
     <title lang="it">Gantz</title>
@@ -152,61 +136,37 @@
     <title lang="it">In the name of the King</title>
     <desc lang="it">La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.</desc>
   </programme>
-  <programme start="20260915234521 +0200" stop="20260916040000 +0200" channel="pluto_film_azione">
+  <programme start="20260915234521 +0200" stop="20260916011721 +0200" channel="pluto_film_azione">
+    <title lang="it">In the Name of the King 3: L'ultima Missione</title>
+    <desc lang="it">Trasportato indietro all'epoca medievale, un assassino professionista deve recuperare i figli di un miliardario ma prima si trova a combattere contro un esercito e un drago.</desc>
+  </programme>
+  <programme start="20260916011721 +0200" stop="20260916032311 +0200" channel="pluto_film_azione">
+    <title lang="it">In ordine di sparizione</title>
+    <desc lang="it">Una dark - comedy ricca di azione e divertimento ambientata nella selvaggia Norvegia, con un cast eccezionale!</desc>
+  </programme>
+  <programme start="20260916032311 +0200" stop="20260916053050 +0200" channel="pluto_film_azione">
+    <title lang="it">Wolf Warrior 2</title>
+    <desc lang="it">Un ex ufficiale dello squadrone Wolf Warrior delle forze speciali cinesi Leng Feng torna in azione per difendere i cittadini cinesi che lavorano in un paese africano dai mercenari.</desc>
+  </programme>
+  <programme start="20260916053050 +0200" stop="20260916071850 +0200" channel="pluto_film_azione">
+    <title lang="it">Vendetta - Una storia d'amore</title>
+    <desc lang="it">Un veterano della Guerra del Golfo (Nicolas Cage), decide di vendicare una donna che dopo essere stata stuprata, ha visto i suoi aggressori rimessi in libertà.</desc>
+  </programme>
+  <programme start="20260916071850 +0200" stop="20260916120000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_film_azione">
+  <programme start="20260916120000 +0200" stop="20260917000000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_film_azione">
+  <programme start="20260917000000 +0200" stop="20260917060000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260914160000 +0200" stop="20260914201712 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260915000000 +0200" stop="20260915042452 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260914201712 +0200" stop="20260914210712 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Due gocce d'acqua</title>
-    <desc lang="it">Dresden accetta il caso di un ragazzino che è convinto di avere i mostri alle calcagna, ma un passo falso di Harry mette tutti in pericolo.</desc>
-  </programme>
-  <programme start="20260914210712 +0200" stop="20260914215712 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Dio dei morti</title>
-    <desc lang="it">Dresden lavora al caso di un padre perseguitato dallo spirito della  figlia, e le circostanze dell'omicidio della ragazza mandano Harry in una direzione diversa che mette in pericolo Connie.</desc>
-  </programme>
-  <programme start="20260914215712 +0200" stop="20260914224712 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Licantropia</title>
-    <desc lang="it">L'FBI prende in carico il caso di Murphy riguardante un serial killer che rimuove capelli e denti dalle sue vittime, ma forse c'è ben altro dietro.</desc>
-  </programme>
-  <programme start="20260914224712 +0200" stop="20260914233612 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Regole d'ingaggio</title>
-    <desc lang="it">Harry scopre una sgradevole alleanza mentre cerca di proteggere la sua cliente da un demone.</desc>
-  </programme>
-  <programme start="20260914233612 +0200" stop="20260915002512 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Terzo Occhio</title>
-    <desc lang="it">Spinto a ripagare un debito del passato, Dresden si ritrova coinvolto in una guerra di potere fra gang di vampiri.</desc>
-  </programme>
-  <programme start="20260915002512 +0200" stop="20260915011512 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La condanna di Bob</title>
-    <desc lang="it">Quando un uomo muore improvvisamente nell'ufficio di Harry, quest'ultimo inizia a investigare su un intricato complotto omicida che ha a che fare con il passato di Bob.</desc>
-  </programme>
-  <programme start="20260915011512 +0200" stop="20260915020412 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'uomo di cera</title>
-    <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
-  </programme>
-  <programme start="20260915020412 +0200" stop="20260915024952 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Rivelazione</title>
-    <desc lang="it">Rebecca prepara un virus ricavato dall'influenza suina da diffondere tra la popolazione di Chester's Mill. Pensando che Barbie non sia più suo alleato, Julia chiede aiuto a Sam per contrastare il piano...</desc>
-  </programme>
-  <programme start="20260915024952 +0200" stop="20260915033907 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Riconciliazione</title>
-    <desc lang="it">Julia cerca di ridistribuire le scorte di cibo, ma solo metà di Chester's Mill è con lei. Il processo a Big Jim e Rebecca rischia di provocare una mini-guerra civile…</desc>
-  </programme>
-  <programme start="20260915033907 +0200" stop="20260915042452 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Nel buio</title>
-    <desc lang="it">Junior, Sam e Barbie scendono nella galleria che si apre nell'armadietto 18-21, in cerca di Lyle. Restano intrappolati da un crollo, e mentre Julia e Rebecca cercano un sistema per farli uscire, i due finiscono davanti a un baratro senza fondo…</desc>
   </programme>
   <programme start="20260915042452 +0200" stop="20260915051205 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Under The Dome: Tornando a casa</title>
@@ -296,15 +256,55 @@
     <title lang="it">Dresden Files: La seconda chance</title>
     <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
   </programme>
-  <programme start="20260915222603 +0200" stop="20260916040000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260915222603 +0200" stop="20260915231503 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Sotto la notte</title>
+    <desc lang="it">Dopo essere stato abbandonato vicino ad un buco nero, il capitano Dylan Hunt viene ritrovata da una nave  di salvataggio mercenaria e scopre di essere rimasto ibernato per 300 anni.</desc>
+  </programme>
+  <programme start="20260915231503 +0200" stop="20260916000403 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Una fiamma di dichiarazione</title>
+    <desc lang="it">Dylan protegge l'Andromeda dai mercenari mentre Beka comincia a chiedersi se stanno combattendo la fazione sbagliata.</desc>
+  </programme>
+  <programme start="20260916000403 +0200" stop="20260916005303 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Perdere il lampo fatidico</title>
+    <desc lang="it">Dylan trova una stazione spaziale popolata da bambini che credono che lui sia per lì per portare la pace e uccidere i loro nemici.</desc>
+  </programme>
+  <programme start="20260916005303 +0200" stop="20260916014203 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: D meno zero</title>
+    <desc lang="it">L'equipaggio dell’Andromeda sta ancora imparando come lavorare insieme mentre vengono attaccati dai Risolutori.</desc>
+  </programme>
+  <programme start="20260916014203 +0200" stop="20260916023103 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Doppia elica</title>
+    <desc lang="it">L'Andromeda è coinvolta in una faida tra un pianeta Than e una colonia nietzscheana.</desc>
+  </programme>
+  <programme start="20260916023103 +0200" stop="20260916032003 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Angelo oscuro, demone luminoso</title>
+    <desc lang="it">Uno slipstream catapulta l'Andromeda indietro nel tempo a poco prima della caduta del Commonwealth. L'equipaggio deve intervenire per proteggere la storia.</desc>
+  </programme>
+  <programme start="20260916032003 +0200" stop="20260916040903 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: I legami che accecano</title>
+    <desc lang="it">Dopo aver risposto a una chiamata di soccorso, l'equipaggio raccoglie il fratello di Beka, ora un Wayista, e il suo amico.</desc>
+  </programme>
+  <programme start="20260916040903 +0200" stop="20260916045803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Le sponde del Lete</title>
+    <desc lang="it">Grazie a un buco nero Dylan riesce a comunicare con la sua ex compagna, 300 anni fa.</desc>
+  </programme>
+  <programme start="20260916045803 +0200" stop="20260916054703 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Una rosa nelle ceneri</title>
+    <desc lang="it">Dylan è prigioniero su un pianeta-prigione e deve trovare una via di fuga mentre l’equipaggio organizza il suo salvataggio.</desc>
+  </programme>
+  <programme start="20260916054703 +0200" stop="20260916063603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Tutto l'oceano del grande Nettuno</title>
+    <desc lang="it">I Castaliani salgono a bordo dell'Andromeda per ultimare la costituzione del Nuovo Commonwealth. Quando il loro leader viene trovato morto, tutti i sospetti ricadono su Tyr.</desc>
+  </programme>
+  <programme start="20260916063603 +0200" stop="20260916120000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916040000 +0200" stop="20260916160000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260916120000 +0200" stop="20260917000000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260916160000 +0200" stop="20260916220000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260917000000 +0200" stop="20260917060000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
