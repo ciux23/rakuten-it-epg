@@ -12,21 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260919080000 +0200" stop="20260919115430 +0200" channel="pluto_film_tv">
+  <programme start="20260919143000 +0200" stop="20260919172940 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260919115430 +0200" stop="20260919134540 +0200" channel="pluto_film_tv">
-    <title lang="it">Il più grande sogno</title>
-    <desc lang="it">A 39 anni Mirko è appena uscito dal carcere: fuori, nella periferia di Roma, lo aspetta un futuro da inventare</desc>
-  </programme>
-  <programme start="20260919134540 +0200" stop="20260919153040 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20260919153040 +0200" stop="20260919172940 +0200" channel="pluto_film_tv">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
   </programme>
   <programme start="20260919172940 +0200" stop="20260919191540 +0200" channel="pluto_film_tv">
     <title lang="it">Harold e Maude</title>
@@ -68,33 +56,33 @@
     <title lang="it">A Circus Story and a Love Song</title>
     <desc lang="it">Refugio, un romantico sognatore la cui ricerca del vero amore, durata anni, lo porta dalla vita circense in Messico alla vita notturna di New Orleans, dove si innamora inaspettatamente di una bellissima ballerina esotica con un passato complicato.</desc>
   </programme>
-  <programme start="20260920143603 +0200" stop="20260920200000 +0200" channel="pluto_film_tv">
+  <programme start="20260920143603 +0200" stop="20260920170603 +0200" channel="pluto_film_tv">
+    <title lang="it">Dreamgirls</title>
+    <desc lang="it">Con le eccezionali performance del cast, Dreamgirl racconta la storia di tre cantanti e del loro sogno: far trionfare la black music nel panorama USA degli Anni Sessanta e Settanta. Loro erano le Supremes!</desc>
+  </programme>
+  <programme start="20260920170603 +0200" stop="20260920192603 +0200" channel="pluto_film_tv">
+    <title lang="it">The Fighting Temptations</title>
+    <desc lang="it">Il premio* Oscar(r) Cuba Gooding Jr. interpreta Darrin Hill, uno sfortunato manager di New York che torna nella sua città natale per reclamare l'eredità lasciatagli dalla zia. Ma prima di averla, dovrà esaudire l'ultimo desiderio della zia.</desc>
+  </programme>
+  <programme start="20260920192603 +0200" stop="20260920210145 +0200" channel="pluto_film_tv">
+    <title lang="it">Bancopaz</title>
+    <desc lang="it">Alla Desert Savings Bank tutti sognano il colpo perfetto, ma nessuno sa che anche gli altri lo stanno pianificando. Sheila, Stuart e Jason si ritrovano nella stessa notte a svaligiare la banca, scatenando un'improbabile e caotica resa dei conti.</desc>
+  </programme>
+  <programme start="20260920210145 +0200" stop="20260921023000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260920200000 +0200" stop="20260921080000 +0200" channel="pluto_film_tv">
+  <programme start="20260921023000 +0200" stop="20260921143000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921080000 +0200" stop="20260921140000 +0200" channel="pluto_film_tv">
+  <programme start="20260921143000 +0200" stop="20260921203000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260919080000 +0200" stop="20260919122256 +0200" channel="pluto_film_azione">
+  <programme start="20260919143000 +0200" stop="20260919180233 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260919122256 +0200" stop="20260919143056 +0200" channel="pluto_film_azione">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
-  </programme>
-  <programme start="20260919143056 +0200" stop="20260919162056 +0200" channel="pluto_film_azione">
-    <title lang="it">Striscia Vincente</title>
-    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
-  </programme>
-  <programme start="20260919162056 +0200" stop="20260919180233 +0200" channel="pluto_film_azione">
-    <title lang="it">Otzi - L'ultimo cacciatore</title>
-    <desc lang="it">Neolitico. Il clan guidato da Otzi viene attaccato per sottrarre un oggetto sacro. Rientrato all'accampamento, trova i membri della tribù brutalmente assassinati. Accecato dal dolore e dalla rabbia, ha un unico obiettivo: la vendetta!</desc>
   </programme>
   <programme start="20260919180233 +0200" stop="20260919194439 +0200" channel="pluto_film_azione">
     <title lang="it">Borning</title>
@@ -144,53 +132,33 @@
     <title lang="it">Speed Kills</title>
     <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
   </programme>
-  <programme start="20260920155458 +0200" stop="20260920200000 +0200" channel="pluto_film_azione">
+  <programme start="20260920155458 +0200" stop="20260920174535 +0200" channel="pluto_film_azione">
+    <title lang="it">Crypto</title>
+    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
+  </programme>
+  <programme start="20260920174535 +0200" stop="20260920192641 +0200" channel="pluto_film_azione">
+    <title lang="it">The gaelic king</title>
+    <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
+  </programme>
+  <programme start="20260920192641 +0200" stop="20260920213025 +0200" channel="pluto_film_azione">
+    <title lang="it">Lo Straniero della valle oscura</title>
+    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
+  </programme>
+  <programme start="20260920213025 +0200" stop="20260921023000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260920200000 +0200" stop="20260921080000 +0200" channel="pluto_film_azione">
+  <programme start="20260921023000 +0200" stop="20260921143000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921080000 +0200" stop="20260921140000 +0200" channel="pluto_film_azione">
+  <programme start="20260921143000 +0200" stop="20260921203000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260919080000 +0200" stop="20260919121103 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260919143000 +0200" stop="20260919184303 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260919121103 +0200" stop="20260919130003 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Delirio da trattato quantico</title>
-    <desc lang="it">Rommie viene ricostruita per aiutare a evacuare il sistema Seefra.</desc>
-  </programme>
-  <programme start="20260919130003 +0200" stop="20260919134903 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La luce di un nuovo giorno</title>
-    <desc lang="it">Un capo militare convince i suoi seguaci che l'imminente distruzione dei pianeti esterni è un complotto per saccheggiare il loro pianeta.</desc>
-  </programme>
-  <programme start="20260919134903 +0200" stop="20260919143803 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il caos e la sua calma</title>
-    <desc lang="it">Dylan, Rhade e Beka uniscono le forze per salvare Trance da Methus-2 e Harper dal Generale Burma.</desc>
-  </programme>
-  <programme start="20260919143803 +0200" stop="20260919152703 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il cuore del viaggio (Parte 1)</title>
-    <desc lang="it">L'equipaggio lascia finalmente il sistema Seefra e scopre che Dylan è l'ultimo Paradine.</desc>
-  </programme>
-  <programme start="20260919152703 +0200" stop="20260919161603 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il cuore del viaggio (Parte 2)</title>
-    <desc lang="it">Nell’ultimo episodio della serie, la battaglia finale per salvare il Nuovo Commonwealth del Sistema ha inizio.</desc>
-  </programme>
-  <programme start="20260919161603 +0200" stop="20260919170503 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Lo shock del nuovo (puntata pilota)</title>
-    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
-  </programme>
-  <programme start="20260919170503 +0200" stop="20260919175403 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Io urlo con il corpo elettrico</title>
-    <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
-  </programme>
-  <programme start="20260919175403 +0200" stop="20260919184303 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Roulette russa</title>
-    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
   </programme>
   <programme start="20260919184303 +0200" stop="20260919193203 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Pazza d'amore</title>
@@ -288,15 +256,43 @@
     <title lang="it">Mutant X: Il futuro rivelato</title>
     <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
   </programme>
-  <programme start="20260920141903 +0200" stop="20260920200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260920141903 +0200" stop="20260920150803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Nessun uomo lasciato indietro</title>
+    <desc lang="it">Un aereo militare viene abbattuto dietro le linee nemiche, spingendo la squadra a fare un tentativo disperato di recuperare l'arma segreta del governo nascosta a bordo.</desc>
+  </programme>
+  <programme start="20260920150803 +0200" stop="20260920155703 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'incrocio dell'anima</title>
+    <desc lang="it">La squadra parte per salvare Brennan, che è rimasto intrappolato in una città invisibile e rischia l'esecuzione per un crimine che non ha commesso.</desc>
+  </programme>
+  <programme start="20260920155703 +0200" stop="20260920164603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il segno dall'alto</title>
+    <desc lang="it">Tre extraterrestri che rappresentano una grave minaccia per l'umanità prendono di mira Shalimar, così la squadra si mette in viaggio per salvarla dalle loro grinfie malvagie.</desc>
+  </programme>
+  <programme start="20260920164603 +0200" stop="20260920173503 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Corpo e anima</title>
+    <desc lang="it">Un mutante disincarnato si impossessa dei corpi di varie persone e si mette alla ricerca di coloro che gli hanno fatto questo. Uno di loro è un medico che piace a Shalimar.</desc>
+  </programme>
+  <programme start="20260920173503 +0200" stop="20260920182403 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La sostituta</title>
+    <desc lang="it">Durante un lavoro, Shalimar viene ferita e viene aiutata da un'altra mutante feral, Nikki, che conosceva ed era stata quasi scelta per la squadra. Mentre Shalimar si riprende, lei si offre di sostituirla.</desc>
+  </programme>
+  <programme start="20260920182403 +0200" stop="20260920191303 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La truffa</title>
+    <desc lang="it">La losca ex-ragazza di Brennan si rivolge a lui per un aiuto quando la sua ultima truffa prende una piega mortale.</desc>
+  </programme>
+  <programme start="20260920191303 +0200" stop="20260920200203 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Alla fine del destino</title>
+    <desc lang="it">La squadra affronta la sua missione più pericolosa finora: fermare un gruppo di eco-terroristi.</desc>
+  </programme>
+  <programme start="20260920200203 +0200" stop="20260921023000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260920200000 +0200" stop="20260921080000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260921023000 +0200" stop="20260921143000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921080000 +0200" stop="20260921140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260921143000 +0200" stop="20260921203000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
