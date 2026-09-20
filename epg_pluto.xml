@@ -12,17 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260920083000 +0200" stop="20260920123158 +0200" channel="pluto_film_tv">
+  <programme start="20260920143000 +0200" stop="20260920170603 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260920123158 +0200" stop="20260920143603 +0200" channel="pluto_film_tv">
-    <title lang="it">A Circus Story and a Love Song</title>
-    <desc lang="it">Refugio, un romantico sognatore la cui ricerca del vero amore, durata anni, lo porta dalla vita circense in Messico alla vita notturna di New Orleans, dove si innamora inaspettatamente di una bellissima ballerina esotica con un passato complicato.</desc>
-  </programme>
-  <programme start="20260920143603 +0200" stop="20260920170603 +0200" channel="pluto_film_tv">
-    <title lang="it">Dreamgirls</title>
-    <desc lang="it">Con le eccezionali performance del cast, Dreamgirl racconta la storia di tre cantanti e del loro sogno: far trionfare la black music nel panorama USA degli Anni Sessanta e Settanta. Loro erano le Supremes!</desc>
   </programme>
   <programme start="20260920170603 +0200" stop="20260920192603 +0200" channel="pluto_film_tv">
     <title lang="it">The Fighting Temptations</title>
@@ -72,33 +64,33 @@
     <title lang="it">La Sera Della Prima</title>
     <desc lang="it">L'attrice Myrtle Gordon versa in una grave crisi esistenziale: non riesce a immedesimarsi nel ruolo della protagonista della commedia che sta interpretando, e il suo rapporto con l'attore Maurice Adams sta attraversando un momento difficile.</desc>
   </programme>
-  <programme start="20260921154519 +0200" stop="20260921203000 +0200" channel="pluto_film_tv">
+  <programme start="20260921154519 +0200" stop="20260921171019 +0200" channel="pluto_film_tv">
+    <title lang="it">10 Cose Da Fare Prima Di Lasciarsi</title>
+    <desc lang="it">Ben e Abigail si conoscono a un appuntamento al buio in un bar e, per gioco, stilano una lista delle dieci cose da fare insieme prima di lasciarsi. Dopo aver passato la notte insieme, le cose prendono una piega inaspettata.</desc>
+  </programme>
+  <programme start="20260921171019 +0200" stop="20260921190819 +0200" channel="pluto_film_tv">
+    <title lang="it">L'Assassinio Di Un Allibratore Cinese</title>
+    <desc lang="it">Cosmo Vittelli, titolare di uno squallido cabaret, perde una enorme cifra al gioco, indebitandosi con il criminale Mort. Quest'ultimo gli offre la possibilità di ripagare il proprio debito eliminando un fastidioso allibratore protetto dalla mafia.</desc>
+  </programme>
+  <programme start="20260921190819 +0200" stop="20260921210019 +0200" channel="pluto_film_tv">
+    <title lang="it">Ragazze a Beverly Hills</title>
+    <desc lang="it">Il mondo di Cher vacilla quando compaiono nella sua vita due bei fusti: suo fratellastro e un nuovo sexy compagno di classe. Le avventure che vivrà le insegneranno che è possibile fare buone azioni anche senza avere un tornaconto personale.</desc>
+  </programme>
+  <programme start="20260921210019 +0200" stop="20260922023000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921203000 +0200" stop="20260922083000 +0200" channel="pluto_film_tv">
+  <programme start="20260922023000 +0200" stop="20260922143000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922083000 +0200" stop="20260922143000 +0200" channel="pluto_film_tv">
+  <programme start="20260922143000 +0200" stop="20260922203000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260920083000 +0200" stop="20260920122455 +0200" channel="pluto_film_azione">
+  <programme start="20260920143000 +0200" stop="20260920174535 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260920122455 +0200" stop="20260920135558 +0200" channel="pluto_film_azione">
-    <title lang="it">2 lava 2 lantula</title>
-    <desc lang="it">Secondo adrenalinico capitolo della saga spin-off di Sharknado. Quando un'eruzione vulcanica risveglia una colonia di ragni che invade e terrorizza la Florida, l'attore Colton West abbandona il set per correre in soccorso della figlia.</desc>
-  </programme>
-  <programme start="20260920135558 +0200" stop="20260920155458 +0200" channel="pluto_film_azione">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20260920155458 +0200" stop="20260920174535 +0200" channel="pluto_film_azione">
-    <title lang="it">Crypto</title>
-    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
   </programme>
   <programme start="20260920174535 +0200" stop="20260920192641 +0200" channel="pluto_film_azione">
     <title lang="it">The gaelic king</title>
@@ -144,49 +136,37 @@
     <title lang="it">Broken Promise</title>
     <desc lang="it">Quando i fascisti si impadroniscono del suo Paese, Martin resta inerme mentre i membri della comunità ebraica, e la sua stessa famiglia, vengono mandati nei campi di concentramento.</desc>
   </programme>
-  <programme start="20260921150540 +0200" stop="20260921203000 +0200" channel="pluto_film_azione">
+  <programme start="20260921150540 +0200" stop="20260921164040 +0200" channel="pluto_film_azione">
+    <title lang="it">Lavalantula</title>
+    <desc lang="it">Una violenta eruzione vulcanica sulle montagne di Santa Monica dà vita a una serie di crateri da cui non esce solo lava incandescente, ma anche giganteschi ragni dotati della capacità di sputare fuoco.</desc>
+  </programme>
+  <programme start="20260921164040 +0200" stop="20260921182140 +0200" channel="pluto_film_azione">
+    <title lang="it">Geo Disaster</title>
+    <desc lang="it">Un vulcano, un terremoto e un tornado convergono su Los Angeles per formare un cataclisma senza precedenti.</desc>
+  </programme>
+  <programme start="20260921182140 +0200" stop="20260921195823 +0200" channel="pluto_film_azione">
+    <title lang="it">Ladre per Caso</title>
+    <desc lang="it">L’introversa Carole e la ribelle Caroline hanno in comune una sola cosa: il padre Patrick, un ladro internazionale ricercato in tutto il mondo. Intenzionato a rubare uno «stradivari» da 15 milioni di euro, chiederà alle figlie di assisterlo nell’impresa.</desc>
+  </programme>
+  <programme start="20260921195823 +0200" stop="20260921213056 +0200" channel="pluto_film_azione">
+    <title lang="it">Trading Paint - Oltre La Leggenda</title>
+    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
+  </programme>
+  <programme start="20260921213056 +0200" stop="20260922023000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921203000 +0200" stop="20260922083000 +0200" channel="pluto_film_azione">
+  <programme start="20260922023000 +0200" stop="20260922143000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922083000 +0200" stop="20260922143000 +0200" channel="pluto_film_azione">
+  <programme start="20260922143000 +0200" stop="20260922203000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260920083000 +0200" stop="20260920124103 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260920143000 +0200" stop="20260920182403 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260920124103 +0200" stop="20260920133003 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Di chi sono questi boschi</title>
-    <desc lang="it">La squadra si dirige nella natura selvaggia per rintracciare una bestia assassina che sta prendendo di mira gli escursionisti.</desc>
-  </programme>
-  <programme start="20260920133003 +0200" stop="20260920141903 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il futuro rivelato</title>
-    <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
-  </programme>
-  <programme start="20260920141903 +0200" stop="20260920150803 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Nessun uomo lasciato indietro</title>
-    <desc lang="it">Un aereo militare viene abbattuto dietro le linee nemiche, spingendo la squadra a fare un tentativo disperato di recuperare l'arma segreta del governo nascosta a bordo.</desc>
-  </programme>
-  <programme start="20260920150803 +0200" stop="20260920155703 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'incrocio dell'anima</title>
-    <desc lang="it">La squadra parte per salvare Brennan, che è rimasto intrappolato in una città invisibile e rischia l'esecuzione per un crimine che non ha commesso.</desc>
-  </programme>
-  <programme start="20260920155703 +0200" stop="20260920164603 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il segno dall'alto</title>
-    <desc lang="it">Tre extraterrestri che rappresentano una grave minaccia per l'umanità prendono di mira Shalimar, così la squadra si mette in viaggio per salvarla dalle loro grinfie malvagie.</desc>
-  </programme>
-  <programme start="20260920164603 +0200" stop="20260920173503 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Corpo e anima</title>
-    <desc lang="it">Un mutante disincarnato si impossessa dei corpi di varie persone e si mette alla ricerca di coloro che gli hanno fatto questo. Uno di loro è un medico che piace a Shalimar.</desc>
-  </programme>
-  <programme start="20260920173503 +0200" stop="20260920182403 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sostituta</title>
-    <desc lang="it">Durante un lavoro, Shalimar viene ferita e viene aiutata da un'altra mutante feral, Nikki, che conosceva ed era stata quasi scelta per la squadra. Mentre Shalimar si riprende, lei si offre di sostituirla.</desc>
   </programme>
   <programme start="20260920182403 +0200" stop="20260920191303 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: La truffa</title>
@@ -284,15 +264,47 @@
     <title lang="it">Mutant X: La teoria della cospirazione</title>
     <desc lang="it">Mentre Brennan e Shalimar indagano su un misterioso incidente aereo, Lexa contempla il suo futuro con la squadra Mutant X.</desc>
   </programme>
-  <programme start="20260921140003 +0200" stop="20260921203000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260921140003 +0200" stop="20260921144903 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'arte dell'attrazione</title>
+    <desc lang="it">Mentre la squadra di Mutant X combatte per recuperare una formula nascosta in una collezione di opere d'arte, Shalimar riceve informazioni vitali da una fonte misteriosa.</desc>
+  </programme>
+  <programme start="20260921144903 +0200" stop="20260921153803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una vita normale</title>
+    <desc lang="it">Mutant X rintraccia uno scienziato disonesto mentre Shalimar si separa dalla squadra per aiutare Adam a salvare lo scienziato - e scoprire il vero cattivo.</desc>
+  </programme>
+  <programme start="20260921153803 +0200" stop="20260921162703 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Lealtà divise</title>
+    <desc lang="it">Brennan è costretto a tornare al suo passato criminale quando Mutant X scopre che il suo vecchio partner è coinvolto nel furto di segreti del Dominio.</desc>
+  </programme>
+  <programme start="20260921162703 +0200" stop="20260921171603 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'età dell'innocenza</title>
+    <desc lang="it">Mutant X scopre un vecchio esperimento militare che coinvolge un siero che inverte l'età ed è sorpreso di scoprire che il nonno di Jesse è uno dei soggetti del test.</desc>
+  </programme>
+  <programme start="20260921171603 +0200" stop="20260921180503 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Si è esaurita</title>
+    <desc lang="it">Scoprendo che la loro compagna di squadra Lexa è il soggetto di un esperimento segreto che la sta controllando, la squadra Mutant X dà la caccia al medico responsabile.</desc>
+  </programme>
+  <programme start="20260921180503 +0200" stop="20260921185403 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In mezzo</title>
+    <desc lang="it">Quando la vita di Jesse è in bilico, Brennan deve connettersi con lui e condurlo attraverso i ricordi passati che hanno condiviso per salvargli la vita.</desc>
+  </programme>
+  <programme start="20260921185403 +0200" stop="20260921194303 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Amante del sogno</title>
+    <desc lang="it">Mutant X deve impedire a uno scienziato di clonare le donne per usarle come schiave nel suo ultra-esclusivo club per uomini.</desc>
+  </programme>
+  <programme start="20260921194303 +0200" stop="20260921203203 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La profezia</title>
+    <desc lang="it">Brennan combatte con un Guardiano della Profezia per fermare il piano del defunto mutante Ashlocke dall'oltretomba di dominare il mondo.</desc>
+  </programme>
+  <programme start="20260921203203 +0200" stop="20260922023000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921203000 +0200" stop="20260922083000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260922023000 +0200" stop="20260922143000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922083000 +0200" stop="20260922143000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260922143000 +0200" stop="20260922203000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
