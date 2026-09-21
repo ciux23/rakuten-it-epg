@@ -148,6 +148,10 @@
     <title lang="it">Che tempo fa</title>
   </programme>
   <programme start="20260922005500 +0200" stop="20260922015500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni </title>
+    <desc lang="it">Sottovoce e dintorni </desc>
+  </programme>
+  <programme start="20260922005500 +0200" stop="20260922015500 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni - Puntata del 21/09/2026</title>
     <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
   </programme>
@@ -573,8 +577,8 @@
     <desc lang="it">20 concorrenti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
   </programme>
   <programme start="20260922160000 +0200" stop="20260922180000 +0200" channel="Rai2.it">
-    <title lang="it">Mondiali di Ciclismo 2026: Staffetta mista a squadre</title>
-    <desc lang="it">Ciclismo su strada In diretta da Montréal (CAN) Conduce Alessandro Fabretti Telecronaca Francesco Pancani Commento tecnico Silvio Martinello, Giada Borgato Interviste e collegamenti Stefano Rizzato  Produttore esecutivo Guido Lissoni </desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Staffetta Mista (seconda parte)</title>
+    <desc lang="it">Seconda parte della cronometro a squadre della staffetta mista ai Mondiali di Ciclismo 2026. Le nazionali, composte da tre uomini e tre donne, si sfidano contro il tempo per conquistare il titolo iridato.</desc>
   </programme>
   <programme start="20260922180000 +0200" stop="20260922181000 +0200" channel="Rai2.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
@@ -872,8 +876,8 @@
     <desc lang="it">Venti minuti di televisione smontata, rimontata e messa a nudo attraverso il montaggio per raccontare il presente e rileggere la memoria collettiva. Blob ripercorre giorno per giorno gli eventi che hanno segnato la storia contemporanea, offrendo uno sguardo critico sulle immagini e sui loro protagonisti.</desc>
   </programme>
   <programme start="20260921201000 +0200" stop="20260921204000 +0200" channel="Rai3.it">
-    <title lang="it">Il Provinciale - De André e la “scoperta” della Sardegna - 21/09/2026</title>
-    <desc lang="it">Federico Quaranta, arrivando in Sardegna, ci racconta l’impatto che i “continentali” hanno avuto con l’isola: da “colonia” turistica alla ricerca del suo spirito più autentico e selvaggio, prendendo ad esempio l’esperienza vissuta da Fabrizio De André. Grazie a interviste a chi lo ha conosciuto e a materiali di repertorio su De André in Sardegna, Federico ci racconta la sua storia, presso L’Agnata, nel comune di Tempio Pausania. Ospiti della puntata, tra gli altri, lo scrittore Flavio Soriga, i musicisti Moses Concas e Sandro Fresi, l’influencer Mari Mameda.</desc>
+    <title lang="it">Il Provinciale - De André e la "scoperta" della Sardegna - 21/09/2026</title>
+    <desc lang="it">Federico Quaranta, arrivando in Sardegna, ci racconta l'impatto che i "continentali" hanno avuto con l'isola: da "colonia" turistica alla ricerca del suo spirito più autentico e selvaggio, prendendo ad esempio l'esperienza vissuta da Fabrizio De André. Grazie a interviste a chi lo ha conosciuto e a materiali di repertorio su De André in Sardegna, Federico ci racconta la sua storia, presso L'Agnata, nel comune di Tempio Pausania. Ospiti della puntata, tra gli altri, lo scrittore Flavio Soriga, i musicisti Moses Concas e Sandro Fresi, l'influencer Mari Mameda.</desc>
   </programme>
   <programme start="20260921204000 +0200" stop="20260921205000 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 21/09/2026</title>
@@ -940,7 +944,7 @@
   </programme>
   <programme start="20260922124500 +0200" stop="20260922132000 +0200" channel="Rai3.it">
     <title lang="it">Quante storie - Puntata del 22/09/2026</title>
-    <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
+    <desc lang="it">L'amore è un sentimento eterno, ma le sue declinazioni mutano a ogni generazione. Lo psicoterapeuta Matteo Lancini, ospite di Giorgio Zanchini, indaga a Quante Storie le relazioni sentimentali dei giovani di oggi, basate su una concezione del sé che Lancini definisce post narcisista, e nella quale il progetto individuale finisce col prevalere sul progetto di coppia.    </desc>
   </programme>
   <programme start="20260922132000 +0200" stop="20260922140000 +0200" channel="Rai3.it">
     <title lang="it">Passato e Presente - Hugo Pratt. La letteratura disegnata - 28/05/2026</title>
@@ -2240,12 +2244,12 @@
     <desc lang="it">Uno scalpellino ruba su commissione dal cimitero centrale di Vienna, in cui lavora, il cranio del famoso Beethoven. Al momento della consegna il ricettatore lo uccide e ruba il bene culturale per venderlo a sua volta.</desc>
   </programme>
   <programme start="20260922212000 +0200" stop="20260922222000 +0200" channel="RaiPremium.it">
-    <title lang="it">Morgane: Detective geniale 4 - L'effetto</title>
-    <desc lang="it">Morgane: Detective geniale 4 - L'effetto rastrello ep.5 - SERIE TV - Mentre Morgane ha appena annunciato a Karadec che potrebbe essere incinta di lui, gli investigatori del PJ di Lilla sono sulle tracce di -  un serial killer responsabile della morte di molte giovani donne.  - di Vari con A. Fleurot, M. Nebbou 2024 FRA</desc>
+    <title lang="it">Morgane - Detective geniale - S4E5 - L'effetto rastrello</title>
+    <desc lang="it">Morgane si ritrova al fianco di Karadec per risolvere un nuovo caso, l'omicidio di una donna che sembra essere collegato a quello di altre tre vittime, tutte donne, tutte uccise di sabato; Morgane è certa che si tratti di un serial killer. Nel frattempo, il rapporto tra Gilles e Afida prende una deriva inaspettata. </desc>
   </programme>
   <programme start="20260922222000 +0200" stop="20260922232500 +0200" channel="RaiPremium.it">
-    <title lang="it">Morgane: Detective geniale 4 - L'effetto</title>
-    <desc lang="it">Morgane: Detective geniale 4 - L'effetto rastrello ep.5 - SERIE TV - Mentre Morgane ha appena annunciato a Karadec che potrebbe essere incinta di lui, gli investigatori del PJ di Lilla sono sulle tracce di -  un serial killer responsabile della morte di molte giovani donne.  - di Vari con A. Fleurot, M. Nebbou 2024 FRA</desc>
+    <title lang="it">Morgane - Detective geniale - S4E6 - Coccinella Septempunctata</title>
+    <desc lang="it">A Karadec vengono affidate le indagini sulla scomparsa di una donna, Emma Perrin. Morgane lo aiuta e, grazie a un'intuizione geniale, lo porta su una pista dai contorni fantascientifici, durante questa indagine Morgane ha l'opportunità di conoscere i genitori dell'ispettore. </desc>
   </programme>
   <programme start="20260922232500 +0200" stop="20260923010500 +0200" channel="RaiPremium.it">
     <title lang="it">Il bodyguard e la principessa </title>
@@ -2348,12 +2352,12 @@
     <desc lang="it">Una squadra di stagnanti, che lavora nei canali fognari di Vienna, trova il corpo di un uomo dentro ad un sacco. Del cadavere, però, sono state tagliate la testa e le braccia.</desc>
   </programme>
   <programme start="20260923212000 +0200" stop="20260923221000 +0200" channel="RaiPremium.it">
-    <title lang="it">Il Metodo Fenoglio - L'estate fredda ep.</title>
-    <desc lang="it">Il Metodo Fenoglio - L'estate fredda ep.3 - SERIE TV - Fratelli - È esplosa una guerra criminale. Fenoglio e Pellecchia indagano alla ricerca delle sue cause. Per quale ragione due fratelli di sangue, come -  Grimaldi e Lopez, si scontrano con tanta rabbia? - di A. Casale con A. Boni, G. Bevilacqua, P. Sassanelli 2021 ITA</desc>
+    <title lang="it">Il metodo Fenoglio - L'estate fredda - S1E3 - Fratelli</title>
+    <desc lang="it">È esplosa una guerra criminale. Fenoglio e Pellecchia indagano alla ricerca delle sue cause. Per quale ragione due fratelli di sangue, come Grimaldi e Lopez, si scontrano con tanta rabbia? </desc>
   </programme>
   <programme start="20260923221000 +0200" stop="20260923230500 +0200" channel="RaiPremium.it">
-    <title lang="it">Il Metodo Fenoglio - L'estate fredda ep.</title>
-    <desc lang="it">Il Metodo Fenoglio - L'estate fredda ep.3 - SERIE TV - Fratelli - È esplosa una guerra criminale. Fenoglio e Pellecchia indagano alla ricerca delle sue cause. Per quale ragione due fratelli di sangue, come -  Grimaldi e Lopez, si scontrano con tanta rabbia? - di A. Casale con A. Boni, G. Bevilacqua, P. Sassanelli 2021 ITA</desc>
+    <title lang="it">Il metodo Fenoglio - L'estate fredda - S1E4 - L'innocente</title>
+    <desc lang="it">Il ritrovamento dell'ennesima vittima è l'inizio della caccia all'uomo da parte di Fenoglio e dei suoi colleghi. Intanto, Pellecchia e il PM D'Angelo fanno i conti col passato che torna. </desc>
   </programme>
   <programme start="20260923230500 +0200" stop="20260924010500 +0200" channel="RaiPremium.it">
     <title lang="it">Purchè finisca bene - Tutto a posto</title>
@@ -2584,13 +2588,10 @@
   <programme start="20260921194500 +0200" stop="20260921200000 +0200" channel="RaiNews24.it">
     <title lang="it">MOTORI 24</title>
   </programme>
-  <programme start="20260921200000 +0200" stop="20260921203000 +0200" channel="RaiNews24.it">
+  <programme start="20260921200000 +0200" stop="20260921204000 +0200" channel="RaiNews24.it">
     <title lang="it">TG LIS + NEWS</title>
   </programme>
-  <programme start="20260921203000 +0200" stop="20260921210000 +0200" channel="RaiNews24.it">
-    <title lang="it">SPOTLIGHT</title>
-  </programme>
-  <programme start="20260921210000 +0200" stop="20260921213000 +0200" channel="RaiNews24.it">
+  <programme start="20260921204000 +0200" stop="20260921213000 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
   </programme>
   <programme start="20260921213000 +0200" stop="20260921220000 +0200" channel="RaiNews24.it">
@@ -2600,7 +2601,8 @@
     <title lang="it">NEWS + ECONOMIA</title>
   </programme>
   <programme start="20260921223000 +0200" stop="20260921230000 +0200" channel="RaiNews24.it">
-    <title lang="it">NEWS + SOMMARIO</title>
+    <title lang="it">Spotlight - Soccorritori sotto attacco. La guerra dei droni in Ucraina - 21/09/2026</title>
+    <desc lang="it">Dall'inizio della guerra in Ucraina, nel 2022, le Forze di difesa russe hanno ripetutamente attaccato il sistema sanitario e gli operatori impegnati in attività di soccorso. L'ong ucraina Truth Hounds ha documentato 401 episodi solo tra il 2022 e il 2025. Attacchi che negli ultimi due anni sono stati condotti per la maggior parte utilizzando droni a corto raggio che volano a una distanza di circa 40 km, ovvero quella della kill zone, la fascia del fronte in cui vengono condotte le evacuazioni. SPOTLIGHT è entrato nella kill zone e ha attraversato il Donbass, la regione più contesa tra Mosca e Kyiv, raccontando da Kramatorsk a Sloviansk gli attacchi ai civili e alle squadre di soccorso che cercano di portarli in salvo anche grazie ai volontari italiani. Una guerra combattuta con i droni, che ne hanno cambiato regole ed equilibri. Il racconto sul campo delle tattiche russe e della corsa tecnologica dell'Ucraina, dai droni aerei a quelli marini e terrestri, che nella regione di Kherson rivelano le nuove sfide e i nuovi mezzi di questa guerra.</desc>
   </programme>
   <programme start="20260921230000 +0200" stop="20260921233000 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA</title>
@@ -3256,50 +3258,54 @@
     <desc lang="it">La diretta di Rai Sport per seguire da vicino gli atleti azzurri prima e dopo la partita in programma.</desc>
   </programme>
   <programme start="20260922143000 +0200" stop="20260922160000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Mondiale Montreal Crono Staffetta Mista</title>
-    <desc lang="it">Ciclismo. Mondiale Montreal Crono Staffetta Mista</desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Staffetta Mista</title>
+    <desc lang="it">Ai Mondiali di Ciclismo 2026 va in scena la cronometro a squadre della staffetta mista. Le nazionali, composte da tre uomini e tre donne, si sfidano contro il tempo per conquistare il titolo iridato.</desc>
   </programme>
-  <programme start="20260922160000 +0200" stop="20260922171500 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica: Mondiali su Strada Copenaghen - 1a g.ta 1a e 2a parte</title>
-    <desc lang="it">Atletica: Mondiali su Strada Copenaghen - 1a g.ta 1a e 2a parte</desc>
+  <programme start="20260922160000 +0200" stop="20260922163000 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica - Campionati del Mondo di corsa su strada 2026 - 1a giornata: Miglio Donne e Uomini</title>
+    <desc lang="it">Prima giornata dei Mondiali di corsa su strada 2026 a Copenaghen, con le gare del miglio maschile e femminile che assegnano i primi titoli iridati della manifestazione.</desc>
+  </programme>
+  <programme start="20260922163000 +0200" stop="20260922171500 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica - Campionati del Mondo di corsa su strada 2026 - 1a giornata: 5km Donne e Uomini</title>
+    <desc lang="it">Prima giornata dei Mondiali di corsa su strada 2026 a Copenaghen, con le prove dei 5 km maschili e femminili che vedono in gara alcuni dei migliori specialisti internazionali della distanza.</desc>
   </programme>
   <programme start="20260922171500 +0200" stop="20260922174500 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa in montagna. Latemar Run</title>
-    <desc lang="it">Corsa in montagna. Latemar Run</desc>
+    <title lang="it">Corsa in montagna - Latemar Mountain Race 2026</title>
+    <desc lang="it">Latemar Mountain Race</desc>
   </programme>
   <programme start="20260922174500 +0200" stop="20260922181000 +0200" channel="RaiSport.it">
-    <title lang="it">Magazine UEFA. Nations League</title>
+    <title lang="it">Magazine UEFA del 22/09/2026</title>
     <desc lang="it">Magazine UEFA</desc>
   </programme>
   <programme start="20260922181000 +0200" stop="20260922204500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Mondiale Montreal Crono Juniores Uomini</title>
-    <desc lang="it">Ciclismo. Mondiale Montreal Crono Juniores Uomini</desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Juniores Uomini</title>
+    <desc lang="it">Ai Mondiali di Ciclismo 2026 va in scena la cronometro individuale uomini Junior, con i migliori giovani specialisti internazionali in gara per conquistare la maglia iridata.</desc>
   </programme>
   <programme start="20260922204500 +0200" stop="20260922211000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20260922211000 +0200" stop="20260922230500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Mondiale Montreal Crono Juniores Donne</title>
-    <desc lang="it">Ciclismo. Mondiale Montreal Crono Juniores Donne</desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Juniores Donne</title>
+    <desc lang="it">Ai Mondiali di Ciclismo 2026 va in scena la cronometro individuale donne Junior, con le migliori giovani specialiste internazionali a caccia del titolo mondiale contro il tempo.</desc>
   </programme>
   <programme start="20260922230500 +0200" stop="20260923010500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Mondiali su strada Montréal 2026 Crono MX</title>
-    <desc lang="it">Ciclismo: Mondiali su strada Montréal 2026 Crono MX</desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Staffetta Mista (prima parte)</title>
+    <desc lang="it">Prima parte della cronometro a squadre della staffetta mista ai Mondiali di Ciclismo 2026. Le nazionali, composte da tre uomini e tre donne, si sfidano contro il tempo per conquistare il titolo iridato.</desc>
   </programme>
   <programme start="20260923010500 +0200" stop="20260923023500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Crono Staffetta Mista</title>
-    <desc lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Crono Staffetta Mista</desc>
+    <title lang="it">Mondiale di Ciclismo 2026 - Cronometro Staffetta Mista (seconda parte)</title>
+    <desc lang="it">Seconda parte della cronometro a squadre della staffetta mista ai Mondiali di Ciclismo 2026. Le nazionali, composte da tre uomini e tre donne, si sfidano contro il tempo per conquistare il titolo iridato.</desc>
   </programme>
   <programme start="20260923023500 +0200" stop="20260923041500 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro a Volo: Camp. Italiano Lonato del Garda Skeet Maschile/Femminile</title>
-    <desc lang="it">Tiro a Volo: Camp. Italiano Lonato del Garda Skeet Maschile/Femminile</desc>
+    <title lang="it">Tiro a Volo: Campionato Italiano 2026 - Skeet Uomini e Donne</title>
+    <desc lang="it">Campionato Italiano - Skeet Uomini e Donne</desc>
   </programme>
   <programme start="20260923041500 +0200" stop="20260923051500 +0200" channel="RaiSport.it">
-    <title lang="it">Motocross: Campionato Mondiale 2026 - Darwin/AUS GP Australia - MXGP gara 2</title>
-    <desc lang="it">Motocross: Campionato Mondiale 2026 - Darwin/AUS GP Australia - MXGP gara 2</desc>
+    <title lang="it">Mondiale Motocross 2026 - GP di Australia: MXGP (gara 2)</title>
+    <desc lang="it">Seconda manche della classe MXGP nel Gran Premio d'Australia, appuntamento del Mondiale Motocross 2026.</desc>
   </programme>
   <programme start="20260923051500 +0200" stop="20260923060000 +0200" channel="RaiSport.it">
-    <title lang="it">Diretta Azzurra</title>
+    <title lang="it">Diretta Azzurra del 22/09/2026</title>
     <desc lang="it">La diretta di Rai Sport per seguire da vicino gli atleti azzurri prima e dopo la partita in programma.</desc>
   </programme>
   <programme start="20260923060000 +0200" stop="20260923080000 +0200" channel="RaiSport.it">
