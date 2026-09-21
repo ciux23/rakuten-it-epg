@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260921000000 +0200" stop="20260921035615 +0200" channel="pluto_film_tv">
+  <programme start="20260921110000 +0200" stop="20260921130519 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260921035615 +0200" stop="20260921052315 +0200" channel="pluto_film_tv">
-    <title lang="it">Setup</title>
-    <desc lang="it">Un gruppo di amici mette a segno una rapina che si trasforma in qualcosa di mortale quando uno di loro tradisce gli altri e scappa via con il bottino. Sonny chiede aiuto a uno dei boss più pericolosi della città per recuperare ciò che gli spetta.</desc>
-  </programme>
-  <programme start="20260921052315 +0200" stop="20260921071609 +0200" channel="pluto_film_tv">
-    <title lang="it">Il compleanno</title>
-    <desc lang="it">Un gruppo di amici in vacanza è messo in crisi dall'arrivo di un ragazzo: morbosità omertà e passione in un melodramma di rara efficacia.</desc>
-  </programme>
-  <programme start="20260921071609 +0200" stop="20260921090609 +0200" channel="pluto_film_tv">
-    <title lang="it">Scambio di identità</title>
-    <desc lang="it">Connie, nubile ed incinta, viaggia in direzione di Boston in treno ed incontra una giovane e facoltosa coppia di sposini in luna di miele, Hugh e Patricia. Durante il tragitto, il convoglio subisce un incidente grave e la ragazza finisce in ospedale.</desc>
-  </programme>
-  <programme start="20260921090609 +0200" stop="20260921105719 +0200" channel="pluto_film_tv">
-    <title lang="it">Il più grande sogno</title>
-    <desc lang="it">A 39 anni Mirko è appena uscito dal carcere: fuori, nella periferia di Roma, lo aspetta un futuro da inventare</desc>
-  </programme>
-  <programme start="20260921105719 +0200" stop="20260921130519 +0200" channel="pluto_film_tv">
-    <title lang="it">Chiedi Alla Polvere</title>
-    <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
   </programme>
   <programme start="20260921130519 +0200" stop="20260921154519 +0200" channel="pluto_film_tv">
     <title lang="it">La Sera Della Prima</title>
@@ -72,41 +52,45 @@
     <title lang="it">Mrs Mills - Un Tesoro Di Vicina</title>
     <desc lang="it">Per rubare un’opera d’arte, un uomo si finge un’eccentrica donna americana e affitta l'appartamento accanto ad Helene. Ne nasce una bella amicizia, fino al giorno in cui Helene scopre che in realtà la nuova amica è un uomo.</desc>
   </programme>
-  <programme start="20260922061816 +0200" stop="20260922120000 +0200" channel="pluto_film_tv">
+  <programme start="20260922061816 +0200" stop="20260922074358 +0200" channel="pluto_film_tv">
+    <title lang="it">La sera di tutti i giorni</title>
+    <desc lang="it">La sera di tutti i giorni, il film diretto da Felix Tissi, racconta storie slegate ma unite dal tema della vecchiaia, attraverso i temi dell'amore e della morte.</desc>
+  </programme>
+  <programme start="20260922074358 +0200" stop="20260922093558 +0200" channel="pluto_film_tv">
+    <title lang="it">Ragazze a Beverly Hills</title>
+    <desc lang="it">Il mondo di Cher vacilla quando compaiono nella sua vita due bei fusti: suo fratellastro e un nuovo sexy compagno di classe. Le avventure che vivrà le insegneranno che è possibile fare buone azioni anche senza avere un tornaconto personale.</desc>
+  </programme>
+  <programme start="20260922093558 +0200" stop="20260922112758 +0200" channel="pluto_film_tv">
+    <title lang="it">Ragazze a Beverly Hills</title>
+    <desc lang="it">Il mondo di Cher vacilla quando compaiono nella sua vita due bei fusti: suo fratellastro e un nuovo sexy compagno di classe. Le avventure che vivrà le insegneranno che è possibile fare buone azioni anche senza avere un tornaconto personale.</desc>
+  </programme>
+  <programme start="20260922112758 +0200" stop="20260922131442 +0200" channel="pluto_film_tv">
+    <title lang="it">Dead Heat</title>
+    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
+  </programme>
+  <programme start="20260922131442 +0200" stop="20260922150042 +0200" channel="pluto_film_tv">
+    <title lang="it">Harold e Maude</title>
+    <desc lang="it">Un classico film di culto che mette in scena una delle coppie più improbabili della storia del cinema. Smentirà qualunque cosa abbiate visto o sentito a proposito degli amanti cinematografici.</desc>
+  </programme>
+  <programme start="20260922150042 +0200" stop="20260922165842 +0200" channel="pluto_film_tv">
+    <title lang="it">Una vita quasi perfetta</title>
+    <desc lang="it">Lanie Kerrigan intervista un barbone con poteri paranormali che prevede che morirà la settimana successiva. Tra l'anticipazione di questa premonizione e una ritrovata scintilla d'amore, Lanie diventa un 'frullatore' di emozioni.</desc>
+  </programme>
+  <programme start="20260922165842 +0200" stop="20260922230000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922120000 +0200" stop="20260923000000 +0200" channel="pluto_film_tv">
+  <programme start="20260922230000 +0200" stop="20260923110000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260923000000 +0200" stop="20260923060000 +0200" channel="pluto_film_tv">
+  <programme start="20260923110000 +0200" stop="20260923170000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921000000 +0200" stop="20260921034538 +0200" channel="pluto_film_azione">
+  <programme start="20260921110000 +0200" stop="20260921123850 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260921034538 +0200" stop="20260921054538 +0200" channel="pluto_film_azione">
-    <title lang="it">Mission Nine Eleven</title>
-    <desc lang="it">Irene Montano, agente del servizio segreto francese, viene contattata da un suo amico ex agente della CIA. Elliot è infatti in possesso di alcune informazioni sul futuro degli Stati Uniti ma questa conoscenza sta mettendo a repentaglio la sua vita.</desc>
-  </programme>
-  <programme start="20260921054538 +0200" stop="20260921072614 +0200" channel="pluto_film_azione">
-    <title lang="it">Security</title>
-    <desc lang="it">Eddie, un ex ufficiale, trova impiego come vigilante notturno in un centro commerciale. Durante la sua prima notte di lavoro si imbatte in una bambina, testimone chiave di un processo, che sta scappando da un gruppo di mercenari.</desc>
-  </programme>
-  <programme start="20260921072614 +0200" stop="20260921091714 +0200" channel="pluto_film_azione">
-    <title lang="it">La Leggenda Di Hei</title>
-    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
-  </programme>
-  <programme start="20260921091714 +0200" stop="20260921110505 +0200" channel="pluto_film_azione">
-    <title lang="it">Dance to death - Sfida l'arena</title>
-    <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
-  </programme>
-  <programme start="20260921110505 +0200" stop="20260921123850 +0200" channel="pluto_film_azione">
-    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
-    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
   </programme>
   <programme start="20260921123850 +0200" stop="20260921150540 +0200" channel="pluto_film_azione">
     <title lang="it">Broken Promise</title>
@@ -148,73 +132,45 @@
     <title lang="it">Punto di non ritorno</title>
     <desc lang="it">Quando sua moglie e sua figlia vengono uccise senza motivo, un professore universitario in lutto si ritrova coinvolto in una guerra sanguinaria tra la criminalità organizzata e un gruppo di vigilantes.</desc>
   </programme>
-  <programme start="20260922061802 +0200" stop="20260922120000 +0200" channel="pluto_film_azione">
+  <programme start="20260922061802 +0200" stop="20260922075445 +0200" channel="pluto_film_azione">
+    <title lang="it">Ladre per Caso</title>
+    <desc lang="it">L’introversa Carole e la ribelle Caroline hanno in comune una sola cosa: il padre Patrick, un ladro internazionale ricercato in tutto il mondo. Intenzionato a rubare uno «stradivari» da 15 milioni di euro, chiederà alle figlie di assisterlo nell’impresa.</desc>
+  </programme>
+  <programme start="20260922075445 +0200" stop="20260922093551 +0200" channel="pluto_film_azione">
+    <title lang="it">The gaelic king</title>
+    <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
+  </programme>
+  <programme start="20260922093551 +0200" stop="20260922110551 +0200" channel="pluto_film_azione">
+    <title lang="it">2012: Supernova</title>
+    <desc lang="it">In una galassia non lontana dalla Terra una stella si sta trasformando in Supernova. Mentre le microonde emesse dal gigante stellare minacciano il Pianeta, uno scienziato escogita un disperato piano di salvezza. C'è ancora una speranza per l'umanità.</desc>
+  </programme>
+  <programme start="20260922110551 +0200" stop="20260922124045 +0200" channel="pluto_film_azione">
+    <title lang="it">Legendary</title>
+    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
+  </programme>
+  <programme start="20260922124045 +0200" stop="20260922143156 +0200" channel="pluto_film_azione">
+    <title lang="it">Outlawed - Il Fuorilegge</title>
+    <desc lang="it">Quando l’ex fidanzata Jade gli chiede aiuto per scoprire la verità sulla morte del padre, l’ex Royal Marine Jake si ritrova in una rete di corruzione e omicidi, scoprendo prove che potrebbero far incarcerare un alto funzionario governativo.</desc>
+  </programme>
+  <programme start="20260922143156 +0200" stop="20260922162056 +0200" channel="pluto_film_azione">
+    <title lang="it">Otto secondi di gloria</title>
+    <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
+  </programme>
+  <programme start="20260922162056 +0200" stop="20260922230000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922120000 +0200" stop="20260923000000 +0200" channel="pluto_film_azione">
+  <programme start="20260922230000 +0200" stop="20260923110000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260923000000 +0200" stop="20260923060000 +0200" channel="pluto_film_azione">
+  <programme start="20260923110000 +0200" stop="20260923170000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260921000000 +0200" stop="20260921041203 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260921110000 +0200" stop="20260921144903 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260921041203 +0200" stop="20260921050103 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: In una notte senza luna</title>
-    <desc lang="it">Nell'emozionante apertura di stagione, i membri superstiti di Mutant X emergono da un'esplosione mortale per incontrare Lexa, che li fa iniziare a mettere in discussione i presupposti fondamentali del loro mondo.</desc>
-  </programme>
-  <programme start="20260921050103 +0200" stop="20260921055003 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il prezzo del peccato</title>
-    <desc lang="it">La squadra Mutant X deve fermare l'asta di una sostanza altamente letale che un certo numero di famigerati terroristi internazionali sono in lizza per acquisire.</desc>
-  </programme>
-  <programme start="20260921055003 +0200" stop="20260921063903 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La razza</title>
-    <desc lang="it">La squadra Mutant X viene coinvolta per aiutare una base militare che è stata infettata da una malattia mortale.</desc>
-  </programme>
-  <programme start="20260921063903 +0200" stop="20260921072803 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Dove abita il male</title>
-    <desc lang="it">La squadra Mutant X deve fermare un serial killer che lascia indizi sulle sue prossime vittime sotto forma di puzzle.</desc>
-  </programme>
-  <programme start="20260921072803 +0200" stop="20260921081703 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La presa dei corvi</title>
-    <desc lang="it">Quando Lexa viene inconsapevolmente drogata con una sostanza letale, la squadra deve correre per trovare l'antidoto prima che sia troppo tardi.</desc>
-  </programme>
-  <programme start="20260921081703 +0200" stop="20260921090603 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Ombre nell'oscurità</title>
-    <desc lang="it">La squadra Mutant X è chiamata a indagare su bizzarre attività che si verificano in un ospedale locale.</desc>
-  </programme>
-  <programme start="20260921090603 +0200" stop="20260921095503 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La mano di Dio</title>
-    <desc lang="it">La squadra Mutant X si imbarca in una missione per localizzare e catturare un potente super-mutante che possiede poteri divini.</desc>
-  </programme>
-  <programme start="20260921095503 +0200" stop="20260921104403 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il deserto</title>
-    <desc lang="it">Jesse è costretto a riallacciare i rapporti con la sua ex fidanzata quando la squadra Mutant X viene a sapere che la sua azienda è coinvolta nella manipolazione genetica delle colture.</desc>
-  </programme>
-  <programme start="20260921104403 +0200" stop="20260921113303 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Senza uscita</title>
-    <desc lang="it">Un mutante che ha la capacità di interfacciarsi con qualsiasi computer con la sua mente, che viene paralizzato dopo un incontro con la squadra, prende il controllo dei computer di Sanctuary.</desc>
-  </programme>
-  <programme start="20260921113303 +0200" stop="20260921122203 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il custode del fratello</title>
-    <desc lang="it">La squadra Mutant X viene a conoscenza del fratello gemello estraniato di Lexa quando diventa l'obiettivo principale di un'operazione sotterranea che raccoglie organi di mutanti.</desc>
-  </programme>
-  <programme start="20260921122203 +0200" stop="20260921131103 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Possibilità</title>
-    <desc lang="it">Brennan e la squadra Mutant X uniscono le forze con un mutante che viaggia nel tempo per disinnescare una bomba che minaccia conseguenze devastanti.</desc>
-  </programme>
-  <programme start="20260921131103 +0200" stop="20260921140003 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La teoria della cospirazione</title>
-    <desc lang="it">Mentre Brennan e Shalimar indagano su un misterioso incidente aereo, Lexa contempla il suo futuro con la squadra Mutant X.</desc>
-  </programme>
-  <programme start="20260921140003 +0200" stop="20260921144903 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'arte dell'attrazione</title>
-    <desc lang="it">Mentre la squadra di Mutant X combatte per recuperare una formula nascosta in una collezione di opere d'arte, Shalimar riceve informazioni vitali da una fonte misteriosa.</desc>
   </programme>
   <programme start="20260921144903 +0200" stop="20260921153803 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Una vita normale</title>
@@ -288,15 +244,79 @@
     <title lang="it">Humans: Primo episodio</title>
     <desc lang="it">La famiglia Hawkin cerca di rimettersi in sesto, Niska si ritrova di fronte a una decisione fatale mentre si trova in fuga a Berlino.</desc>
   </programme>
-  <programme start="20260922060503 +0200" stop="20260922120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260922060503 +0200" stop="20260922065803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Secondo episodio</title>
+    <desc lang="it">Karen e Pete scoprono dell'esistenza di un Synth speciale che stanno vendendo sul mercato nero.</desc>
+  </programme>
+  <programme start="20260922065803 +0200" stop="20260922075103 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Terzo episodio</title>
+    <desc lang="it">Athen arriva in Gran Bretagna per incontrare Hobb mentre comincia il controllo della coscienza di Niska per fare una diagnosi.</desc>
+  </programme>
+  <programme start="20260922075103 +0200" stop="20260922084503 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Quarto episodio</title>
+    <desc lang="it">Mia e Ed si avvicinano sempre di più ma la loro relazione viene minacciata dalla scoperta di un segreto.</desc>
+  </programme>
+  <programme start="20260922084503 +0200" stop="20260922093803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Quinto episodio</title>
+    <desc lang="it">Leo sta tenendo d'occhio il killer che ha sparato a Ten. Hester promette di usare dei metodi pacifici per affrontare il cecchino, ma Leo non sa se fidarsi.</desc>
+  </programme>
+  <programme start="20260922093803 +0200" stop="20260922103103 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Sesto episodio</title>
+    <desc lang="it">Athena sfida Milo su una questione di etica e rimane scioccata quando scopre la vera natura delle sue ambizioni.</desc>
+  </programme>
+  <programme start="20260922103103 +0200" stop="20260922112403 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Settimo episodio</title>
+    <desc lang="it">Laura chiede l'aiuto di Niska mentre Mia e Hester si preparano per un piano d'attacco che però non va come previsto.</desc>
+  </programme>
+  <programme start="20260922112403 +0200" stop="20260922121803 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Ottavo episodio</title>
+    <desc lang="it">Dopo gli eventi accaduti, Hester è in cerca di vendetta mentre Karen decide che lei e Sam non hanno un futuro insieme.</desc>
+  </programme>
+  <programme start="20260922121803 +0200" stop="20260922125026 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">A 24 ore dall'arrivo su Marte, l'equipaggio della missione europea Ulysse scopre che una missione americana concorrente è già sul posto. Ma non dà più segni di vita, tranne un inquietante messaggio video.</desc>
+  </programme>
+  <programme start="20260922125026 +0200" stop="20260922131512 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Dopo il guasto del computer di bordo, Yann dubita di poter riparare la nave. Gramat, diventato comandante, parte con Jeanne ed Eva per cercare pezzi di ricambio nel sito della missione Zillion, dove scoprono un sopravvissuto.</desc>
+  </programme>
+  <programme start="20260922131512 +0200" stop="20260922133822 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">I membri di Ulysse sono scioccati dall'identità del sopravvissuto, che scompare misteriosamente nella notte. Nonostante l'opposizione di parte dell'equipaggio, Gramat decide di mettersi sulle sue tracce.</desc>
+  </programme>
+  <programme start="20260922133822 +0200" stop="20260922140501 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">L'arrivo di una seconda missione americana su Marte ridà speranza all'equipaggio di Ulysse. Tuttavia, la visita di due militari di Zillion 2 smorza il loro entusiasmo. Yann vuole rivelare la presenza di Komarov, ma Jeanne si oppone.</desc>
+  </programme>
+  <programme start="20260922140501 +0200" stop="20260922143602 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne, turbata dal suo tentativo di ipnosi su Komarov, inizia a recuperare ricordi. Gemma Williams di Zillion 2 arriva per rassicurare l'equipaggio di Ulysse, mentre Gramat e Yann scoprono che Meyer nascondeva informazioni su Marte.</desc>
+  </programme>
+  <programme start="20260922143602 +0200" stop="20260922150114 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne parte per l'altopiano di Thaumasia, e Gramat, accompagnato da Gemma, va a cercarla. I militari di Zillion vogliono catturare Komarov, ma Alessandra si oppone. Yann si ritrova solo contro tutti a bordo della nave.</desc>
+  </programme>
+  <programme start="20260922150114 +0200" stop="20260922152854 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Intrappolata in una fenditura marziana, Jeanne è invasa dai ricordi di suo padre. Nel frattempo, nella Mosca degli anni '60, Vladimir Komarov scopre che la missione Soyuz è troppo rischiosa per un cosmonauta.</desc>
+  </programme>
+  <programme start="20260922152854 +0200" stop="20260922155302 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne, Simon e Gemma esplorano la montagna scolpita e scoprono sotterranei e tracce di una vita passata. Nel frattempo, l'equipaggio è minacciato da Doisneau e Wayne. All'improvviso, Irène si risveglia.</desc>
+  </programme>
+  <programme start="20260922155302 +0200" stop="20260922161631 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne e Simon scoprono Komarov sul misterioso ghiacciaio. Il russo rivela loro qual è la sua missione. Sulla nave, Wayne è ormai solo contro l'equipaggio di Ulysse. Alessandra cerca di convincerlo a risparmiare le loro vite.</desc>
+  </programme>
+  <programme start="20260922161631 +0200" stop="20260922230000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260922120000 +0200" stop="20260923000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260922230000 +0200" stop="20260923110000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260923000000 +0200" stop="20260923060000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260923110000 +0200" stop="20260923170000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
