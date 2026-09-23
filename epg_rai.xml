@@ -437,7 +437,7 @@
   </programme>
   <programme start="20260923140000 +0200" stop="20260923152500 +0200" channel="Rai2.it">
     <title lang="it">Ore 14 - Puntata del 23/09/2026</title>
-    <desc lang="it">Un faro acceso sui principali avvenimenti del giorno di cronaca e attualità, raccontati con collegamenti in diretta dai luoghi dove i fatti sono avvenuti e commentati da autorevoli opinionisti.</desc>
+    <desc lang="it">I casi della puntata: fermato il 14enne che aveva organizzato via Telegram l'aggressione alla professoressa di italiano a Lamezia Terme; negati i domiciliari a Luca Spada, il "killer delle ambulanze" a breve a processo; il giallo sulla morte di Dafne Rebaudo e infine gli ultimi sviluppi sulla morte della piccola Beatrice uccisa a Bordighera. </desc>
   </programme>
   <programme start="20260923152500 +0200" stop="20260923170000 +0200" channel="Rai2.it">
     <title lang="it">BellaMa' - Puntata del 23/09/2026</title>
@@ -869,11 +869,11 @@
   </programme>
   <programme start="20260923201000 +0200" stop="20260923204000 +0200" channel="Rai3.it">
     <title lang="it">Il Provinciale - L'isola dell'energia - 23/09/2026</title>
-    <desc lang="it">Federico Quaranta ci racconta la Sardegna come terra di energia naturale e interiore, tra storia e modernità.  Sin dall’alba dell’umanità, i popoli sardi hanno celebrato l’energia emanata da questa terra legandola alle loro pratiche religiose, come avviene nel santuario di Romanzesu, nei dintorni di Bitti. Un tema che riguarda la storia, ma anche il futuro, con la diffusione di energie rinnovabili e parchi eolici. Ospiti della puntata, tra gli altri, lo scrittore Flavio Soriga, i Tenores de Bitti, e il regista Antoni Conzu.</desc>
+    <desc lang="it">Federico Quaranta ci racconta la Sardegna come terra di energia naturale e interiore, tra storia e modernità.  Sin dall'alba dell'umanità, i popoli sardi hanno celebrato l'energia emanata da questa terra legandola alle loro pratiche religiose, come avviene nel santuario di Romanzesu, nei dintorni di Bitti. Un tema che riguarda la storia, ma anche il futuro, con la diffusione di energie rinnovabili e parchi eolici. Ospiti della puntata, tra gli altri, lo scrittore Flavio Soriga, i Tenores de Bitti, e il regista Antoni Conzu.</desc>
   </programme>
   <programme start="20260923204000 +0200" stop="20260923205500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 23/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Due alti esponenti della destra, il ministro degli Esteri Tajani, leader di Forza Italia, il generale Roberto Vannacci, si sono confrontati sulla lunghezza delle gonne delle donne. Giorgia Meloni non è intervenuta. In che anno siamo? Marco Damilano  lo ha chiesto a Anna Foglietta, nelle sale con il suo primo film da regista, "Una storia".</desc>
   </programme>
   <programme start="20260923205500 +0200" stop="20260923211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 23/09/2026 EP7033</title>
@@ -3328,12 +3328,9 @@
     <title lang="it">Tiro a Volo: Campionati Italiani 2026 - Finali Fossa Olimpica</title>
     <desc lang="it">Campionati Italiani - Finali Fossa Olimpica</desc>
   </programme>
-  <programme start="20260923134500 +0200" stop="20260923143000 +0200" channel="RaiSport.it">
+  <programme start="20260923134500 +0200" stop="20260923145000 +0200" channel="RaiSport.it">
     <title lang="it">Diretta Azzurra del 23/09/2026</title>
     <desc lang="it">La diretta di Rai Sport per seguire da vicino gli atleti azzurri prima e dopo la partita in programma.</desc>
-  </programme>
-  <programme start="20260923143000 +0200" stop="20260923145000 +0200" channel="RaiSport.it">
-    <title lang="it">Memory</title>
   </programme>
   <programme start="20260923145000 +0200" stop="20260923170000 +0200" channel="RaiSport.it">
     <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Semifinale: Italia - Spagna</title>
@@ -3372,20 +3369,20 @@
     <desc lang="it">Campionati Italiani - Finali Fossa Olimpica</desc>
   </programme>
   <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Quarto di Finale 3</title>
-    <desc lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Quarto di Finale 3</desc>
+    <title lang="it">Europei di Pallavolo maschile 2026 - Quarti di Finale: Belgio - Slovenia</title>
+    <desc lang="it">Nei quarti di finale degli Europei maschili di pallavolo 2026, Belgio e Slovenia si affrontano in una sfida a eliminazione diretta che vale l'accesso alle semifinali.</desc>
   </programme>
   <programme start="20260924080000 +0200" stop="20260924100000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 2a Semifinale</title>
-    <desc lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 2a Semifinale</desc>
+    <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Semifinale: Corea del Nord - Colombia</title>
+    <desc lang="it">Nella semifinale dei Mondiali femminili Under 20 2026, Corea del Nord e Colombia si sfidano per conquistare un posto nella finalissima per il titolo iridato.</desc>
   </programme>
   <programme start="20260924100000 +0200" stop="20260924120000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Quarto di Finale Italia</title>
-    <desc lang="it">Pallavolo Maschile: Camp. Europei Italia 2026 Quarto di Finale Italia</desc>
+    <title lang="it">Europei di Pallavolo maschile 2026 - Quarti di Finale: Italia - Finlandia</title>
+    <desc lang="it">Nei quarti di finale degli Europei maschili di pallavolo 2026, l'Italia affronta la Finlandia in una sfida a eliminazione diretta che vale l'accesso alle semifinali.</desc>
   </programme>
   <programme start="20260924120000 +0200" stop="20260924140000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 1a semifinale</title>
-    <desc lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 1a semifinale</desc>
+    <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Semifinale: Italia - Spagna</title>
+    <desc lang="it">Nella semifinale dei Mondiali femminili Under 20 2026, l'Italia affronta la Spagna in una sfida decisiva che vale l'accesso alla finalissima per il titolo iridato.</desc>
   </programme>
   <programme start="20260924140000 +0200" stop="20260924165500 +0200" channel="RaiSport.it">
     <title lang="it">Canoa. Europei Canoa Slalom e Kayak Cross Ivrea: Team Event</title>
