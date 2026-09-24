@@ -12,33 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20260924000000 +0200" stop="20260924033805 +0200" channel="pluto_film_tv">
+  <programme start="20260924090000 +0200" stop="20260924135718 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260924033805 +0200" stop="20260924051015 +0200" channel="pluto_film_tv">
-    <title lang="it">Backtrack</title>
-    <desc lang="it">È da meno di un anno che la figlia di Peter, uno psicanalista, è morta, e lui nutre un profondo senso di colpa. Ritornato a lavoro, gli viene assegnata una nuova paziente nei confronti della quale l’uomo, a seguito del proprio passato, nutre forti dubbi.</desc>
-  </programme>
-  <programme start="20260924051015 +0200" stop="20260924071915 +0200" channel="pluto_film_tv">
-    <title lang="it">Interstate 60</title>
-    <desc lang="it">Dal creatore di Ritorno al Futuro. Neil è un pittore ostacolato dal padre che vorrebbe vederlo laureato in legge. La situazione cambia all'improvviso quando incontra One Wish Grant (premio Oscar Gary Oldman), uomo in grado di esaudire ogni desiderio.</desc>
-  </programme>
-  <programme start="20260924071915 +0200" stop="20260924090732 +0200" channel="pluto_film_tv">
-    <title lang="it">Bezos</title>
-    <desc lang="it">La storia vera di Jeff Bezos, un imprenditore umile e impacciato che ha deciso di creare Amazon, la più grande azienda di e-commerce del mondo, e di diventare l'uomo più ricco del mondo.</desc>
-  </programme>
-  <programme start="20260924090732 +0200" stop="20260924104255 +0200" channel="pluto_film_tv">
-    <title lang="it">Indiavolato</title>
-    <desc lang="it">Elliot Richards è un consulente tecnico innamorato della sua collega Alison, che non sa neanche che lui esiste. Tutto cambia quando Elliot incontra il diavolo.</desc>
-  </programme>
-  <programme start="20260924104255 +0200" stop="20260924122155 +0200" channel="pluto_film_tv">
-    <title lang="it">Fiori per Algernon</title>
-    <desc lang="it">Charlie Gordon è affetto da disabilità mentale e tutto ciò che desidera nella vita è essere un genio.</desc>
-  </programme>
-  <programme start="20260924122155 +0200" stop="20260924135718 +0200" channel="pluto_film_tv">
-    <title lang="it">Indiavolato</title>
-    <desc lang="it">Elliot Richards è un consulente tecnico innamorato della sua collega Alison, che non sa neanche che lui esiste. Tutto cambia quando Elliot incontra il diavolo.</desc>
   </programme>
   <programme start="20260924135718 +0200" stop="20260924155922 +0200" channel="pluto_film_tv">
     <title lang="it">On My Way</title>
@@ -76,45 +52,37 @@
     <title lang="it">Good - L'indifferenza del bene</title>
     <desc lang="it">John Halder (Viggo Mortensen) è un docente di letteratura tedesco i cui studi saranno utilizzati come propaganda al regime nazionalsocialista, portando così un uomo tranquillo a tradire il buono della sua vita.</desc>
   </programme>
-  <programme start="20260925065824 +0200" stop="20260925120000 +0200" channel="pluto_film_tv">
+  <programme start="20260925065824 +0200" stop="20260925092624 +0200" channel="pluto_film_tv">
+    <title lang="it">Cobb</title>
+    <desc lang="it">Un giornalista che ha bisogno di una spinta alla carriera accetta di scrivere una biografia di un tirannico eroe sportivo morente. La sgradevole reputazione di Cobb si rivela vera, ma il giornalista scopre anche il lato umano dei giocatori di baseball.</desc>
+  </programme>
+  <programme start="20260925092624 +0200" stop="20260925110206 +0200" channel="pluto_film_tv">
+    <title lang="it">Bancopaz</title>
+    <desc lang="it">Alla Desert Savings Bank tutti sognano il colpo perfetto, ma nessuno sa che anche gli altri lo stanno pianificando. Sheila, Stuart e Jason si ritrovano nella stessa notte a svaligiare la banca, scatenando un'improbabile e caotica resa dei conti.</desc>
+  </programme>
+  <programme start="20260925110206 +0200" stop="20260925124706 +0200" channel="pluto_film_tv">
+    <title lang="it">Tutta colpa di Sara</title>
+    <desc lang="it">Dopo essere stata notificata della richiesta di divorzio, una donna convince un ufficiale giudiziario ad aiutarla a riottenere ciò che le è dovuto.</desc>
+  </programme>
+  <programme start="20260925124706 +0200" stop="20260925151506 +0200" channel="pluto_film_tv">
+    <title lang="it">Cobb</title>
+    <desc lang="it">Un giornalista che ha bisogno di una spinta alla carriera accetta di scrivere una biografia di un tirannico eroe sportivo morente. La sgradevole reputazione di Cobb si rivela vera, ma il giornalista scopre anche il lato umano dei giocatori di baseball.</desc>
+  </programme>
+  <programme start="20260925151506 +0200" stop="20260925210000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260925120000 +0200" stop="20260926000000 +0200" channel="pluto_film_tv">
+  <programme start="20260925210000 +0200" stop="20260926090000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260926000000 +0200" stop="20260926060000 +0200" channel="pluto_film_tv">
+  <programme start="20260926090000 +0200" stop="20260926150000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260924000000 +0200" stop="20260924035004 +0200" channel="pluto_film_azione">
+  <programme start="20260924090000 +0200" stop="20260924133732 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260924035004 +0200" stop="20260924052530 +0200" channel="pluto_film_azione">
-    <title lang="it">April Rain - Pioggia di proiettili</title>
-    <desc lang="it">In questo film d'azione, un eclettico gruppo di terroristi pianifica di attaccare gli Stati Uniti dall'interno. Spetterà ad un'unità speciale sventare l'attentato.</desc>
-  </programme>
-  <programme start="20260924052530 +0200" stop="20260924065352 +0200" channel="pluto_film_azione">
-    <title lang="it">Trigger Point</title>
-    <desc lang="it">Shaw, ex membro dei servizi segreti d'élite, si trova in una tranquilla cittadina americana. Viene rintracciato da un vecchio capo che lo costringe a tornare in azione dopo che i suoi ex colleghi sono stati uccisi da un misterioso assassino.</desc>
-  </programme>
-  <programme start="20260924065352 +0200" stop="20260924083558 +0200" channel="pluto_film_azione">
-    <title lang="it">Borning</title>
-    <desc lang="it">Un appassionato di auto sta preparando la sua Mustang gialla per competere in una gara illegale attraverso il paese. Tuttavia, sua figlia adolescente arriva inaspettatamente per trascorrere le vacanze con lui.</desc>
-  </programme>
-  <programme start="20260924083558 +0200" stop="20260924101137 +0200" channel="pluto_film_azione">
-    <title lang="it">Destruction: Los Angeles</title>
-    <desc lang="it">Un'esplosione fatale e un improvviso terremoto sconvolgono Los Angeles, e il giornalista John Benson coglie l'occasione per coprire le ultime notizie sull'aumento dell'attività sismica.</desc>
-  </programme>
-  <programme start="20260924101137 +0200" stop="20260924114732 +0200" channel="pluto_film_azione">
-    <title lang="it">Duello tra i Ghiacci</title>
-    <desc lang="it">Durante la corsa all'oro dell'Alaska del 1800, un cacciatore inuit nativo cerca di salvare la sua casa ancestrale da uno spietato barone della terra.</desc>
-  </programme>
-  <programme start="20260924114732 +0200" stop="20260924133732 +0200" channel="pluto_film_azione">
-    <title lang="it">Striscia Vincente</title>
-    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
   </programme>
   <programme start="20260924133732 +0200" stop="20260924152532 +0200" channel="pluto_film_azione">
     <title lang="it">A prova di idiota</title>
@@ -152,61 +120,41 @@
     <title lang="it">Blue Steel: Bersaglio Mortale</title>
     <desc lang="it">Una recluta nelle forze di polizia si ritrova a giocare al gatto e al topo con uno psicopatico armato di pistola che diventa ossessionato da lei.</desc>
   </programme>
-  <programme start="20260925061733 +0200" stop="20260925120000 +0200" channel="pluto_film_azione">
+  <programme start="20260925061733 +0200" stop="20260925075328 +0200" channel="pluto_film_azione">
+    <title lang="it">Duello tra i Ghiacci</title>
+    <desc lang="it">Durante la corsa all'oro dell'Alaska del 1800, un cacciatore inuit nativo cerca di salvare la sua casa ancestrale da uno spietato barone della terra.</desc>
+  </programme>
+  <programme start="20260925075328 +0200" stop="20260925092601 +0200" channel="pluto_film_azione">
+    <title lang="it">Trading Paint - Oltre La Leggenda</title>
+    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
+  </programme>
+  <programme start="20260925092601 +0200" stop="20260925110740 +0200" channel="pluto_film_azione">
+    <title lang="it">Fatal Instinct</title>
+    <desc lang="it">Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
+  </programme>
+  <programme start="20260925110740 +0200" stop="20260925132205 +0200" channel="pluto_film_azione">
+    <title lang="it">In the name of the King</title>
+    <desc lang="it">La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.</desc>
+  </programme>
+  <programme start="20260925132205 +0200" stop="20260925152805 +0200" channel="pluto_film_azione">
+    <title lang="it">The Knight Of Shadows</title>
+    <desc lang="it">Pu Songling è un leggendario cacciatore di demoni a cui viene chiesto di indagare sulle sparizioni di alcune ragazze del villaggio. Quando scopre che i crimini sono stati commessi da delle entità malvagie, Pu Songling combatte contro i demoni.</desc>
+  </programme>
+  <programme start="20260925152805 +0200" stop="20260925210000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260925120000 +0200" stop="20260926000000 +0200" channel="pluto_film_azione">
+  <programme start="20260925210000 +0200" stop="20260926090000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260926000000 +0200" stop="20260926060000 +0200" channel="pluto_film_azione">
+  <programme start="20260926090000 +0200" stop="20260926150000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260924000000 +0200" stop="20260924035111 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260924090000 +0200" stop="20260924134550 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20260924035111 +0200" stop="20260924053011 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Lost Room: La Chiave e l'Orologio</title>
-    <desc lang="it">Il detective Joe Miller indaga su un caso riguardante due uomini trovati completamente bruciati in un banco dei pegni. Apparentemente, c'entrano una strana chiave e un affare andato male.</desc>
-  </programme>
-  <programme start="20260924053011 +0200" stop="20260924070911 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Lost Room: Il Pettine e la Scatola</title>
-    <desc lang="it">Joe Miller è in fuga dopo essere stato incolpato per l'omicidio di un collega. Si allea con Jennifer Bloom, membro della Legione, per trovare l'Oggetto che lo aiuterà a ritrovare la figlia.</desc>
-  </programme>
-  <programme start="20260924070911 +0200" stop="20260924075854 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: I Cinque</title>
-    <desc lang="it">Durante una riunione segreta a Roma, Magnus incontra Nikola Tesla, che le confida che la Cabala è venuta a vendicarsi. Magnus si accorge che la lealtà di Tesla potrebbe non essere così salda come quando facevano parte di un ordine chiamato I Cinque.</desc>
-  </programme>
-  <programme start="20260924075854 +0200" stop="20260924084837 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Edward</title>
-    <desc lang="it">Un artista con una grande capacità di disegnare immagini a memoria può essere la chiave per risolvere la morte sospetta di suo padre violento Ma ci vorrà il profilo forense di Will per determinare se i disegni del ragazzo sono ispirati alla realtà.</desc>
-  </programme>
-  <programme start="20260924084837 +0200" stop="20260924093820 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Requiem</title>
-    <desc lang="it">Magnus e Will indagano su un'angosciante richiesta d'aiuto nelle profondità del Triangolo delle Bermuda, dando origine a una battaglia mortale per salvare la vita di Magnus.</desc>
-  </programme>
-  <programme start="20260924093820 +0200" stop="20260924102820 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: I Guerrieri</title>
-    <desc lang="it">Indagando sulla scomparsa di un vecchio amico del college, Will si ritrova coinvolto in un fight club sotterraneo dove i combattenti sono anormali geneticamente modificati che combattono fino alla morte come gladiatori dei giorni nostri.</desc>
-  </programme>
-  <programme start="20260924102820 +0200" stop="20260924111806 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Mai Fidarsi</title>
-    <desc lang="it">Magnus e la squadra del Santuario tentano di catturare una creatura rara e mortale - il tutto sotto l'occhio vigile di una troupe di un TG locale.</desc>
-  </programme>
-  <programme start="20260924111806 +0200" stop="20260924120750 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Rivelazione Prima Parte</title>
-    <desc lang="it">Gli anormali in regioni remote sono sottoposti a un agente biologico aereo che li costringe a lanciare una violenta serie di omicidi. Riconoscendo il lavoro della Cabala, Magnus e Druitt riuniscono i Cinque per la prima volta in oltre un secolo.</desc>
-  </programme>
-  <programme start="20260924120750 +0200" stop="20260924125650 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: I legami che accecano</title>
-    <desc lang="it">Dopo aver risposto a una chiamata di soccorso, l'equipaggio raccoglie il fratello di Beka, ora un Wayista, e il suo amico.</desc>
-  </programme>
-  <programme start="20260924125650 +0200" stop="20260924134550 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Le sponde del Lete</title>
-    <desc lang="it">Grazie a un buco nero Dylan riesce a comunicare con la sua ex compagna, 300 anni fa.</desc>
   </programme>
   <programme start="20260924134550 +0200" stop="20260924143450 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Una rosa nelle ceneri</title>
@@ -284,15 +232,59 @@
     <title lang="it">Dresden Files: Il Dio dei morti</title>
     <desc lang="it">Dresden lavora al caso di un padre perseguitato dallo spirito della  figlia, e le circostanze dell'omicidio della ragazza mandano Harry in una direzione diversa che mette in pericolo Connie.</desc>
   </programme>
-  <programme start="20260925061750 +0200" stop="20260925120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260925061750 +0200" stop="20260925070750 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Dresden Files: Licantropia</title>
+    <desc lang="it">L'FBI prende in carico il caso di Murphy riguardante un serial killer che rimuove capelli e denti dalle sue vittime, ma forse c'è ben altro dietro.</desc>
+  </programme>
+  <programme start="20260925070750 +0200" stop="20260925075735 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Rivelazione Seconda Parte</title>
+    <desc lang="it">I Cinque, guidati da Magnus, tentano di trovare il labirinto segreto nella città decimata di Bhalasaam. Una volta trovato, devono completare una serie di</desc>
+  </programme>
+  <programme start="20260925075735 +0200" stop="20260925084718 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Sangue Della Stripe Prima Parte</title>
+    <desc lang="it">In una disperata ricerca per trovare sua figlia, Magnus ottiene dei file top secret che le danno indizi sul catastrofico piano della Cabala per la Rete dei Santuari...e sul ruolo devastante di Ashley in esso.</desc>
+  </programme>
+  <programme start="20260925084718 +0200" stop="20260925093718 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Sangue Della Stripe Seconda Parte</title>
+    <desc lang="it">La dottoressa Helen Magnus va testa a testa con la Cabala e deve fare la scelta definitiva...salvare sua figlia, o rischiare la sopravvivenza dell'intera Rete dei Santuari.</desc>
+  </programme>
+  <programme start="20260925093718 +0200" stop="20260925102702 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'elogio Funebre</title>
+    <desc lang="it">La dottoressa Helen Magnus lotta per trovare una chiusura dopo la distruzione di molti Santuari in tutto il mondo, mentre la squadra si prepara ad elaborare e ospitare centinaia di anormali espropriati che cercano rifugio nel Santuario di Magnus.</desc>
+  </programme>
+  <programme start="20260925102702 +0200" stop="20260925111656 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Supereroe</title>
+    <desc lang="it">La dottoressa Magnus indaga su un improbabile "supereroe" che è intento a contrastare il crimine in città. Ma le sue buone azioni stanno interferendo con il lavoro del Santuario e minacciando involontariamente le vite di persone innocenti ovunque.</desc>
+  </programme>
+  <programme start="20260925111656 +0200" stop="20260925120656 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Notte Della Terra</title>
+    <desc lang="it">La dottoressa Helen Magnus si sveglia per trovare il Santuario in rovina e l'intera città decimata, senza alcun ricordo di come sia avvenuta la devastazione.</desc>
+  </programme>
+  <programme start="20260925120656 +0200" stop="20260925125556 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Musica di un tamburo distante</title>
+    <desc lang="it">Tyr fa un atterraggio di fortuna  con l'Eureka Maru su un pianeta nietzscheano e perde la memoria. Deve ricordarsi di quello che stava facendo prima che i Nietzscheani scoprano lui e la sua cassa di merci rubate.</desc>
+  </programme>
+  <programme start="20260925125556 +0200" stop="20260925134456 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Harper 2.0</title>
+    <desc lang="it">Dopo aver ricevuto il dono della conoscenza da un Perseide morente, Harper scopre che il Perseide era ricercato da un cacciatore di taglie, il quale ora ha spostato la sua attenzione su Harper.</desc>
+  </programme>
+  <programme start="20260925134456 +0200" stop="20260925143356 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Prospettiva forzata</title>
+    <desc lang="it">Dylan viene arrestato per aver assassinato un dittatore 300 anni fa.</desc>
+  </programme>
+  <programme start="20260925143356 +0200" stop="20260925152256 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La somma delle parti</title>
+    <desc lang="it">L’Andromeda viene affondata da un drone del Consenso delle Parti, una mitica società meccanica. Nonostante si dimostri inizialmente amichevole, il drone tenta di costringere la nave a unirsi al Consenso.</desc>
+  </programme>
+  <programme start="20260925152256 +0200" stop="20260925210000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260925120000 +0200" stop="20260926000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260925210000 +0200" stop="20260926090000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20260926000000 +0200" stop="20260926060000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20260926090000 +0200" stop="20260926150000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
