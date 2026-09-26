@@ -124,15 +124,15 @@
     <title lang="it">In Punta di Matita - Puntata del 26/09/2026</title>
     <desc lang="it">Il prof. Rodolfo Papa conduce "In Punta di Matita", un autentico "matita express" che con la sanguigna disegna dal vivo Milano, Firenze e Napoli, intrecciando capolavori noti, il Cenacolo vinciano, il Battistero fiorentino, il Pio Monte caravaggesco, a tesori meno noti come Santa Maria presso San Satiro o il Beato Angelico a San Marco.</desc>
   </programme>
-  <programme start="20260926165000 +0200" stop="20260926165500 +0200" channel="Rai1.it">
+  <programme start="20260926165000 +0200" stop="20260926165300 +0200" channel="Rai1.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
-  <programme start="20260926165500 +0200" stop="20260926170500 +0200" channel="Rai1.it">
-    <title lang="it">TG1</title>
-  </programme>
-  <programme start="20260926170500 +0200" stop="20260926171000 +0200" channel="Rai1.it">
+  <programme start="20260926165300 +0200" stop="20260926165500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20260926165500 +0200" stop="20260926171000 +0200" channel="Rai1.it">
+    <title lang="it">TG1</title>
   </programme>
   <programme start="20260926171000 +0200" stop="20260926175500 +0200" channel="Rai1.it">
     <title lang="it">Navigando lungocosta - Puntata del 26/09/2026</title>
@@ -140,7 +140,7 @@
   </programme>
   <programme start="20260926175500 +0200" stop="20260926184000 +0200" channel="Rai1.it">
     <title lang="it">Musica mia - Franco Califano. Roma addosso! - 26/09/2026</title>
-    <desc lang="it">Lorella Boccia e Marco Conidi attraversano l'Italia da Nord a Sud per raccontare attraverso la musica, storie e tradizioni che si tramandano nel tempo e nel suono di ogni luogo. </desc>
+    <desc lang="it">Nell'ultima puntata il viaggio di Marco Conidi e Lorella Boccia, si concluderà nella Roma più vera e popolare, quella raccontata da Franco Califano nelle sue canzoni. I conduttori attraverseranno quartieri, ricordi e storie di una città che, nelle parole del Califfo, diventa carattere, destino e linguaggio. Tra il Lungotevere, il Gazometro, Via Margutta e le borgate romane, ripercorreranno la vita artistica e umana di Califano attraverso i luoghi della sua Roma e le testimonianze di chi lo ha conosciuto davvero. Con Edoardo Vianello riaffiorerà la stagione irripetibile della Roma musicale degli anni Sessanta, laboratorio creativo dove autori, interpreti e produttori si incontravano liberamente. L'attore Maurizio Mattioli svelerà invece il lato più fragile e autentico dell'amico Califano, tra amicizia, palco e vita vissuta. Con Mita Medici torneranno le atmosfere del Piper e della Dolce Vita romana, mentre Federica Gentile racconterà il rapporto tra Califano e le radio libere. Alberto Laurenti ne svelerà invece il rigore nascosto dietro una scrittura apparentemente istintiva, fatta di metrica, ritmo e grande attenzione alla parola. La nuova generazione sarà rappresentata dalla cantautrice Ilaria Argiolas, che raccoglie l'eredità della canzone romana contemporanea tra romanesco, periferie e nuove sensibilità. A completare il racconto le incursioni poetiche di Ambrogio Sparagna ed Edoardo Sylos Labini. Una puntata che attraverserà musica, poesia e memoria per interrogarsi su una domanda ancora attuale: una voce libera e irregolare come quella di Franco Califano riuscirebbe ancora oggi a trovare spazio?</desc>
   </programme>
   <programme start="20260926184000 +0200" stop="20260926200000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena weekend - Puntata del 26/09/2026</title>
@@ -153,33 +153,33 @@
     <title lang="it">Affari tuoi - Puntata del 26/09/2026</title>
     <desc lang="it">Stefano De Martino conduce "Affari tuoi": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il "Dottore" per trovare il pacco contenente 300.000 euro. </desc>
   </programme>
-  <programme start="20260926213000 +0200" stop="20260926235500 +0200" channel="Rai1.it">
-    <title lang="it">Bello di mamma…Rai!</title>
-    <desc lang="it">La perdita di un genitore crea smarrimento nel cuore e nella mente di un figlio: Brignano il dolore lo metabolizza sul palcoscenico, tornando con la mente agli insegnamenti dei suoi, sapendo evidenziarne gli anacronismi e gli aspetti più divertenti.</desc>
+  <programme start="20260926213000 +0200" stop="20260927000500 +0200" channel="Rai1.it">
+    <title lang="it">Bello di mamma...Rai!</title>
+    <desc lang="it">INTRATTENIMENTO - La perdita di un genitore crea smarrimento nel cuore e nella mente di un figlio: Brignano il dolore lo metabolizza sul palcoscenico, tornando con la mente agli insegnamenti dei suoi, sapendo evidenziarne gl - i anacronismi e gli aspetti più divertenti. - Con Enrico Brignano Regia di Cristiano D'Alisera</desc>
   </programme>
-  <programme start="20260926235500 +0200" stop="20260927000000 +0200" channel="Rai1.it">
+  <programme start="20260927000500 +0200" stop="20260927001000 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
   </programme>
-  <programme start="20260927000000 +0200" stop="20260927012500 +0200" channel="Rai1.it">
+  <programme start="20260927001000 +0200" stop="20260927015000 +0200" channel="Rai1.it">
     <title lang="it">Tutte lo vogliono</title>
     <desc lang="it">Chiara è una food designer, Orazio uno sciampista per cani. Sebbene Chiara abbia ritrovato dopo molti anni il suo primo amore adolescenziale, il bel Raffaello, l'incontro con Orazio probabilmente le cambierà la vita.</desc>
   </programme>
-  <programme start="20260927012500 +0200" stop="20260927013000 +0200" channel="Rai1.it">
+  <programme start="20260927015000 +0200" stop="20260927015500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260927013000 +0200" stop="20260927030000 +0200" channel="Rai1.it">
+  <programme start="20260927015500 +0200" stop="20260927032500 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni - Puntata del 26/09/2026</title>
     <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
   </programme>
-  <programme start="20260927030000 +0200" stop="20260927041500 +0200" channel="Rai1.it">
+  <programme start="20260927032500 +0200" stop="20260927044000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena weekend - Puntata del 26/09/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
-  <programme start="20260927041500 +0200" stop="20260927051500 +0200" channel="Rai1.it">
+  <programme start="20260927044000 +0200" stop="20260927052000 +0200" channel="Rai1.it">
     <title lang="it">Techetechetè notte - Le repliche delle passate edizioni - 26/09/2026</title>
     <desc lang="it">Il grande spettacolo televisivo e la musica, gli sketch più amati, i protagonisti e i dimenticati, raccontano la Tv e le trasformazioni nell'identità del nostro Paese. Le repliche delle passate edizioni. </desc>
   </programme>
-  <programme start="20260927051500 +0200" stop="20260927060000 +0200" channel="Rai1.it">
+  <programme start="20260927052000 +0200" stop="20260927060000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 26/09/2026</title>
     <desc lang="it">Lorena Bianchetti incontra Attilio Fontana, che racconta il legame con San Pio e la nascita del musical dedicato al Santo di Pietrelcina, tra musica, fede e vicende personali. A seguire, Le Ragioni della Speranza con don Antonio Loffredo parte dalle Catacombe di San Gennaro per raccontare il riscatto del Rione Sanità attraverso i giovani, la cultura e l'inclusione.</desc>
   </programme>
@@ -255,6 +255,10 @@
     <desc lang="it">Stefano De Martino conduce "Affari tuoi": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il "Dottore" per trovare il pacco contenente 300.000 euro.</desc>
   </programme>
   <programme start="20260927213000 +0200" stop="20260927232500 +0200" channel="Rai1.it">
+    <title lang="it">Lo sposo indeciso (che non poteva o fors</title>
+    <desc lang="it">Lo sposo indeciso (che non poteva o forse non voleva più uscire dal bagno) - FILM - Il professor Gianni Buridano, filosofo noto in tutto il mondo, si innamora di Samantha, una ragazza che lavora come donna -  delle pulizie nella stessa università dove lui insegna. Nonostante le differenze culturali e di età, tra i due nasce l'amore e decidono di sposarsi in chiesa, seppure Gianni sia anticlericale. Qualcuno, però, cercherà di impedire il matrimonio ricorrendo addirittura al potere dell'occulto - (2023) Commedia Regia di Giorgio Amato Con Gianmarco Tognazzi, Ilenia Pastorelli, Stefano Pesce, Francesco Pannofino, Ornella Muti, Claudia Gerini, Giorgio Colangeli -  PROGRAMMA ADATTO AD UNA VISIONE CONGIUNTA CON UN ADULTO</desc>
+  </programme>
+  <programme start="20260927213000 +0200" stop="20260927232500 +0200" channel="Rai1.it">
     <title lang="it">Lo sposo indeciso </title>
     <desc lang="it">Il professor Gianni Buridano, filosofo noto in tutto il mondo, si innamora di Samantha, una ragazza che lavora come donna delle pulizie nella stessa università dove lui insegna. Nonostante le differenze cultura  li e di età, tra i due nasce l'amore e decidono di sposarsi in chiesa, anche se Gianni è anticlericale. Qualcuno, però, cercherà di impedire il matrimonio ricorrendo addirittura al potere dell'occulto. </desc>
   </programme>
@@ -262,28 +266,25 @@
     <title lang="it">TG1 Sera</title>
   </programme>
   <programme start="20260927233000 +0200" stop="20260928004000 +0200" channel="Rai1.it">
-    <title lang="it">Speciale Tg1 - Francesco il mite ribelle - Puntata del 27/09/2026</title>
-    <desc lang="it">Settimanale del TG1. Direttore Gian Marco Chiocci.  </desc>
-  </programme>
-  <programme start="20260928000000 +0200" stop="20260928000500 +0200" channel="Rai1.it">
-    <title lang="it">TG1 Sera</title>
-  </programme>
-  <programme start="20260928000500 +0200" stop="20260928011500 +0200" channel="Rai1.it">
     <title lang="it">Speciale Tg1</title>
     <desc lang="it">SPECIALE. - Settimanale del TG1 Direttore Gian Marco Chiocci</desc>
   </programme>
-  <programme start="20260928011500 +0200" stop="20260928012000 +0200" channel="Rai1.it">
+  <programme start="20260927233000 +0200" stop="20260928004000 +0200" channel="Rai1.it">
+    <title lang="it">Speciale Tg1 - Francesco il mite ribelle - Puntata del 27/09/2026</title>
+    <desc lang="it">Settimanale del TG1. Direttore Gian Marco Chiocci.  </desc>
+  </programme>
+  <programme start="20260928004000 +0200" stop="20260928004500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20260928012000 +0200" stop="20260928025000 +0200" channel="Rai1.it">
+  <programme start="20260928004500 +0200" stop="20260928021500 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni - Puntata del 27/09/2026</title>
     <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
   </programme>
-  <programme start="20260928025000 +0200" stop="20260928040500 +0200" channel="Rai1.it">
+  <programme start="20260928021500 +0200" stop="20260928033500 +0200" channel="Rai1.it">
     <title lang="it">Da noi...a ruota libera - Puntata del 27/09/2026</title>
     <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
   </programme>
-  <programme start="20260928040500 +0200" stop="20260928052500 +0200" channel="Rai1.it">
+  <programme start="20260928033500 +0200" stop="20260928052500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20260928052500 +0200" stop="20260928055500 +0200" channel="Rai1.it">
@@ -367,7 +368,7 @@
     <title lang="it">Cose nostre - Puntata del 28/09/2026</title>
     <desc lang="it">Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia. </desc>
   </programme>
-  <programme start="20260928235500 +0200" stop="20260929000000 +0200" channel="Rai1.it">
+  <programme start="20260928235500 +0200" stop="20260929000300 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
   </programme>
   <programme start="20260926001500 +0200" stop="20260926012100 +0200" channel="Rai2.it">
@@ -820,10 +821,10 @@
   <programme start="20260926190000 +0200" stop="20260926193000 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20260926193000 +0200" stop="20260926195100 +0200" channel="Rai3.it">
+  <programme start="20260926193000 +0200" stop="20260926195200 +0200" channel="Rai3.it">
     <title lang="it">TG Regione</title>
   </programme>
-  <programme start="20260926195100 +0200" stop="20260926200000 +0200" channel="Rai3.it">
+  <programme start="20260926195200 +0200" stop="20260926200000 +0200" channel="Rai3.it">
     <title lang="it">TG Regione Meteo</title>
   </programme>
   <programme start="20260926200000 +0200" stop="20260926201500 +0200" channel="Rai3.it">
@@ -849,27 +850,27 @@
   <programme start="20260927003000 +0200" stop="20260927003500 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20260927003500 +0200" stop="20260927021500 +0200" channel="Rai3.it">
+  <programme start="20260927003500 +0200" stop="20260927020000 +0200" channel="Rai3.it">
     <title lang="it">Non riattaccare</title>
     <desc lang="it">Roma, marzo 2020. In pieno lockdown per la pandemia, Irene combatte l'insonnia. Una telefonata improvvisa spezza il silenzio: è il suo ex Pietro, lasciato sei mesi prima, intenzionato a farla finita. Senza esitare, la donna sale in auto e si lancia nel buio di una notte spettrale, guidata dall'urgenza di salvare l'uomo e un amore mai svanito.</desc>
   </programme>
-  <programme start="20260927021500 +0200" stop="20260927022000 +0200" channel="Rai3.it">
+  <programme start="20260927020000 +0200" stop="20260927020500 +0200" channel="Rai3.it">
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20260927022000 +0200" stop="20260927023000 +0200" channel="Rai3.it">
+  <programme start="20260927020500 +0200" stop="20260927021000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta STATI PROGRESSIVI DI MAGNETISMO (3) di Lorenzo Esposito</desc>
   </programme>
-  <programme start="20260927023000 +0200" stop="20260927025000 +0200" channel="Rai3.it">
+  <programme start="20260927021000 +0200" stop="20260927023000 +0200" channel="Rai3.it">
     <title lang="it">Il Teatro</title>
     <desc lang="it">Keaton interpreta il direttore d'orchestra e ogni membro dell'orchestra, gli attori, i ballerini, i macchinisti, i menestrelli e ogni membro del pubblico, uomini e donne. Questa sequenza si rivela essere un sogno: Keaton viene risvegliato in una camera da letto che a sua volta si rivela essere un set su un palcoscenico.</desc>
   </programme>
-  <programme start="20260927025000 +0200" stop="20260927044500 +0200" channel="Rai3.it">
+  <programme start="20260927023000 +0200" stop="20260927043000 +0200" channel="Rai3.it">
     <title lang="it">Asako I &amp; II</title>
     <desc lang="it">Asako, timida studentessa di Osaka, incontra Baku di cui si innamora, ricambiata. Bello e imprevediile, Baku le promette eterno amore ma poi un giorno sparisce senza spiegazione, lasciando Asako senza respiro. Due anni più tardi a Tokyo, Asako incontra per caso  Ryohei, la cui somiglianza con Baku è impressionante. Il fantasma del passato bussa alla porta e mette Asako di fronte a una scelta.</desc>
   </programme>
-  <programme start="20260927044500 +0200" stop="20260927060000 +0200" channel="Rai3.it">
+  <programme start="20260927043000 +0200" stop="20260927060000 +0200" channel="Rai3.it">
     <title lang="it">Chess of the Wind</title>
     <desc lang="it">Iran, anni Venti. Alla morte della matriarca, gli eredi si contendono l'eredità. Il conflitto sanguinario tra la primogenita disabile Aghdas e Hadji Amoo, il vedovo della madre, precipita la casata nell'oblio.</desc>
   </programme>
@@ -964,27 +965,27 @@
   <programme start="20260928003000 +0200" stop="20260928003500 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20260928003500 +0200" stop="20260928021000 +0200" channel="Rai3.it">
+  <programme start="20260928003500 +0200" stop="20260928024500 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora - Puntata del 27/09/2026</title>
     <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. </desc>
   </programme>
-  <programme start="20260928021000 +0200" stop="20260928022000 +0200" channel="Rai3.it">
+  <programme start="20260928024500 +0200" stop="20260928025000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">"Fuori Orario", in occasione della XXV edizione del Festival I mille occhi (Trieste, 18-23 settembre 2026), ritorna su Mario Bava, cineasta amato ed esplorato dal programma molte volte nel corso degli anni, fin dalle ormai storiche notti del 1995... Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta FINESTRA SUL TERRORE. IL CUORE RIVELATORE DEL GOTICO ITALIANO: MARIO BAVA</desc>
   </programme>
-  <programme start="20260928022000 +0200" stop="20260928032000 +0200" channel="Rai3.it">
+  <programme start="20260928025000 +0200" stop="20260928035000 +0200" channel="Rai3.it">
     <title lang="it">I giochi del diavolo - La Venere d'Ille</title>
     <desc lang="it">Durante i preparativi per il matrimonio del figlio il signor De Perolade scopre una statua raffigurante Venere. Ritenendola di buon auspicio, ordina alla servitù di spostarla in giardino ma durante il trasporto la statua spezza la gamba di uno dei servi. Un famoso esperto d'arte noterà per primo l'incredibile somiglianza tra la statua e Claire, la promessa sposa. Da un racconto di Prosper Mérimée.</desc>
   </programme>
-  <programme start="20260928032000 +0200" stop="20260928044000 +0200" channel="Rai3.it">
+  <programme start="20260928035000 +0200" stop="20260928051000 +0200" channel="Rai3.it">
     <title lang="it">La strada per Fort Alamo</title>
     <desc lang="it">Due fuorilegge, reduci da un colpo in cui hanno indossato divise da ufficiali nordisti, devono fronteggiare un attacco di nativi.</desc>
   </programme>
-  <programme start="20260928044000 +0200" stop="20260928053200 +0200" channel="Rai3.it">
+  <programme start="20260928051000 +0200" stop="20260928053000 +0200" channel="Rai3.it">
     <title lang="it">Conversazioni su Mario Bava dal Festival I Mille Occhi</title>
     <desc lang="it">Materiali e interventi a conclusione della rassegna "Finestra sul terrore: il cuore rivelatore del gotico italiano: Mario Bava". (2026)</desc>
   </programme>
-  <programme start="20260928053200 +0200" stop="20260928060000 +0200" channel="Rai3.it">
+  <programme start="20260928053000 +0200" stop="20260928060000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">"Fuori Orario", in occasione della XXV edizione del Festival I mille occhi (Trieste, 18-23 settembre 2026), ritorna su Mario Bava, cineasta amato ed esplorato dal programma molte volte nel corso degli anni, fin dalle ormai storiche notti del 1995... Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta FINESTRA SUL TERRORE. IL CUORE RIVELATORE DEL GOTICO ITALIANO: MARIO BAVA</desc>
   </programme>
@@ -1624,39 +1625,39 @@
     <title lang="it">Passepartout - Fantasticherie</title>
     <desc lang="it">Storie di straordinaria follia sullo sfondo di un'epoca che andava lasciando gli estremismi estetici del manierismo per abbandonarsi alle rigide regole della controriforma. È la storia di un esilio di tanti artisti, che per continuare a lavorare in libertà senza i condizionamenti dell'arte di regime, cominciarono a cercare spazi lontani dalle proprie zone d'origine. Come Arcimboldo (1527-1593), artista milanese che all'insorgere dei venti di controriforma lascia la sua città, ormai guidata da una delle star del concilio tridentino, San Carlo Borromeo per essere accolto a Vienne dagli Asburgo.</desc>
   </programme>
-  <programme start="20260927125200 +0200" stop="20260927132600 +0200" channel="Rai5.it">
+  <programme start="20260927125200 +0200" stop="20260927132500 +0200" channel="Rai5.it">
     <title lang="it">Passepartout - Ansie reali e surreali</title>
     <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daverio, regia Mauro Raponi. Puntata del 30/12/07.</desc>
   </programme>
-  <programme start="20260927132600 +0200" stop="20260927141900 +0200" channel="Rai5.it">
+  <programme start="20260927132500 +0200" stop="20260927141800 +0200" channel="Rai5.it">
     <title lang="it">Visioni - Architettura rurale nella bassa Padana</title>
     <desc lang="it">Visioni ripropone l'architettura rurale nella zona così detta della "Bassa" quelle zone cioè in cui le caratteristiche principali sono date da case coloniche, cascine, o borghi rurali, con caratteristiche architettoniche distintive. L'approfondimento continua attraverso gli studi sulle costruzioni lungo il PO.</desc>
   </programme>
-  <programme start="20260927141900 +0200" stop="20260927151700 +0200" channel="Rai5.it">
+  <programme start="20260927141800 +0200" stop="20260927151600 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S7E9 - Levanzo, l'isola che non c'è </title>
     <desc lang="it">Selvaggia, solitaria e antica, Levanzo se ne sta quieta, come se fosse sospesa, sulle acque limpide e cristalline del Mediterraneo. Vincenzo Saccone ci porta all'interno della più romantica delle Egadi, un luogo intimo dove silenzio, natura e bellezza regnano incontrastati, regalandoci un'esperienza unica.</desc>
   </programme>
-  <programme start="20260927151700 +0200" stop="20260927161100 +0200" channel="Rai5.it">
+  <programme start="20260927151600 +0200" stop="20260927161000 +0200" channel="Rai5.it">
     <title lang="it">Wild Italy - S7E6</title>
     <desc lang="it">Cinghiali nelle strade delle metropoli, piccoli aironi che piovono dai pini nei giardini pubblici, gabbiani che attaccano gli uomini, milioni di storni che prendono possesso dei viali alberati si uniscono agli inquilini di sempre delle città, ratti, passeri e colombi.</desc>
   </programme>
-  <programme start="20260927161100 +0200" stop="20260927181200 +0200" channel="Rai5.it">
+  <programme start="20260927161000 +0200" stop="20260927181100 +0200" channel="Rai5.it">
     <title lang="it">Non mi dire "Te l'ho detto"</title>
     <desc lang="it">Marito e moglie, assidui frequentatori di social network, vogliono trovare nuovi amici ma si ritrovano in una serie di equivoci, dove la cavia di turno è l'imbranato Vincenzo.</desc>
   </programme>
-  <programme start="20260927181200 +0200" stop="20260927190800 +0200" channel="Rai5.it">
+  <programme start="20260927181100 +0200" stop="20260927190700 +0200" channel="Rai5.it">
     <title lang="it">Speciali Notti Jazz: Umbria Jazz</title>
     <desc lang="it">Umbria jazz è una manifestazione animata dalla direzione artistica visionaria di Carlo Pagnotta, sin dagli anni 70: nel 2026 a Perugia all'Arena Santa Giuliana, al Teatro Morlacchi, al Teatro del Pavone, e in altre location gratuite dal 3 al 12 luglio si sono esibiti moltissimi artisti: Sting, Zucchero, Christone Kighfish Ingram, Laurie Anderson, Gianni Coscia, Jacopo Fo ed Enrico Intra, Cécile Mc Lorin Salvant, Perigeo, Gilberto Gil, Terence Blanchard e Ravi Coltrane, Snarky Puppy e Metropol Orkest, Jon Batiste.</desc>
   </programme>
-  <programme start="20260927190800 +0200" stop="20260927190900 +0200" channel="Rai5.it">
+  <programme start="20260927190700 +0200" stop="20260927190800 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260927190900 +0200" stop="20260927195800 +0200" channel="Rai5.it">
+  <programme start="20260927190800 +0200" stop="20260927195700 +0200" channel="Rai5.it">
     <title lang="it">Profumo di Pizzi. Umberto racconta (pt.3)</title>
     <desc lang="it">La puntata si apre con un momento di rottura storica: la discesa in campo di Silvio Berlusconi nel 1990. Questo evento funge da catalizzatore per un'indagine più ampia sulle grandi fortune italiane, portando la narrazione a ritroso verso la figura emblematica di Gianni Agnelli. Attraverso l'analisi del suo patrimonio e della sua influenza, il racconto esplora un'idea di ricchezza che unisce l'industria al prestigio internazionale, soffermandosi in particolare sulle celebri scorribande mondane condivise con figure come Ted Kennedy. Questo spaccato di vita aristocratica e cosmopolita permette di osservare la trasformazione della ricchezza nel tempo, delineando il passaggio dalla storica dinastia degli Agnelli alla nuova gestione degli Elkann. L'episodio mette così a confronto la natura quasi mitologica del potere economico del passato con quella attuale, mostrando come il volto dei grandi capitali si sia evoluto per adattarsi a una modernità profondamente diversa.</desc>
   </programme>
-  <programme start="20260927195800 +0200" stop="20260927202600 +0200" channel="Rai5.it">
+  <programme start="20260927195700 +0200" stop="20260927202600 +0200" channel="Rai5.it">
     <title lang="it">La prima volta - Storie d'amore con il grande schermo - S1E1</title>
     <desc lang="it">Dalle prime domeniche nel cinema parrocchiale alla maturità artistica come attore e regista, Kim Rossi Stuart racconta il suo percorso nel mondo del cinema. Un viaggio tra introspezione e esposizione, dove ogni ruolo è occasione di crescita e scoperta di sé. Con uno sguardo sincero e intimo, l'attore ripercorre momenti chiave della carriera, le sfide dietro le quinte e il rapporto complesso con il grande schermo, mostrando come la passione e la disciplina abbiano modellato la sua vita professionale e personale. </desc>
   </programme>
@@ -1676,19 +1677,19 @@
     <title lang="it">Storie della TV - La riforma (1974-1983)</title>
     <desc lang="it">Tra il 1974 e il 1983 la televisione della Rai cambia volto con la legge di riforma del 1975, che introduce il pluralismo delle idee e la concorrenza interna delle reti e delle testate, all'applicazione del colore e alla Terza Rete regionale, inaugurata il 15 dicembre 1979. Con le testimonianze di Loretta Goggi, Renzo Arbore, Fabiana Udenio, Bruno Voglino, Simona Ventura, Caterina Rita e il linguista Giuseppe Antonelli.</desc>
   </programme>
-  <programme start="20260928004100 +0200" stop="20260928004200 +0200" channel="Rai5.it">
+  <programme start="20260928004100 +0200" stop="20260928004300 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260928004200 +0200" stop="20260928013900 +0200" channel="Rai5.it">
+  <programme start="20260928004300 +0200" stop="20260928014000 +0200" channel="Rai5.it">
     <title lang="it">Le strade di Overland - Somalia: storie di pirati in Puntland - 23/08/2023</title>
     <desc lang="it">Ci immergiamo in uno dei mercati dove possiamo ammirare in tutta la sua bellezza la Mogadiscio rinata dalle ceneri della guerra: atmosfera rilassata, persone sorridenti che han voglia di ricominciare, palazzi nuovi. Ma non possiamo dimenticare che è ancora considerata una città estremamente pericolosa: il gruppo terroristico di matrice islamica, Al-Shabaab, è in guerra con il governo nazionale. Sempre accompagnati dalla nostra scorta, per le strade incontriamo mezzi dell'esercito e il lato meno ospitale della città: nel mercato del pesce e in negozietti di commerci illegali. L'incontro con donne intraprendenti e determinate, e con organizzazioni locali che promuovono lo sport per bambini e bambine, ci fa risollevare lo spirito e tornare ad avere speranza nel futuro. Voliamo nel Puntland, dove troviamo altre tracce della colonizzazione italiana e andiamo alla ricerca dei famosi pirati somali per farci raccontare la loro storia. Speriamo vivamente che la Somalia possa raggiungere al più presto stabilità e sicurezza, senza diventare la copia sbiadita di altri Paesi e che possa affrontare il futuro mantenendo al contempo salde le tradizioni con una propria dignità e carattere.</desc>
   </programme>
-  <programme start="20260928013900 +0200" stop="20260928023900 +0200" channel="Rai5.it">
+  <programme start="20260928014000 +0200" stop="20260928024000 +0200" channel="Rai5.it">
     <title lang="it">Sciarada - Il circolo delle parole - L'Altro '900. Dino Buzzati</title>
     <desc lang="it">Un ritratto dell'autore de Il deserto dei tartari, straordinario scrittore e pittore raffinatissimo nel racconto del curatore delle sue opere Lorenzo Viganò, dello scrittore Mario Missiroli e dell'artista e regista Lorenzo Mattotti.</desc>
   </programme>
-  <programme start="20260928023900 +0200" stop="20260928031400 +0200" channel="Rai5.it">
+  <programme start="20260928024000 +0200" stop="20260928031400 +0200" channel="Rai5.it">
     <title lang="it">Le quattro province - Geo - 04/04/2022</title>
     <desc lang="it">Una porzione di Appennino fatto di versanti costellati da pascoli e boschi immacolati e i cui abitanti, a dispetto del frazionamento amministrativo che la divide in quattro province di quattro regioni confinanti (Alessandria, Genova, Pavia e Piacenza), mantengono ancora oggi inalterata la propria peculiare identità, con usi e tradizioni comuni che ne caratterizzano da sempre la struttura sociale. Collante della straordinaria coesione di queste genti di montagna è la musica tradizionale, eseguita da tempo immemore a orecchio con piffero e fisarmonica, strumento quest'ultimo che da qualche decennio ha sostituito la cornamusa. </desc>
   </programme>
@@ -1732,59 +1733,59 @@
     <title lang="it">il Tutto e il Nulla - E2</title>
     <desc lang="it">Il professor Jim Al-Khalili, si occupa della scienza ai limiti della percezione umana, dove giacciono i misteri più profondi dell'universo. Jim si propone di rispondere a una domanda molto semplice, che cosa è il nulla? Il suo viaggio termina forse con la più profonda intuizione fatta dagli esserei umani. Tutto è venuto dal nulla.</desc>
   </programme>
-  <programme start="20260928111600 +0200" stop="20260928134500 +0200" channel="Rai5.it">
+  <programme start="20260928111600 +0200" stop="20260928134600 +0200" channel="Rai5.it">
     <title lang="it">Geo - Puntata del 21/09/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
-  <programme start="20260928134500 +0200" stop="20260928143900 +0200" channel="Rai5.it">
+  <programme start="20260928134600 +0200" stop="20260928144000 +0200" channel="Rai5.it">
     <title lang="it">Le strade di Overland - Somalia: storie di pirati in Puntland - 23/08/2023</title>
     <desc lang="it">Ci immergiamo in uno dei mercati dove possiamo ammirare in tutta la sua bellezza la Mogadiscio rinata dalle ceneri della guerra: atmosfera rilassata, persone sorridenti che han voglia di ricominciare, palazzi nuovi. Ma non possiamo dimenticare che è ancora considerata una città estremamente pericolosa: il gruppo terroristico di matrice islamica, Al-Shabaab, è in guerra con il governo nazionale. Sempre accompagnati dalla nostra scorta, per le strade incontriamo mezzi dell'esercito e il lato meno ospitale della città: nel mercato del pesce e in negozietti di commerci illegali. L'incontro con donne intraprendenti e determinate, e con organizzazioni locali che promuovono lo sport per bambini e bambine, ci fa risollevare lo spirito e tornare ad avere speranza nel futuro. Voliamo nel Puntland, dove troviamo altre tracce della colonizzazione italiana e andiamo alla ricerca dei famosi pirati somali per farci raccontare la loro storia. Speriamo vivamente che la Somalia possa raggiungere al più presto stabilità e sicurezza, senza diventare la copia sbiadita di altri Paesi e che possa affrontare il futuro mantenendo al contempo salde le tradizioni con una propria dignità e carattere.</desc>
   </programme>
-  <programme start="20260928143900 +0200" stop="20260928153500 +0200" channel="Rai5.it">
+  <programme start="20260928144000 +0200" stop="20260928153500 +0200" channel="Rai5.it">
     <title lang="it">Ecuador, paradiso di biodiversità - S1E1</title>
     <desc lang="it">In questo primo episodio, l'Ecuador come non lo avete mai visto da Est a Ovest: dall'immensa foresta amazzonica alla vetta più alta della Cordigliera ecuadoriana, passando per le foreste nuvolose orientali.</desc>
   </programme>
-  <programme start="20260928153500 +0200" stop="20260928162800 +0200" channel="Rai5.it">
+  <programme start="20260928153500 +0200" stop="20260928162900 +0200" channel="Rai5.it">
     <title lang="it">Cina, meraviglie della natura</title>
     <desc lang="it">Dalla maestosa bellezza dei leopardi delle nevi ai robusti cavalli selvaggi, dall'eleganza degli alligatori alla imponenza degli elefanti, la fauna selvaggia della Cina, simbolo di questo paese, è molto più variegata di quanto si pensi e non si limita solo ai celebri panda.</desc>
   </programme>
-  <programme start="20260928162800 +0200" stop="20260928180200 +0200" channel="Rai5.it">
+  <programme start="20260928162900 +0200" stop="20260928180200 +0200" channel="Rai5.it">
     <title lang="it">A modo mio - Patty Pravo</title>
     <desc lang="it">Il documentario ripercorre la vita privata e i successi discografici di una delle voci femminili più importanti della storia della musica italiana: Nicoletta Strambelli, in arte Patty Pravo. L'artista ritorna nei luoghi della sua infanzia e si racconta attingendo al repertorio della sua memoria privata e professionale.</desc>
   </programme>
-  <programme start="20260928180200 +0200" stop="20260928185800 +0200" channel="Rai5.it">
+  <programme start="20260928180200 +0200" stop="20260928185900 +0200" channel="Rai5.it">
     <title lang="it">'14-'18 Grande Guerra 100 anni dopo pt 16 - Stati Uniti nascita di una potenza</title>
     <desc lang="it">Gli Stati Uniti allo scoppio della Prima Guerra Mondiale sono un paese neutrale per volontà dei suoi stessi cittadini e del presidente Wilson, che con la promessa di mantenere la neutralità ha ottenuto un secondo mandato nel 1916. Eppure vi saranno importanti fattori di carattere economico e politico che finiranno per determinare un diverso scenario, con la discesa in campo dell'esercito americano a fianco dell'Intesa e la successiva vittoria della guerra.</desc>
   </programme>
-  <programme start="20260928185800 +0200" stop="20260928190800 +0200" channel="Rai5.it">
+  <programme start="20260928185900 +0200" stop="20260928190900 +0200" channel="Rai5.it">
     <title lang="it">Millennium Bug - Storia POP - S1E16</title>
     <desc lang="it">Profezie, credenze, fantasmi tecnologici: l'arrivo dell'anno Duemila risveglia paure antiche e il timore che un semplice errore dei computer possa paralizzare il mondo intero. Non succederà nulla di tutto questo, ma in quel momento le persone impareranno qualcosa sulle proprie abitudini, sulle proprie fragilità e soprattutto sul proprio tempo</desc>
   </programme>
-  <programme start="20260928190800 +0200" stop="20260928191000 +0200" channel="Rai5.it">
+  <programme start="20260928190900 +0200" stop="20260928191100 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.</desc>
   </programme>
-  <programme start="20260928191000 +0200" stop="20260928193300 +0200" channel="Rai5.it">
+  <programme start="20260928191100 +0200" stop="20260928193400 +0200" channel="Rai5.it">
     <title lang="it">I Borghi di Barbieri - S1E31 - Brodo di legno di abete di Asiago</title>
     <desc lang="it">Al centro dell'omonimo altopiano, Asiago è una piccola cittadina, che raccoglie in sé molte cose: un pezzo di storia d'Italia, la raffinatezza degli scorci urbani, la maestà dei panorami naturalistici e, ovviamente, la ricchezza gastronomica. In anni lontani, però, quando il cibo era poco, la fantasia doveva essere.</desc>
   </programme>
-  <programme start="20260928193300 +0200" stop="20260928195400 +0200" channel="Rai5.it">
+  <programme start="20260928193400 +0200" stop="20260928195500 +0200" channel="Rai5.it">
     <title lang="it">I Borghi di Barbieri - S1E32 - Garum e Liquirizia a Morano Calabro</title>
     <desc lang="it">Morano Calabro, borgo medievale nel Parco del Pollino, è il fulcro di un viaggio gastronomico che attraversa la Calabria fino a Trebisacce. Il documentario racconta le eccellenze del territorio, dal "Garum" di alici di antica memoria alla pregiata liquirizia locale, fino alla cipolla di Castrovillari e al formaggio.</desc>
   </programme>
-  <programme start="20260928195400 +0200" stop="20260928202800 +0200" channel="Rai5.it">
+  <programme start="20260928195500 +0200" stop="20260928202900 +0200" channel="Rai5.it">
     <title lang="it">Fano tra terra e mare - Geo 04/04/2023</title>
     <desc lang="it">Fano rappresenta in maniera esemplare la fusione di due culture differenti ma qui diventate complementari: quella del mare che ha contraddistinto la sua storia secolare; e quella di una terra feconda, laboriosa e intraprendente nella quale il cibo è considerato ancora un atto agricolo e l'agricoltura è un atto d'amore. </desc>
   </programme>
-  <programme start="20260928202800 +0200" stop="20260928212000 +0200" channel="Rai5.it">
+  <programme start="20260928202900 +0200" stop="20260928212100 +0200" channel="Rai5.it">
     <title lang="it">Le strade di Overland - Borneo malese: patrimonio naturale da proteggere - 30/08/2023</title>
     <desc lang="it">La nuova meta de "Il Mondo con gli occhi di Overland" ci porta a scoprire uno di quegli angoli di mondo di cui davvero sappiamo pochissimo: andiamo in Sarawak, una regione della Malesia incastonata nell'isola del Borneo, tra Vietnam, Filippine e arcipelago indonesiano. Una parte del mondo che rischia di perdere la sua identità a causa della deforestazione e della coltivazione intensiva per la produzione dell'olio di palma. Ma il Sarawak è un luogo incantevole, ricco di cultura, dove esistono ancora oltre 30 tribù etniche. La capitale, Kuching, è un crogiolo di culture, da quelle indigene a quella musulmana malese, da quella cinese all'indiana, e si riflette in una cucina eccezionale. Ma quel che lascia a bocca aperta è la natura, un vero e proprio patrimonio da proteggere: visitiamo Parchi spettacolari e incontriamo specie animali uniche al mondo. Il nostro viaggio ci porta poi lontani dalle coste, nella giungla più rigogliosa, per visitare la tribù degli Iban, discendenti dai famigerati tagliatori di teste. Ormai abbandonata la pratica bandita, la sfida che li attende sarà conciliare le proprie usanze con l'apertura verso il mondo globale.</desc>
   </programme>
-  <programme start="20260928212000 +0200" stop="20260928231800 +0200" channel="Rai5.it">
+  <programme start="20260928212100 +0200" stop="20260928231900 +0200" channel="Rai5.it">
     <title lang="it">The Whale</title>
     <desc lang="it">Charlie è un insegnante affetto da grave obesità che vive recluso, consumato dal dolore per la perdita del compagno. Assistito dall'amica Liz, sente la fine vicina e tenta un'ultima, disperata riconciliazione con la figlia adolescente Ellie, abbandonata anni prima. Dall'opera teatrale di Samuel D. Hunter.</desc>
   </programme>
-  <programme start="20260928231800 +0200" stop="20260929005900 +0200" channel="Rai5.it">
+  <programme start="20260928231900 +0200" stop="20260929005900 +0200" channel="Rai5.it">
     <title lang="it">Gauguin</title>
     <desc lang="it">Parigi, 1891. Paul Gauguin lascia la famiglia per Tahiti, cercando un'ispirazione primitiva lontano dall'Europa. In Polinesia vive in miseria, ma trova una nuova musa nella giovane Tehura, che diventa la sua ossessione e modella. Nonostante la salute precaria, dipinge capolavori prima di tornare in Francia.</desc>
   </programme>
@@ -2497,12 +2498,13 @@
   <programme start="20260926162700 +0200" stop="20260926163000 +0200" channel="RaiNews24.it">
     <title lang="it">RN-POMERIGGIO 2</title>
   </programme>
-  <programme start="20260926163000 +0200" stop="20260926165600 +0200" channel="RaiNews24.it">
+  <programme start="20260926163000 +0200" stop="20260926165000 +0200" channel="RaiNews24.it">
     <title lang="it">POMERIGGIO 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20260926165600 +0200" stop="20260926170000 +0200" channel="RaiNews24.it">
-    <title lang="it">RN-POMERIGGIO 3</title>
+  <programme start="20260926165000 +0200" stop="20260926170000 +0200" channel="RaiNews24.it">
+    <title lang="it">Altri Mondi - Puntata del 26/09/2026</title>
+    <desc lang="it">In questa puntata: "Fire Emblem: Fortune's Weave" (recensione di Lorenzo Fantoni), "Se Xbox Piange, Sony non ride" di Dario Marchetti, "Silent Hill: Townfall" (recensione di Fabrizia Malgieri), "Speedrun" a cura di Alberto Alessi. </desc>
   </programme>
   <programme start="20260926170000 +0200" stop="20260926172700 +0200" channel="RaiNews24.it">
     <title lang="it">NEWS + TITOLI</title>
@@ -3068,14 +3070,17 @@
     <desc lang="it">Prima giornata dei Campionati Italiani di Triathlon Sprint 2026 a Cervia.</desc>
   </programme>
   <programme start="20260926111500 +0200" stop="20260926114500 +0200" channel="RaiSport.it">
-    <title lang="it">Radiocorsa del 24/09/2026</title>
-    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
+    <title lang="it">Radiocorsa</title>
   </programme>
-  <programme start="20260926114500 +0200" stop="20260926132000 +0200" channel="RaiSport.it">
+  <programme start="20260926114500 +0200" stop="20260926135500 +0200" channel="RaiSport.it">
     <title lang="it">38° America's Cup: Regata Preliminare del 25/09/2026</title>
     <desc lang="it">Per quattro giorni, nel Golfo di Napoli si sfidano le imbarcazioni AC40 dei principali team internazionali. È la seconda Regata Preliminare ufficiale ed è il primo grande test organizzativo per la città, in vista dell'America's Cup di maggio-luglio 2027.</desc>
   </programme>
-  <programme start="20260926132000 +0200" stop="20260926140000 +0200" channel="RaiSport.it">
+  <programme start="20260926114500 +0200" stop="20260926114500 +0200" channel="RaiSport.it">
+    <title lang="it">Radiocorsa del 24/09/2026</title>
+    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
+  </programme>
+  <programme start="20260926135500 +0200" stop="20260926140000 +0200" channel="RaiSport.it">
     <title lang="it">Gli Imperdibili</title>
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</desc>
   </programme>
@@ -3092,8 +3097,8 @@
     <desc lang="it">Prima giornata della Courmayeur Cup 2026 al Courmayeur Sport Center. Conegliano e Novara si affrontano per conquistare un posto nella finale del torneo</desc>
   </programme>
   <programme start="20260926205000 +0200" stop="20260926233000 +0200" channel="RaiSport.it">
-    <title lang="it">Mondiali femminili di Calcio Under 20 2026 - Finale terzo posto: Italia - Polonia</title>
-    <desc lang="it">Nella finale per il terzo posto dei Mondiali femminili Under 20 2026, Italia e Polonia si affrontano per conquistare la medaglia di bronzo.</desc>
+    <title lang="it">Calcio Femminile: Camp. Mondiali U20 Pol</title>
+    <desc lang="it">Calcio Femminile: Camp. Mondiali U20 Polonia 2026 Finale 3°/4° posto: ITALIA - Colombia</desc>
   </programme>
   <programme start="20260926233000 +0200" stop="20260927013000 +0200" channel="RaiSport.it">
     <title lang="it">Softball: Campionato Italiano Serie A1 - Finale: Bollate - Forlì (gara 3)</title>
@@ -3112,8 +3117,8 @@
     <desc lang="it">Seconda giornata di regate nel Golfo di Napoli per la Regata Preliminare della 38ª America's Cup. I principali team internazionali tornano in acqua con gli AC40, proseguendo il primo grande confronto in vista dell'America's Cup 2027.</desc>
   </programme>
   <programme start="20260927060000 +0200" stop="20260927083000 +0200" channel="RaiSport.it">
-    <title lang="it">Softball: Campionato Italiano Serie A1 - Finale: Bollate - Forlì (gara 3)</title>
-    <desc lang="it">Terzo confronto della finale Scudetto di Serie A1 tra Italposa Forlì e Quick Mill Bollate, protagoniste di Gara 2 delle Italian Softball Series 2026.</desc>
+    <title lang="it">Softball: Campionato Italiano Serie A1 F</title>
+    <desc lang="it">Softball: Campionato Italiano Serie A1 Finale gara 3: Quick Mill Bollate - Italpose Forlì</desc>
   </programme>
   <programme start="20260927083000 +0200" stop="20260927105000 +0200" channel="RaiSport.it">
     <title lang="it">Softball: Campionato Italiano Serie A1 - Finale: Bollate - Forlì (gara 4)</title>
@@ -3127,11 +3132,11 @@
     <title lang="it">Calcio: Serie A Women 2026-27 - 1a giornata: Inter- Fiorentina</title>
     <desc lang="it">Nella prima giornata della Serie A Women 2026-27, Inter e Fiorentina si affrontano nel match che apre il loro cammino nel nuovo campionato.</desc>
   </programme>
-  <programme start="20260927145500 +0200" stop="20260927165000 +0200" channel="RaiSport.it">
+  <programme start="20260927145500 +0200" stop="20260927164500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</title>
     <desc lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</desc>
   </programme>
-  <programme start="20260927165000 +0200" stop="20260927173000 +0200" channel="RaiSport.it">
+  <programme start="20260927164500 +0200" stop="20260927173000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica. Gran Premio di Merano</title>
     <desc lang="it">Ippica. Gran Premio di Merano</desc>
   </programme>
@@ -3143,31 +3148,34 @@
     <title lang="it">Pallavolo Femminile: Courmayeur Cup Finale</title>
     <desc lang="it">Pallavolo Femminile: Courmayeur Cup Finale</desc>
   </programme>
-  <programme start="20260927202500 +0200" stop="20260927223500 +0200" channel="RaiSport.it">
+  <programme start="20260927202500 +0200" stop="20260927223000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio. Serie C Sky Wifi: Pescara - Spezia - 7a g.ta</title>
     <desc lang="it">Calcio. Serie C Sky Wifi: Pescara - Spezia - 7a g.ta</desc>
   </programme>
-  <programme start="20260927223500 +0200" stop="20260928013000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Courmayeur Cup Finale</title>
-    <desc lang="it">Pallavolo Femminile: Courmayeur Cup Finale</desc>
+  <programme start="20260927223000 +0200" stop="20260928003000 +0200" channel="RaiSport.it">
+    <title lang="it">Calcio. Mondiali U20 Donne Polonia Final</title>
+    <desc lang="it">Calcio. Mondiali U20 Donne Polonia Finale 3°/4° posto: ITALIA - Colombia</desc>
   </programme>
-  <programme start="20260928013000 +0200" stop="20260928060000 +0200" channel="RaiSport.it">
+  <programme start="20260928003000 +0200" stop="20260928023000 +0200" channel="RaiSport.it">
+    <title lang="it">Pallavolo: Courmayeur Cup Femminile 2026</title>
+  </programme>
+  <programme start="20260928023000 +0200" stop="20260928060000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</title>
     <desc lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</desc>
   </programme>
-  <programme start="20260928060000 +0200" stop="20260928081000 +0200" channel="RaiSport.it">
+  <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio Femminile: Serie A Women Athora 2026/27 1a giornata: Inter- Fiorentina</title>
     <desc lang="it">Calcio Femminile: Serie A Women Athora 2026/27 1a giornata: Inter- Fiorentina</desc>
   </programme>
-  <programme start="20260928081000 +0200" stop="20260928104500 +0200" channel="RaiSport.it">
+  <programme start="20260928080000 +0200" stop="20260928103000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</title>
     <desc lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</desc>
   </programme>
-  <programme start="20260928104500 +0200" stop="20260928123000 +0200" channel="RaiSport.it">
+  <programme start="20260928103000 +0200" stop="20260928122000 +0200" channel="RaiSport.it">
     <title lang="it">Domenica Sportiva - Puntata del 27/09/2026</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
-  <programme start="20260928123000 +0200" stop="20260928163000 +0200" channel="RaiSport.it">
+  <programme start="20260928122000 +0200" stop="20260928163000 +0200" channel="RaiSport.it">
     <title lang="it">Bocce. C.ti Italiani San Giovanni in Persiceto: Raffa</title>
     <desc lang="it">Bocce. C.ti Italiani San Giovanni in Persiceto: Raffa</desc>
   </programme>
@@ -3195,7 +3203,7 @@
     <title lang="it">Skiroll. Finale Coppa del Mondo Val di Fiemme - 10 km Mass Start</title>
     <desc lang="it">Skiroll. Finale Coppa del Mondo Val di Fiemme - 10 km Mass Start</desc>
   </programme>
-  <programme start="20260928223000 +0200" stop="20260929013000 +0200" channel="RaiSport.it">
+  <programme start="20260928223000 +0200" stop="20260929014500 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo Femminile: Courmayeur Cup Finale</title>
     <desc lang="it">Pallavolo Femminile: Courmayeur Cup Finale</desc>
   </programme>
@@ -3231,7 +3239,7 @@
   </programme>
   <programme start="20260926090000 +0200" stop="20260926103000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 come noi</title>
-    <desc lang="it">Con Micol Ronchi, Edoardo Righini e Martina Di Florio. Regia di Enrica Zoleo. A cura di Roberta Galimberti.</desc>
+    <desc lang="it">Con Micol Ronchi ed Edoardo Righini. Regia di Enrica Zoleo. A cura di Roberta Galimberti.</desc>
   </programme>
   <programme start="20260926103000 +0200" stop="20260926103500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3242,7 +3250,7 @@
   </programme>
   <programme start="20260926120000 +0200" stop="20260926133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">Quali indicazioni di salute possono darci le analisi del sangue e delle urine? E come vanno interpretate? I suggerimenti del Dott. Giorgio Sesti per un check-up al rientro dal periodo estivo.  Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20260926133000 +0200" stop="20260926134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3306,7 +3314,7 @@
   </programme>
   <programme start="20260927090000 +0200" stop="20260927103000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 come noi</title>
-    <desc lang="it">Con Micol Ronchi, Edoardo Righini e Martina Di Florio. Regia di Enrica Zoleo. A cura di Roberta Galimberti.</desc>
+    <desc lang="it">Con Micol Ronchi ed Edoardo Righini. Regia di Enrica Zoleo. A cura di Roberta Galimberti.</desc>
   </programme>
   <programme start="20260927103000 +0200" stop="20260927103500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3317,7 +3325,7 @@
   </programme>
   <programme start="20260927120000 +0200" stop="20260927133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">Pane, pasta e patate vanno sempre eliminate dalla dieta se vogliamo perdere peso? E quali alimenti ci possono aiutare se soffriamo di stipsi? I consigli della Dott.ssa Sara Cordara e la Dott.ssa Carla Bruschelli per il nostro benessere.   Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20260927133000 +0200" stop="20260927134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
