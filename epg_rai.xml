@@ -873,7 +873,7 @@
   </programme>
   <programme start="20260930203500 +0200" stop="20260930205500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 30/09/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Marco Damilano incontra Alexis Bloom, regista del documentario The Bibi Files, che racconta in presa diretta le tre indagini sul premier israeliano, con i video degli interrogatori della polizia israeliana condotti tra il 2016 e il 2018: con Netanyahu, la moglie Sara, il figlio Yair.</desc>
   </programme>
   <programme start="20260930205500 +0200" stop="20260930211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 30/09/2026 EP7038</title>
@@ -3353,20 +3353,23 @@
     <desc lang="it">Terza giornata di regate nel Golfo di Napoli per la Regata Preliminare della 38ª America's Cup. I team internazionali tornano in acqua con gli AC40, proseguendo il confronto in vista dell'America's Cup 2027.</desc>
   </programme>
   <programme start="20261001060000 +0200" stop="20261001092500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</title>
-    <desc lang="it">Ciclismo: Camp. Mondiali su strada Montréal 2026 Prova Elite Maschile</desc>
+    <title lang="it">Mondiali di Ciclismo 2026 - Uomini Élite (fasi finali)</title>
+    <desc lang="it">A Montréal va in scena la prova in linea Uomini Élite dei Mondiali di ciclismo 2026, con la maglia iridata in palio.</desc>
   </programme>
-  <programme start="20261001092500 +0200" stop="20261001122000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Courmayeur Cup Finale</title>
-    <desc lang="it">Pallavolo Femminile: Courmayeur Cup Finale</desc>
+  <programme start="20261001092500 +0200" stop="20261001120000 +0200" channel="RaiSport.it">
+    <title lang="it">Pallavolo - Courmayeur Cup 2026 - Finale: Conegliano - Milano</title>
+    <desc lang="it">Nella finale della Courmayeur Cup 2026, la Prosecco DOC Imoco Conegliano affronta la Numia Vero Volley Milano per conquistare il trofeo che apre la nuova stagione della pallavolo femminile italiana.</desc>
   </programme>
-  <programme start="20261001122000 +0200" stop="20261001150000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio Nazionale A: Nations League 2027 Turchia - Italia</title>
-    <desc lang="it">Calcio Nazionale A: Nations League 2027 Turchia - Italia</desc>
+  <programme start="20261001120000 +0200" stop="20261001143000 +0200" channel="RaiSport.it">
+    <title lang="it">Calcio: UEFA Nations League 2026-2027 - Lega A: Turchia - Italia 28-09-2026</title>
+    <desc lang="it">Dallo Stadio Atatürk Spor Kompleksi di Bursa, secondo impegno dell'Italia nella quinta edizione della UEFA Nations League. Gli Azzurri affrontano la Turchia guidata da Vincenzo Montella.</desc>
   </programme>
-  <programme start="20261001150000 +0200" stop="20261001160000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Fuji</title>
-    <desc lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Fuji</desc>
+  <programme start="20261001143000 +0200" stop="20261001154000 +0200" channel="RaiSport.it">
+    <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 ore di Fuji</title>
+    <desc lang="it">Mondiale Endurance - 6 ore di Fuji</desc>
+  </programme>
+  <programme start="20261001154000 +0200" stop="20261001160000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
   <programme start="20261001160000 +0200" stop="20261001170500 +0200" channel="RaiSport.it">
     <title lang="it">Rally Mondiale Italia Sardegna - gara 1</title>
