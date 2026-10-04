@@ -39,7 +39,7 @@
   </programme>
   <programme start="20261004030500 +0200" stop="20261004043500 +0200" channel="Rai1.it">
     <title lang="it">Ciao Maschio - Puntata del 03/10/2026</title>
-    <desc lang="it">Nunzia De Girolamo intervista uomini dello spettacolo, della politica e dell'economia, analizzando con loro le tematiche sociali legate alla figura dell'uomo contemporaneo</desc>
+    <desc lang="it">Nunzia De Girolamo intervista uomini dello spettacolo, della politica e dell'economia, analizzando con loro le tematiche sociali legate alla figura dell'uomo contemporaneo. Il primo maschio protagonista di questa edizione sarà Francesco Facchinetti, produttore musicale, imprenditore di successo e figlio d'arte. Tante le novità. Il programma si arricchisce del "punto di vista" di una donna "misteriosa", diversa per ogni puntata, la cui identità verrà svelata nel corso della trasmissione. Ad ampliare il racconto anche le storie, sempre "al maschile", di uomini "qualunque": personaggi della vita quotidiana non famosi e perciò inediti.</desc>
   </programme>
   <programme start="20261004043500 +0200" stop="20261004051500 +0200" channel="Rai1.it">
     <title lang="it">Techetechetè notte - Puntata del 03/10/2026</title>
@@ -82,10 +82,10 @@
   </programme>
   <programme start="20261004094500 +0200" stop="20261004112000 +0200" channel="Rai1.it">
     <title lang="it">Santa Messa dalla Basilica Superiore di San Francesco in Assisi (Perugia) - 04/10/2026</title>
-    <desc lang="it">La funzione è trasmessa in Eurovisione - Regia di Gianni Epifani. Commento liturgico di Orazio Coclite.  </desc>
+    <desc lang="it">Dalla Basilica Superiore di San Francesco in Assisi, la Santa Messa presieduta dal cardinale Matteo Maria Zuppi. </desc>
   </programme>
   <programme start="20261004112000 +0200" stop="20261004120000 +0200" channel="Rai1.it">
-    <title lang="it">A Sua immagine e discorsi delle autorità - Puntata del 04/10/2026</title>
+    <title lang="it">A Sua immagine - Discorsi delle autorità - Puntata del 04/10/2026</title>
     <desc lang="it">Programma di approfondimento religioso con all'interno la Santa Messa e la Recita dell'Angelus da Piazza San Pietro.</desc>
   </programme>
   <programme start="20261004120000 +0200" stop="20261004122000 +0200" channel="Rai1.it">
@@ -101,7 +101,7 @@
   </programme>
   <programme start="20261004140000 +0200" stop="20261004171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In - Puntata del 04/10/2026</title>
-    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita. </desc>
+    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita. Tra gli ospiti della seconda puntata: i Pooh, che si esibiscono con alcuni grandi successi come "Uomini soli", "Pensiero" e "Chi fermerà la musica", oltre a presentare il loro nuovo libro "Banda nel vento". Lo spazio "Amici miei" è interamente dedicato alla prima puntata di "Ballando con le Stelle". In studio: Monica Guerritore, Eugenio Finardi, Massimo Ghini, Jimmy Ghione, Simona Ventura, Francesca Fialdini, Simone Di Pasquale e Rossella Erra. Per lo spazio di attualità, Mara Venier e Tommaso Cerno commentano gli ultimi sviluppi sul caso Garlasco con Salvo Sottile, Rita Cavallaro e il Gen. Luciano Garofano in collegamento.</desc>
   </programme>
   <programme start="20261004171500 +0200" stop="20261004171800 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -1868,11 +1868,11 @@
     <title lang="it">Arrivano i Prof</title>
     <desc lang="it">Mentre tutti festeggiano la promozione all'esame di maturità, al liceo Alessandro Manzoni c'è grande preoccupazione: solo il 12% degli studenti è riuscito a diplomarsi. Il Manzoni viene riconosciuto come il peggior liceo d'Italia. Non sapendo più che soluzioni adottare, il Preside accoglie la proposta del Provveditore e decide di fare un ultimo, estremo, rischioso tentativo: reclutare i peggiori insegnanti in circolazione, selezionati dall'algoritmo ministeriale, nella speranza che dove hanno fallito i migliori, possano riuscire i peggiori.</desc>
   </programme>
-  <programme start="20261004211000 +0200" stop="20261004231500 +0200" channel="RaiMovie.it">
+  <programme start="20261004211000 +0200" stop="20261004231700 +0200" channel="RaiMovie.it">
     <title lang="it">Io sono l'abisso</title>
     <desc lang="it">Sul Lago di Como, le vite di un netturbino ossessionato dai rifiuti, una madre impegnata contro la violenza e un'adolescente fragile si intrecciano in un oscuro gioco del destino. Tra ossessioni, segreti e minacce nascoste, emerge un mondo inquietante in cui il male sembra ripetersi senza fine.</desc>
   </programme>
-  <programme start="20261004231500 +0200" stop="20261005012000 +0200" channel="RaiMovie.it">
+  <programme start="20261004231700 +0200" stop="20261005012000 +0200" channel="RaiMovie.it">
     <title lang="it">Sicario</title>
     <desc lang="it">Kate Macer è una agente dell'FBI ingaggiata da Matt Graver, comandante di una task force dell'élite del governo, in una operazione contro i cartelli della droga, nella zona di confine tra Stati Uniti e Messico. I narcotrafficanti sono ritenuti responsabili di una esplosione che ha ucciso alcuni membri della squadra e l'azione a cui la Marcer è chiamata metterà a repentaglio le sue convinzioni più profonde e i suoi valori morali. Disponibile anche in lingua originale.</desc>
   </programme>
@@ -2719,28 +2719,29 @@
     <title lang="it">Tender del 01/10/2026</title>
     <desc lang="it">Il mare, la vela, lo sport e molto altro ancora: benvenuti a Tender.</desc>
   </programme>
-  <programme start="20261004060000 +0200" stop="20261004073500 +0200" channel="RaiSport.it">
+  <programme start="20261004060000 +0200" stop="20261004073000 +0200" channel="RaiSport.it">
     <title lang="it">Triathlon - Suzuki World Triathlon Cup 2026 - 1a giornata: Gara Sprint Uomini</title>
     <desc lang="it">All'Eur di Roma si disputa la prova Sprint maschile della World Triathlon Cup 2026. Tra i protagonisti il campione del mondo Vasco Vilaça e il campione olimpico Alex Yee, con gli azzurri Nicola Azzano, Euan De Nigro e Miguel Espuna Larramona in gara.</desc>
   </programme>
-  <programme start="20261004073000 +0200" stop="20261004094000 +0200" channel="RaiSport.it">
-    <title lang="it">Europei di Ciclismo 2026 - Donne Élite</title>
-    <desc lang="it">La prova in linea Donne Elite parte da Lubiana e si conclude a Šenčur, su un percorso selettivo che combina tratti veloci e le difficoltà del circuito finale. Le migliori cicliste europee si sfidano per conquistare il titolo continentale.</desc>
+  <programme start="20261004073000 +0200" stop="20261004084000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei di Ciclismo 2026 - Donne Élite - prima parte</title>
+    <desc lang="it">La prova in linea Donne Elite parte da Lubiana e si conclude a Šenčur, su un percorso selettivo che combina tratti veloci e le difficoltà del circuito finale. Le migliori cicliste europee si sfidano per conquistare il titolo continentale. </desc>
   </programme>
-  <programme start="20261004073500 +0200" stop="20261004094000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Camp. Europei Lubiana 2026 Pro</title>
-    <desc lang="it">Ciclismo: Camp. Europei Lubiana 2026 Prova Elite Donne</desc>
+  <programme start="20261004084000 +0200" stop="20261004094000 +0200" channel="RaiSport.it">
+    <title lang="it">Europei di Ciclismo 2026 - Donne Élite - seconda parte</title>
+    <desc lang="it">La prova in linea Donne Elite parte da Lubiana e si conclude a Šenčur, su un percorso selettivo che combina tratti veloci e le difficoltà del circuito finale. Le migliori cicliste europee si sfidano per conquistare il titolo continentale. Donne Élite (prima parte)</desc>
   </programme>
   <programme start="20261004094000 +0200" stop="20261004120000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: L'Eroica 2026 - seconda parte</title>
     <desc lang="it">La storica corsa di biciclette nelle più belle strade del Chianti. La corsa che tutti gli appassionati conoscono e che negli anni è diventata forse la più celebre gara amatoriale sulle due ruote. Un evento unico nel suo genere, nato dalla passione di Giancarlo Brocci, che considerando il passato del ciclismo un inestimabile patrimonio da riproporre e valorizzare, ha avuto l'idea di organizzare una corsa come quelle di allora: con percorsi che si svolgono in buona parte su strade bianche, con biciclette e abbigliamento d'epoca.</desc>
   </programme>
   <programme start="20261004120000 +0200" stop="20261004133000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo Gran Fondo. World Series Tre Valli Varesine</title>
-    <desc lang="it">Ciclismo Gran Fondo. World Series Tre Valli Varesine</desc>
+    <title lang="it">Ciclismo: Gran Fondo Tre Valli Varesine 2026</title>
+    <desc lang="it">La Gran Fondo Tre Valli Varesine 2026 porta gli appassionati di ciclismo sulle strade del Varesotto, lungo un percorso tra salite e paesaggi del territorio.</desc>
   </programme>
   <programme start="20261004133000 +0200" stop="20261004140000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. L'Eroica (fasi finali)</title>
+    <title lang="it">Ciclismo: L'Eroica 2026 - terza parte</title>
+    <desc lang="it">La storica corsa di biciclette nelle più belle strade del Chianti. La corsa che tutti gli appassionati conoscono e che negli anni è diventata forse la più celebre gara amatoriale sulle due ruote. Un evento unico nel suo genere, nato dalla passione di Giancarlo Brocci, che considerando il passato del ciclismo un inestimabile patrimonio da riproporre e valorizzare, ha avuto l'idea di organizzare una corsa come quelle di allora: con percorsi che si svolgono in buona parte su strade bianche, con biciclette e abbigliamento d'epoca.</desc>
   </programme>
   <programme start="20261004140000 +0200" stop="20261004141000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
@@ -2750,23 +2751,24 @@
     <desc lang="it">Equitazione. Coppa degli Assi Palermo</desc>
   </programme>
   <programme start="20261004154500 +0200" stop="20261004180000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro. Serie A2 Old Wild West - 2a giornata: Elachem Vigevano - Real Sebastiani Rieti</title>
-    <desc lang="it">Pallacanestro. Serie A2 Old Wild West - 2a giornata: Elachem Vigevano - Real Sebastiani Rieti</desc>
+    <title lang="it">Basket: Serie A2 Old Wild West 2026-2027 - 2a giornata: Elachem Vigevano - Real Sebastiani Rieti</title>
+    <desc lang="it">Nella 2ª giornata di Serie A2 Old Wild West 2026-2027, l'Elachem Vigevano affronta la Real Sebastiani Rieti.</desc>
   </programme>
   <programme start="20261004180000 +0200" stop="20261004200500 +0200" channel="RaiSport.it">
-    <title lang="it">Basket: Serie A1 femminile 2026/27 1a giornata: La Molisana Magnolia Campobasso - Ladies Libertas Rieti</title>
-    <desc lang="it">Basket: Serie A1 femminile 2026/27 1a giornata: La Molisana Magnolia Campobasso - Ladies Libertas Rieti</desc>
+    <title lang="it">Basket: Serie A1 femminile 2026-2027 - 1a giornata: La Molisana Magnolia Campobasso - Ladies Libertas Rieti</title>
+    <desc lang="it">Nella 1ª giornata di Serie A1 femminile 2026/27, La Molisana Magnolia Campobasso affronta la Ladies Libertas Rieti.</desc>
   </programme>
   <programme start="20261004200500 +0200" stop="20261004202500 +0200" channel="RaiSport.it">
-    <title lang="it">Diretta Azzurra</title>
+    <title lang="it">Diretta Azzurra del 04/10/2026</title>
+    <desc lang="it">La diretta di Rai Sport per seguire da vicino gli atleti azzurri prima e dopo la partita in programma.</desc>
   </programme>
   <programme start="20261004202500 +0200" stop="20261004224000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio. Serie C Sky Wifi: Salernitana-Bari - 8a g.ta</title>
-    <desc lang="it">Calcio. Serie C Sky Wifi: Salernitana-Bari - 8a g.ta</desc>
+    <title lang="it">8a giornata: Salernitana - Bari</title>
+    <desc lang="it">Serie C - 8a giornata: Salernitana - Bari</desc>
   </programme>
   <programme start="20261004224000 +0200" stop="20261004234000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Trittico Lombardo - Coppa Agos</title>
-    <desc lang="it">Ciclismo: Trittico Lombardo - Coppa Agostoni 2026</desc>
+    <title lang="it">Ciclismo - Coppa Agostoni 2026</title>
+    <desc lang="it">La 79ª edizione della Coppa Agostoni parte e arriva a Lissone dopo 163,4 km. Passaggio chiave il circuito del Lissolo, da affrontare quattro volte, con le salite di Sirtori, Colle Brianza e Lissolo pronte a fare selezione prima del finale pianeggiante.</desc>
   </programme>
   <programme start="20261004234000 +0200" stop="20261005001500 +0200" channel="RaiSport.it">
     <title lang="it">Ippica: Prix de l'Arc de Triomphe</title>
