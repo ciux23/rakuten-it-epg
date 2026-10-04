@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261004093000 +0200" stop="20261004115336 +0200" channel="pluto_film_tv">
+  <programme start="20261004150000 +0200" stop="20261004192140 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261004115336 +0200" stop="20261004140436 +0200" channel="pluto_film_tv">
-    <title lang="it">Family Business - Sono affari di famiglia</title>
-    <desc lang="it">Vito, suo padre Jessie e il figlio Adam gestiscono insieme un'azienda di carne all'ingrosso.</desc>
-  </programme>
-  <programme start="20261004140436 +0200" stop="20261004154736 +0200" channel="pluto_film_tv">
-    <title lang="it">Hard Night</title>
-    <desc lang="it">Basato sulla presunta storia vera dello sceneggiatore Jerry Stahl, con uno stipendio da $ 5.000 a settimana e l'abitudine di consumare $ 6.000 di cocaina a settimana.</desc>
-  </programme>
-  <programme start="20261004154736 +0200" stop="20261004174940 +0200" channel="pluto_film_tv">
-    <title lang="it">On My Way</title>
-    <desc lang="it">Bettie è una ristoratrice sessantenne a cui le cose vanno male: il compagno si sta per sposare con una donna più giovane e il ristorante è in crisi. Parte in auto per un viaggio senza destinazione che la riavvicinerà alla figlia e al nipote.</desc>
-  </programme>
-  <programme start="20261004174940 +0200" stop="20261004192140 +0200" channel="pluto_film_tv">
-    <title lang="it">Davanti agli occhi</title>
-    <desc lang="it">All'approssimarsi dell'anniversario di una fatale sparatoria in un liceo, Diana è ossessionata dai ricordi della tragedia. Nonostante ciò è riuscita a mettere su una bella famiglia e una vita quasi idilliaca, che però minaccia di essere turbata.</desc>
   </programme>
   <programme start="20261004192140 +0200" stop="20261004210040 +0200" channel="pluto_film_tv">
     <title lang="it">Fiori per Algernon</title>
@@ -72,37 +56,33 @@
     <title lang="it">Boulevard</title>
     <desc lang="it">Nolan Mack è vicino alla pensione e riceve una promozione per il suo costante impegno nel lavoro. È un marito devoto, intrappolato in un matrimonio di convenienza, finché l’incontro con un giovane ragazzo non lo obbliga a fare i conti con sé stesso.</desc>
   </programme>
-  <programme start="20261005153635 +0200" stop="20261005213000 +0200" channel="pluto_film_tv">
+  <programme start="20261005153635 +0200" stop="20261005172335 +0200" channel="pluto_film_tv">
+    <title lang="it">Pressione in cabina</title>
+    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
+  </programme>
+  <programme start="20261005172335 +0200" stop="20261005185815 +0200" channel="pluto_film_tv">
+    <title lang="it">Uno spostato sotto tiro</title>
+    <desc lang="it">Quella che doveva essere una fuga romantica si trasforma in una serie di disastri quando la fidanzata di Michael lo abbandona nel deserto, dove un adolescente gli ruba l'auto e viene preso in ostaggio durante una rapina al locale Sip and Zip.</desc>
+  </programme>
+  <programme start="20261005185815 +0200" stop="20261005210015 +0200" channel="pluto_film_tv">
+    <title lang="it">Un padre in prestito</title>
+    <desc lang="it">Graham Holt è uno scapolo di 42 anni, che vuole adottare un figlio di 10 anni ed è direttore dell'ufficio postale in un villaggio del Galles.</desc>
+  </programme>
+  <programme start="20261005210015 +0200" stop="20261006030000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261005213000 +0200" stop="20261006093000 +0200" channel="pluto_film_tv">
+  <programme start="20261006030000 +0200" stop="20261006150000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261006093000 +0200" stop="20261006153000 +0200" channel="pluto_film_tv">
+  <programme start="20261006150000 +0200" stop="20261006210000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261004093000 +0200" stop="20261004130544 +0200" channel="pluto_film_azione">
+  <programme start="20261004150000 +0200" stop="20261004194238 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261004130544 +0200" stop="20261004144905 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e la stella del paradiso</title>
-    <desc lang="it">L'avventuriero Jack Hunter insegue attraverso l'Europa Albert Littman, il suo nemico storico, cercando di contrastare i tentativi del rivale di impadronirsi di un pericoloso e misterioso oggetto.</desc>
-  </programme>
-  <programme start="20261004144905 +0200" stop="20261004163905 +0200" channel="pluto_film_azione">
-    <title lang="it">Striscia Vincente</title>
-    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
-  </programme>
-  <programme start="20261004163905 +0200" stop="20261004181138 +0200" channel="pluto_film_azione">
-    <title lang="it">Trading Paint - Oltre La Leggenda</title>
-    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
-  </programme>
-  <programme start="20261004181138 +0200" stop="20261004194238 +0200" channel="pluto_film_azione">
-    <title lang="it">Rampage</title>
-    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
   </programme>
   <programme start="20261004194238 +0200" stop="20261004213038 +0200" channel="pluto_film_azione">
     <title lang="it">A prova di idiota</title>
@@ -152,53 +132,33 @@
     <title lang="it">Avengers Grimm</title>
     <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
   </programme>
-  <programme start="20261005160427 +0200" stop="20261005213000 +0200" channel="pluto_film_azione">
+  <programme start="20261005160427 +0200" stop="20261005180811 +0200" channel="pluto_film_azione">
+    <title lang="it">Lo Straniero della valle oscura</title>
+    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
+  </programme>
+  <programme start="20261005180811 +0200" stop="20261005194816 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
+    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
+  </programme>
+  <programme start="20261005194816 +0200" stop="20261005213022 +0200" channel="pluto_film_azione">
+    <title lang="it">Borning</title>
+    <desc lang="it">Un appassionato di auto sta preparando la sua Mustang gialla per competere in una gara illegale attraverso il paese. Tuttavia, sua figlia adolescente arriva inaspettatamente per trascorrere le vacanze con lui.</desc>
+  </programme>
+  <programme start="20261005213022 +0200" stop="20261006030000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261005213000 +0200" stop="20261006093000 +0200" channel="pluto_film_azione">
+  <programme start="20261006030000 +0200" stop="20261006150000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261006093000 +0200" stop="20261006153000 +0200" channel="pluto_film_azione">
+  <programme start="20261006150000 +0200" stop="20261006210000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261004093000 +0200" stop="20261004131315 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261004150000 +0200" stop="20261004194515 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261004131315 +0200" stop="20261004140215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Harper/Elimina</title>
-    <desc lang="it">Due fratelli Nietzscheani sono in lotta per un'arma capace di eliminare le funzioni cerebrali superiori.</desc>
-  </programme>
-  <programme start="20261004140215 +0200" stop="20261004145115 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il vortice si avvicina</title>
-    <desc lang="it">Tyr è ritornato dopo essersi unito ai Collector e chiede ai suoi ex compagni di fare la rotta dei secoli.</desc>
-  </programme>
-  <programme start="20261004145115 +0200" stop="20261004154015 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il mondo gira intorno a lei</title>
-    <desc lang="it">L'equipaggio affronta Tyr e ci sono degli ostaggi.</desc>
-  </programme>
-  <programme start="20261004154015 +0200" stop="20261004162915 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Canale verso il destino</title>
-    <desc lang="it">L’Andromeda si ritrova nel mezzo di una rivolta in carcere a seguito di una manovra sbagliata durante lo slipstream.</desc>
-  </programme>
-  <programme start="20261004162915 +0200" stop="20261004171815 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Meccanismo della mente</title>
-    <desc lang="it">L'equipaggio dell’Andromeda si offre volontario per scoprire chi ha ucciso un gruppo di scienziati.</desc>
-  </programme>
-  <programme start="20261004171815 +0200" stop="20261004180715 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Tempo quadrato</title>
-    <desc lang="it">Ashlocke torna indietro nel tempo per cercare di rendersi invincibile dando qualcosa al suo io più giovane, spingendo Brennan e Shalimar a seguirlo.</desc>
-  </programme>
-  <programme start="20261004180715 +0200" stop="20261004185615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Di chi sono questi boschi</title>
-    <desc lang="it">La squadra si dirige nella natura selvaggia per rintracciare una bestia assassina che sta prendendo di mira gli escursionisti.</desc>
-  </programme>
-  <programme start="20261004185615 +0200" stop="20261004194515 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il futuro rivelato</title>
-    <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
   </programme>
   <programme start="20261004194515 +0200" stop="20261004203415 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Nessun uomo lasciato indietro</title>
@@ -296,15 +256,47 @@
     <title lang="it">Mutant X: L'ascesa della stella nera</title>
     <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
   </programme>
-  <programme start="20261005151016 +0200" stop="20261005213000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261005151016 +0200" stop="20261005155916 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una tonalità più bianca di pallido</title>
+    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
+  </programme>
+  <programme start="20261005155916 +0200" stop="20261005164816 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Visione doppia</title>
+    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
+  </programme>
+  <programme start="20261005164816 +0200" stop="20261005173716 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Legami di sangue</title>
+    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
+  </programme>
+  <programme start="20261005173716 +0200" stop="20261005182616 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Alter Ego</title>
+    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
+  </programme>
+  <programme start="20261005182616 +0200" stop="20261005191516 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
+    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
+  </programme>
+  <programme start="20261005191516 +0200" stop="20261005200416 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Interfaccia</title>
+    <desc lang="it">Emma si riunisce con un vecchio amico che possiede poteri di teletrasporto. La riunione diventa però pericolosa quando Michelle cerca di consegnare Emma alla GSA.</desc>
+  </programme>
+  <programme start="20261005200416 +0200" stop="20261005205033 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Le piaghe di Chester's Hill</title>
+    <desc lang="it">Rebecca scopre un'infestazione di bruchi di farfalle monarca che minaccia di distruggere tutto ciò che viene coltivato sotto la cupola. Junior scopre il cadavere di Angie.</desc>
+  </programme>
+  <programme start="20261005205033 +0200" stop="20261005213652 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Fede e scienza</title>
+    <desc lang="it">Su Chester's Mill cade una pioggia rossa e acida. C'è chi la interpreta come un segno divino e chi l'affronta con gli strumenti della scienza. Norrie è sempre più sospettosa della misteriosa ragazza del bosco…</desc>
+  </programme>
+  <programme start="20261005213652 +0200" stop="20261006030000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261005213000 +0200" stop="20261006093000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261006030000 +0200" stop="20261006150000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261006093000 +0200" stop="20261006153000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261006150000 +0200" stop="20261006210000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>

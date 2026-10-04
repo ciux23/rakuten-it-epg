@@ -432,13 +432,9 @@
   <programme start="20261004135800 +0200" stop="20261004140000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
   </programme>
-  <programme start="20261004140000 +0200" stop="20261004143000 +0200" channel="Rai2.it">
+  <programme start="20261004140000 +0200" stop="20261004180500 +0200" channel="Rai2.it">
     <title lang="it">Europei di Ciclismo 2026 - Uomini Élite</title>
     <desc lang="it">Un percorso complessivo di 196 km con partenza da Lubiana, arrivo a Šencur e caratterizzato dalla salita di Mozjanca, uno strappo di 2,1 km con una pendenza media del 10,2%, da ripetere 5 volte.</desc>
-  </programme>
-  <programme start="20261004143000 +0200" stop="20261004180500 +0200" channel="Rai2.it">
-    <title lang="it">Domenica Sportiva Pomeriggio del 04/10/2026</title>
-    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
   <programme start="20261004180500 +0200" stop="20261004181000 +0200" channel="Rai2.it">
     <title lang="it">TG2 L.I.S.</title>
@@ -980,7 +976,7 @@
   </programme>
   <programme start="20261005211500 +0200" stop="20261006000000 +0200" channel="Rai3.it">
     <title lang="it">Lo stato delle cose - Puntata del 05/10/2026</title>
-    <desc lang="it">Massimo Giletti racconta i fatti, gli eventi e le storie al centro del dibattito pubblico.</desc>
+    <desc lang="it">Nella puntata de "Lo Stato delle cose", Michele Santoro interviene sulla più stretta attualità politica italiana e internazionale. Poi, il caso Garlasco continua a far discutere: al centro della puntata il generale Luciano Garofano e gli uomini del Ris di Parma. Perché le analisi negative sul DNA trovato sui pedali della bici di Alberto Stasi non risultano negli atti del processo? Fari puntati anche sul possibile rinvio a giudizio di Andrea Sempio. Le nuove intercettazioni parlano di video e immagini porno e aprono a nuovi interrogativi. In studio: Antonio De Rensis, Angela Taccia e Francesco Borgonovo. A seguire, prosegue l'inchiesta sulle presunte infiltrazioni mafiose in alcuni ospedali di Palermo: una nuova "gola profonda" rivela nomi e scenari inquietanti dietro le assunzioni nelle aziende che si occupano dei servizi di pulizia. Ospite il giornalista d'inchiesta e deputato regionale Ismaele La Vardera. Infine, l'inchiesta sull'attentato a Sigfrido Ranucci si arricchisce di un nuovo capitolo: i viaggi d'affari all'estero di Valter Lavitola e i suoi rapporti con un fantomatico intermediario. Ne parlano Nello Trocchia e Peter Gomez.</desc>
   </programme>
   <programme start="20261006000000 +0200" stop="20261006010000 +0200" channel="Rai3.it">
     <title lang="it">TG3 Linea Notte</title>
@@ -2771,75 +2767,79 @@
     <desc lang="it">La 79ª edizione della Coppa Agostoni parte e arriva a Lissone dopo 163,4 km. Passaggio chiave il circuito del Lissolo, da affrontare quattro volte, con le salite di Sirtori, Colle Brianza e Lissolo pronte a fare selezione prima del finale pianeggiante.</desc>
   </programme>
   <programme start="20261004234000 +0200" stop="20261005001500 +0200" channel="RaiSport.it">
-    <title lang="it">Ippica: Prix de l'Arc de Triomphe</title>
+    <title lang="it">Ippica - Prix de l'Arc de Triomphe 2026</title>
+    <desc lang="it">Prix de l'Arc de Triomphe</desc>
   </programme>
   <programme start="20261005001500 +0200" stop="20261005014500 +0200" channel="RaiSport.it">
-    <title lang="it">Judo. Mondiali Baku: Finali 1a giornata</title>
+    <title lang="it">Judo: Mondiali 2026 - 1a giornata (finali)</title>
+    <desc lang="it">Mondiali - 1a giornata (finali)</desc>
   </programme>
   <programme start="20261005014500 +0200" stop="20261005024500 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. Finale Coppa del Mondo </title>
-    <desc lang="it">Tiro con l'Arco. Finale Coppa del Mondo Hyundai Saltillo</desc>
+    <title lang="it">Tiro con l'Arco - Finale Coppa del Mondo 2026</title>
+    <desc lang="it">Finale Coppa del Mondo</desc>
   </programme>
   <programme start="20261005024500 +0200" stop="20261005060000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Campionati Europei Lubiana 202</title>
-    <desc lang="it">Ciclismo: Campionati Europei Lubiana 2026 Gara in linea Uomini Élite</desc>
+    <title lang="it">Europei di Ciclismo 2026 - Uomini Élite</title>
+    <desc lang="it">Un percorso complessivo di 196 km con partenza da Lubiana, arrivo a Šencur e caratterizzato dalla salita di Mozjanca, uno strappo di 2,1 km con una pendenza media del 10,2%, da ripetere 5 volte.</desc>
   </programme>
   <programme start="20261005060000 +0200" stop="20261005071000 +0200" channel="RaiSport.it">
     <title lang="it">Domenica Sportiva - Puntata del 04/10/2026</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
   <programme start="20261005071000 +0200" stop="20261005074500 +0200" channel="RaiSport.it">
-    <title lang="it">Ippica: Prix de l'Arc de Triomphe</title>
+    <title lang="it">Ippica - Prix de l'Arc de Triomphe 2026</title>
+    <desc lang="it">Prix de l'Arc de Triomphe</desc>
   </programme>
   <programme start="20261005074500 +0200" stop="20261005090500 +0200" channel="RaiSport.it">
-    <title lang="it">Equitazione: Coppa degli Assi 2026-Conco</title>
-    <desc lang="it">Equitazione: Coppa degli Assi 2026-Concorso Ippico Internazionale di Palermo</desc>
+    <title lang="it">Equitazione - Coppa degli Assi 2026</title>
+    <desc lang="it">Coppa degli Assi - Concorso Ippico Internazionale di Palermo</desc>
   </programme>
   <programme start="20261005090500 +0200" stop="20261005100500 +0200" channel="RaiSport.it">
-    <title lang="it">Rally Mondiale Italia Sardegna - gara 4</title>
+    <title lang="it">World Rally Championship 2026 - Rally Italia Sardegna (gara 4)</title>
+    <desc lang="it">Quarta sessione del Rally Italia Sardegna 2026, con gli equipaggi impegnati in nuove prove speciali sugli sterrati dell’isola e distacchi sempre più importanti per la classifica.</desc>
   </programme>
   <programme start="20261005100500 +0200" stop="20261005110500 +0200" channel="RaiSport.it">
-    <title lang="it">Rally Mondiale Italia Sardegna - gara 4</title>
-    <desc lang="it">Rally Mondiale Italia Sardegna - gara 4</desc>
+    <title lang="it">World Rally Championship 2026 - Rally Italia Sardegna (gara 5)</title>
+    <desc lang="it">Quinta sessione del Rally Italia Sardegna 2026, con le ultime prove della giornata pronte a definire ulteriormente le posizioni in vista del finale del rally.</desc>
   </programme>
   <programme start="20261005110500 +0200" stop="20261005130500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro Femminile: Techfind Serie </title>
-    <desc lang="it">Pallacanestro Femminile: Techfind Serie A1 2026/27 1a giornata: La Molisana Magnolia Campobasso - Ladies Libertas Livorno</desc>
+    <title lang="it">Basket: Serie A1 femminile 2026-2027 - 1a giornata: La Molisana Magnolia Campobasso - Ladies Libertas Rieti</title>
+    <desc lang="it">Nella 1ª giornata di Serie A1 femminile 2026/27, La Molisana Magnolia Campobasso affronta la Ladies Libertas Rieti.</desc>
   </programme>
   <programme start="20261005130500 +0200" stop="20261005140000 +0200" channel="RaiSport.it">
     <title lang="it">Coppa del Mondo di tiro con l'arco 2026 </title>
     <desc lang="it">Coppa del Mondo di tiro con l'arco 2026 Finali</desc>
   </programme>
   <programme start="20261005140000 +0200" stop="20261005150000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Trittico Lombardo Coppa Agosto</title>
-    <desc lang="it">Ciclismo: Trittico Lombardo Coppa Agostoni 2026</desc>
+    <title lang="it">Ciclismo - Coppa Agostoni 2026</title>
+    <desc lang="it">La 79ª edizione della Coppa Agostoni parte e arriva a Lissone dopo 163,4 km. Passaggio chiave il circuito del Lissolo, da affrontare quattro volte, con le salite di Sirtori, Colle Brianza e Lissolo pronte a fare selezione prima del finale pianeggiante.</desc>
   </programme>
   <programme start="20261005150000 +0200" stop="20261005164500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo. Coppa Bernocchi</title>
-    <desc lang="it">Ciclismo. Coppa Bernocchi</desc>
+    <title lang="it">Ciclismo - Coppa Bernocchi 2026</title>
+    <desc lang="it">Edizione 2026 della Coppa Bernocchi, secondo appuntamento del cosiddetto Trittico Lombardo.</desc>
   </programme>
   <programme start="20261005164500 +0200" stop="20261005173500 +0200" channel="RaiSport.it">
-    <title lang="it">Judo. Mondiali Baku: Finali 2a giornata</title>
-    <desc lang="it">Judo. Mondiali Baku: Finali 2a giornata</desc>
+    <title lang="it">Judo: Campionati Mondiali Baku 2026</title>
+    <desc lang="it">Judo: Campionati Mondiali Baku 2026 - Finali - 2a giornata</desc>
   </programme>
   <programme start="20261005173500 +0200" stop="20261005174500 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261005174500 +0200" stop="20261005193000 +0200" channel="RaiSport.it">
-    <title lang="it">World Triathlon Cup Roma. Staffetta Mista</title>
-    <desc lang="it">World Triathlon Cup Roma. Staffetta Mista</desc>
+    <title lang="it">World Triathlon Cup 2026 - Staffetta Mista</title>
+    <desc lang="it">World Triathlon Cup - Staffetta Mista</desc>
   </programme>
   <programme start="20261005193000 +0200" stop="20261005203000 +0200" channel="RaiSport.it">
-    <title lang="it">Arrampicata Sportiva. C.to italiano Paraclimbing Arco</title>
-    <desc lang="it">Arrampicata Sportiva. C.to italiano Paraclimbing Arco</desc>
+    <title lang="it">Arrampicata Sportiva - Campionato italiano Paraclimbing 2026</title>
+    <desc lang="it">Campionato italiano Paraclimbing</desc>
   </programme>
   <programme start="20261005203000 +0200" stop="20261005210500 +0200" channel="RaiSport.it">
-    <title lang="it">Orientamento MTB. Coppa Italia Udine - Middle e Long</title>
-    <desc lang="it">Orientamento MTB. Coppa Italia Udine - Middle e Long</desc>
+    <title lang="it">Ciclismo MTB: Coppa Italia di Mountain Bike Orienteering 2026 - Middle e Long</title>
+    <desc lang="it">Coppa Italia di Mountain Bike Orienteering - Middle e Long</desc>
   </programme>
   <programme start="20261005210500 +0200" stop="20261006001000 +0200" channel="RaiSport.it">
-    <title lang="it">Motocross. Monster Energy Motocross dell</title>
-    <desc lang="it">Motocross. Monster Energy Motocross delle Nazioni</desc>
+    <title lang="it">Motocross delle Nazioni 2026</title>
+    <desc lang="it">Motocross delle Nazioni</desc>
   </programme>
   <programme start="20261006001000 +0200" stop="20261006011500 +0200" channel="RaiSport.it">
     <title lang="it">Bordocampo</title>
