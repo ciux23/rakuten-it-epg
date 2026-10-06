@@ -12,41 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261005130000 +0200" stop="20261005153635 +0200" channel="pluto_film_tv">
+  <programme start="20261006013000 +0200" stop="20261006054140 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261005153635 +0200" stop="20261005172335 +0200" channel="pluto_film_tv">
-    <title lang="it">Pressione in cabina</title>
-    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
-  </programme>
-  <programme start="20261005172335 +0200" stop="20261005185815 +0200" channel="pluto_film_tv">
-    <title lang="it">Uno spostato sotto tiro</title>
-    <desc lang="it">Quella che doveva essere una fuga romantica si trasforma in una serie di disastri quando la fidanzata di Michael lo abbandona nel deserto, dove un adolescente gli ruba l'auto e viene preso in ostaggio durante una rapina al locale Sip and Zip.</desc>
-  </programme>
-  <programme start="20261005185815 +0200" stop="20261005210015 +0200" channel="pluto_film_tv">
-    <title lang="it">Un padre in prestito</title>
-    <desc lang="it">Graham Holt è uno scapolo di 42 anni, che vuole adottare un figlio di 10 anni ed è direttore dell'ufficio postale in un villaggio del Galles.</desc>
-  </programme>
-  <programme start="20261005210015 +0200" stop="20261005224915 +0200" channel="pluto_film_tv">
-    <title lang="it">Fusi di testa 2 - Waynestock</title>
-    <desc lang="it">Avendo ottenuto lo status di divinità come personalità della tv notturna, Wayne (Mike Myers) affronta la domanda che ha afflitto l'uomo per secoli: c'è vita dopo la tv via cavo?</desc>
-  </programme>
-  <programme start="20261005224915 +0200" stop="20261006004205 +0200" channel="pluto_film_tv">
-    <title lang="it">The Dead Zone</title>
-    <desc lang="it">(Christopher Walken) si sveglia da un coma di cinque anni e scopre di poter vedere gli eventi del futuro. Tuttavia, il suo nuovo dono trasforma le persone contro di lui e poi lo spinge in una missione per salvare vite umane.</desc>
-  </programme>
-  <programme start="20261006004205 +0200" stop="20261006023005 +0200" channel="pluto_film_tv">
-    <title lang="it">Vendetta - Una storia d'amore</title>
-    <desc lang="it">Un veterano della Guerra del Golfo (Nicolas Cage), decide di vendicare una donna che dopo essere stata stuprata, ha visto i suoi aggressori rimessi in libertà.</desc>
-  </programme>
-  <programme start="20261006023005 +0200" stop="20261006035705 +0200" channel="pluto_film_tv">
-    <title lang="it">Hazard Jack</title>
-    <desc lang="it">Un gruppo di ragazzi del college decide di passare un fine settimana di divertimento sfrenato tra paintball, alcol e ragazze disinibite.</desc>
-  </programme>
-  <programme start="20261006035705 +0200" stop="20261006054140 +0200" channel="pluto_film_tv">
-    <title lang="it">Gamer</title>
-    <desc lang="it">In un futuro gioco di controllo mentale, i condannati a morte sono costretti a combattere in un ambiente senza speranza. Il condannato Kable è controllato da Simon e deve sopravvivere a trenta sessioni per essere liberato.</desc>
   </programme>
   <programme start="20261006054140 +0200" stop="20261006073155 +0200" channel="pluto_film_tv">
     <title lang="it">La Rivoluzione di Charlie</title>
@@ -76,49 +44,49 @@
     <title lang="it">Fusi di testa 2 - Waynestock</title>
     <desc lang="it">Avendo ottenuto lo status di divinità come personalità della tv notturna, Wayne (Mike Myers) affronta la domanda che ha afflitto l'uomo per secoli: c'è vita dopo la tv via cavo?</desc>
   </programme>
-  <programme start="20261006185839 +0200" stop="20261007010000 +0200" channel="pluto_film_tv">
+  <programme start="20261006185839 +0200" stop="20261006210039 +0200" channel="pluto_film_tv">
+    <title lang="it">Un padre in prestito</title>
+    <desc lang="it">Graham Holt è uno scapolo di 42 anni, che vuole adottare un figlio di 10 anni ed è direttore dell'ufficio postale in un villaggio del Galles.</desc>
+  </programme>
+  <programme start="20261006210039 +0200" stop="20261006223839 +0200" channel="pluto_film_tv">
+    <title lang="it">Love Guru</title>
+    <desc lang="it">Un'esilarante commedia su un americano cresciuto in India da dei guru che torna negli U.S.A. in età avanzata per entrare nel business dell'auto-aiuto.</desc>
+  </programme>
+  <programme start="20261006223839 +0200" stop="20261007003129 +0200" channel="pluto_film_tv">
+    <title lang="it">The Dead Zone</title>
+    <desc lang="it">(Christopher Walken) si sveglia da un coma di cinque anni e scopre di poter vedere gli eventi del futuro. Tuttavia, il suo nuovo dono trasforma le persone contro di lui e poi lo spinge in una missione per salvare vite umane.</desc>
+  </programme>
+  <programme start="20261007003129 +0200" stop="20261007021701 +0200" channel="pluto_film_tv">
+    <title lang="it">Il Monaco</title>
+    <desc lang="it">L'ascesa e caduta di Fratello Ambrosio, predicatore cappuccino del XVII secolo a Madrid. Cresciuto nella dottrina cappuccina, diventa famoso, ma l'arrivo di un misterioso monaco porta sconvolgimenti e rivela oscuri segreti. Tratto dal romanzo gotico.</desc>
+  </programme>
+  <programme start="20261007021701 +0200" stop="20261007040701 +0200" channel="pluto_film_tv">
+    <title lang="it">Nella mente dell'assassino</title>
+    <desc lang="it">Una serie di brutali omicidi mette in allarme l'intera città. Gli omicidi sembrano occasionali, ma il ritratto dell'assassino coincide con quello cupo ed inquietante di un serial killer ricercato da tempo.</desc>
+  </programme>
+  <programme start="20261007040701 +0200" stop="20261007060401 +0200" channel="pluto_film_tv">
+    <title lang="it">L'infiltrato - 10th and Wolf</title>
+    <desc lang="it">Un sergente della Marina scopre i legami della propria famiglia con il crimine organizzato. L'unica cosa che l'uomo può fare è tentare di salvare il fratello e il cugino. Un thriller ad alta tensione con il grande Dennis Hopper.</desc>
+  </programme>
+  <programme start="20261007060401 +0200" stop="20261007073301 +0200" channel="pluto_film_tv">
+    <title lang="it">Maddalena Zero In Condotta</title>
+    <desc lang="it">Spassosa commedia diretta dal maestro Vittorio De Sica. Elisa, una giovane insegnante, scrive lettere romantiche al signor Hartman, personaggio immaginario di un romanzo. La studentessa Maddalena, trovata una lettera, decide di spedirla al vero Hartman...</desc>
+  </programme>
+  <programme start="20261007073301 +0200" stop="20261007133000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007010000 +0200" stop="20261007130000 +0200" channel="pluto_film_tv">
+  <programme start="20261007133000 +0200" stop="20261008013000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007130000 +0200" stop="20261007190000 +0200" channel="pluto_film_tv">
+  <programme start="20261008013000 +0200" stop="20261008073000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261005130000 +0200" stop="20261005160427 +0200" channel="pluto_film_azione">
+  <programme start="20261006013000 +0200" stop="20261006050842 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261005160427 +0200" stop="20261005180811 +0200" channel="pluto_film_azione">
-    <title lang="it">Lo Straniero della valle oscura</title>
-    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
-  </programme>
-  <programme start="20261005180811 +0200" stop="20261005194816 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
-    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
-  </programme>
-  <programme start="20261005194816 +0200" stop="20261005213022 +0200" channel="pluto_film_azione">
-    <title lang="it">Borning</title>
-    <desc lang="it">Un appassionato di auto sta preparando la sua Mustang gialla per competere in una gara illegale attraverso il paese. Tuttavia, sua figlia adolescente arriva inaspettatamente per trascorrere le vacanze con lui.</desc>
-  </programme>
-  <programme start="20261005213022 +0200" stop="20261005231642 +0200" channel="pluto_film_azione">
-    <title lang="it">Borning 2 - Corsa Tra I Ghiacci</title>
-    <desc lang="it">Dopo due anni di prigione per corse illegali, Roy vuole rifarsi e fare da modello a sua figlia Nina. Rifiuta di correre ancora, ma quando scopre che Nina gareggerà col fidanzato, cambia idea e si prepara a sfidare di nuovo la strada.</desc>
-  </programme>
-  <programme start="20261005231642 +0200" stop="20261006012142 +0200" channel="pluto_film_azione">
-    <title lang="it">Nome in codice: Top Gun</title>
-    <desc lang="it">Il pilota dell'Aeronautica sudcoreana Tae hun viene cacciato dall divisione speciale Black Eagles per essere trasferito ad un'unità di combattimento dove entra immediatamente in conflitto con il primo pilota Cheoul hui.</desc>
-  </programme>
-  <programme start="20261006012142 +0200" stop="20261006031742 +0200" channel="pluto_film_azione">
-    <title lang="it">Transsiberian</title>
-    <desc lang="it">Roy e Jessie cercano di salvare il loro matrimonio partendo per un viaggio sulla linea ferroviaria Transiberiana. Ma a bordo del treno salgono alcuni spietati criminali in fuga e molte passeggeri si rivelano diversi da come si erano presentati.</desc>
-  </programme>
-  <programme start="20261006031742 +0200" stop="20261006050842 +0200" channel="pluto_film_azione">
-    <title lang="it">Pazzi per fucili</title>
-    <desc lang="it">Una teenager da quattro soldi (Drew Barrymore) uccide il suo patrigno che commette violenzs sessuali, aiuta il suo amico di penna riformato e in prigione a venire liberato per buona condotta e se le da' a gambe.</desc>
   </programme>
   <programme start="20261006050842 +0200" stop="20261006065642 +0200" channel="pluto_film_azione">
     <title lang="it">Vendetta - Una storia d'amore</title>
@@ -152,77 +120,49 @@
     <title lang="it">Speed Kills</title>
     <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
   </programme>
-  <programme start="20261006195651 +0200" stop="20261007010000 +0200" channel="pluto_film_azione">
+  <programme start="20261006195651 +0200" stop="20261006213051 +0200" channel="pluto_film_azione">
+    <title lang="it">Bad blood - Debito di sangue</title>
+    <desc lang="it">Hannah è bionda, carina e incastrata in una vita buia e sporca, fatta di droghe, spaccio e illegalità in tutte le sue declinazioni. Sulle sue spalle, grava la responsabilità dell'intera famiglia, coinvolta in affari illeciti e amori impossibili.</desc>
+  </programme>
+  <programme start="20261006213051 +0200" stop="20261006232051 +0200" channel="pluto_film_azione">
+    <title lang="it">Striscia Vincente</title>
+    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
+  </programme>
+  <programme start="20261006232051 +0200" stop="20261007004913 +0200" channel="pluto_film_azione">
+    <title lang="it">Trigger Point</title>
+    <desc lang="it">Shaw, ex membro dei servizi segreti d'élite, si trova in una tranquilla cittadina americana. Viene rintracciato da un vecchio capo che lo costringe a tornare in azione dopo che i suoi ex colleghi sono stati uccisi da un misterioso assassino.</desc>
+  </programme>
+  <programme start="20261007004913 +0200" stop="20261007025113 +0200" channel="pluto_film_azione">
+    <title lang="it">Il giorno dell'ira</title>
+    <desc lang="it">XVI Secolo. Nel mezzo dell’Inquisizione spagnola lo sceriffo Ruy de Mendoza ha il compito di risolvere una serie di misteriosi e brutali omicidi, ma trova sulla sua strada un oscuro spadaccino disposto a tutto pur di impedire le indagini.</desc>
+  </programme>
+  <programme start="20261007025113 +0200" stop="20261007042702 +0200" channel="pluto_film_azione">
+    <title lang="it">1% - I fuorilegge</title>
+    <desc lang="it">Ambientato nel mondo delle bande di motociclisti criminali, il film segue le vicende del nuovo capo di una gang di motociclisti costretto a tradire il proprio superiore per salvare la vita del fratello.</desc>
+  </programme>
+  <programme start="20261007042702 +0200" stop="20261007055858 +0200" channel="pluto_film_azione">
+    <title lang="it">Tainted</title>
+    <desc lang="it">Lance è un ex membro della Fratellanza ariana uscito di prigione. Vorrebbe vivere tranquillo ma la mafia russa lo avvicina per chiedergli un ultimo lavoro.</desc>
+  </programme>
+  <programme start="20261007055858 +0200" stop="20261007073658 +0200" channel="pluto_film_azione">
+    <title lang="it">Punto di non ritorno</title>
+    <desc lang="it">Quando sua moglie e sua figlia vengono uccise senza motivo, un professore universitario in lutto si ritrova coinvolto in una guerra sanguinaria tra la criminalità organizzata e un gruppo di vigilantes.</desc>
+  </programme>
+  <programme start="20261007073658 +0200" stop="20261007133000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007010000 +0200" stop="20261007130000 +0200" channel="pluto_film_azione">
+  <programme start="20261007133000 +0200" stop="20261008013000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007130000 +0200" stop="20261007190000 +0200" channel="pluto_film_azione">
+  <programme start="20261008013000 +0200" stop="20261008073000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261005130000 +0200" stop="20261005164816 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261006013000 +0200" stop="20261006054947 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261005164816 +0200" stop="20261005173716 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Legami di sangue</title>
-    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
-  </programme>
-  <programme start="20261005173716 +0200" stop="20261005182616 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Alter Ego</title>
-    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
-  </programme>
-  <programme start="20261005182616 +0200" stop="20261005191516 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
-    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
-  </programme>
-  <programme start="20261005191516 +0200" stop="20261005200416 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Interfaccia</title>
-    <desc lang="it">Emma si riunisce con un vecchio amico che possiede poteri di teletrasporto. La riunione diventa però pericolosa quando Michelle cerca di consegnare Emma alla GSA.</desc>
-  </programme>
-  <programme start="20261005200416 +0200" stop="20261005205033 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Le piaghe di Chester's Hill</title>
-    <desc lang="it">Rebecca scopre un'infestazione di bruchi di farfalle monarca che minaccia di distruggere tutto ciò che viene coltivato sotto la cupola. Junior scopre il cadavere di Angie.</desc>
-  </programme>
-  <programme start="20261005205033 +0200" stop="20261005213652 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Fede e scienza</title>
-    <desc lang="it">Su Chester's Mill cade una pioggia rossa e acida. C'è chi la interpreta come un segno divino e chi l'affronta con gli strumenti della scienza. Norrie è sempre più sospettosa della misteriosa ragazza del bosco…</desc>
-  </programme>
-  <programme start="20261005213652 +0200" stop="20261005222232 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Rivelazione</title>
-    <desc lang="it">Rebecca prepara un virus ricavato dall'influenza suina da diffondere tra la popolazione di Chester's Mill. Pensando che Barbie non sia più suo alleato, Julia chiede aiuto a Sam per contrastare il piano...</desc>
-  </programme>
-  <programme start="20261005222232 +0200" stop="20261005231147 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Riconciliazione</title>
-    <desc lang="it">Julia cerca di ridistribuire le scorte di cibo, ma solo metà di Chester's Mill è con lei. Il processo a Big Jim e Rebecca rischia di provocare una mini-guerra civile…</desc>
-  </programme>
-  <programme start="20261005231147 +0200" stop="20261006000147 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'aldilà</title>
-    <desc lang="it">Quando l'investigatore privato di Chicago, Jim Brennan, viene assassinato con mezzi soprannaturali, Harry deve collaborare con l'assistente di Brennan per trovare l'assassino.</desc>
-  </programme>
-  <programme start="20261006000147 +0200" stop="20261006005147 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Un caso riaperto</title>
-    <desc lang="it">Un'avventura di una notte si rivela letale quando la vecchia nemesi di Harry rifà la sua comparsa.</desc>
-  </programme>
-  <programme start="20261006005147 +0200" stop="20261006014147 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'Incantesimo</title>
-    <desc lang="it">Morgan e l'Anziana Mai si rifugiano, con riluttanza, da Harry.</desc>
-  </programme>
-  <programme start="20261006014147 +0200" stop="20261006023147 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La seconda chance</title>
-    <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
-  </programme>
-  <programme start="20261006023147 +0200" stop="20261006041047 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Lost Room: La Chiave e l'Orologio</title>
-    <desc lang="it">Il detective Joe Miller indaga su un caso riguardante due uomini trovati completamente bruciati in un banco dei pegni. Apparentemente, c'entrano una strana chiave e un affare andato male.</desc>
-  </programme>
-  <programme start="20261006041047 +0200" stop="20261006054947 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Lost Room: Il Pettine e la Scatola</title>
-    <desc lang="it">Joe Miller è in fuga dopo essere stato incolpato per l'omicidio di un collega. Si allea con Jennifer Bloom, membro della Legione, per trovare l'Oggetto che lo aiuterà a ritrovare la figlia.</desc>
   </programme>
   <programme start="20261006054947 +0200" stop="20261006063527 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Under The Dome: Rivelazione</title>
@@ -276,15 +216,71 @@
     <title lang="it">The Lost Room: Il Pettine e la Scatola</title>
     <desc lang="it">Joe Miller è in fuga dopo essere stato incolpato per l'omicidio di un collega. Si allea con Jennifer Bloom, membro della Legione, per trovare l'Oggetto che lo aiuterà a ritrovare la figlia.</desc>
   </programme>
-  <programme start="20261006180342 +0200" stop="20261007010000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261006180342 +0200" stop="20261006194242 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Lost Room: L'Occhio e l'Oggetto Primario</title>
+    <desc lang="it">In questo finale ad alta tensione di The Lost Room, Joe si serve di tutte le sue risorse e alleanze per trovare l'Oggetto Primario e salvare sua figlia.</desc>
+  </programme>
+  <programme start="20261006194242 +0200" stop="20261006202822 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Rivelazione</title>
+    <desc lang="it">Rebecca prepara un virus ricavato dall'influenza suina da diffondere tra la popolazione di Chester's Mill. Pensando che Barbie non sia più suo alleato, Julia chiede aiuto a Sam per contrastare il piano...</desc>
+  </programme>
+  <programme start="20261006202822 +0200" stop="20261006211737 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Riconciliazione</title>
+    <desc lang="it">Julia cerca di ridistribuire le scorte di cibo, ma solo metà di Chester's Mill è con lei. Il processo a Big Jim e Rebecca rischia di provocare una mini-guerra civile…</desc>
+  </programme>
+  <programme start="20261006211737 +0200" stop="20261006220322 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Nel buio</title>
+    <desc lang="it">Junior, Sam e Barbie scendono nella galleria che si apre nell'armadietto 18-21, in cerca di Lyle. Restano intrappolati da un crollo, e mentre Julia e Rebecca cercano un sistema per farli uscire, i due finiscono davanti a un baratro senza fondo…</desc>
+  </programme>
+  <programme start="20261006220322 +0200" stop="20261006225035 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Tornando a casa</title>
+    <desc lang="it">Barbie decide di indagare e di calarsi all'interno del misterioso tunnel senza apparente fine che ha inghiottito Sam. Una volta addentratosi, una forza magnetica lo spinge verso il basso.</desc>
+  </programme>
+  <programme start="20261006225035 +0200" stop="20261006235027 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261006235027 +0200" stop="20261007004907 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261007004907 +0200" stop="20261007014352 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261007014352 +0200" stop="20261007023934 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261007023934 +0200" stop="20261007033550 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261007033550 +0200" stop="20261007043311 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Blackout</title>
+    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
+  </programme>
+  <programme start="20261007043311 +0200" stop="20261007061211 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Lost Room: L'Occhio e l'Oggetto Primario</title>
+    <desc lang="it">In questo finale ad alta tensione di The Lost Room, Joe si serve di tutte le sue risorse e alleanze per trovare l'Oggetto Primario e salvare sua figlia.</desc>
+  </programme>
+  <programme start="20261007061211 +0200" stop="20261007065756 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Nel buio</title>
+    <desc lang="it">Junior, Sam e Barbie scendono nella galleria che si apre nell'armadietto 18-21, in cerca di Lyle. Restano intrappolati da un crollo, e mentre Julia e Rebecca cercano un sistema per farli uscire, i due finiscono davanti a un baratro senza fondo…</desc>
+  </programme>
+  <programme start="20261007065756 +0200" stop="20261007074509 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Tornando a casa</title>
+    <desc lang="it">Barbie decide di indagare e di calarsi all'interno del misterioso tunnel senza apparente fine che ha inghiottito Sam. Una volta addentratosi, una forza magnetica lo spinge verso il basso.</desc>
+  </programme>
+  <programme start="20261007074509 +0200" stop="20261007133000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007010000 +0200" stop="20261007130000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261007133000 +0200" stop="20261008013000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261007130000 +0200" stop="20261007190000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261008013000 +0200" stop="20261008073000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
