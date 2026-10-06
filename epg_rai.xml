@@ -145,14 +145,18 @@
   <programme start="20261006235500 +0200" stop="20261007000000 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
   </programme>
-  <programme start="20261007000000 +0200" stop="20261007012500 +0200" channel="Rai1.it">
+  <programme start="20261007000000 +0200" stop="20261007012000 +0200" channel="Rai1.it">
     <title lang="it">Porta a Porta - Puntata del 06/10/2026</title>
     <desc lang="it">Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società.</desc>
   </programme>
-  <programme start="20261007012500 +0200" stop="20261007013000 +0200" channel="Rai1.it">
+  <programme start="20261007012000 +0200" stop="20261007012500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261007013000 +0200" stop="20261007024500 +0200" channel="Rai1.it">
+  <programme start="20261007012500 +0200" stop="20261007015000 +0200" channel="Rai1.it">
+    <title lang="it">Mezzanotte e dintorni: Paolo Valenti - Puntata del 06/10/2026 </title>
+    <desc lang="it">Percorsi umani e professionali raccontati da Gigi Marzullo.</desc>
+  </programme>
+  <programme start="20261007015000 +0200" stop="20261007024500 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 06/10/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
