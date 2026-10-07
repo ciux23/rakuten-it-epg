@@ -3338,17 +3338,29 @@
     <title lang="it">Europei di Ciclismo 2026 - Cronometro Uomini Élite</title>
     <desc lang="it">Agli Europei di Ciclismo 2026 i migliori specialisti continentali si sfidano nella cronometro individuale Uomini Elite. Una prova contro il tempo che assegna la maglia di campione europeo.</desc>
   </programme>
-  <programme start="20261007174000 +0200" stop="20261007191000 +0200" channel="RaiSport.it">
+  <programme start="20261007174000 +0200" stop="20261007185000 +0200" channel="RaiSport.it">
     <title lang="it">Judo: Mondiali 2026 - 4a giornata (finali)</title>
     <desc lang="it">Mondiali - 4a giornata (finali)</desc>
   </programme>
-  <programme start="20261007191000 +0200" stop="20261007203500 +0200" channel="RaiSport.it">
+  <programme start="20261007185000 +0200" stop="20261007191500 +0200" channel="RaiSport.it">
+    <title lang="it">Corsa in montagna La Direttissima </title>
+    <desc lang="it">.</desc>
+  </programme>
+  <programme start="20261007191500 +0200" stop="20261007203500 +0200" channel="RaiSport.it">
     <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 1a giornata: Finali Uomini e Donne</title>
     <desc lang="it">Prima giornata della Coppa del Mondo di nuoto in vasca corta 2026, con le finali maschili e femminili che assegnano i primi successi della tappa.</desc>
   </programme>
-  <programme start="20261007203500 +0200" stop="20261007222000 +0200" channel="RaiSport.it">
+  <programme start="20261007203500 +0200" stop="20261007212500 +0200" channel="RaiSport.it">
     <title lang="it">Europei di Ciclismo 2026 - Cronometro Donne Élite</title>
     <desc lang="it">Agli Europei di Ciclismo 2026 le migliori specialiste continentali si sfidano nella cronometro individuale Donne Elite. Una prova di 22 km contro il tempo che assegna la maglia di campionessa europea.</desc>
+  </programme>
+  <programme start="20261007212500 +0200" stop="20261007215500 +0200" channel="RaiSport.it">
+    <title lang="it">Ippica | Prix de l'Arc de Triomphe </title>
+    <desc lang="it">.</desc>
+  </programme>
+  <programme start="20261007215500 +0200" stop="20261007222000 +0200" channel="RaiSport.it">
+    <title lang="it">Ski roll finale coppa del mondo </title>
+    <desc lang="it">.</desc>
   </programme>
   <programme start="20261007222000 +0200" stop="20261007234500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo - Gran Fondo Tre Valli Donne 2026</title>
@@ -3417,11 +3429,11 @@
     <title lang="it">Ippica - Gran Premio Merano 2026</title>
     <desc lang="it">All'Ippodromo di Maia va in scena l'87ª edizione del Gran Premio Merano Alto Adige, uno degli appuntamenti più prestigiosi dell'ippica italiana.</desc>
   </programme>
-  <programme start="20261008183000 +0200" stop="20261008192000 +0200" channel="RaiSport.it">
+  <programme start="20261008183000 +0200" stop="20261008190000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo - LaRoste Gravel 2026</title>
     <desc lang="it">A Lignano Sabbiadoro va in scena LaRoste Gravel 2026, prova inserita nel calendario nazionale FCI. Un circuito pianeggiante di circa 60 km tra Lignano, Latisana e Precenicco, su strade gravel e secondarie, da ripetere una o due volte in base alla categoria.</desc>
   </programme>
-  <programme start="20261008192000 +0200" stop="20261008200000 +0200" channel="RaiSport.it">
+  <programme start="20261008190000 +0200" stop="20261008200000 +0200" channel="RaiSport.it">
     <title lang="it">Radiocorsa del 08/10/2026</title>
     <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
@@ -3445,15 +3457,15 @@
     <title lang="it">Orientamento: MTB. Coppa Italia Udine - Middle e Long</title>
     <desc lang="it">Orientamento: MTB. Coppa Italia Udine - Middle e Long</desc>
   </programme>
-  <programme start="20261009001500 +0200" stop="20261009005000 +0200" channel="RaiSport.it">
+  <programme start="20261009000000 +0200" stop="20261009003000 +0200" channel="RaiSport.it">
     <title lang="it">Reparto Corse del 08/10/2026</title>
     <desc lang="it">Settimanale di motori di RaiSport: le pagelle della F1, la tecnica delle monoposto di F1 in 3D, interviste ai piloti, ultime notizie e commenti sulla MotoGP. E poi Motocross, Rally Mondiale ed Italiano, Campionato Italiano GT, inchieste, approfondimenti.</desc>
   </programme>
-  <programme start="20261009005000 +0200" stop="20261009024500 +0200" channel="RaiSport.it">
+  <programme start="20261009003000 +0200" stop="20261009023000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo - Gran Piemonte 2026</title>
     <desc lang="it">La 110ª edizione del Gran Piemonte parte da Asti e arriva a Bra dopo 185 km. Un percorso ondulato e selettivo, con le salite di Manera e La Morra e un finale impegnativo verso il traguardo.</desc>
   </programme>
-  <programme start="20261009024500 +0200" stop="20261009040000 +0200" channel="RaiSport.it">
+  <programme start="20261009023000 +0200" stop="20261009040000 +0200" channel="RaiSport.it">
     <title lang="it">Judo: Mondiali 2026 - 5a giornata (finali)</title>
     <desc lang="it">Mondiali - 5a giornata (finali)</desc>
   </programme>
