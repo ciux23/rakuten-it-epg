@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261008110000 +0200" stop="20261008141040 +0200" channel="pluto_film_tv">
+  <programme start="20261008170000 +0200" stop="20261008210045 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261008141040 +0200" stop="20261008160840 +0200" channel="pluto_film_tv">
-    <title lang="it">Una vita quasi perfetta</title>
-    <desc lang="it">Lanie Kerrigan intervista un barbone con poteri paranormali che prevede che morirà la settimana successiva. Tra l'anticipazione di questa premonizione e una ritrovata scintilla d'amore, Lanie diventa un 'frullatore' di emozioni.</desc>
-  </programme>
-  <programme start="20261008160840 +0200" stop="20261008173201 +0200" channel="pluto_film_tv">
-    <title lang="it">10 cose di noi</title>
-    <desc lang="it">Un famoso attore di Hollywood in un supermercato per studiare un nuovo personaggio per un’audizione si ritrova appiedato e chiederà un passaggio all' esuberante cassiera Scarlet.</desc>
-  </programme>
-  <programme start="20261008173201 +0200" stop="20261008190245 +0200" channel="pluto_film_tv">
-    <title lang="it">Boulevard</title>
-    <desc lang="it">Nolan Mack è vicino alla pensione e riceve una promozione per il suo costante impegno nel lavoro. È un marito devoto, intrappolato in un matrimonio di convenienza, finché l’incontro con un giovane ragazzo non lo obbliga a fare i conti con sé stesso.</desc>
-  </programme>
-  <programme start="20261008190245 +0200" stop="20261008210045 +0200" channel="pluto_film_tv">
-    <title lang="it">Una vita quasi perfetta</title>
-    <desc lang="it">Lanie Kerrigan intervista un barbone con poteri paranormali che prevede che morirà la settimana successiva. Tra l'anticipazione di questa premonizione e una ritrovata scintilla d'amore, Lanie diventa un 'frullatore' di emozioni.</desc>
   </programme>
   <programme start="20261008210045 +0200" stop="20261008231845 +0200" channel="pluto_film_tv">
     <title lang="it">Sogno di una notte di mezza estate</title>
@@ -80,37 +64,33 @@
     <title lang="it">Sogno di una notte di mezza estate</title>
     <desc lang="it">Ermia è innamorata di Lisandro, ma suo padre vorrebbe che sposasse Demetrio che, invece ama Elena. A rimescolare il tutto con filtri magici e altre diavolerie c'è anche il folletto Puck.</desc>
   </programme>
-  <programme start="20261009185624 +0200" stop="20261009230000 +0200" channel="pluto_film_tv">
+  <programme start="20261009185624 +0200" stop="20261009210024 +0200" channel="pluto_film_tv">
+    <title lang="it">Bogus - L'Amico Immaginario</title>
+    <desc lang="it">Quando Albert va a vivere con Harriet Franklin, l'amica d'infanzia ferocemente indipendente di sua madre, non arriva da solo.</desc>
+  </programme>
+  <programme start="20261009210024 +0200" stop="20261009224335 +0200" channel="pluto_film_tv">
+    <title lang="it">La storia infinita</title>
+    <desc lang="it">Un ragazzino di 10 anni, prende un libro intitolato La storia infinita in una vecchia libreria, e inizia a sfogliarlo. Legge la storia di Fantasia, una terra magica governata dall'Imperatrice Bambina e abitata da tutti i tipi di creature meravigliose.</desc>
+  </programme>
+  <programme start="20261009224335 +0200" stop="20261010002835 +0200" channel="pluto_film_tv">
+    <title lang="it">Plus One</title>
+    <desc lang="it">Tre amici vanno alla più grande festa dell’anno. Mentre la festa precipita nel caos i tre vedranno la loro amicizia messa in discussione e le loro stesse vite in pericolo.</desc>
+  </programme>
+  <programme start="20261010002835 +0200" stop="20261010050000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261009230000 +0200" stop="20261010110000 +0200" channel="pluto_film_tv">
+  <programme start="20261010050000 +0200" stop="20261010170000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261010110000 +0200" stop="20261010170000 +0200" channel="pluto_film_tv">
+  <programme start="20261010170000 +0200" stop="20261010230000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261008110000 +0200" stop="20261008135439 +0200" channel="pluto_film_azione">
+  <programme start="20261008170000 +0200" stop="20261008213039 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261008135439 +0200" stop="20261008160239 +0200" channel="pluto_film_azione">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
-  </programme>
-  <programme start="20261008160239 +0200" stop="20261008175439 +0200" channel="pluto_film_azione">
-    <title lang="it">Furious Speed - Curve Pericolose</title>
-    <desc lang="it">Mikel, fidanzato con la ricca ereditiera di una famiglia di gioiellieri, non riesce a resistere al fascino della bella cameriera Ari che, dopo aver trascorso una notte di fuoco insieme, lo trascina nel mondo delle corse clandestine.</desc>
-  </programme>
-  <programme start="20261008175439 +0200" stop="20261008193839 +0200" channel="pluto_film_azione">
-    <title lang="it">Soldato di ventura</title>
-    <desc lang="it">Un mercenario viene ingaggiato per portare un professore in un'area desolata dove è precipitato un MIG russo, affinché il professore possa controllare l'aereo e portarlo via. Tuttavia, i russi non vogliono che nessuno metta le mani sull'aereo.</desc>
-  </programme>
-  <programme start="20261008193839 +0200" stop="20261008213039 +0200" channel="pluto_film_azione">
-    <title lang="it">Furious Speed - Curve Pericolose</title>
-    <desc lang="it">Mikel, fidanzato con la ricca ereditiera di una famiglia di gioiellieri, non riesce a resistere al fascino della bella cameriera Ari che, dopo aver trascorso una notte di fuoco insieme, lo trascina nel mondo delle corse clandestine.</desc>
   </programme>
   <programme start="20261008213039 +0200" stop="20261008233839 +0200" channel="pluto_film_azione">
     <title lang="it">Biker Boyz</title>
@@ -156,49 +136,33 @@
     <title lang="it">Crypto</title>
     <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
   </programme>
-  <programme start="20261009175801 +0200" stop="20261009230000 +0200" channel="pluto_film_azione">
+  <programme start="20261009175801 +0200" stop="20261009193801 +0200" channel="pluto_film_azione">
+    <title lang="it">Martian Land</title>
+    <desc lang="it">Nel futuro, la razza umana vive su Marte, in città protette da enormi campi di forza. Quando una gigantesca tempesta di sabbia sfonda la cupola e distrugge Mars New York, gli abitanti di Mars Los Angeles dovranno cercare di fermare la tempesta.</desc>
+  </programme>
+  <programme start="20261009193801 +0200" stop="20261009213001 +0200" channel="pluto_film_azione">
+    <title lang="it">Gli irriducibili</title>
+    <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
+  </programme>
+  <programme start="20261009213001 +0200" stop="20261010000901 +0200" channel="pluto_film_azione">
+    <title lang="it">T-34 Eroi D'Acciaio</title>
+    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
+  </programme>
+  <programme start="20261010000901 +0200" stop="20261010050000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261009230000 +0200" stop="20261010110000 +0200" channel="pluto_film_azione">
+  <programme start="20261010050000 +0200" stop="20261010170000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261010110000 +0200" stop="20261010170000 +0200" channel="pluto_film_azione">
+  <programme start="20261010170000 +0200" stop="20261010230000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261008110000 +0200" stop="20261008155137 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261008170000 +0200" stop="20261008212952 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261008155137 +0200" stop="20261008164037 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La mano di Dio</title>
-    <desc lang="it">La squadra Mutant X si imbarca in una missione per localizzare e catturare un potente super-mutante che possiede poteri divini.</desc>
-  </programme>
-  <programme start="20261008164037 +0200" stop="20261008172937 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il deserto</title>
-    <desc lang="it">Jesse è costretto a riallacciare i rapporti con la sua ex fidanzata quando la squadra Mutant X viene a sapere che la sua azienda è coinvolta nella manipolazione genetica delle colture.</desc>
-  </programme>
-  <programme start="20261008172937 +0200" stop="20261008181837 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Senza uscita</title>
-    <desc lang="it">Un mutante che ha la capacità di interfacciarsi con qualsiasi computer con la sua mente, che viene paralizzato dopo un incontro con la squadra, prende il controllo dei computer di Sanctuary.</desc>
-  </programme>
-  <programme start="20261008181837 +0200" stop="20261008190737 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il custode del fratello</title>
-    <desc lang="it">La squadra Mutant X viene a conoscenza del fratello gemello estraniato di Lexa quando diventa l'obiettivo principale di un'operazione sotterranea che raccoglie organi di mutanti.</desc>
-  </programme>
-  <programme start="20261008190737 +0200" stop="20261008195637 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Possibilità</title>
-    <desc lang="it">Brennan e la squadra Mutant X uniscono le forze con un mutante che viaggia nel tempo per disinnescare una bomba che minaccia conseguenze devastanti.</desc>
-  </programme>
-  <programme start="20261008195637 +0200" stop="20261008204307 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Risveglio</title>
-    <desc lang="it">Barbie invia un'email a Julia. Poco dopo scopre che suo padre ha modificato il testo del suo messaggio. Pauline costringe Sam ad iniettare un nuovo farmaco a Lyle nel tentativo di farlo tornare cosciente.</desc>
-  </programme>
-  <programme start="20261008204307 +0200" stop="20261008212952 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: La porta rossa</title>
-    <desc lang="it">Fuori e dentro la Cupola, tutti vogliono l'uovo. A proteggerlo restano solo Melanie e Junior. Nel frattempo, chi è uscito dalla Cupola trova la via per rientravi, portandosi dietro anche persone nuove…</desc>
   </programme>
   <programme start="20261008212952 +0200" stop="20261008221648 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Under The Dome: La caduta</title>
@@ -296,15 +260,43 @@
     <title lang="it">Sanctuary: Un Rifugio Per Tutti  Prima Parte</title>
     <desc lang="it">La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare e proteggere le strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
   </programme>
-  <programme start="20261009173659 +0200" stop="20261009230000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261009173659 +0200" stop="20261009182654 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Rifugio Per Tutti  Seconda Parte</title>
+    <desc lang="it">e proteggere le La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
+  </programme>
+  <programme start="20261009182654 +0200" stop="20261009191641 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Fata Morgana</title>
+    <desc lang="it">La dottoressa Magnus, sua figlia Ashley e il dottor Will Zimmerman liberano tre donne da una misteriosa cripta in Scozia, riportandole al Santuario per trovare rifugio. All'insaputa della squadra, e delle donne stesse, loro hanno poteri straordinari.</desc>
+  </programme>
+  <programme start="20261009191641 +0200" stop="20261009200641 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'uomo Flessibile</title>
+    <desc lang="it">Un'indagine su una serie di bizzarre rapine porta Magnus e Will a una banda criminale di ladri che sembrano essere in grado di intrufolarsi tra le crepe della legge... letteralmente.</desc>
+  </programme>
+  <programme start="20261009200641 +0200" stop="20261009205337 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: La caduta</title>
+    <desc lang="it">I prigionieri della Cupola cercano di organizzare l'esodo, usando l'uovo come moneta di scambio, ma una serie di malintesi inducono Big Jim a gettare l'uovo nel baratro che fa da passaggio per Zenith…</desc>
+  </programme>
+  <programme start="20261009205337 +0200" stop="20261009214024 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Inverno</title>
+    <desc lang="it">Dopo la spedizione dell'uovo a Zenith, la temperatura a Chester's Mill si abbassa rapidamente raggiungendo livelli da glaciazione. Nel frattempo, Lyle affiora nel lago e Big Jim lo salva…</desc>
+  </programme>
+  <programme start="20261009214024 +0200" stop="20261009222648 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: La svolta</title>
+    <desc lang="it">Melanie sta sempre peggio. Nonostante le sue visioni siano cessate con la dipartita dell'uovo, dipinge un quadro con la soluzione per salvare Melanie. Ma le cose si complicano…</desc>
+  </programme>
+  <programme start="20261009222648 +0200" stop="20261009231301 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Partenza</title>
+    <desc lang="it">Mentre tutti si prodigano per salvare Pauline, Joe, Norrie ed Hunter scendono ad esplorare il nuovo tunnel che ha inghiottito Melanie. La Cupola, intanto, continua a restringersi…</desc>
+  </programme>
+  <programme start="20261009231301 +0200" stop="20261010050000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261009230000 +0200" stop="20261010110000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261010050000 +0200" stop="20261010170000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261010110000 +0200" stop="20261010170000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261010170000 +0200" stop="20261010230000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
