@@ -12,21 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261010100000 +0200" stop="20261010134802 +0200" channel="pluto_film_tv">
+  <programme start="20261010153000 +0200" stop="20261010191302 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261010134802 +0200" stop="20261010153202 +0200" channel="pluto_film_tv">
-    <title lang="it">Un Orso Di Nome Winnie</title>
-    <desc lang="it">Le origini di Winnie the Pooh. La storia vera di Harry Colebourn, un soldato canadese che, ai tempi della Primo conflitto mondiale, comprò un cucciolo di orso rimasto orfano, lo addomesticò e gli diede il nome della sua città natale: Winnipeg.</desc>
-  </programme>
-  <programme start="20261010153202 +0200" stop="20261010170902 +0200" channel="pluto_film_tv">
-    <title lang="it">Acchiappa la stella cadente</title>
-    <desc lang="it">Sydney Clarke (Sela Ward), una famosa attrice viziata, sta girando un film quando scopre il tradimento del suo fidanzato. Dopo aver lasciato il set infuriata si ritrova bloccata da sola in una piccola cittadina, dove si rifugia per un po’.</desc>
-  </programme>
-  <programme start="20261010170902 +0200" stop="20261010191302 +0200" channel="pluto_film_tv">
-    <title lang="it">Bogus - L'Amico Immaginario</title>
-    <desc lang="it">Quando Albert va a vivere con Harriet Franklin, l'amica d'infanzia ferocemente indipendente di sua madre, non arriva da solo.</desc>
   </programme>
   <programme start="20261010191302 +0200" stop="20261010210002 +0200" channel="pluto_film_tv">
     <title lang="it">East Is East</title>
@@ -72,33 +60,29 @@
     <title lang="it">Verso il Sole</title>
     <desc lang="it">Blue è un giovane navajo che sta scontando una duplice condanna ed è affetto da un tumore incurabile che non gli lascia scampo.</desc>
   </programme>
-  <programme start="20261011163018 +0200" stop="20261011220000 +0200" channel="pluto_film_tv">
+  <programme start="20261011163018 +0200" stop="20261011183222 +0200" channel="pluto_film_tv">
+    <title lang="it">On My Way</title>
+    <desc lang="it">Bettie è una ristoratrice sessantenne a cui le cose vanno male: il compagno si sta per sposare con una donna più giovane e il ristorante è in crisi. Parte in auto per un viaggio senza destinazione che la riavvicinerà alla figlia e al nipote.</desc>
+  </programme>
+  <programme start="20261011183222 +0200" stop="20261011210022 +0200" channel="pluto_film_tv">
+    <title lang="it">Cobb</title>
+    <desc lang="it">Un giornalista che ha bisogno di una spinta alla carriera accetta di scrivere una biografia di un tirannico eroe sportivo morente. La sgradevole reputazione di Cobb si rivela vera, ma il giornalista scopre anche il lato umano dei giocatori di baseball.</desc>
+  </programme>
+  <programme start="20261011210022 +0200" stop="20261012033000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261011220000 +0200" stop="20261012100000 +0200" channel="pluto_film_tv">
+  <programme start="20261012033000 +0200" stop="20261012153000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261012100000 +0200" stop="20261012160000 +0200" channel="pluto_film_tv">
+  <programme start="20261012153000 +0200" stop="20261012213000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261010100000 +0200" stop="20261010144353 +0200" channel="pluto_film_azione">
+  <programme start="20261010153000 +0200" stop="20261010193916 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261010144353 +0200" stop="20261010161738 +0200" channel="pluto_film_azione">
-    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
-    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
-  </programme>
-  <programme start="20261010161738 +0200" stop="20261010175232 +0200" channel="pluto_film_azione">
-    <title lang="it">Legendary</title>
-    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
-  </programme>
-  <programme start="20261010175232 +0200" stop="20261010193916 +0200" channel="pluto_film_azione">
-    <title lang="it">Dead Heat</title>
-    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
   </programme>
   <programme start="20261010193916 +0200" stop="20261010213027 +0200" channel="pluto_film_azione">
     <title lang="it">Outlawed - Il Fuorilegge</title>
@@ -144,45 +128,33 @@
     <title lang="it">Dance to death - Sfida l'arena</title>
     <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
   </programme>
-  <programme start="20261011162253 +0200" stop="20261011220000 +0200" channel="pluto_film_azione">
+  <programme start="20261011162253 +0200" stop="20261011181404 +0200" channel="pluto_film_azione">
+    <title lang="it">Outlawed - Il Fuorilegge</title>
+    <desc lang="it">Quando l’ex fidanzata Jade gli chiede aiuto per scoprire la verità sulla morte del padre, l’ex Royal Marine Jake si ritrova in una rete di corruzione e omicidi, scoprendo prove che potrebbero far incarcerare un alto funzionario governativo.</desc>
+  </programme>
+  <programme start="20261011181404 +0200" stop="20261011195543 +0200" channel="pluto_film_azione">
+    <title lang="it">Fatal Instinct</title>
+    <desc lang="it">Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
+  </programme>
+  <programme start="20261011195543 +0200" stop="20261011213037 +0200" channel="pluto_film_azione">
+    <title lang="it">Legendary</title>
+    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
+  </programme>
+  <programme start="20261011213037 +0200" stop="20261012033000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261011220000 +0200" stop="20261012100000 +0200" channel="pluto_film_azione">
+  <programme start="20261012033000 +0200" stop="20261012153000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261012100000 +0200" stop="20261012160000 +0200" channel="pluto_film_azione">
+  <programme start="20261012153000 +0200" stop="20261012213000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261010100000 +0200" stop="20261010141254 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261010153000 +0200" stop="20261010191104 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261010141254 +0200" stop="20261010150237 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Sangue Della Stripe Prima Parte</title>
-    <desc lang="it">In una disperata ricerca per trovare sua figlia, Magnus ottiene dei file top secret che le danno indizi sul catastrofico piano della Cabala per la Rete dei Santuari...e sul ruolo devastante di Ashley in esso.</desc>
-  </programme>
-  <programme start="20261010150237 +0200" stop="20261010155237 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Sangue Della Stripe Seconda Parte</title>
-    <desc lang="it">La dottoressa Helen Magnus va testa a testa con la Cabala e deve fare la scelta definitiva...salvare sua figlia, o rischiare la sopravvivenza dell'intera Rete dei Santuari.</desc>
-  </programme>
-  <programme start="20261010155237 +0200" stop="20261010164221 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: L'elogio Funebre</title>
-    <desc lang="it">La dottoressa Helen Magnus lotta per trovare una chiusura dopo la distruzione di molti Santuari in tutto il mondo, mentre la squadra si prepara ad elaborare e ospitare centinaia di anormali espropriati che cercano rifugio nel Santuario di Magnus.</desc>
-  </programme>
-  <programme start="20261010164221 +0200" stop="20261010173215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Supereroe</title>
-    <desc lang="it">La dottoressa Magnus indaga su un improbabile "supereroe" che è intento a contrastare il crimine in città. Ma le sue buone azioni stanno interferendo con il lavoro del Santuario e minacciando involontariamente le vite di persone innocenti ovunque.</desc>
-  </programme>
-  <programme start="20261010173215 +0200" stop="20261010182215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Notte Della Terra</title>
-    <desc lang="it">La dottoressa Helen Magnus si sveglia per trovare il Santuario in rovina e l'intera città decimata, senza alcun ricordo di come sia avvenuta la devastazione.</desc>
-  </programme>
-  <programme start="20261010182215 +0200" stop="20261010191104 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Mostro In Noi</title>
-    <desc lang="it">La dott.ssa Magnus lotta per salvare la vita di uno dei ricercatori del Santuario che è stato attaccato da un Anormale addomesticato. Henry cerca di capire cosa, o chi, abbia causato la reazione così violenta dell'Anormale.</desc>
   </programme>
   <programme start="20261010191104 +0200" stop="20261010200104 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: La Triade</title>
@@ -288,15 +260,39 @@
     <title lang="it">Sanctuary: Animus</title>
     <desc lang="it">Will e Henry vanno nel Regno Unito per seguire l'avvistamento di un lupo mannaro e finiscono per scoprire un oscuro collegamento con il passato... e il futuro di Henry.</desc>
   </programme>
-  <programme start="20261011162851 +0200" stop="20261011220000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261011162851 +0200" stop="20261011171744 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Violazione</title>
+    <desc lang="it">Magnus risponde a una chiamata anonima di aiuto in un edificio abbandonato.  Ma quando rimane intrappolata all'interno, scopre che chiunque abbia fatto la chiamata ha un'agenda molto diversa.</desc>
+  </programme>
+  <programme start="20261011171744 +0200" stop="20261011180725 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Per Il Re e Per La Patria</title>
+    <desc lang="it">Con Adam Worth sotto stretta sorveglianza al Santuario, Magnus rivela i turbolenti inizi che condivide con i Cinque.</desc>
+  </programme>
+  <programme start="20261011180725 +0200" stop="20261011185625 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Veglia</title>
+    <desc lang="it">Ignorando l'avvertimento di Magnus, Will accetta l'offerta di Adam Worth di mostrare loro come accedere alla Città nascosta.</desc>
+  </programme>
+  <programme start="20261011185625 +0200" stop="20261011194525 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Citta Sotterranea</title>
+    <desc lang="it">Magnus e la squadra si preparano per il viaggio, sperando di trovare l'ingresso alla città nascosta... e il padre di Magnus.</desc>
+  </programme>
+  <programme start="20261011194525 +0200" stop="20261011203146 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Voltare pagina</title>
+    <desc lang="it">Alla fine del tunnel i nostri trovano Melanie che li invita a seguirli e a "tornare a casa". Una fitta nebbia ricopre tutto... Quando svanisce si ritrovano tutti fuori dalla Cupola. Melanie è sparita…</desc>
+  </programme>
+  <programme start="20261011203146 +0200" stop="20261011211911 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Ma non lo sono</title>
+    <desc lang="it">I tunnel portano ad un grotta sotterranea in cui ci sono dei "bozzoli". Questi imprigionano Barbie ed altre persone e le fanno apparentemente vivere in un'idilliaca Chester's Mills…</desc>
+  </programme>
+  <programme start="20261011211911 +0200" stop="20261012033000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261011220000 +0200" stop="20261012100000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261012033000 +0200" stop="20261012153000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261012100000 +0200" stop="20261012160000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261012153000 +0200" stop="20261012213000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
