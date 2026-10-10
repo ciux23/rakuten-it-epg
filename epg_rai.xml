@@ -611,8 +611,8 @@
     <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
   </programme>
   <programme start="20261011145500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
-    <title lang="it">Calcio: Serie C 2026-2027 - Casarano - Salernitana</title>
-    <desc lang="it">Calcio. Campionato Italiano Serie C 2026/27 Telecronaca: Giuseppe Galati e Alberto Di Chiara  Bordocampo ed interviste: Piergiorgio Severini </desc>
+    <title lang="it">Calcio: Serie C 2026-2027 - 9a giornata: Casarano - Salernitana</title>
+    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana</desc>
   </programme>
   <programme start="20261011180500 +0200" stop="20261011185500 +0200" channel="Rai2.it">
     <title lang="it">Tg2 Dossier - C'era una volta un burattino - Puntata del 10/10/2026</title>
@@ -1900,11 +1900,11 @@
     <title lang="it">I tre moschettieri</title>
     <desc lang="it">Athos, Portos e Aramis, tre moschettieri al servizio della corte di Francia, accompagnati dal Cadetto di Guascogna D'Artagnan, partono per  una missione delicata in terra inglese. Rilettura in versione fumettistica-steampunk del classico firmato Dumas.</desc>
   </programme>
-  <programme start="20261010173500 +0200" stop="20261010190000 +0200" channel="RaiMovie.it">
+  <programme start="20261010173500 +0200" stop="20261010190300 +0200" channel="RaiMovie.it">
     <title lang="it">Stai lontana da me</title>
     <desc lang="it">Jacopo è un terapista di coppia ma la sua vita sentimentale è a pezzi: ogni volta che prova ad avvicinarsi ad una donna la sorte si accanisce contro di lei. Quando incontra Sara, quella che sembra finalmente la donna giusta, il copione si ripete inevitabilmente.</desc>
   </programme>
-  <programme start="20261010190000 +0200" stop="20261010211000 +0200" channel="RaiMovie.it">
+  <programme start="20261010190300 +0200" stop="20261010211000 +0200" channel="RaiMovie.it">
     <title lang="it">Io sono l'abisso</title>
     <desc lang="it">Sul Lago di Como, le vite di un netturbino ossessionato dai rifiuti, una madre impegnata contro la violenza e un'adolescente fragile si intrecciano in un oscuro gioco del destino. Tra ossessioni, segreti e minacce nascoste, emerge un mondo inquietante in cui il male sembra ripetersi senza fine.</desc>
   </programme>
@@ -1912,15 +1912,15 @@
     <title lang="it">Papillon</title>
     <desc lang="it">Parigi, anni '30. Il criminale Henri Charrière, detto "Papillon", viene ingiustamente condannato e deportato in Guyana. Per fuggire da questo inferno, stringe un patto con il falsario Louis Dega: in cambio di protezione, Dega finanzierà il suo unico, disperato obiettivo. Ce la faranno? Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20261010234500 +0200" stop="20261011031000 +0200" channel="RaiMovie.it">
+  <programme start="20261010234500 +0200" stop="20261011020800 +0200" channel="RaiMovie.it">
     <title lang="it">La battaglia di Midway</title>
     <desc lang="it">Giugno 1942: presso le Midway si combatte la battaglia che segna la fine dell'espansione giapponese e l'inizio del contrattacco statunitense. Attraverso un diario di guerra, il racconto segue la preparazione e lo scontro tra le due potenze, tra dubbi e strategie di riscatto dopo il trauma di Pearl Harbor. Disponibile anche in lingua originale.</desc>
   </programme>
-  <programme start="20261011021000 +0200" stop="20261011034500 +0200" channel="RaiMovie.it">
+  <programme start="20261011020800 +0200" stop="20261011034000 +0200" channel="RaiMovie.it">
     <title lang="it">La disubbidienza</title>
     <desc lang="it">Luca, figlio di borghesi fascisti unitosi ai partigiani, precipita in depressione alla fine della guerra. Solo l'esperienza sessuale può aiutarlo. Dal romanzo di Alberto Moravia.</desc>
   </programme>
-  <programme start="20261011034500 +0200" stop="20261011050000 +0200" channel="RaiMovie.it">
+  <programme start="20261011034000 +0200" stop="20261011050000 +0200" channel="RaiMovie.it">
     <title lang="it">Il tesoro di Vera Cruz</title>
     <desc lang="it">Un tenente dell'esercito americano, ingiustamente accusato di furto, segue le tracce del vero colpevole, fuggito in Messico. Dal racconto "The Road to Carmichael's" di Richard Wormser.</desc>
   </programme>
@@ -2899,12 +2899,12 @@
     <desc lang="it">Tra Alta Valle Camonica e Alta Val di Sole va in scena l'Adamello Ultra Trail 2026. Quattro distanze da 35, 60, 100 e 170 km attraversano i parchi nazionali dell'Adamello e dello Stelvio.</desc>
   </programme>
   <programme start="20261010063000 +0200" stop="20261010090000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Camp. Mondiali Gravel 2026 Pro</title>
-    <desc lang="it">Ciclismo: Camp. Mondiali Gravel 2026 Prova Elite Femminile</desc>
+    <title lang="it">Ciclismo - Mondiali Gravel 2026: Élite Donne</title>
+    <desc lang="it">Mondiali Gravel : Élite Donne</desc>
   </programme>
   <programme start="20261010090000 +0200" stop="20261010103500 +0200" channel="RaiSport.it">
-    <title lang="it">Motocross. Monster Energy Motocross dell</title>
-    <desc lang="it">Motocross. Monster Energy Motocross delle Nazioni</desc>
+    <title lang="it">Motocross delle Nazioni 2026 - gara 2,3</title>
+    <desc lang="it">Motocross delle Nazioni - gara 2,3</desc>
   </programme>
   <programme start="20261010103500 +0200" stop="20261010140000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Il Lombardia 2026 (prima parte)</title>
@@ -2922,9 +2922,13 @@
     <title lang="it">Judo: Mondiali 2026 - 7a giornata (finali)</title>
     <desc lang="it">Mondiali - 7a giornata (finali)</desc>
   </programme>
-  <programme start="20261010173000 +0200" stop="20261010202000 +0200" channel="RaiSport.it">
+  <programme start="20261010173000 +0200" stop="20261010193000 +0200" channel="RaiSport.it">
     <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 1a giornata: Finali (prima parte)</title>
-    <desc lang="it">Prima giornata della Coppa del Mondo di nuoto in vasca corta 2026, con le finali maschili e femminili che assegnano i primi successi della tappa.</desc>
+    <desc lang="it">Coppa del Mondo (25m) - 1a giornata: Finali (prima parte)</desc>
+  </programme>
+  <programme start="20261010193000 +0200" stop="20261010202000 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 1a giornata: Finali (seconda parte)</title>
+    <desc lang="it">Coppa del Mondo (25m) - 1a giornata: Finali (seconda parte)</desc>
   </programme>
   <programme start="20261010202000 +0200" stop="20261010230000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 2a giornata: Conegliano - Busto Arsizio</title>
@@ -2932,26 +2936,23 @@
   </programme>
   <programme start="20261010230000 +0200" stop="20261011020000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball: WBSC Premier 12 2027 - Qualificazioni: Spagna - Italia</title>
-    <desc lang="it">Nelle qualificazioni al WBSC Premier12 2027, l'Italia affronta la Spagna a Barcellona in una sfida importante per conquistare uno dei due posti disponibili per la fase finale.</desc>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Spagna - Italia</desc>
   </programme>
   <programme start="20261011020000 +0200" stop="20261011034000 +0200" channel="RaiSport.it">
     <title lang="it">Pallanuoto: Serie A1 maschile 2026-2027 - 2a giornata: Olympic Roma - Genova Quinto</title>
-    <desc lang="it">Seconda giornata di Serie A1 maschile 2026-27 con la sfida tra Olympic Roma e Genova Quinto.</desc>
+    <desc lang="it">Serie A1 maschile - 2a giornata: Olympic Roma - Genova Quinto</desc>
   </programme>
   <programme start="20261011034000 +0200" stop="20261011060000 +0200" channel="RaiSport.it">
     <title lang="it">Europei di Ciclismo 2026 - Cronometro Staffetta mista</title>
     <desc lang="it">Agli Europei di Ciclismo 2026 di Lubiana va in scena la staffetta a cronometro mista Elite, con le nazionali composte da tre uomini e tre donne in gara contro il tempo per il titolo continentale.</desc>
   </programme>
   <programme start="20261011060000 +0200" stop="20261011063000 +0200" channel="RaiSport.it">
-    <title lang="it">Arrampicata Sportiva: Rock Master Arco -</title>
-    <desc lang="it">Arrampicata Sportiva: Rock Master Arco - Ko Boulder</desc>
+    <title lang="it">Arrampicata Sportiva - Rock Master 2026 - KO Boulder</title>
+    <desc lang="it">Ad Arco va in scena il Rock Master 2026, storico appuntamento internazionale dell'arrampicata sportiva.</desc>
   </programme>
   <programme start="20261011063000 +0200" stop="20261011090000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Camp. Mondiali Gravel 2026 Pro</title>
-    <desc lang="it">Ciclismo: Camp. Mondiali Gravel 2026 Prova Elite Maschile - NOTIZIARIO</desc>
-  </programme>
-  <programme start="20261011090000 +0200" stop="20261011100000 +0200" channel="RaiSport.it">
-    <title lang="it">Sabato al 90°</title>
+    <title lang="it">Ciclismo - Mondiali Gravel 2026: Élite Uomini</title>
+    <desc lang="it">Mondiali Gravel: Élite Uomini</desc>
   </programme>
   <programme start="20261011090000 +0200" stop="20261011100000 +0200" channel="RaiSport.it">
     <title lang="it">Sabato al 90° del 10/10/2026</title>
@@ -2959,11 +2960,11 @@
   </programme>
   <programme start="20261011100000 +0200" stop="20261011122000 +0200" channel="RaiSport.it">
     <title lang="it">Vela - La Barcolana 2026</title>
-    <desc lang="it">Nel Golfo di Trieste va in scena la 58ª Barcolana, la grande regata internazionale che richiama migliaia di imbarcazioni.</desc>
+    <desc lang="it">La Barcolana</desc>
   </programme>
   <programme start="20261011122000 +0200" stop="20261011160000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball: WBSC Premier 12 2027 - Qualificazioni: Italia - Germania</title>
-    <desc lang="it">L'Italia chiude a Barcellona il girone di qualificazione al WBSC Premier12 2027 contro la Germania, in una sfida decisiva per conquistare uno dei due posti disponibili per la fase finale.</desc>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania</desc>
   </programme>
   <programme start="20261011160000 +0200" stop="20261011172000 +0200" channel="RaiSport.it">
     <title lang="it">Judo: Mondiali 2026 - 8a giornata (finali)</title>
@@ -2971,7 +2972,7 @@
   </programme>
   <programme start="20261011172000 +0200" stop="20261011183000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica - Derby Italiano del Trotto 2026</title>
-    <desc lang="it">All'Ippodromo di Vinovo va in scena il Derby Italiano del Trotto 2026, uno degli appuntamenti più prestigiosi dell'ippica nazionale, con i migliori cavalli della generazione in pista per conquistare il titolo.</desc>
+    <desc lang="it">Derby Italiano del Trotto </desc>
   </programme>
   <programme start="20261011183000 +0200" stop="20261011203000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Qualificazioni Mondiali femminili 2027 - Spareggi: Bielorussia - Italia</title>
@@ -2987,7 +2988,7 @@
   </programme>
   <programme start="20261012000000 +0200" stop="20261012023000 +0200" channel="RaiSport.it">
     <title lang="it">Vela - La Barcolana 2026</title>
-    <desc lang="it">Nel Golfo di Trieste va in scena la 58ª Barcolana, la grande regata internazionale che richiama migliaia di imbarcazioni.</desc>
+    <desc lang="it">La Barcolana</desc>
   </programme>
   <programme start="20261012023000 +0200" stop="20261012060000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Il Lombardia 2026 (prima parte)</title>
@@ -3013,27 +3014,27 @@
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261012100000 +0200" stop="20261012141500 +0200" channel="RaiSport.it">
-    <title lang="it">Baseball Qualificazione Premier 12 Barcellona 2026 Italia - Germania</title>
-    <desc lang="it">Baseball Qualificazione Premier 12 Barcellona 2026 Italia - Germania</desc>
+    <title lang="it">Baseball: WBSC Premier 12 2027 - Qualificazioni: Italia - Germania</title>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania</desc>
   </programme>
   <programme start="20261012141500 +0200" stop="20261012161500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro Maschile: Serie A2 Old Wild West 2026/27 3a giornata: Fortitudo Bologna - Basket Rimini</title>
-    <desc lang="it">Pallacanestro Maschile: Serie A2 Old Wild West 2026/27 3a giornata: Fortitudo Bologna - Basket Rimini</desc>
+    <title lang="it">Basket: Serie A2 Old Wild West 2026-2027 - 3a giornata: Bologna - Rimini</title>
+    <desc lang="it">Nella terza giornata di Serie A2 maschile, la Flats Service Fortitudo Bologna affronta la Dole Basket Rimini in una sfida importante per la classifica.</desc>
   </programme>
   <programme start="20261012161500 +0200" stop="20261012181000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio: Camp. Italiano serie C 2026/27 9a giornata: Casarano - Salernitana</title>
-    <desc lang="it">Calcio: Camp. Italiano serie C 2026/27 9a giornata: Casarano - Salernitana</desc>
+    <title lang="it">Calcio: Serie C 2026-27 - 9a giornata: Casarano - Salernitana</title>
+    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana</desc>
   </programme>
   <programme start="20261012181000 +0200" stop="20261012184500 +0200" channel="RaiSport.it">
-    <title lang="it">Corsa su strada. La 30 Trentina</title>
-    <desc lang="it">Corsa su strada. La 30 Trentina</desc>
+    <title lang="it">Corsa su strada - La 30 Trentina 2026</title>
+    <desc lang="it">La 30 Trentina </desc>
   </programme>
   <programme start="20261012184500 +0200" stop="20261012193000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. C.ti Italiani Para Archery Targa Martinsicuro</title>
-    <desc lang="it">Tiro con l'Arco. C.ti Italiani Para Archery Targa Martinsicuro</desc>
+    <title lang="it">Tiro con l'Arco - Campionati Italiani Para-Archery 2026</title>
+    <desc lang="it">Campionati Italiani Para-Archery </desc>
   </programme>
   <programme start="20261012193000 +0200" stop="20261012203000 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 12/10/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20261012203000 +0200" stop="20261012223000 +0200" channel="RaiSport.it">
