@@ -113,7 +113,7 @@
   </programme>
   <programme start="20261011140000 +0200" stop="20261011171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In - Puntata del 11/10/2026</title>
-    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita. </desc>
+    <desc lang="it">Musica, cinema, spettacolo e attualità sono al centro della puntata di oggi di Domenica In con Mara Venier, affiancata da Tommaso Cerno ed Enzo Miccio. Ospite atteso Al Bano, che si racconta tra carriera e vita privata e si esibisce con alcuni dei suoi brani più amati. Spazio poi a Ballando con le Stelle, con diversi ospiti pronti a commentare la seconda puntata del programma, e al cinema con Rocco Papaleo e Giorgio Pasotti, che presentano "Sotto a chi tocca", e Massimiliano Caiazzo, protagonista di "Je so' pazzo", il film dedicato a Pino Daniele. Per l'attualità, in studio ci sono Leonardo Bove e Kean Talingdan, due dei ragazzi sopravvissuti alla tragedia di Crans-Montana, accompagnati dalle rispettive mamme. Non manca Il pranzo della domenica, con Savino Zaba in collegamento da Cellino San Marco, mentre la musica è affidata alla nuova band guidata da Timothy Cavicchini.</desc>
   </programme>
   <programme start="20261011171500 +0200" stop="20261011171800 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -145,7 +145,7 @@
   </programme>
   <programme start="20261011235000 +0200" stop="20261012010000 +0200" channel="Rai1.it">
     <title lang="it">Speciale Tg1 - Cambio rotta: Undertourism - Puntata del 11/10/2026</title>
-    <desc lang="it">Settimanale del Tg1</desc>
+    <desc lang="it">Il reportage di Valentina Bisti nell'Italia alle prese con il turismo di massa, tra località sempre più affollate e territori alla ricerca di un nuovo equilibrio tra accoglienza, tutela del paesaggio e qualità della vita dei residenti. Un reportage che racconta le misure adottate dalle amministrazioni locali per contenere i flussi turistici e valorizzare destinazioni meno conosciute. Dalle Dolomiti, tra il lago di Sorapis, le Tre Cime di Lavaredo e il monte Civetta, alle spiagge della Puglia e della Sicilia, il racconto attraversa alcuni dei luoghi più visitati del Paese, dove prenotazioni obbligatorie e accessi contingentati cercano di contrastare gli effetti del sovraffollamento. Spazio anche alle alternative al turismo tradizionale, dai borghi delle Dolomiti lucane ai percorsi naturalistici della Majella. Il viaggio prosegue tra la Baia del Silenzio a Sestri Levante, la spiaggia della Pelosa in Sardegna, le Cinque Terre e i paesaggi della Val d'Orcia. Attraverso le testimonianze di amministratori, esperti e operatori del settore, emerge una diversa idea di turismo, più attenta ai territori e alle comunità che li abitano.</desc>
   </programme>
   <programme start="20261012010000 +0200" stop="20261012010500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
@@ -464,9 +464,13 @@
     <title lang="it">Maserati - Il secolo del Tridente - E1</title>
     <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
   </programme>
-  <programme start="20261011145500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+  <programme start="20261011145500 +0200" stop="20261011161500 +0200" channel="Rai2.it">
     <title lang="it">Calcio: Serie C 2026-2027 - 9a giornata: Casarano - Salernitana</title>
     <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana</desc>
+  </programme>
+  <programme start="20261011161500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+    <title lang="it">Domenica Sportiva - Puntata del 11/10/2026</title>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
   <programme start="20261011180500 +0200" stop="20261011185500 +0200" channel="Rai2.it">
     <title lang="it">Tg2 Dossier - C'era una volta un burattino - Puntata del 10/10/2026</title>
