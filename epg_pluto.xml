@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261014000000 +0200" stop="20261014040917 +0200" channel="pluto_film_tv">
+  <programme start="20261014093000 +0200" stop="20261014124026 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014040917 +0200" stop="20261014054953 +0200" channel="pluto_film_tv">
-    <title lang="it">Security</title>
-    <desc lang="it">Eddie, un ex ufficiale, trova impiego come vigilante notturno in un centro commerciale. Durante la sua prima notte di lavoro si imbatte in una bambina, testimone chiave di un processo, che sta scappando da un gruppo di mercenari.</desc>
-  </programme>
-  <programme start="20261014054953 +0200" stop="20261014072353 +0200" channel="pluto_film_tv">
-    <title lang="it">Alieni in soffitta</title>
-    <desc lang="it">È tempo di vacanze estive per la famiglia Pearson. Cala la notte e improvvisamente quattro oggetti luminosi si dirigono verso il tetto. Un gruppo di alieni è alla conquista della casa.</desc>
-  </programme>
-  <programme start="20261014072353 +0200" stop="20261014090704 +0200" channel="pluto_film_tv">
-    <title lang="it">La storia infinita</title>
-    <desc lang="it">Un ragazzino di 10 anni, prende un libro intitolato La storia infinita in una vecchia libreria, e inizia a sfogliarlo. Legge la storia di Fantasia, una terra magica governata dall'Imperatrice Bambina e abitata da tutti i tipi di creature meravigliose.</desc>
-  </programme>
-  <programme start="20261014090704 +0200" stop="20261014105626 +0200" channel="pluto_film_tv">
-    <title lang="it">Il fiume delle verità</title>
-    <desc lang="it">Un giovane abbandona la famiglia per una vita solitaria di pesca a mosca. Il suo obiettivo era trovare la propria strada nel mondo della pesca e quindi ritrovare se stesso e l'amore.</desc>
-  </programme>
-  <programme start="20261014105626 +0200" stop="20261014124026 +0200" channel="pluto_film_tv">
-    <title lang="it">Stressati</title>
-    <desc lang="it">Marco e  Dado sono amici dai tempi del liceo e lavorano nella redazione di un giornale satirico. Dado ha successo con le donne mentre Marco ha molti problemi, fin quando non arrivano Adele e Maria a cambiare le loro vite.</desc>
   </programme>
   <programme start="20261014124026 +0200" stop="20261014142526 +0200" channel="pluto_film_tv">
     <title lang="it">Tutta colpa di Sara</title>
@@ -76,37 +56,41 @@
     <title lang="it">Rischiose abitudini</title>
     <desc lang="it">Lily lavora per un allibratore. Quando suo figlio viene ricoverato in ospedale dopo un lavoro fallito e una conseguente percossa, scopre che anche un genitore assente prova qualcosa per suo figlio.</desc>
   </programme>
-  <programme start="20261015063808 +0200" stop="20261015120000 +0200" channel="pluto_film_tv">
+  <programme start="20261015063808 +0200" stop="20261015090408 +0200" channel="pluto_film_tv">
+    <title lang="it">L'eccezione alla regola</title>
+    <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
+  </programme>
+  <programme start="20261015090408 +0200" stop="20261015110508 +0200" channel="pluto_film_tv">
+    <title lang="it">Il diario dell'amore</title>
+    <desc lang="it">Dopo la morte di sua moglie, Henry si propone di aiutare un adolescente a costruire una zattera.</desc>
+  </programme>
+  <programme start="20261015110508 +0200" stop="20261015125208 +0200" channel="pluto_film_tv">
+    <title lang="it">Pressione in cabina</title>
+    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
+  </programme>
+  <programme start="20261015125208 +0200" stop="20261015144308 +0200" channel="pluto_film_tv">
+    <title lang="it">Se mi amate</title>
+    <desc lang="it">Un medico si innamora della figlia di un paziente milionario in coma. Nonostante sia arrivato il momento di staccare la spina, il dottore deve combattere contro avvocati senza scrupoli che vogliono tenere l'uomo in vita, nell'interesse dell'ospedale.</desc>
+  </programme>
+  <programme start="20261015144308 +0200" stop="20261015170908 +0200" channel="pluto_film_tv">
+    <title lang="it">L'eccezione alla regola</title>
+    <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
+  </programme>
+  <programme start="20261015170908 +0200" stop="20261015213000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015120000 +0200" stop="20261016000000 +0200" channel="pluto_film_tv">
+  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016000000 +0200" stop="20261016060000 +0200" channel="pluto_film_tv">
+  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261014000000 +0200" stop="20261014042708 +0200" channel="pluto_film_azione">
+  <programme start="20261014093000 +0200" stop="20261014124229 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014042708 +0200" stop="20261014070608 +0200" channel="pluto_film_azione">
-    <title lang="it">T-34 Eroi D'Acciaio</title>
-    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
-  </programme>
-  <programme start="20261014070608 +0200" stop="20261014091408 +0200" channel="pluto_film_azione">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
-  </programme>
-  <programme start="20261014091408 +0200" stop="20261014105545 +0200" channel="pluto_film_azione">
-    <title lang="it">OTZI - L'ULTIMO CACCIATORE</title>
-    <desc lang="it">Neolitico. Il clan guidato da Otzi viene attaccato per sottrarre uno scrigno contente un oggetto sacro. Rientrato all'accampamento, trova i membri della tribù brutalmente assassinati. Accecato dal dolore e dalla rabbia, ha un unico obiettivo: la vendetta!</desc>
-  </programme>
-  <programme start="20261014105545 +0200" stop="20261014124229 +0200" channel="pluto_film_azione">
-    <title lang="it">Dead Heat</title>
-    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
   </programme>
   <programme start="20261014124229 +0200" stop="20261014143429 +0200" channel="pluto_film_azione">
     <title lang="it">Furious Speed - Curve Pericolose</title>
@@ -148,65 +132,41 @@
     <title lang="it">The Myth - Il risveglio di un eroe</title>
     <desc lang="it">Jack è un archeologo, tormentato da sogni su una sua ipotetica vita da guerriero nell'antica Cina. Quando, per lavoro, deve individuare l'esatta collocazione del mausoleo del primo imperatore cinese, Jack scopre che i suoi sogni non sono immaginari.</desc>
   </programme>
-  <programme start="20261015070622 +0200" stop="20261015120000 +0200" channel="pluto_film_azione">
+  <programme start="20261015070622 +0200" stop="20261015085022 +0200" channel="pluto_film_azione">
+    <title lang="it">Soldato di ventura</title>
+    <desc lang="it">Un mercenario viene ingaggiato per portare un professore in un'area desolata dove è precipitato un MIG russo, affinché il professore possa controllare l'aereo e portarlo via. Tuttavia, i russi non vogliono che nessuno metta le mani sull'aereo.</desc>
+  </programme>
+  <programme start="20261015085022 +0200" stop="20261015103156 +0200" channel="pluto_film_azione">
+    <title lang="it">La gang degli svitati</title>
+    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
+  </programme>
+  <programme start="20261015103156 +0200" stop="20261015121356 +0200" channel="pluto_film_azione">
+    <title lang="it">L'Invincibile Cavaliere Mascherato</title>
+    <desc lang="it">1670. Ad Higuera domina l'Alcade Don Luis, illegittimo rappresentante del governo. Mentre dilaga la peste, un misterioso cavaliere mascherato che protegge gli umili sventa tutti i piani del perfido Don Luis. É Zorro, l'invincibile cavaliere!</desc>
+  </programme>
+  <programme start="20261015121356 +0200" stop="20261015145256 +0200" channel="pluto_film_azione">
+    <title lang="it">T-34 Eroi D'Acciaio</title>
+    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
+  </programme>
+  <programme start="20261015145256 +0200" stop="20261015162750 +0200" channel="pluto_film_azione">
+    <title lang="it">Legendary</title>
+    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
+  </programme>
+  <programme start="20261015162750 +0200" stop="20261015213000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015120000 +0200" stop="20261016000000 +0200" channel="pluto_film_azione">
+  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016000000 +0200" stop="20261016060000 +0200" channel="pluto_film_azione">
+  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261014000000 +0200" stop="20261014042209 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261014093000 +0200" stop="20261014132838 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014042209 +0200" stop="20261014051930 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">The Blackout</title>
-    <desc lang="it">In un futuro lontano, un blackout spezza ogni comunicazione e getta una nazione nel caos. Isolamento e morte si diffondono senza spiegazioni. Mentre il mondo collassa, una squadra di eroi tenta di scoprire la verità e salvare ciò che resta dell’umanità.</desc>
-  </programme>
-  <programme start="20261014051930 +0200" stop="20261014060503 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Ejecta</title>
-    <desc lang="it">Mentre Christine è nella caverna a guarire la ferita, fuori dalla Cupola si scatena l'apocalisse. L'umanità è nei guai e Barbie vorrebbe far entrare più gente possibile nella Cupola, ma Eva riesce a dissuaderlo…</desc>
-  </programme>
-  <programme start="20261014060503 +0200" stop="20261014065138 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Punto di rottura</title>
-    <desc lang="it">I nostri scoprono che la fine del mondo era solo un trucco ideato da Christine. Big Jim convince con l'inganno Lilly dell a Aktaion a mandargli degli esplosivi, per far saltare in aria i tunnel dove nel frattempo Christine ha mandato Barbie.</desc>
-  </programme>
-  <programme start="20261014065138 +0200" stop="20261014074138 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Due gocce d'acqua</title>
-    <desc lang="it">Dresden accetta il caso di un ragazzino che è convinto di avere i mostri alle calcagna, ma un passo falso di Harry mette tutti in pericolo.</desc>
-  </programme>
-  <programme start="20261014074138 +0200" stop="20261014083138 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Dio dei morti</title>
-    <desc lang="it">Dresden lavora al caso di un padre perseguitato dallo spirito della  figlia, e le circostanze dell'omicidio della ragazza mandano Harry in una direzione diversa che mette in pericolo Connie.</desc>
-  </programme>
-  <programme start="20261014083138 +0200" stop="20261014092138 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Licantropia</title>
-    <desc lang="it">L'FBI prende in carico il caso di Murphy riguardante un serial killer che rimuove capelli e denti dalle sue vittime, ma forse c'è ben altro dietro.</desc>
-  </programme>
-  <programme start="20261014092138 +0200" stop="20261014101038 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Regole d'ingaggio</title>
-    <desc lang="it">Harry scopre una sgradevole alleanza mentre cerca di proteggere la sua cliente da un demone.</desc>
-  </programme>
-  <programme start="20261014101038 +0200" stop="20261014105938 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Il Terzo Occhio</title>
-    <desc lang="it">Spinto a ripagare un debito del passato, Dresden si ritrova coinvolto in una guerra di potere fra gang di vampiri.</desc>
-  </programme>
-  <programme start="20261014105938 +0200" stop="20261014114938 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La condanna di Bob</title>
-    <desc lang="it">Quando un uomo muore improvvisamente nell'ufficio di Harry, quest'ultimo inizia a investigare su un intricato complotto omicida che ha a che fare con il passato di Bob.</desc>
-  </programme>
-  <programme start="20261014114938 +0200" stop="20261014123838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'uomo di cera</title>
-    <desc lang="it">Dresden prende in carico un caso pro bono dopo aver assistito alla morte di una donna che gli aveva chiesto aiuto, ma l'indagine conduce alla magia nera e ad altre morti.</desc>
-  </programme>
-  <programme start="20261014123838 +0200" stop="20261014132838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Demoni nella bufera</title>
-    <desc lang="it">Dresden si scontra con l'Alto Consiglio dei Maghi nel momento in cui è sospettato di essere coinvolto nelle morti di una studentessa e di un malavitoso del luogo avvenute per magia nera.</desc>
   </programme>
   <programme start="20261014132838 +0200" stop="20261014141838 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Dresden Files: L'aldilà</title>
@@ -292,15 +252,59 @@
     <title lang="it">Under The Dome: Piano B</title>
     <desc lang="it">Joe, che sta cercando un modo per decifrare lo schema di Christine, si reca in biblioteca con Norrie e si imbatte in Sam, che finge di essere rinsavito, per poi rapirlo…</desc>
   </programme>
-  <programme start="20261015062707 +0200" stop="20261015120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261015062707 +0200" stop="20261015071318 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: La cura</title>
+    <desc lang="it">La famiglia vuole costringere Joe a costruire un dispositivo per aiutare Christine a distruggere la cupola. Nel frattempo , la resistenza incontra Hektor della Aktaion, che dice di voler trovare una cura per l'infezione…</desc>
+  </programme>
+  <programme start="20261015071318 +0200" stop="20261015080218 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Musica di un tamburo distante</title>
+    <desc lang="it">Tyr fa un atterraggio di fortuna  con l'Eureka Maru su un pianeta nietzscheano e perde la memoria. Deve ricordarsi di quello che stava facendo prima che i Nietzscheani scoprano lui e la sua cassa di merci rubate.</desc>
+  </programme>
+  <programme start="20261015080218 +0200" stop="20261015085118 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Harper 2.0</title>
+    <desc lang="it">Dopo aver ricevuto il dono della conoscenza da un Perseide morente, Harper scopre che il Perseide era ricercato da un cacciatore di taglie, il quale ora ha spostato la sua attenzione su Harper.</desc>
+  </programme>
+  <programme start="20261015085118 +0200" stop="20261015094018 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Prospettiva forzata</title>
+    <desc lang="it">Dylan viene arrestato per aver assassinato un dittatore 300 anni fa.</desc>
+  </programme>
+  <programme start="20261015094018 +0200" stop="20261015102918 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La somma delle parti</title>
+    <desc lang="it">L’Andromeda viene affondata da un drone del Consenso delle Parti, una mitica società meccanica. Nonostante si dimostri inizialmente amichevole, il drone tenta di costringere la nave a unirsi al Consenso.</desc>
+  </programme>
+  <programme start="20261015102918 +0200" stop="20261015111818 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Paura e disgusto nella Via Lattea</title>
+    <desc lang="it">Gerentex è tornato e chiede a Trance e Harper di aiutarlo nel suo nuovo piano: trovare Tarn-Vedra.</desc>
+  </programme>
+  <programme start="20261015111818 +0200" stop="20261015120718 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Abbandonarsi al destino</title>
+    <desc lang="it">Dylan e Rev Bem aiutano una società pacifica a combattere contro chi li vorrebbe schiavi. Ma devono fare attenzione: se Dylan insegna loro a uccidere, anche i figli che nasceranno sapranno uccidere.</desc>
+  </programme>
+  <programme start="20261015120718 +0200" stop="20261015125618 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il miele offerto</title>
+    <desc lang="it">Dylan tenta di portare la pace tra due fazioni avversarie di Nietzscheani scortando la principessa di un gruppo al matrimonio organizzato con il principe dell'altro.</desc>
+  </programme>
+  <programme start="20261015125618 +0200" stop="20261015134518 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Attraversato dalle stelle</title>
+    <desc lang="it">L'avatar di Rommie s’innamora di quello che si rivela essere l'avatar di una nave da guerra di nome Gabriel. Gabriel cerca d’infettare Rommie con un virus capace di trasmettere i suoi piani alla nave da guerra.</desc>
+  </programme>
+  <programme start="20261015134518 +0200" stop="20261015143418 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Fa una bella luce</title>
+    <desc lang="it">Beka conduce l'Andromeda a Tarn-Vedra, ma rimanere a lungo nello slipstream ha degli effetti collaterali. Beka inizia a usare Flash per combatterli e ne diventa presto dipendente.</desc>
+  </programme>
+  <programme start="20261015143418 +0200" stop="20261015152318 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: È ora di fare vista finalmente</title>
+    <desc lang="it">Una vecchia memoria dell'Andromeda viene accidentalmente attivata, lanciando la nave in missione. Dylan e l'equipaggio non sanno come annullare il comando.</desc>
+  </programme>
+  <programme start="20261015152318 +0200" stop="20261015213000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015120000 +0200" stop="20261016000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016000000 +0200" stop="20261016060000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
