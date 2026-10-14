@@ -140,7 +140,7 @@
   </programme>
   <programme start="20261014213000 +0200" stop="20261015001000 +0200" channel="Rai1.it">
     <title lang="it">Tale e Quale Show - Puntata del 14/10/2026</title>
-    <desc lang="it">Sedicesima edizione dello show musicale in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Conduce Carlo Conti. </desc>
+    <desc lang="it">Nella puntata di oggi undici nuove interpretazioni. Jasmine Carrisi vestirà i panni di Britney Spears, Maddalena Corvaglia sarà Emma, per Roberta Morise ci sarà Dua Lipa, Paola Perego assumerà le sembianze di Patty Pravo, Anna Pettinelli interpreterà Nada, Selma se la vedrà con Gloria Gaynor; Stefano Meloccaro si trasformerà in Umberto Tozzi, Max Paiella avrà il volto di Mahmood, Andrea Perroni si misurerà con Gino Paoli, e Vladimir Randazzo sarà Elton John. I "ragazzi incorreggibili" Flavio Insinna e Gabriele Cirilli si confronteranno infine con Gilbert Bécaud e Alvaro Vitali. </desc>
   </programme>
   <programme start="20261015001000 +0200" stop="20261015001500 +0200" channel="Rai1.it">
     <title lang="it">TG1 Sera</title>
@@ -152,15 +152,19 @@
   <programme start="20261015020000 +0200" stop="20261015020500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261015020500 +0200" stop="20261015032000 +0200" channel="Rai1.it">
+  <programme start="20261015020500 +0200" stop="20261015022500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni: Wilma De Angelis </title>
+    <desc lang="it">.</desc>
+  </programme>
+  <programme start="20261015020500 +0200" stop="20261015022500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni: Wilma De Angelis - Puntata del 14/10/2026</title>
+    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
+  </programme>
+  <programme start="20261015022500 +0200" stop="20261015034000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 14/10/2026</title>
     <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli.</desc>
   </programme>
-  <programme start="20261015032000 +0200" stop="20261015045000 +0200" channel="Rai1.it">
-    <title lang="it">Provaci ancora Prof! S7E3 - Sangue nel cortile</title>
-    <desc lang="it">Dopo il tradimento del marito di Livia, la sua cara amica Bianca si stabilisce a casa Baudino per offrirle conforto. Una sera le due amiche trovano nel cortile del condominio il corpo di un uomo avvolto in un tappeto. Camilla e Gaetano si precipitano giù a controllare, ma il cadavere è già scomparso. Il giorno dopo la Polizia lo ritrova in un fosso: è un cinquantenne con numerosi precedenti.</desc>
-  </programme>
-  <programme start="20261015045000 +0200" stop="20261015055500 +0200" channel="Rai1.it">
+  <programme start="20261015034000 +0200" stop="20261015055500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20261015055500 +0200" stop="20261015062800 +0200" channel="Rai1.it">
@@ -440,21 +444,9 @@
     <title lang="it">TG2 Medicina 33</title>
     <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti</desc>
   </programme>
-  <programme start="20261014140500 +0200" stop="20261014150000 +0200" channel="Rai2.it">
+  <programme start="20261014140500 +0200" stop="20261014151500 +0200" channel="Rai2.it">
     <title lang="it">Camera dei Deputati. "Question Time" Interrogazioni a risposta immediata</title>
     <desc lang="it">Camera dei Deputati. "Question Time" Interrogazioni a risposta immediata.</desc>
-  </programme>
-  <programme start="20261014150000 +0200" stop="20261014150500 +0200" channel="Rai2.it">
-    <title lang="it">70x70 Vol. 2</title>
-    <desc lang="it">Un viaggio nel tempo tra curiosità e documenti rari per celebrare i 70 anni della Rai. Francesca Barolini ci illustra una data significativa, rivelando eventi memorabili o episodi curiosi che hanno segnato la storia della televisione italiana.</desc>
-  </programme>
-  <programme start="20261014150500 +0200" stop="20261014151000 +0200" channel="Rai2.it">
-    <title lang="it">70x70 Vol. 2</title>
-    <desc lang="it">Un viaggio nel tempo tra curiosità e documenti rari per celebrare i 70 anni della Rai. Francesca Barolini ci illustra una data significativa, rivelando eventi memorabili o episodi curiosi che hanno segnato la storia della televisione italiana.</desc>
-  </programme>
-  <programme start="20261014151000 +0200" stop="20261014151500 +0200" channel="Rai2.it">
-    <title lang="it">70x70 Vol. 2</title>
-    <desc lang="it">Un viaggio nel tempo tra curiosità e documenti rari per celebrare i 70 anni della Rai. Francesca Barolini ci illustra una data significativa, rivelando eventi memorabili o episodi curiosi che hanno segnato la storia della televisione italiana.</desc>
   </programme>
   <programme start="20261014151500 +0200" stop="20261014170000 +0200" channel="Rai2.it">
     <title lang="it">Ciclismo: Giro del Veneto Uomini 2026</title>
@@ -876,8 +868,8 @@
     <title lang="it">Rai Parlamento Telegiornale</title>
   </programme>
   <programme start="20261014152500 +0200" stop="20261014161000 +0200" channel="Rai3.it">
-    <title lang="it">Last Cop - L'ultimo sbirro</title>
-    <desc lang="it">Nel 1980, il commissario Mick Brisgau cade in coma, a seguito di un colpo alla testa. Dopo 20 anni si risveglia e torna in servizio presso il commissariato di Essen, ma deve scontrarsi con metodi più moderni rispetto a quelli da lui usati in passato.</desc>
+    <title lang="it">Last Cop - L'ultimo sbirro S1E9 - Sotto copertura</title>
+    <desc lang="it">La polizia stradale ferma un furgoncino che trasporta sul tettuccio il cadavere di una giovane dipendente della 'Personal Business', un'agenzia di appuntamenti frequentata anche dal commissario capo Ferchert. Mick cerca di consolare Tanja abbandonata dal suo compagno</desc>
   </programme>
   <programme start="20261014161000 +0200" stop="20261014190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 14/10/2026</title>
@@ -902,7 +894,7 @@
   </programme>
   <programme start="20261014204000 +0200" stop="20261014205500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 14/10/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">È passato esattamente un anno da quando, a Sharm el-Sheikh, Trump riunì 27 leader arabi e occidentali per celebrare il piano in venti punti. Il ministero della Salute di Gaza, le cui stime l'Onu ritiene credibili, conta oltre 1.400 morti in dodici mesi di cessate il fuoco. Marco Damilano incontra Ilyas Abu Safiya, medico palestinese e attivista per i diritti umani. Da due anni si batte per la liberazione di suo padre, Hussam Abu Safiya, pediatra e neonatologo, arrestato dall'Idf il 27 dicembre 2024.</desc>
   </programme>
   <programme start="20261014205500 +0200" stop="20261014211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 14/10/2026 EP7048</title>
@@ -1762,7 +1754,7 @@
   </programme>
   <programme start="20261015211900 +0200" stop="20261015212200 +0200" channel="Rai5.it">
     <title lang="it">Tre minuti all'Opera Prima Visione RAI</title>
-    <desc lang="it">RUBRICA - Veronica Pivetti introduce gli spettatori di RAI5 alla visione delle opere registrate nei maggiori teatri italiani.. -  2026 ITA</desc>
+    <desc lang="it">Veronica Pivetti introduce gli spettatori di RAI5 alla visione delle opere registrate nei maggiori teatri italiani.. -  2026 ITA</desc>
   </programme>
   <programme start="20261015212200 +0200" stop="20261015234900 +0200" channel="Rai5.it">
     <title lang="it">La Traviata (Teatro alla Scala, 2026)</title>

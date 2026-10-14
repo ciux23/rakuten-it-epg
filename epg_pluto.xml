@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261014093000 +0200" stop="20261014124026 +0200" channel="pluto_film_tv">
+  <programme start="20261014160000 +0200" stop="20261014191435 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014124026 +0200" stop="20261014142526 +0200" channel="pluto_film_tv">
-    <title lang="it">Tutta colpa di Sara</title>
-    <desc lang="it">Dopo essere stata notificata della richiesta di divorzio, una donna convince un ufficiale giudiziario ad aiutarla a riottenere ciò che le è dovuto.</desc>
-  </programme>
-  <programme start="20261014142526 +0200" stop="20261014154847 +0200" channel="pluto_film_tv">
-    <title lang="it">10 cose di noi</title>
-    <desc lang="it">Un famoso attore di Hollywood in un supermercato per studiare un nuovo personaggio per un’audizione si ritrova appiedato e chiederà un passaggio all' esuberante cassiera Scarlet.</desc>
-  </programme>
-  <programme start="20261014154847 +0200" stop="20261014173124 +0200" channel="pluto_film_tv">
-    <title lang="it">Altamira</title>
-    <desc lang="it">Nel 1879 Maria e suo padre archeologo scoprono in una caverna antichi dipinti preistorici. La madre, appoggiata dalla Chiesa, li vede come un attacco alla Bibbia. Maria resta divisa tra due mondi, senza modelli di riferimento, alla ricerca della verità</desc>
-  </programme>
-  <programme start="20261014173124 +0200" stop="20261014191435 +0200" channel="pluto_film_tv">
-    <title lang="it">La storia infinita</title>
-    <desc lang="it">Un ragazzino di 10 anni, prende un libro intitolato La storia infinita in una vecchia libreria, e inizia a sfogliarlo. Legge la storia di Fantasia, una terra magica governata dall'Imperatrice Bambina e abitata da tutti i tipi di creature meravigliose.</desc>
   </programme>
   <programme start="20261014191435 +0200" stop="20261014210135 +0200" channel="pluto_film_tv">
     <title lang="it">Pressione in cabina</title>
@@ -76,37 +60,29 @@
     <title lang="it">L'eccezione alla regola</title>
     <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
   </programme>
-  <programme start="20261015170908 +0200" stop="20261015213000 +0200" channel="pluto_film_tv">
+  <programme start="20261015170908 +0200" stop="20261015184105 +0200" channel="pluto_film_tv">
+    <title lang="it">November Criminals</title>
+    <desc lang="it">Nel giorno in cui Addison fa l’amore per la prima volta con Phoebe, il suo amico Kevin viene ucciso. L’omicidio viene risolto come violenza di gruppo ma Addison decide che questa volta deve agire e indagare sull’accaduto.</desc>
+  </programme>
+  <programme start="20261015184105 +0200" stop="20261015210005 +0200" channel="pluto_film_tv">
+    <title lang="it">Guerra al virus</title>
+    <desc lang="it">America anni '80. Il dottor Francis è uno dei primi a scoprire il virus dell'Hiv, ma la società americana rimane indifferente alla malattia considerandola pericolosa solo per gli omosessuali.</desc>
+  </programme>
+  <programme start="20261015210005 +0200" stop="20261016040000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_film_tv">
+  <programme start="20261016040000 +0200" stop="20261016160000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_film_tv">
+  <programme start="20261016160000 +0200" stop="20261016220000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261014093000 +0200" stop="20261014124229 +0200" channel="pluto_film_azione">
+  <programme start="20261014160000 +0200" stop="20261014194834 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014124229 +0200" stop="20261014143429 +0200" channel="pluto_film_azione">
-    <title lang="it">Furious Speed - Curve Pericolose</title>
-    <desc lang="it">Mikel, fidanzato con la ricca ereditiera di una famiglia di gioiellieri, non riesce a resistere al fascino della bella cameriera Ari che, dopo aver trascorso una notte di fuoco insieme, lo trascina nel mondo delle corse clandestine.</desc>
-  </programme>
-  <programme start="20261014143429 +0200" stop="20261014161729 +0200" channel="pluto_film_azione">
-    <title lang="it">L'Ultimo Sharknado - Era Ora!</title>
-    <desc lang="it">L'ultimo capitolo della fantastica saga Sharknado. Fin sblocca il potere del viaggio nel tempo degli Sharknado per salvare il mondo e resuscitare la sua famiglia. Nella sua ricerca combatterà nazisti, dinosauri, cavalieri e farà un giro sull'arca di Noè.</desc>
-  </programme>
-  <programme start="20261014161729 +0200" stop="20261014180829 +0200" channel="pluto_film_azione">
-    <title lang="it">La Leggenda Di Hei</title>
-    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
-  </programme>
-  <programme start="20261014180829 +0200" stop="20261014194834 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
-    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
   </programme>
   <programme start="20261014194834 +0200" stop="20261014213013 +0200" channel="pluto_film_azione">
     <title lang="it">Fatal Instinct</title>
@@ -152,57 +128,33 @@
     <title lang="it">Legendary</title>
     <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
   </programme>
-  <programme start="20261015162750 +0200" stop="20261015213000 +0200" channel="pluto_film_azione">
+  <programme start="20261015162750 +0200" stop="20261015175850 +0200" channel="pluto_film_azione">
+    <title lang="it">Rampage</title>
+    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
+  </programme>
+  <programme start="20261015175850 +0200" stop="20261015193123 +0200" channel="pluto_film_azione">
+    <title lang="it">Trading Paint - Oltre La Leggenda</title>
+    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
+  </programme>
+  <programme start="20261015193123 +0200" stop="20261015213023 +0200" channel="pluto_film_azione">
+    <title lang="it">Speed Kills</title>
+    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
+  </programme>
+  <programme start="20261015213023 +0200" stop="20261016040000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_film_azione">
+  <programme start="20261016040000 +0200" stop="20261016160000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_film_azione">
+  <programme start="20261016160000 +0200" stop="20261016220000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261014093000 +0200" stop="20261014132838 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261014160000 +0200" stop="20261014205011 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261014132838 +0200" stop="20261014141838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'aldilà</title>
-    <desc lang="it">Quando l'investigatore privato di Chicago, Jim Brennan, viene assassinato con mezzi soprannaturali, Harry deve collaborare con l'assistente di Brennan per trovare l'assassino.</desc>
-  </programme>
-  <programme start="20261014141838 +0200" stop="20261014150838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: Un caso riaperto</title>
-    <desc lang="it">Un'avventura di una notte si rivela letale quando la vecchia nemesi di Harry rifà la sua comparsa.</desc>
-  </programme>
-  <programme start="20261014150838 +0200" stop="20261014155838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: L'Incantesimo</title>
-    <desc lang="it">Morgan e l'Anziana Mai si rifugiano, con riluttanza, da Harry.</desc>
-  </programme>
-  <programme start="20261014155838 +0200" stop="20261014164838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Dresden Files: La seconda chance</title>
-    <desc lang="it">Il padre di Murphy giunge in città, portando con sé vecchi rancori, e quando inizia ad intralciare il lavoro della figlia disapprovando la presenza di Harry, le cose si mettono male.</desc>
-  </programme>
-  <programme start="20261014164838 +0200" stop="20261014173738 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Sotto la notte</title>
-    <desc lang="it">Dopo essere stato abbandonato vicino ad un buco nero, il capitano Dylan Hunt viene ritrovata da una nave  di salvataggio mercenaria e scopre di essere rimasto ibernato per 300 anni.</desc>
-  </programme>
-  <programme start="20261014173738 +0200" stop="20261014182638 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Una fiamma di dichiarazione</title>
-    <desc lang="it">Dylan protegge l'Andromeda dai mercenari mentre Beka comincia a chiedersi se stanno combattendo la fazione sbagliata.</desc>
-  </programme>
-  <programme start="20261014182638 +0200" stop="20261014191538 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Perdere il lampo fatidico</title>
-    <desc lang="it">Dylan trova una stazione spaziale popolata da bambini che credono che lui sia per lì per portare la pace e uccidere i loro nemici.</desc>
-  </programme>
-  <programme start="20261014191538 +0200" stop="20261014200438 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: D meno zero</title>
-    <desc lang="it">L'equipaggio dell’Andromeda sta ancora imparando come lavorare insieme mentre vengono attaccati dai Risolutori.</desc>
-  </programme>
-  <programme start="20261014200438 +0200" stop="20261014205011 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Under The Dome: Ejecta</title>
-    <desc lang="it">Mentre Christine è nella caverna a guarire la ferita, fuori dalla Cupola si scatena l'apocalisse. L'umanità è nei guai e Barbie vorrebbe far entrare più gente possibile nella Cupola, ma Eva riesce a dissuaderlo…</desc>
   </programme>
   <programme start="20261014205011 +0200" stop="20261014213646 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Under The Dome: Punto di rottura</title>
@@ -296,15 +248,31 @@
     <title lang="it">Andromeda: È ora di fare vista finalmente</title>
     <desc lang="it">Una vecchia memoria dell'Andromeda viene accidentalmente attivata, lanciando la nave in missione. Dylan e l'equipaggio non sanno come annullare il comando.</desc>
   </programme>
-  <programme start="20261015152318 +0200" stop="20261015213000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261015152318 +0200" stop="20261015170218 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Lost Room: La Chiave e l'Orologio</title>
+    <desc lang="it">Il detective Joe Miller indaga su un caso riguardante due uomini trovati completamente bruciati in un banco dei pegni. Apparentemente, c'entrano una strana chiave e un affare andato male.</desc>
+  </programme>
+  <programme start="20261015170218 +0200" stop="20261015184118 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Lost Room: Il Pettine e la Scatola</title>
+    <desc lang="it">Joe Miller è in fuga dopo essere stato incolpato per l'omicidio di un collega. Si allea con Jennifer Bloom, membro della Legione, per trovare l'Oggetto che lo aiuterà a ritrovare la figlia.</desc>
+  </programme>
+  <programme start="20261015184118 +0200" stop="20261015202018 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">The Lost Room: L'Occhio e l'Oggetto Primario</title>
+    <desc lang="it">In questo finale ad alta tensione di The Lost Room, Joe si serve di tutte le sue risorse e alleanze per trovare l'Oggetto Primario e salvare sua figlia.</desc>
+  </programme>
+  <programme start="20261015202018 +0200" stop="20261015210623 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Under The Dome: Piano B</title>
+    <desc lang="it">Joe, che sta cercando un modo per decifrare lo schema di Christine, si reca in biblioteca con Norrie e si imbatte in Sam, che finge di essere rinsavito, per poi rapirlo…</desc>
+  </programme>
+  <programme start="20261015210623 +0200" stop="20261016040000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261015213000 +0200" stop="20261016093000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261016040000 +0200" stop="20261016160000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261016093000 +0200" stop="20261016153000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261016160000 +0200" stop="20261016220000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
