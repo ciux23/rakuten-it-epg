@@ -12,17 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261017080000 +0200" stop="20261017125018 +0200" channel="pluto_film_tv">
+  <programme start="20261017140000 +0200" stop="20261017163518 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261017125018 +0200" stop="20261017144918 +0200" channel="pluto_film_tv">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20261017144918 +0200" stop="20261017163518 +0200" channel="pluto_film_tv">
-    <title lang="it">Harold e Maude</title>
-    <desc lang="it">Un classico film di culto che mette in scena una delle coppie più improbabili della storia del cinema. Smentirà qualunque cosa abbiate visto o sentito a proposito degli amanti cinematografici.</desc>
   </programme>
   <programme start="20261017163518 +0200" stop="20261017191518 +0200" channel="pluto_film_tv">
     <title lang="it">La Sera Della Prima</title>
@@ -64,33 +56,37 @@
     <title lang="it">Chiedi Alla Polvere</title>
     <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
   </programme>
-  <programme start="20261018130856 +0200" stop="20261018200000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20261018130856 +0200" stop="20261018145356 +0200" channel="pluto_film_tv">
+    <title lang="it">Date And Switch</title>
+    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
   </programme>
-  <programme start="20261018200000 +0200" stop="20261019080000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019140000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261017080000 +0200" stop="20261017125304 +0200" channel="pluto_film_azione">
-    <title lang="it">Pluto TV Film Azione</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261017125304 +0200" stop="20261017144055 +0200" channel="pluto_film_azione">
-    <title lang="it">Dance to death - Sfida l'arena</title>
-    <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
-  </programme>
-  <programme start="20261017144055 +0200" stop="20261017162955 +0200" channel="pluto_film_azione">
+  <programme start="20261018145356 +0200" stop="20261018164256 +0200" channel="pluto_film_tv">
     <title lang="it">Otto secondi di gloria</title>
     <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
   </programme>
-  <programme start="20261017162955 +0200" stop="20261017180414 +0200" channel="pluto_film_azione">
-    <title lang="it">Mega Quake 20.0</title>
-    <desc lang="it">Mentre un mega-terremoto minaccia San Francisco, alcune scosse di preavviso creano scompiglio in città. Una squadra d'élite di servizi di emergenza e di catastrofi converge sull'epicentro previsto, lavorando per salvare quante più vite possibili.</desc>
+  <programme start="20261018164256 +0200" stop="20261018184651 +0200" channel="pluto_film_tv">
+    <title lang="it">This Boy's Life - Voglia di ricominciare</title>
+    <desc lang="it">Stati Uniti anni Cinquanta. Caroline, divorziata, attraversa il paese con il figlio Toby. L'anima un grande ottimismo che si dovrà scontrare con l'uomo che sembra disposto a dividere con lei la vita.</desc>
+  </programme>
+  <programme start="20261018184651 +0200" stop="20261018210051 +0200" channel="pluto_film_tv">
+    <title lang="it">Hustle &amp; Flow</title>
+    <desc lang="it">La storia di DJay, un pappone che fa prostituire la sexy Nola, si chiede se questo sia il suo destino. Solo quando ottiene una tastiera e si imbatte nella sua vecchia compagna di scuola Key vede una via d'uscita e incide qualche traccia.</desc>
+  </programme>
+  <programme start="20261018210051 +0200" stop="20261019020000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261019020000 +0200" stop="20261019140000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261019140000 +0200" stop="20261019200000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261017140000 +0200" stop="20261017180414 +0200" channel="pluto_film_azione">
+    <title lang="it">Pluto TV Film Azione</title>
+    <desc lang="it">no info available</desc>
   </programme>
   <programme start="20261017180414 +0200" stop="20261017194914 +0200" channel="pluto_film_azione">
     <title lang="it">Midnight Chronicles</title>
@@ -136,49 +132,41 @@
     <title lang="it">Speed Kills</title>
     <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
   </programme>
-  <programme start="20261018135315 +0200" stop="20261018200000 +0200" channel="pluto_film_azione">
+  <programme start="20261018135315 +0200" stop="20261018153615 +0200" channel="pluto_film_azione">
+    <title lang="it">Mega Shark Vs Kolossus</title>
+    <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
+  </programme>
+  <programme start="20261018153615 +0200" stop="20261018171000 +0200" channel="pluto_film_azione">
+    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
+    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
+  </programme>
+  <programme start="20261018171000 +0200" stop="20261018190000 +0200" channel="pluto_film_azione">
+    <title lang="it">Striscia Vincente</title>
+    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
+  </programme>
+  <programme start="20261018190000 +0200" stop="20261018195606 +0200" channel="pluto_film_azione">
+    <title lang="it">Lupin The IIIrd Ishikawa Goemon Getto Di Sangue</title>
+    <desc lang="it">Il giovane Goemon diventa guardia del corpo di un boss della malavita, ma un avversario implacabile lo uccide. Per salvare il proprio onore, il samurai deve affrontare una sanguinosa sfida mettendo in gioco la propria vita.</desc>
+  </programme>
+  <programme start="20261018195606 +0200" stop="20261018213015 +0200" channel="pluto_film_azione">
+    <title lang="it">Finding Steve McQueen</title>
+    <desc lang="it">Ohio, 1972. Harry ama la guida spericolata e Steve McQueen, e pianifica insieme allo zio e ad un gruppo di amici la rapina più grande della storia americana. Pennsylvania, 1980. Harry è ricercato ma ama Molly tanto da volerle raccontare tutta la verità.</desc>
+  </programme>
+  <programme start="20261018213015 +0200" stop="20261019020000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261018200000 +0200" stop="20261019080000 +0200" channel="pluto_film_azione">
+  <programme start="20261019020000 +0200" stop="20261019140000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019080000 +0200" stop="20261019140000 +0200" channel="pluto_film_azione">
+  <programme start="20261019140000 +0200" stop="20261019200000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261017080000 +0200" stop="20261017124720 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261017140000 +0200" stop="20261017183020 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261017124720 +0200" stop="20261017133620 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il cavallo giusto</title>
-    <desc lang="it">Beka mette in pericolo i suoi compagni e l’intero pianeta quando un vecchio amore si ripresenta.</desc>
-  </programme>
-  <programme start="20261017133620 +0200" stop="20261017142520 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Cosa succede a un reverendo in ritardo?</title>
-    <desc lang="it">L'Andromeda riceve una richiesta d’aiuto da Rev Bam.</desc>
-  </programme>
-  <programme start="20261017142520 +0200" stop="20261017151420 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La punta della lancia</title>
-    <desc lang="it">Dopo che un pianeta del Commonwealth è stato attaccato da piroformatori Piriani, Dylan deve combattere per proteggere il nuovo pianeta.</desc>
-  </programme>
-  <programme start="20261017151420 +0200" stop="20261017160320 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Volta dei cieli</title>
-    <desc lang="it">Dylan sente delle voci che lo chiamano a un pianeta di "fuoco e ghiaccio".</desc>
-  </programme>
-  <programme start="20261017160320 +0200" stop="20261017165220 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La voce profonda di mezzanotte</title>
-    <desc lang="it">Mentre è alla prese con due branchi di Nietzscheani, l'equipaggio cattura un nemico il quale sostiene che una mappa dello slipstream sia nelle mani del suo branco.</desc>
-  </programme>
-  <programme start="20261017165220 +0200" stop="20261017174120 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'illusione di Maestà</title>
-    <desc lang="it">Un errore durante l'uscita dallo slipstream catapulta l'Andromeda nel sistema Prolon. L’equipaggio salva una navicella d’emergenza dalla fine certa, ma il branco la rivuole indietro.</desc>
-  </programme>
-  <programme start="20261017174120 +0200" stop="20261017183020 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Crepuscolo degli idoli</title>
-    <desc lang="it">Mentre l'equipaggio è alla ricerca di una colonia perduta di Nietzscheani, scopre che un altro equipaggio li ha aiutati in segreto.</desc>
   </programme>
   <programme start="20261017183020 +0200" stop="20261017191920 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Giorno del giudizio, giorno dell'ira</title>
@@ -272,15 +260,51 @@
     <title lang="it">Andromeda: L'intervallo dissonante (Parte 1)</title>
     <desc lang="it">Andromeda salva una nave di ritorno dai colloqui di pace con Magog.</desc>
   </programme>
-  <programme start="20261018131720 +0200" stop="20261018200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261018131720 +0200" stop="20261018140620 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: L'intervallo dissonante (Parte 2)</title>
+    <desc lang="it">L'attacco di Magog ha conseguenze terribili. L'Andromeda viene distrutta e sembra che Trance e Dylan siano gli unici superstiti. Dylan fugge nella rotta dei secoli.</desc>
+  </programme>
+  <programme start="20261018140620 +0200" stop="20261018145520 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il peso (Parte 1)</title>
+    <desc lang="it">Dylan finisce a Seefra, popolato da persone superstiziose prive di tecnologia.</desc>
+  </programme>
+  <programme start="20261018145520 +0200" stop="20261018154420 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il peso (Parte 2)</title>
+    <desc lang="it">Beka viene scaricata su Seefra dopo che l'Andromeda è stata rubata. Dylan deve dimostrare che la nave gli appartiene.</desc>
+  </programme>
+  <programme start="20261018154420 +0200" stop="20261018163320 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il feromone della paura</title>
+    <desc lang="it">Ancora su Seefra, Dylan ritrova Harper, che si è adattato alla vita lì.</desc>
+  </programme>
+  <programme start="20261018163320 +0200" stop="20261018172220 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La caduta dell'angelo</title>
+    <desc lang="it">Doyle è in realtà un androide costruito da Harper per contenere la programmazione di base di Rommie.</desc>
+  </programme>
+  <programme start="20261018172220 +0200" stop="20261018181120 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: L'escatologia del nostro presente</title>
+    <desc lang="it">Beka vince un premio da un DJ radiofonico, scopre la verità su Seefra e trova il diagramma Meethus.</desc>
+  </programme>
+  <programme start="20261018181120 +0200" stop="20261018190020 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Quando gira…</title>
+    <desc lang="it">Uno scienziato del vecchio Commonwealth fa la sua apparizione dopo essere rimasto intrappolato in un loop temporale.</desc>
+  </programme>
+  <programme start="20261018190020 +0200" stop="20261018194920 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Tentato sermone</title>
+    <desc lang="it">Flavin ritorna, scatenando una guerra tra gang, e aiuta Dylan a svilupparsi come Paradine.</desc>
+  </programme>
+  <programme start="20261018194920 +0200" stop="20261018203820 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Così bruciano le terre selvagge</title>
+    <desc lang="it">Viene scoperto un cristallo in grado di far tornare l'Andromeda alla sua vecchia potenza, ma per ottenerlo Dylan deve lavorare per il proprietario della miniera.</desc>
+  </programme>
+  <programme start="20261018203820 +0200" stop="20261019020000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261018200000 +0200" stop="20261019080000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261019020000 +0200" stop="20261019140000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019080000 +0200" stop="20261019140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261019140000 +0200" stop="20261019200000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
