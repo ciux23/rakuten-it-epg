@@ -281,7 +281,7 @@
   </programme>
   <programme start="20261018203500 +0200" stop="20261018204500 +0200" channel="Rai1.it">
     <title lang="it">Fiorello e Biggio</title>
-    <desc lang="it">Rosario Fiorello, con Fabrizio Biggio, presenta uno show di pura leggerezza, con gag e ospiti in studio. Regia di Piergiorgio Camilli.</desc>
+    <desc lang="it">Rosario Fiorello, con Fabrizio Biggio, presenta uno show di pura leggerezza, con gag e ospiti in studio.</desc>
   </programme>
   <programme start="20261018204500 +0200" stop="20261018213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 18/10/2026</title>
@@ -413,22 +413,19 @@
     <desc lang="it">Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia.</desc>
   </programme>
   <programme start="20261020005000 +0200" stop="20261020012500 +0200" channel="Rai1.it">
-    <title lang="it">La Nottatanza</title>
-    <desc lang="it">INTRATTENIMENTO - L'appuntamento radiofonico de La Pennicanza, condotto da Rosario Fiorello con Fabrizio Biggio, diventa anche un appuntamento televisivo, ogni notte in replica su Rai Uno in terza serata.. - Conduce Rosario Fiorello Con Fabrizio Biggio Regia di Piergiorgio Camilli </desc>
-  </programme>
-  <programme start="20261020005500 +0200" stop="20261020012000 +0200" channel="Rai1.it">
     <title lang="it">La Nottatanza del 19/10/2026</title>
+    <desc lang="it">L'appuntamento radiofonico de La Pennicanza, condotto da Rosario Fiorello con Fabrizio Biggio, diventa anche un appuntamento televisivo, ogni notte in replica su Rai Uno in terza serata. Conduce Rosario Fiorello. Con Fabrizio Biggio.Regia di Piergiorgio Camilli. </desc>
   </programme>
   <programme start="20261020012500 +0200" stop="20261020013000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261020012500 +0200" stop="20261020022500 +0200" channel="Rai1.it">
-    <title lang="it">Sottovoce e dintorni Cinematografo Speciale Roma - Puntata del 19/10/2026</title>
-    <desc lang="it">Un appuntamento speciale per la Festa del Cinema Roma che si svolgerà dal 13 al 25 ottobre 2026 presso l'Auditorium Parco della Musica.</desc>
-  </programme>
   <programme start="20261020013000 +0200" stop="20261020023000 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni Cinematografo Speci</title>
     <desc lang="it">Sottovoce e dintorni Cinematografo Speciale Festa del Cinema di Roma - RUBRICA - Due puntate speciali di Cinematografo per La Festa del Cinema di Roma che si svolgerà dal 13 al 25 ottobre 2026. - Un programma di e con Gigi Marzullo Produttori esecutivi Sabina Caracciolo, Ginevra De Grassi Di Pianura, Maria Elena Pastore, Simona Bazzi A cura di Francesca Fedeli </desc>
+  </programme>
+  <programme start="20261020013000 +0200" stop="20261020022500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni Cinematografo Speciale Roma - Puntata del 19/10/2026</title>
+    <desc lang="it">Un appuntamento speciale per la Festa del Cinema Roma che si svolgerà dal 13 al 25 ottobre 2026 presso l'Auditorium Parco della Musica.</desc>
   </programme>
   <programme start="20261020023000 +0200" stop="20261020041000 +0200" channel="Rai1.it">
     <title lang="it">Provaci ancora Prof! S7E4 - Ragioni superiori</title>
@@ -2890,66 +2887,71 @@
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261019060000 +0200" stop="20261019083000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Verona - Civitanova</title>
-    <desc lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Verona - Civitanova</desc>
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 1a giornata: Rana Verona - Cucine Lube Civitanova</title>
+    <desc lang="it">La SuperLega Credem Banca 2026-2027 si apre con la sfida tra Rana Verona e Cucine Lube Civitanova, protagoniste della prima giornata del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261019083000 +0200" stop="20261019111500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 3a giornata: Milano-Novara</title>
-    <desc lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 3a giornata: Milano-Novara</desc>
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 3a giornata: Numia Vero Volley Milano – Igor Gorgonzola Novara</title>
+    <desc lang="it">Nella terza giornata della Serie A1 Fineco 2026-2027, la Numia Vero Volley Milano affronta l'Igor Gorgonzola Novara in una sfida di alto livello.</desc>
   </programme>
   <programme start="20261019111500 +0200" stop="20261019121500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 1</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 1</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 1)</title>
+    <desc lang="it"> Rallye Sanremo (gara 1)</desc>
   </programme>
   <programme start="20261019121500 +0200" stop="20261019131500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 2)</title>
+    <desc lang="it"> Rallye Sanremo (gara 2)</desc>
   </programme>
   <programme start="20261019131500 +0200" stop="20261019155500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Cuneo - Perugia</title>
-    <desc lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Cuneo - Perugia</desc>
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 1a giornata: Acqua Sant' Anna Cuneo - Sir Susa Scai Perugia</title>
+    <desc lang="it">Nella prima giornata della SuperLega Credem Banca 2026-2027, Acqua Sant' Anna Cuneo e Sir Susa Scai Perugia si affrontano nel primo appuntamento stagionale delle due squadre.</desc>
   </programme>
   <programme start="20261019155500 +0200" stop="20261019171500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Veneto Classic 2026</title>
-    <desc lang="it">Ciclismo: Veneto Classic 2026</desc>
+    <desc lang="it">Veneto Classic</desc>
   </programme>
   <programme start="20261019171500 +0200" stop="20261019184500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro Femminile: Serie A1 2026/27 3a giornata: Schio - Campobasso</title>
-    <desc lang="it">Pallacanestro Femminile: Serie A1 2026/27 3a giornata: Schio - Campobasso</desc>
+    <title lang="it">Basket: Serie A1 femminile 2026-2027 - 3a giornata: Famila Wuber Schio - La Molisana Magnolia Campobasso</title>
+    <desc lang="it">Nella terza giornata della Serie A1 femminile 2026-2027, Famila Wuber Schio e La Molisana Magnolia Campobasso si affrontano in una sfida del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261019184500 +0200" stop="20261019193000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. Mondiali di Tiro di Campagna Yankton</title>
-    <desc lang="it">Tiro con l'Arco. Mondiali di Tiro di Campagna Yankton</desc>
+    <title lang="it">Tiro con l'Arco - Mondiali di Tiro di Campagna 2026</title>
+    <desc lang="it">Mondiali di Tiro di Campagna 2026</desc>
   </programme>
   <programme start="20261019193000 +0200" stop="20261019203500 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 19/10/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
-  <programme start="20261019203500 +0200" stop="20261019233500 +0200" channel="RaiSport.it">
-    <title lang="it">World Aquatics: Nuoto (25m) Coppa del Mo</title>
-    <desc lang="it">World Aquatics: Nuoto (25m) Coppa del Mondo 2026 Tashkent - 2a tappa (1a e 2a parte)</desc>
+  <programme start="20261019203500 +0200" stop="20261019220000 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 2a giornata: Finali (prima parte)</title>
+    <desc lang="it">Coppa del Mondo (25m) 2026 - 2a giornata: Finali (prima parte)</desc>
+  </programme>
+  <programme start="20261019220000 +0200" stop="20261019233500 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 2a giornata: Finali (seconda parte)</title>
+    <desc lang="it">Coppa del Mondo (25m) - 2a giornata: Finali (seconda parte)</desc>
   </programme>
   <programme start="20261019233500 +0200" stop="20261020004500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Veneto Classic 2026</title>
+    <desc lang="it">Veneto Classic</desc>
   </programme>
   <programme start="20261020004500 +0200" stop="20261020014500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 2)</title>
+    <desc lang="it"> Rallye Sanremo (gara 2)</desc>
   </programme>
   <programme start="20261020014500 +0200" stop="20261020021000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261020021000 +0200" stop="20261020033000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo 2026: Giro del Veneto Elite</title>
-    <desc lang="it">Ciclismo 2026: Giro del Veneto Elite</desc>
+    <title lang="it">Ciclismo: Giro del Veneto Uomini 2026</title>
+    <desc lang="it">Giro del Veneto Uomini</desc>
   </programme>
   <programme start="20261020033000 +0200" stop="20261020043000 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 19/10/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20261020043000 +0200" stop="20261020060000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo su Pista: Camp. Mondiali Shanghai 2026 5a giornata</title>
-    <desc lang="it">Ciclismo su Pista: Camp. Mondiali Shanghai 2026 5a giornata</desc>
+    <title lang="it">Ciclismo su Pista: Mondiali 2026 - 5a giornata</title>
+    <desc lang="it">Mondiali - 5a giornata</desc>
   </programme>
   <programme start="20261020060000 +0200" stop="20261020080000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio Femminile: serie A Women Athora 2026/27 Juventus - Como</title>
@@ -4721,25 +4723,9 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Crash</title>
     <desc lang="it">Peter continua a esprimere le sue perplessità riguardo al trasferimento del padre di Christine a casa loro; Anthony presenta Ben allo zio spacciatore; e l'indagine di Axel sull'omicidio di un uomo lo conduce a una gang nota come K-Town Killas.</desc>
   </programme>
-  <programme start="20261018083000 +0200" stop="20261018110056 +0200" channel="pluto_film_tv">
+  <programme start="20261018143000 +0200" stop="20261018184651 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261018110056 +0200" stop="20261018130856 +0200" channel="pluto_film_tv">
-    <title lang="it">Chiedi Alla Polvere</title>
-    <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
-  </programme>
-  <programme start="20261018130856 +0200" stop="20261018145356 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20261018145356 +0200" stop="20261018164256 +0200" channel="pluto_film_tv">
-    <title lang="it">Otto secondi di gloria</title>
-    <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
-  </programme>
-  <programme start="20261018164256 +0200" stop="20261018184651 +0200" channel="pluto_film_tv">
-    <title lang="it">This Boy's Life - Voglia di ricominciare</title>
-    <desc lang="it">Stati Uniti anni Cinquanta. Caroline, divorziata, attraversa il paese con il figlio Toby. L'anima un grande ottimismo che si dovrà scontrare con l'uomo che sembra disposto a dividere con lei la vita.</desc>
   </programme>
   <programme start="20261018184651 +0200" stop="20261018210051 +0200" channel="pluto_film_tv">
     <title lang="it">Hustle &amp; Flow</title>
@@ -4785,33 +4771,33 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Bezos</title>
     <desc lang="it">La storia vera di Jeff Bezos, un imprenditore umile e impacciato che ha deciso di creare Amazon, la più grande azienda di e-commerce del mondo, e di diventare l'uomo più ricco del mondo.</desc>
   </programme>
-  <programme start="20261019150557 +0200" stop="20261019203000 +0200" channel="pluto_film_tv">
+  <programme start="20261019150557 +0200" stop="20261019171357 +0200" channel="pluto_film_tv">
+    <title lang="it">Biker Boyz</title>
+    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
+  </programme>
+  <programme start="20261019171357 +0200" stop="20261019191802 +0200" channel="pluto_film_tv">
+    <title lang="it">A Circus Story and a Love Song</title>
+    <desc lang="it">Refugio, un romantico sognatore la cui ricerca del vero amore, durata anni, lo porta dalla vita circense in Messico alla vita notturna di New Orleans, dove si innamora inaspettatamente di una bellissima ballerina esotica con un passato complicato.</desc>
+  </programme>
+  <programme start="20261019191802 +0200" stop="20261019210002 +0200" channel="pluto_film_tv">
+    <title lang="it">La signora Dalloway</title>
+    <desc lang="it">Clarissa Dalloway, un'attempata signora di Londra, riflette riguardo la propria vita e sulle decisioni prese ingenuamente.</desc>
+  </programme>
+  <programme start="20261019210002 +0200" stop="20261020023000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019203000 +0200" stop="20261020083000 +0200" channel="pluto_film_tv">
+  <programme start="20261020023000 +0200" stop="20261020143000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020083000 +0200" stop="20261020143000 +0200" channel="pluto_film_tv">
+  <programme start="20261020143000 +0200" stop="20261020203000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261018083000 +0200" stop="20261018115415 +0200" channel="pluto_film_azione">
+  <programme start="20261018143000 +0200" stop="20261018171000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261018115415 +0200" stop="20261018135315 +0200" channel="pluto_film_azione">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20261018135315 +0200" stop="20261018153615 +0200" channel="pluto_film_azione">
-    <title lang="it">Mega Shark Vs Kolossus</title>
-    <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
-  </programme>
-  <programme start="20261018153615 +0200" stop="20261018171000 +0200" channel="pluto_film_azione">
-    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
-    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
   </programme>
   <programme start="20261018171000 +0200" stop="20261018190000 +0200" channel="pluto_film_azione">
     <title lang="it">Striscia Vincente</title>
@@ -4861,49 +4847,37 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Sharknado 5 - Global Swarming</title>
     <desc lang="it">Fin Shepard e sua moglie April sono alle prese con decine di squali mostruosi che stanno devastando ogni angolo del globo. Uno di questi ha portato via il loro figlio più giovane.</desc>
   </programme>
-  <programme start="20261019143406 +0200" stop="20261019203000 +0200" channel="pluto_film_azione">
+  <programme start="20261019143406 +0200" stop="20261019162506 +0200" channel="pluto_film_azione">
+    <title lang="it">La Leggenda Di Hei</title>
+    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
+  </programme>
+  <programme start="20261019162506 +0200" stop="20261019180506 +0200" channel="pluto_film_azione">
+    <title lang="it">Avengers Grimm</title>
+    <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
+  </programme>
+  <programme start="20261019180506 +0200" stop="20261019194640 +0200" channel="pluto_film_azione">
+    <title lang="it">La gang degli svitati</title>
+    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
+  </programme>
+  <programme start="20261019194640 +0200" stop="20261019213018 +0200" channel="pluto_film_azione">
+    <title lang="it">Hostile Territory - Il tempo è il nemico</title>
+    <desc lang="it">Di ritorno dalla Guerra Civile, l'ex prigioniero Jack Calgrove scopre che sua moglie è morta e che i suoi figli, presunti orfani, sono su un treno diretto verso un territorio ostile nel profondo West.</desc>
+  </programme>
+  <programme start="20261019213018 +0200" stop="20261020023000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019203000 +0200" stop="20261020083000 +0200" channel="pluto_film_azione">
+  <programme start="20261020023000 +0200" stop="20261020143000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020083000 +0200" stop="20261020143000 +0200" channel="pluto_film_azione">
+  <programme start="20261020143000 +0200" stop="20261020203000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261018083000 +0200" stop="20261018122820 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261018143000 +0200" stop="20261018181120 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261018122820 +0200" stop="20261018131720 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'intervallo dissonante (Parte 1)</title>
-    <desc lang="it">Andromeda salva una nave di ritorno dai colloqui di pace con Magog.</desc>
-  </programme>
-  <programme start="20261018131720 +0200" stop="20261018140620 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'intervallo dissonante (Parte 2)</title>
-    <desc lang="it">L'attacco di Magog ha conseguenze terribili. L'Andromeda viene distrutta e sembra che Trance e Dylan siano gli unici superstiti. Dylan fugge nella rotta dei secoli.</desc>
-  </programme>
-  <programme start="20261018140620 +0200" stop="20261018145520 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il peso (Parte 1)</title>
-    <desc lang="it">Dylan finisce a Seefra, popolato da persone superstiziose prive di tecnologia.</desc>
-  </programme>
-  <programme start="20261018145520 +0200" stop="20261018154420 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il peso (Parte 2)</title>
-    <desc lang="it">Beka viene scaricata su Seefra dopo che l'Andromeda è stata rubata. Dylan deve dimostrare che la nave gli appartiene.</desc>
-  </programme>
-  <programme start="20261018154420 +0200" stop="20261018163320 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il feromone della paura</title>
-    <desc lang="it">Ancora su Seefra, Dylan ritrova Harper, che si è adattato alla vita lì.</desc>
-  </programme>
-  <programme start="20261018163320 +0200" stop="20261018172220 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La caduta dell'angelo</title>
-    <desc lang="it">Doyle è in realtà un androide costruito da Harper per contenere la programmazione di base di Rommie.</desc>
-  </programme>
-  <programme start="20261018172220 +0200" stop="20261018181120 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'escatologia del nostro presente</title>
-    <desc lang="it">Beka vince un premio da un DJ radiofonico, scopre la verità su Seefra e trova il diagramma Meethus.</desc>
   </programme>
   <programme start="20261018181120 +0200" stop="20261018190020 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Quando gira…</title>
@@ -5005,69 +4979,45 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Mutant X: In presenza del nemico</title>
     <desc lang="it">Jesse si innamora di un hacker di computer che Eckhart vuole "ingaggiare" per corrompere i canali di notizie del computer pubblico contro i Nuovi Mutanti... e a vantaggio della GSA.</desc>
   </programme>
-  <programme start="20261019143620 +0200" stop="20261019203000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261019143620 +0200" stop="20261019152520 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il crimine del nuovo secolo</title>
+    <desc lang="it">Un ragazzo che sta sviluppando nuove abilità mutanti è stato rapito e la squadra accetta di trovarlo per sua madre. Più tardi vengono a sapere che è stata lei a far rapire il figlio.</desc>
+  </programme>
+  <programme start="20261019152520 +0200" stop="20261019161420 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'ascesa della stella nera</title>
+    <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
+  </programme>
+  <programme start="20261019161420 +0200" stop="20261019170320 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una tonalità più bianca di pallido</title>
+    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
+  </programme>
+  <programme start="20261019170320 +0200" stop="20261019175220 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Visione doppia</title>
+    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
+  </programme>
+  <programme start="20261019175220 +0200" stop="20261019184120 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Legami di sangue</title>
+    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
+  </programme>
+  <programme start="20261019184120 +0200" stop="20261019193020 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Alter Ego</title>
+    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
+  </programme>
+  <programme start="20261019193020 +0200" stop="20261019201920 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
+    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
+  </programme>
+  <programme start="20261019201920 +0200" stop="20261020023000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019203000 +0200" stop="20261020083000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261020023000 +0200" stop="20261020143000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020083000 +0200" stop="20261020143000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261020143000 +0200" stop="20261020203000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261018115624 +0000" stop="20261018123930 +0000" channel="redbull_tv">
-    <title lang="it">Encouraged: Costruire il futuro</title>
-    <desc lang="it">Courage Adams torna in Nigeria per mantenere la sua promessa di costruire il primo skatepark di Lagos, dando ai fanatici locali della BMX l'opportunità di superare i limiti della scena sportiva locale.</desc>
-  </programme>
-  <programme start="20261018123930 +0000" stop="20261018133024 +0000" channel="redbull_tv">
-    <title lang="it">A Biker's Ballad</title>
-    <desc lang="it">14 riders. 7 years. This mountain biking epic takes a two-wheeled journey back to where the sport began in Crested Butte, Colorado, to celebrate its deep-rooted culture.</desc>
-  </programme>
-  <programme start="20261018133024 +0000" stop="20261018143917 +0000" channel="redbull_tv">
-    <title lang="it">The Old World</title>
-    <desc lang="it">The Old World è una vetrina per i rider europei che dominano il palco mondiale della mountain bike.</desc>
-  </programme>
-  <programme start="20261018143917 +0000" stop="20261018150252 +0000" channel="redbull_tv">
-    <title lang="it">UnBRAKEable</title>
-    <desc lang="it">A documentary about Patrick Seabase’s ultimate Tour de Suisse, riding almost 350km and 9,000m in elevation on a track bike within one day, connecting some of the most beautiful parts of Switzerland.</desc>
-  </programme>
-  <programme start="20261018150252 +0000" stop="20261018152928 +0000" channel="redbull_tv">
-    <title lang="it">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="it">Touring a town in style on a snowmobile. Freerunning through an airport. Skateboarding out of a flying plane. Ice climbing Niagra Falls. It's all in a day's work for Red Bull athletes!</desc>
-  </programme>
-  <programme start="20261018152928 +0000" stop="20261018155528 +0000" channel="redbull_tv">
-    <title lang="it">From F1 soapbox racing to breaking world records</title>
-    <desc lang="it">Breaking world records – it's all in a day's work for Red Bull athletes! See Felix Baumgartner jump from space, 65 women skydive together and one BMXer conquer the globe's biggest full loop.</desc>
-  </programme>
-  <programme start="20261018155528 +0000" stop="20261018162128 +0000" channel="redbull_tv">
-    <title lang="it">From skydiving with skis to flying into a volcano</title>
-    <desc lang="it">Flying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!</desc>
-  </programme>
-  <programme start="20261018162128 +0000" stop="20261018164728 +0000" channel="redbull_tv">
-    <title lang="it">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="it">Wingsuit flying through London’s Tower Bridge at 246kph. Swinging from a hot air balloon. Slacklining the length of two football fields. It's all in a day's work for Red Bull athletes!</desc>
-  </programme>
-  <programme start="20261018164728 +0000" stop="20261018171404 +0000" channel="redbull_tv">
-    <title lang="it">From F1 desert racing to a skatepark in the sky </title>
-    <desc lang="it">Wakeskating off a Dubai skyscraper. F1 drivers racing on Floridan waters and in the Nevada desert. Riding a skatepark attached to a hot air balloon. It's all in a day's work for Red Bull athletes!</desc>
-  </programme>
-  <programme start="20261018171404 +0000" stop="20261018174004 +0000" channel="redbull_tv">
-    <title lang="it">From a paper plane contest to diving off ruins </title>
-    <desc lang="it">Swamp buggy racing. Sprinting down from the peak of a mountain on a bike. High diving off ancient ruins. Getting the perfect surf shot. It's all in a day's work for Red Bull athletes!</desc>
-  </programme>
-  <programme start="20261018174004 +0000" stop="20261018175800 +0000" channel="redbull_tv">
-    <title lang="it">Bam Margera</title>
-    <desc lang="it">Madars Apse begins his journey by traveling to Pennsylvania to meet up with the iconic Bam Margera to check out his skate barn and brand new ramps.</desc>
-  </programme>
-  <programme start="20261018175800 +0000" stop="20261018180833 +0000" channel="redbull_tv">
-    <title lang="it">2015's fan-favourite teams</title>
-    <desc lang="it">How do win over a Red Bull Soapbox Race crowd? Destroying your racer and the course itself certainly helps, as 2015's highlights prove.</desc>
-  </programme>
-  <programme start="20261018180833 +0000" stop="20261018181848 +0000" channel="redbull_tv">
-    <title lang="it">2016's fan-favourite teams</title>
-    <desc lang="it">Speed wins a Red Bull Soapbox Race, but eccentric design, a big show and bigger crashes win you the crowd. Case in point, 2016's crowd favourites.</desc>
   </programme>
   <programme start="20261018181848 +0000" stop="20261018184426 +0000" channel="redbull_tv">
     <title lang="it">Asa Vermette's Ascent</title>
@@ -5097,139 +5047,147 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Asa Vermette's Ascent</title>
     <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
   </programme>
-  <programme start="20261018123049 +0000" stop="20261018123757 +0000" channel="redbull_bike">
-    <title lang="it">Harriet Burbidge-Smith – Australian style</title>
-    <desc lang="it">Enjoy just the sound of tyres on dirt as Australian freeride mountain biker Harriet Burbidge-Smith puts it down at gravity-focused Maydena Bike Park near her home in Tasmania.</desc>
+  <programme start="20261018225702 +0000" stop="20261018232022 +0000" channel="redbull_tv">
+    <title lang="it">Paradigm</title>
+    <desc lang="it">Dalla precisione dello slopestyle ai salti del freeride e passando per la velocità pura della discesa, Thomas Genon, Szymon Godziek, Emil Johansson e Kade Edwards mettono in mostra il loro talento sulla MTB con una performance davvero adrenalinica.</desc>
   </programme>
-  <programme start="20261018123757 +0000" stop="20261018125231 +0000" channel="redbull_bike">
-    <title lang="it">Si ricomincia</title>
-    <desc lang="it">Kate Courtney, Loïc Bruni e Finn Iles parlano delle sfide di una stagione 2020 diversa dal solito.</desc>
+  <programme start="20261018232022 +0000" stop="20261018234701 +0000" channel="redbull_tv">
+    <title lang="it">Progression</title>
+    <desc lang="it">Nel 2021, otto atlete di mountain bike si sono riunite per far progredire ed evolvere lo sport del freeride femminile. Queste donne si sono recate su una montagna a Virgin, nello Utah, per prendere parte alla Red Bull Formation, per creare e poi guidare linee dall'alto verso il basso su una ripida sezione di montagna. Questo film racconta la storia di quel camp, dove la collaborazione e il sostegno piuttosto che la competizione erano i principi che hanno spinto le protagoniste a dare il massimo.</desc>
   </programme>
-  <programme start="20261018125231 +0000" stop="20261018131003 +0000" channel="redbull_bike">
-    <title lang="it">Full recap from Red Bull Formation 2022</title>
-    <desc lang="it">Here’s what went down in the desert in Virgin, Utah, for the third edition of Red Bull Formation – the women’s freeride MTB progression session.</desc>
+  <programme start="20261018234701 +0000" stop="20261018235715 +0000" channel="redbull_tv">
+    <title lang="it">2016's fan-favourite teams</title>
+    <desc lang="it">Speed wins a Red Bull Soapbox Race, but eccentric design, a big show and bigger crashes win you the crowd. Case in point, 2016's crowd favourites.</desc>
   </programme>
-  <programme start="20261018131003 +0000" stop="20261018134648 +0000" channel="redbull_bike">
-    <title lang="it">Brandon Semenuk – Steps to the Top </title>
-    <desc lang="it">Canadian MTB prodigy Brandon Semenuk secured a fourth Red Bull Rampage win in 2021, cementing his name as one of the all-time greats in mountain biking. This is how he and his team made it happen.</desc>
+  <programme start="20261018235715 +0000" stop="20261019001044 +0000" channel="redbull_tv">
+    <title lang="it">2017's fan-favourite teams</title>
+    <desc lang="it">As 2017's fan favourites teach us, two-wheeled designs never work, and everyone loves a pop culture referencing racer – especially if they self-destruct.</desc>
   </programme>
-  <programme start="20261018134648 +0000" stop="20261018140159 +0000" channel="redbull_bike">
-    <title lang="it">Erik Fedko checks out Emil Johansson's home spots</title>
-    <desc lang="it">Following success at the 2020 Crankworx Rotorua, mountain biker Erik Fedko makes the long journey from New Zealand to Sweden to check out some of fellow rider Emil Johansson's favourite spots to ride.</desc>
+  <programme start="20261019001044 +0000" stop="20261019005427 +0000" channel="redbull_tv">
+    <title lang="it">Spa, Belgium</title>
+    <desc lang="it">Fearless teams race through obstacles in their engineless machines. The day brings many cheers from the enthusiastic crowds – as well as many crashes! So who will be the 2022 winner in Spa?</desc>
   </programme>
-  <programme start="20261018140159 +0000" stop="20261018141443 +0000" channel="redbull_bike">
-    <title lang="it">Underdogs e overdogs</title>
-    <desc lang="it">I top rider di MTB Kate Courtney e Loïc Bruni ricordano alcuni degli alti e bassi della loro carriera in mountain bike. Le star americane dell'XCO e francesi della DH raccontano come hanno reagito loro e il mondo intero.</desc>
+  <programme start="20261019005427 +0000" stop="20261019010317 +0000" channel="redbull_tv">
+    <title lang="it">2018's best crashes and smashes</title>
+    <desc lang="it">Skinny wheels, a narrow wheelbase and a tall chassis are a recipe for big soapbox racing crashes and 2018's biggest spills are the proof.</desc>
   </programme>
-  <programme start="20261018141443 +0000" stop="20261018144021 +0000" channel="redbull_bike">
-    <title lang="it">Asa Vermette's Ascent</title>
-    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
+  <programme start="20261019010317 +0000" stop="20261019011630 +0000" channel="redbull_tv">
+    <title lang="it">2019's best crashes and smashes</title>
+    <desc lang="it">To win in Red Bull Soapbox Race, first you've got to finish. This is not easy for these hard-crashing teams from 2019's championship.</desc>
   </programme>
-  <programme start="20261018144021 +0000" stop="20261018145258 +0000" channel="redbull_bike">
-    <title lang="it">Winning strategies</title>
-    <desc lang="it">When there's more to gain than there is to miss, MTB riders can race like they've got nothing to lose. Here they talk about how having a winning strategy can make all the difference.</desc>
+  <programme start="20261019011630 +0000" stop="20261019012756 +0000" channel="redbull_tv">
+    <title lang="it">2016's best crashes and smashes</title>
+    <desc lang="it">The steepest competition hill ever in Ireland and the aptly named Death Roller made sure 2016 continued to deliver more epic soapbox crashes.</desc>
   </programme>
-  <programme start="20261018145258 +0000" stop="20261018153841 +0000" channel="redbull_bike">
-    <title lang="it">Gamble</title>
-    <desc lang="it">Release the top dogs of downhill mountain bike racing from the confines of the tape, and what do you get? Raw speed, a heavy-hitting soundtrack and virgin locations as riders show their skill.</desc>
+  <programme start="20261019012756 +0000" stop="20261019021109 +0000" channel="redbull_tv">
+    <title lang="it">San Marino, Italy</title>
+    <desc lang="it">The race with no engine and many obstacles will test the participants throughout the day. Have the teams done enough to let their machines race to the finish line or will the obstacles be too big?</desc>
   </programme>
-  <programme start="20261018153841 +0000" stop="20261018154324 +0000" channel="redbull_bike">
-    <title lang="it">Courage Adams</title>
-    <desc lang="it">Guarda lo street rider di BMX Courage Adams mentre atterra nella città di Johannesburg, in Sud Africa, per creare un'elettrizzante linea urbana attraverso le strade di Soweto.</desc>
+  <programme start="20261019021109 +0000" stop="20261019022008 +0000" channel="redbull_tv">
+    <title lang="it">2014's fan-favourite teams</title>
+    <desc lang="it">If you can't build a fast soapbox, you can at least build an fun one to entertain the huge crowds and these were 2014's fan favourites.</desc>
   </programme>
-  <programme start="20261018154324 +0000" stop="20261018160718 +0000" channel="redbull_bike">
-    <title lang="it">Colombia</title>
-    <desc lang="it">Rob Warner e Finn Iles in Colombia in cerca dei più selvaggi trail del Sud America.</desc>
+  <programme start="20261019022008 +0000" stop="20261019023247 +0000" channel="redbull_tv">
+    <title lang="it">2017's best crashes and smashes</title>
+    <desc lang="it">Get the first aid kits ready because 2017's crash-reel includes some Hollywood action film-worthy smashes that undoubtedly stung a bit.</desc>
   </programme>
-  <programme start="20261018160718 +0000" stop="20261018163000 +0000" channel="redbull_bike">
-    <title lang="it">The Road Back: Brook MacDonald</title>
-    <desc lang="it">Witness the recovery of top New Zealand mountain biker Brook MacDonald after a devastating accident jeopardised his chances of competing again.</desc>
+  <programme start="20261019023247 +0000" stop="20261019024320 +0000" channel="redbull_tv">
+    <title lang="it">2015's fan-favourite teams</title>
+    <desc lang="it">How do win over a Red Bull Soapbox Race crowd? Destroying your racer and the course itself certainly helps, as 2015's highlights prove.</desc>
   </programme>
-  <programme start="20261018163000 +0000" stop="20261018163711 +0000" channel="redbull_bike">
-    <title lang="it">The power of bikes</title>
-    <desc lang="it">L'atleta di endurance Rebecca Rusch e l'avventuriero Patrick Sweeney sono pronti a sfidare il Kilimanjaro in bici, in Tanzania. L'obiettivo è di raccogliere fondi per l'organizzazione no-profit World Bicycle Relief.</desc>
+  <programme start="20261019024320 +0000" stop="20261019032442 +0000" channel="redbull_tv">
+    <title lang="it">Pt. 1: I ran 7 marathons in 7 days on 7 continents</title>
+    <desc lang="it">After months of elite training Michelle begins The Great World Race, racing from Cape Town to the blistering cold of Antarctica, where she must finish in 8 hours or be left behind.</desc>
   </programme>
-  <programme start="20261018163711 +0000" stop="20261018170137 +0000" channel="redbull_bike">
-    <title lang="it">Kenya</title>
-    <desc lang="it">Rob Warner e il professionista del freeride Matt Jones si recano in Kenya, dove esplorano una delle montagne più alte dell’Africa e fanno incontri ravvicinati con la fauna locale.</desc>
-  </programme>
-  <programme start="20261018170137 +0000" stop="20261018171611 +0000" channel="redbull_bike">
-    <title lang="it">Si ricomincia</title>
-    <desc lang="it">Kate Courtney, Loïc Bruni e Finn Iles parlano delle sfide di una stagione 2020 diversa dal solito.</desc>
-  </programme>
-  <programme start="20261018171611 +0000" stop="20261018173700 +0000" channel="redbull_bike">
-    <title lang="it">Ora o mai più</title>
-    <desc lang="it">Con le poche gare della stagione 2020, la pressione per gareggiare al meglio è immensa.</desc>
-  </programme>
-  <programme start="20261018173700 +0000" stop="20261018181345 +0000" channel="redbull_bike">
-    <title lang="it">Brandon Semenuk – Steps to the Top </title>
-    <desc lang="it">Canadian MTB prodigy Brandon Semenuk secured a fourth Red Bull Rampage win in 2021, cementing his name as one of the all-time greats in mountain biking. This is how he and his team made it happen.</desc>
-  </programme>
-  <programme start="20261018181345 +0000" stop="20261018191752 +0000" channel="redbull_bike">
+  <programme start="20261018181345 +0000" stop="20261018191751 +0000" channel="redbull_bike">
     <title lang="it">Emerald Storm</title>
     <desc lang="it">Across four decades and five generations, watch the evolution of Irish MTB, from casual rides with friends to fierce battles on the world’s biggest stage: the UCI Downhill World Cup.</desc>
   </programme>
-  <programme start="20261018191752 +0000" stop="20261018193039 +0000" channel="redbull_bike">
+  <programme start="20261018191751 +0000" stop="20261018193039 +0000" channel="redbull_bike">
     <title lang="it">Instinct vs science</title>
     <desc lang="it">The best MTB riders race on instinct. Why? Because understanding the science of speed doesn't always help them know when to go fast and when to slow down. They have to work it out themselves.</desc>
   </programme>
-  <programme start="20261018193039 +0000" stop="20261018201622 +0000" channel="redbull_bike">
+  <programme start="20261018193039 +0000" stop="20261018201621 +0000" channel="redbull_bike">
     <title lang="it">Gamble</title>
     <desc lang="it">Release the top dogs of downhill mountain bike racing from the confines of the tape, and what do you get? Raw speed, a heavy-hitting soundtrack and virgin locations as riders show their skill.</desc>
   </programme>
-  <programme start="20261018121732 +0000" stop="20261018123420 +0000" channel="redbull_adventure">
-    <title lang="it">Beneath the Ice</title>
-    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
+  <programme start="20261018201621 +0000" stop="20261018203115 +0000" channel="redbull_bike">
+    <title lang="it">It's all about the drama</title>
+    <desc lang="it">MTB riders Kate Courtney, Finn Iles, Loïc Bruni and more look back at past editions of Fast Life, remember the good times, as well as the some of their toughest moments.</desc>
   </programme>
-  <programme start="20261018123420 +0000" stop="20261018132645 +0000" channel="redbull_adventure">
-    <title lang="it">Best moments from Copenhagen</title>
-    <desc lang="it">Do look down! These are the best moments from the third event of the 2022 Red Bull Cliff Diving World Series in Copenhagen, Denmark, so you can catch every detail of the top dives.</desc>
+  <programme start="20261018203115 +0000" stop="20261018205525 +0000" channel="redbull_bike">
+    <title lang="it">Lesotho</title>
+    <desc lang="it">Rob Warner con il freerider Matt Jones a Lesotho in Africa</desc>
   </programme>
-  <programme start="20261018132645 +0000" stop="20261018140315 +0000" channel="redbull_adventure">
-    <title lang="it">Red Bull Dual Ascent</title>
-    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
+  <programme start="20261018205525 +0000" stop="20261018212036 +0000" channel="redbull_bike">
+    <title lang="it">Kriss Kyle: Out of Season</title>
+    <desc lang="it">I boschi selvaggi del Galles ospitano il maestro Kyle.</desc>
   </programme>
-  <programme start="20261018140315 +0000" stop="20261018142417 +0000" channel="redbull_adventure">
-    <title lang="it">Fairy Flight </title>
-    <desc lang="it">Frenchman Valentin Delluc drops from the iconic hot air balloons of magical Cappadocia in Turkey for a speedflying adventure filled with action. </desc>
+  <programme start="20261018212036 +0000" stop="20261018214231 +0000" channel="redbull_bike">
+    <title lang="it">Dear 39th Street</title>
+    <desc lang="it">Dopo essersi sentito un outsider al Tour de France, Justin Williams ha formato la sua squadra di ciclismo. </desc>
   </programme>
-  <programme start="20261018142417 +0000" stop="20261018144515 +0000" channel="redbull_adventure">
-    <title lang="it">The Nose speed record parte 1</title>
-    <desc lang="it">Alex Honnold e Tommy Caldwell ci mostrano il record di velocità della scalata del The Nose su El Capitan, California.</desc>
+  <programme start="20261018214231 +0000" stop="20261018220809 +0000" channel="redbull_bike">
+    <title lang="it">Asa Vermette's Ascent</title>
+    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
   </programme>
-  <programme start="20261018144515 +0000" stop="20261018150831 +0000" channel="redbull_adventure">
-    <title lang="it">The high road - Scalata al successo parte 1</title>
-    <desc lang="it">Segui le incredibili scalate di Nina Williams verso l'Olimpo della disciplina.</desc>
+  <programme start="20261018220809 +0000" stop="20261018233156 +0000" channel="redbull_bike">
+    <title lang="it">The Engine Inside</title>
+    <desc lang="it">Six people from different worlds dedicate their lives to a simple, age-old machine: the bicycle. Facing overwhelming challenges, their stories reveal the power within us to build a better world.</desc>
   </programme>
-  <programme start="20261018150831 +0000" stop="20261018153444 +0000" channel="redbull_adventure">
-    <title lang="it">The Nose speed record parte 3</title>
-    <desc lang="it">Dopo settimane di allenamento e qualche errore di troppo, Alex Honnold e Tommy Caldwell provano a infrangere il record.</desc>
+  <programme start="20261018233156 +0000" stop="20261018235806 +0000" channel="redbull_bike">
+    <title lang="it">Chasing the Inca II</title>
+    <desc lang="it">Quattro atleti rivisitano le Ande, spingendo i limiti del possibile in mountain bike, alla ricerca di una strada Inca perduta individuata quasi dieci anni prima in una spedizione precedente (Chasing the Inca I).</desc>
   </programme>
-  <programme start="20261018153444 +0000" stop="20261018171321 +0000" channel="redbull_adventure">
-    <title lang="it">Valley Uprising</title>
-    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
+  <programme start="20261018235806 +0000" stop="20261019001058 +0000" channel="redbull_bike">
+    <title lang="it">French advantage</title>
+    <desc lang="it">With the country's history of producing a wealth of successful bikers, MTB riders of today speculate about what qualities French competitors possess that see them finish on the podium so often.</desc>
   </programme>
-  <programme start="20261018171321 +0000" stop="20261018171835 +0000" channel="redbull_adventure">
-    <title lang="it">Wild freerun</title>
-    <desc lang="it">Freerunner Krystian Kowalewski explores Rudawy Landscape Park in his home country of Poland. Trees and rock formations make a perfect parkour playground for him to show off his skills.</desc>
+  <programme start="20261019001058 +0000" stop="20261019001935 +0000" channel="redbull_bike">
+    <title lang="it">Tom Oehler sulle Dolomiti</title>
+    <desc lang="it">Il leggendario trial rider Tom Oehler affronta le Dolomiti in questo video semplicemente pazzesco.</desc>
   </programme>
-  <programme start="20261018171835 +0000" stop="20261018181101 +0000" channel="redbull_adventure">
-    <title lang="it">Best moments from Copenhagen</title>
-    <desc lang="it">Do look down! These are the best moments from the third event of the 2022 Red Bull Cliff Diving World Series in Copenhagen, Denmark, so you can catch every detail of the top dives.</desc>
+  <programme start="20261019001935 +0000" stop="20261019012829 +0000" channel="redbull_bike">
+    <title lang="it">The Old World</title>
+    <desc lang="it">The Old World è una vetrina per i rider europei che dominano il palco mondiale della mountain bike.</desc>
   </programme>
-  <programme start="20261018181101 +0000" stop="20261018183109 +0000" channel="redbull_adventure">
-    <title lang="it">All You Need is a Ball</title>
-    <desc lang="it">Learn how the world’s best freestyle footballers, like Red Bull Street Style World Final 2022 winner Caitlyn Schrepfer, have pushed the sport forward and are paving the way for a new generation.</desc>
+  <programme start="20261019012829 +0000" stop="20261019014947 +0000" channel="redbull_bike">
+    <title lang="it">Bas Keep: More Walls</title>
+    <desc lang="it">In questo seguito del suo progetto "Walls", la stella della BMX Sebastian Keep affronta ostacoli e rampe in un paesaggio urbano tipicamente british.</desc>
   </programme>
-  <programme start="20261018183109 +0000" stop="20261018184836 +0000" channel="redbull_adventure">
+  <programme start="20261019014947 +0000" stop="20261019025354 +0000" channel="redbull_bike">
+    <title lang="it">Emerald Storm</title>
+    <desc lang="it">Across four decades and five generations, watch the evolution of Irish MTB, from casual rides with friends to fierce battles on the world’s biggest stage: the UCI Downhill World Cup.</desc>
+  </programme>
+  <programme start="20261019025354 +0000" stop="20261019033039 +0000" channel="redbull_bike">
+    <title lang="it">Brandon Semenuk – Steps to the Top </title>
+    <desc lang="it">Canadian MTB prodigy Brandon Semenuk secured a fourth Red Bull Rampage win in 2021, cementing his name as one of the all-time greats in mountain biking. This is how he and his team made it happen.</desc>
+  </programme>
+  <programme start="20261019033039 +0000" stop="20261019035128 +0000" channel="redbull_bike">
+    <title lang="it">Ora o mai più</title>
+    <desc lang="it">Con le poche gare della stagione 2020, la pressione per gareggiare al meglio è immensa.</desc>
+  </programme>
+  <programme start="20261019035128 +0000" stop="20261019041554 +0000" channel="redbull_bike">
+    <title lang="it">Kenya</title>
+    <desc lang="it">Rob Warner e il professionista del freeride Matt Jones si recano in Kenya, dove esplorano una delle montagne più alte dell’Africa e fanno incontri ravvicinati con la fauna locale.</desc>
+  </programme>
+  <programme start="20261019041554 +0000" stop="20261019044132 +0000" channel="redbull_bike">
+    <title lang="it">Asa Vermette's Ascent</title>
+    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
+  </programme>
+  <programme start="20261019044132 +0000" stop="20261019045903 +0000" channel="redbull_bike">
+    <title lang="it">Full recap from Red Bull Formation 2022</title>
+    <desc lang="it">Here’s what went down in the desert in Virgin, Utah, for the third edition of Red Bull Formation – the women’s freeride MTB progression session.</desc>
+  </programme>
+  <programme start="20261018183108 +0000" stop="20261018184835 +0000" channel="redbull_adventure">
     <title lang="it">One Day, 4061m &amp; 4478m</title>
     <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
   </programme>
-  <programme start="20261018184836 +0000" stop="20261018195423 +0000" channel="redbull_adventure">
+  <programme start="20261018184835 +0000" stop="20261018195422 +0000" channel="redbull_adventure">
     <title lang="it">K2: The Impossible Descent</title>
     <desc lang="it">Il 22 luglio del 2018, uno sciatore polacco ha scritto la storia dando il via alla sua discesa da un'altezza di 8611 m. Segui l'epica spedizione di Andrzej Bargiel dalla Polonia al Pakistan, culminata con la discesa in sci del K2.</desc>
   </programme>
-  <programme start="20261018195423 +0000" stop="20261018201524 +0000" channel="redbull_adventure">
+  <programme start="20261018195422 +0000" stop="20261018201524 +0000" channel="redbull_adventure">
     <title lang="it">Fairy Flight </title>
     <desc lang="it">Frenchman Valentin Delluc drops from the iconic hot air balloons of magical Cappadocia in Turkey for a speedflying adventure filled with action. </desc>
   </programme>
@@ -5257,75 +5215,63 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">Red Bull Dual Ascent</title>
     <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
   </programme>
-  <programme start="20261018114402 +0000" stop="20261018124808 +0000" channel="redbull_motorsports">
-    <title lang="it">Hare Scramble</title>
-    <desc lang="it">Il clou dell’Erzbergrodeo, l’Hare Scramble, è una corsa di Hard Enduro da incubo lunga 35 km, che porta i piloti a lanciarsi alla carica dal fondo della più grande miniera di ferro dell’Austria. La 22esima edizione di questa gara storica sembra essere la più dura di sempre.</desc>
+  <programme start="20261018234031 +0000" stop="20261018235719 +0000" channel="redbull_adventure">
+    <title lang="it">Beneath the Ice</title>
+    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
   </programme>
-  <programme start="20261018124808 +0000" stop="20261018125328 +0000" channel="redbull_motorsports">
-    <title lang="it">How to install an OEM-tight seat cover</title>
-    <desc lang="it">Aaron Colton breaks down his technique for the tedious task of motorcycle seat cover installation. Take these tips to get your next seat cover installed high and tight.</desc>
+  <programme start="20261018235719 +0000" stop="20261019004944 +0000" channel="redbull_adventure">
+    <title lang="it">Best moments from Copenhagen</title>
+    <desc lang="it">Do look down! These are the best moments from the third event of the 2022 Red Bull Cliff Diving World Series in Copenhagen, Denmark, so you can catch every detail of the top dives.</desc>
   </programme>
-  <programme start="20261018125328 +0000" stop="20261018134527 +0000" channel="redbull_motorsports">
-    <title lang="it">Frozen Rush</title>
-    <desc lang="it">La prima gara al mondo di truck fuoristrada su neve vede partecipare otto Pro 4 da 900 CV, guidati dai migliori piloti del mondo, tra cui Ricky Johnson e Bryce Menzies, che conducono i mezzi su piste scivolose davanti a 10.000 fan.</desc>
+  <programme start="20261019004944 +0000" stop="20261019005520 +0000" channel="redbull_adventure">
+    <title lang="it">Dom-ination Cairo</title>
+    <desc lang="it">The Egyptian city of Cairo is host to Australian freerunner Dominic Di Tommaso, who showcases his impressive parkour skills at a series of iconic locations, including the River Nile and the pyramids.</desc>
   </programme>
-  <programme start="20261018134527 +0000" stop="20261018135619 +0000" channel="redbull_motorsports">
-    <title lang="it">The guy out front</title>
-    <desc lang="it">Jeffrey Herlings has passed Antonio Cairoli on the track this year, but is he prepared for the pressure of being the sport's public ambassador, which brings with it a new set of mental challenges?</desc>
+  <programme start="20261019005520 +0000" stop="20261019020107 +0000" channel="redbull_adventure">
+    <title lang="it">K2: The Impossible Descent</title>
+    <desc lang="it">Il 22 luglio del 2018, uno sciatore polacco ha scritto la storia dando il via alla sua discesa da un'altezza di 8611 m. Segui l'epica spedizione di Andrzej Bargiel dalla Polonia al Pakistan, culminata con la discesa in sci del K2.</desc>
   </programme>
-  <programme start="20261018135619 +0000" stop="20261018141146 +0000" channel="redbull_motorsports">
-    <title lang="it">Formula Schnitzeljagd – warm up in Austria</title>
-    <desc lang="it">I piloti F1 di Red Bull Racing e Scuderia AlphaTauri F1 alle prese con una gara in Austria diversa dal solito, tra sfide uniche a bordo di particolari veicoli: un modo tutto speciale per prepararsi al meglio ai GP austriaci in arrivo.</desc>
+  <programme start="20261019020107 +0000" stop="20261019022008 +0000" channel="redbull_adventure">
+    <title lang="it">The high road - Scalata al successo parte 2</title>
+    <desc lang="it">Nina Williams prova un'incredibile impresa: un boulder di 15 metri chiamato Too Big to Flail.</desc>
   </programme>
-  <programme start="20261018141146 +0000" stop="20261018143253 +0000" channel="redbull_motorsports">
-    <title lang="it">Dead Sea season opener</title>
-    <desc lang="it">He may be unable to compete due to injury, but that won't stop enduro rider Mani travelling to Israel’s Dead Sea with fellow rider Paul for the Hard Enduro season opener – 400m below sea level.</desc>
+  <programme start="20261019022008 +0000" stop="20261019024340 +0000" channel="redbull_adventure">
+    <title lang="it">Filming free solo on Les Drus in France</title>
+    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
   </programme>
-  <programme start="20261018143253 +0000" stop="20261018152620 +0000" channel="redbull_motorsports">
-    <title lang="it">Romaniacs</title>
-    <desc lang="it">La gara più lunga della stagione di Hard Enduro inizia con una sfida per le strade di Sibiu, in Transilvania, per poi passare a quattro giorni di gara su un percorso vergine attraverso un terreno brutale che si rivela proibitivo anche solo da attraversare.</desc>
+  <programme start="20261019024340 +0000" stop="20261019025114 +0000" channel="redbull_adventure">
+    <title lang="it">City of Gold</title>
+    <desc lang="it">Freerunner Dominic Di Tommaso is transported inside a video game where he must collect gold coins. But can he find them all in order to complete the final level and escape back to real life?</desc>
   </programme>
-  <programme start="20261018152620 +0000" stop="20261018153721 +0000" channel="redbull_motorsports">
-    <title lang="it">Family affair</title>
-    <desc lang="it">Motocross riders talk about how the support of their families, who sometimes sacrifice everything to provide the financial funding needed to reach the top, inspires and drives them.</desc>
+  <programme start="20261019025114 +0000" stop="20261019030842 +0000" channel="redbull_adventure">
+    <title lang="it">One Day, 4061m &amp; 4478m</title>
+    <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
   </programme>
-  <programme start="20261018153721 +0000" stop="20261018160107 +0000" channel="redbull_motorsports">
-    <title lang="it">Moto Maverick</title>
-    <desc lang="it">Join all-round motorcycle rider Ryan Sipes and a supporting cast of the world's best motocross and supercross racers in a cinematic look at the current state of racing.</desc>
+  <programme start="20261019030842 +0000" stop="20261019032530 +0000" channel="redbull_adventure">
+    <title lang="it">Beneath the Ice</title>
+    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
   </programme>
-  <programme start="20261018160107 +0000" stop="20261018161730 +0000" channel="redbull_motorsports">
-    <title lang="it">Taking on a brand new race</title>
-    <desc lang="it">Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the Abestone Hard Enduro race. This race is brand new for the riders, and the excitement is real!</desc>
+  <programme start="20261019032530 +0000" stop="20261019034538 +0000" channel="redbull_adventure">
+    <title lang="it">All You Need is a Ball</title>
+    <desc lang="it">Learn how the world’s best freestyle footballers, like Red Bull Street Style World Final 2022 winner Caitlyn Schrepfer, have pushed the sport forward and are paving the way for a new generation.</desc>
   </programme>
-  <programme start="20261018161730 +0000" stop="20261018171956 +0000" channel="redbull_motorsports">
-    <title lang="it">Erzbergfodeo Red Bull Hare Scramble</title>
-    <desc lang="it">The action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?</desc>
+  <programme start="20261019034538 +0000" stop="20261019052415 +0000" channel="redbull_adventure">
+    <title lang="it">Valley Uprising</title>
+    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
   </programme>
-  <programme start="20261018171956 +0000" stop="20261018174330 +0000" channel="redbull_motorsports">
-    <title lang="it">Tackling Red Bull TKO</title>
-    <desc lang="it">Barely 10 days after Red Bull Romaniacs Mani Lettenbichler and Paul Bolton are in the USA for Red Bull Knockout Extreme Enduro, chatting with drivers, scouting trails and checking out trucks.</desc>
-  </programme>
-  <programme start="20261018174330 +0000" stop="20261018180137 +0000" channel="redbull_motorsports">
-    <title lang="it">The Motocross of Nations</title>
-    <desc lang="it">Jett and Hunter team up on the track representing Team Australia at the Motocross of Nations at Red Bud, where Jett makes his professional debut on the factory Honda CRF450.</desc>
-  </programme>
-  <programme start="20261018180137 +0000" stop="20261018181758 +0000" channel="redbull_motorsports">
-    <title lang="it">L'inizio di una nuova stagione</title>
-    <desc lang="it">Il campionato MX 2019 è ufficialmente iniziato, ma per Jeffrey Herlings, Tom Vialle, Jorge Prado e Toni Cairoli non sembra essere andato tutto per il verso giusto. Scopri com'è iniziata la stagione per ognuno di loro.</desc>
-  </programme>
-  <programme start="20261018181758 +0000" stop="20261018184344 +0000" channel="redbull_motorsports">
+  <programme start="20261018181758 +0000" stop="20261018184343 +0000" channel="redbull_motorsports">
     <title lang="it">L'ABC del... Drifting</title>
     <desc lang="it">Il pilota di drifting Dave Egan ci offre una panoramica sulla disciplina del motorsport tutta incentrata su velocità, stile, fumo e abilità.</desc>
   </programme>
-  <programme start="20261018184344 +0000" stop="20261018185842 +0000" channel="redbull_motorsports">
+  <programme start="20261018184343 +0000" stop="20261018185842 +0000" channel="redbull_motorsports">
     <title lang="it">Chi si ferma finisce secondo</title>
     <desc lang="it">Riuscirà Tom Vialle ad essere all'altezza della sfida e a diventare il leader di KTM nella MX2?</desc>
   </programme>
-  <programme start="20261018185842 +0000" stop="20261018191428 +0000" channel="redbull_motorsports">
+  <programme start="20261018185842 +0000" stop="20261018191427 +0000" channel="redbull_motorsports">
     <title lang="it">The next generation</title>
     <desc lang="it">Nine-time world champion Antonio Cairoli is one of the top MX riders of his generation, but several up-and-coming riders are poised to make it big. Can Tony win a 10th title before he's overtaken?</desc>
   </programme>
-  <programme start="20261018191428 +0000" stop="20261018195154 +0000" channel="redbull_motorsports">
+  <programme start="20261018191427 +0000" stop="20261018195154 +0000" channel="redbull_motorsports">
     <title lang="it">Flight Mode by Tom Pagès</title>
     <desc lang="it">FMX legend Tom Pagès keeps making history by pushing the limits of his sport. After reinventing FMX on land, he combines freestyle motocross and freefall off a 135m cliff in Avoriaz, France.</desc>
   </programme>
@@ -5337,163 +5283,141 @@ accidentale sul ring lo costringe a mettere in discussione tutto ciò che egli r
     <title lang="it">La matricola sale in cattedra</title>
     <desc lang="it">Jorge Prado è al debutto in MXGP ma non si è lasciato intimorire: eccolo in azione mentre affronta i migliori rider del mondo.</desc>
   </programme>
-  <programme start="20261018123324 +0000" stop="20261018123507 +0000" channel="redbull_action_reel">
-    <title lang="it">Mathieu Rebeaud in Switzerland</title>
-    <desc lang="it">Enjoy 100 seconds of stripped back action with the pioneer of eFMX, as Mathieu Rebeaud takes us on an (almost) silent ride in his own backyard in Switzerland.</desc>
+  <programme start="20261018210130 +0000" stop="20261018212237 +0000" channel="redbull_motorsports">
+    <title lang="it">Motocross of Nations has arrived</title>
+    <desc lang="it">Top American and European riders compete at Motocross of Nations. The sandy track of the Assen TT Circuit in the Netherlands gives the Europeans an advantage, but will it be enough for victory?</desc>
   </programme>
-  <programme start="20261018123507 +0000" stop="20261018123656 +0000" channel="redbull_action_reel">
-    <title lang="it">Brandon Semenuk – Raw 100, V6</title>
-    <desc lang="it">Brandon Semenuk porta l'azione in una miniera abbandonata a Merritt, British Columbia, per il suo sesto contributo alla nostra serie Raw 100.</desc>
+  <programme start="20261018212237 +0000" stop="20261018221437 +0000" channel="redbull_motorsports">
+    <title lang="it">Hare Scramble</title>
+    <desc lang="it">Con il Gigante di Ferro che si crogiola in condizioni meteo quasi perfette, 500 piloti di Hard Enduro schizzano dalla linea di partenza. Il percorso nella miniera austriaca è la sfida di Hard Enduro più insidiosa dell’anno, con solo il tre per cento dei corridori che hanno concluso la gara.</desc>
   </programme>
-  <programme start="20261018123656 +0000" stop="20261018123920 +0000" channel="redbull_action_reel">
-    <title lang="it">Matt Jones</title>
-    <desc lang="it">Per diventare uno dei migliori rider di MTB slopestyle al mondo bisogna dedicarsi all'allenamento nelle giuste condizioni. Entra nella base segreta di Matt Jones per scoprire cosa serve per battere i migliori.</desc>
+  <programme start="20261018221437 +0000" stop="20261018223049 +0000" channel="redbull_motorsports">
+    <title lang="it">Wanting the win</title>
+    <desc lang="it">Toni Cairoli feels the pressure as he prepares to race in his home country. With Tim Gaiser's homeland right over the border in Slovenia he also wants the win at the Trentino race.</desc>
   </programme>
-  <programme start="20261018123920 +0000" stop="20261018124211 +0000" channel="redbull_action_reel">
-    <title lang="it">What tourists don't see</title>
-    <desc lang="it">Dominic Di Tommaso gives a tour through the city of Bruges, Belgium unlike anything tourists have ever seen, jumping from building to building with no fear of heights.</desc>
+  <programme start="20261018223049 +0000" stop="20261018223609 +0000" channel="redbull_motorsports">
+    <title lang="it">How to install an OEM-tight seat cover</title>
+    <desc lang="it">Aaron Colton breaks down his technique for the tedious task of motorcycle seat cover installation. Take these tips to get your next seat cover installed high and tight.</desc>
   </programme>
-  <programme start="20261018124211 +0000" stop="20261018124554 +0000" channel="redbull_action_reel">
-    <title lang="it">Jack Robinson</title>
-    <desc lang="it">Filmer Kim Feast showcases Western Australia's most promising young surfer, Jack Robinson, in this high-action edit full of huge airs and even bigger barrels.</desc>
+  <programme start="20261018223609 +0000" stop="20261018223808 +0000" channel="redbull_motorsports">
+    <title lang="it">GP Ice Race </title>
+    <desc lang="it">Guarda Max Verstappen in azione con il suo bolide F1, munito di speciali pneumatici chiodati Pirelli, su un tracciato ghiacciato unico nel suo genere. A fargli compagnia c'è la stella dell'ice speedway Franky Zorn.</desc>
   </programme>
-  <programme start="20261018124554 +0000" stop="20261018124749 +0000" channel="redbull_action_reel">
-    <title lang="it">Il cubo infinito</title>
-    <desc lang="it">I Red Bull BC One All Stars mostrano le loro mosse in un cubo di specchi, che estendono visivamente lo spazio in tutte le direzioni e danno l’illusione che i loro movimenti siano infiniti.</desc>
+  <programme start="20261018223808 +0000" stop="20261018232212 +0000" channel="redbull_motorsports">
+    <title lang="it">Red Bull Hare Scramble</title>
+    <desc lang="it">The Erzbergrodeo Red Bull Hare Scramble is the toughest single-day Hard Enduro race in the world. Relive some of the most iconic moments from the history of the Iron Giant.</desc>
   </programme>
-  <programme start="20261018124749 +0000" stop="20261018125808 +0000" channel="redbull_action_reel">
-    <title lang="it">The Ultimate Run</title>
-    <desc lang="it">In questo film di 10 minuti, Markus Eder fonde tutte le sue skill nello sci in una singola, impossibile run. Una che unisce tutti i sotto-generi del freeskiing moderno. Insomma, un'opera unica nel suo genere.</desc>
+  <programme start="20261018232212 +0000" stop="20261019001602 +0000" channel="redbull_motorsports">
+    <title lang="it">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="it">Six-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?</desc>
   </programme>
-  <programme start="20261018125808 +0000" stop="20261018130400 +0000" channel="redbull_action_reel">
-    <title lang="it">Running Reverse</title>
-    <desc lang="it">Jason Paul vive una strana giornata nella sua città natale, Francoforte, in Germania. Guarda il freerunner mettere le cose a posto con una serie di mosse mozzafiato e ad alto rischio.</desc>
+  <programme start="20261019001602 +0000" stop="20261019011831 +0000" channel="redbull_motorsports">
+    <title lang="it">Red Bull X-Fighters</title>
+    <desc lang="it">Per il 16° anno, Plaza de Toros de Las Ventas, a Madrid, in Spagna, diventa il palcoscenico per uno spettacolo FMX nel più grande evento di motocross freestyle al mondo. I migliori piloti del mondo si lanceranno in alcuni trick pazzeschi, alcuni dei quali non si erano mai visti prima.</desc>
   </programme>
-  <programme start="20261018130400 +0000" stop="20261018130906 +0000" channel="redbull_action_reel">
-    <title lang="it">Dropping in on Dubai</title>
-    <desc lang="it">Nonostante la paura dell’altezza, Kriss Kyle salta in sella alla sua bici BMX da un elicottero al tetto dell’hotel Burj Al Arab Jumeirah, a Dubai. Poi si aggira come se si trovasse in un bike park creato apposta per lui.</desc>
+  <programme start="20261019011831 +0000" stop="20261019014043 +0000" channel="redbull_motorsports">
+    <title lang="it">Ripping it up in Romania</title>
+    <desc lang="it">Mani Lettenbichler and Paul Bolton head to Sibiu for Red Bull Romaniacs, probably the most anticipated and most feared event on the Hard Enduro calendar.</desc>
   </programme>
-  <programme start="20261018130906 +0000" stop="20261018131426 +0000" channel="redbull_action_reel">
-    <title lang="it">Benny Milam’s snowmobile session with Levi LaVallee</title>
-    <desc lang="it">With some creativity Benny Milam and Levi LaVallee turn a field and a few bales of hay into the perfect setup for a one-of-a-kind tow-in snowboarding session in Minnesota, USA.</desc>
+  <programme start="20261019014043 +0000" stop="20261019015706 +0000" channel="redbull_motorsports">
+    <title lang="it">Taking on a brand new race</title>
+    <desc lang="it">Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the Abestone Hard Enduro race. This race is brand new for the riders, and the excitement is real!</desc>
   </programme>
-  <programme start="20261018131426 +0000" stop="20261018131653 +0000" channel="redbull_action_reel">
-    <title lang="it">Martin Söderström and Emil Johansson</title>
-    <desc lang="it">Pro MTB slopestyle legend Martin Söderström and FMB world champion Emil Johansson come together to ride one of their favourite destinations: Järvsö, Sweden.</desc>
+  <programme start="20261019015706 +0000" stop="20261019021156 +0000" channel="redbull_motorsports">
+    <title lang="it">Silk Way Rally</title>
+    <desc lang="it">Russian trucking giants KAMAZ debuted a new look machine at the Silk Way Rally as Red Bull KTM Factory Racing got back to winning ways. There was also a last-minute course correction to deal with.</desc>
   </programme>
-  <programme start="20261018131653 +0000" stop="20261018132151 +0000" channel="redbull_action_reel">
-    <title lang="it">Skating in Mayan lands</title>
-    <desc lang="it">Explore the skate terrain throughout the ancient Mayan lands of Guatemala, Mexico and tiny Belize with Jaakko Ojanen, Madars Apse, Zack Wallin and Angelo Caro.</desc>
+  <programme start="20261019021156 +0000" stop="20261019022913 +0000" channel="redbull_motorsports">
+    <title lang="it">Il prodigio del motocross</title>
+    <desc lang="it">L'estate 2021 di Jett parte benissimo grazie al comando della classifica preso a inizio 250 Pro Motocross Championship, ma diventa perfetto quando riceve una visita a sorpresa da un ex prodigio del motocross: Travis Pastrana.</desc>
   </programme>
-  <programme start="20261018132151 +0000" stop="20261018132826 +0000" channel="redbull_action_reel">
-    <title lang="it">Skate highlights</title>
-    <desc lang="it">Watch skateboarding highlights from Ryan Sheckler, Margie Didal, Jamie Foy, Gustavo Ribeiro, Zion Wright, Torey Pudwill, Leticia Bufoni and Felipe Gustavo during Red Bull's Drop In Euro Tour in 2022.</desc>
+  <programme start="20261019022913 +0000" stop="20261019031316 +0000" channel="redbull_motorsports">
+    <title lang="it">Nitro Rallycross</title>
+    <desc lang="it">per il quarto anno consecutivo i migliori atleti si danno battaglia nella spettacolare competizione di Travis Pastrana, con una serie di eventi che alzano il livello di FMX, BMX, skate, scooter e rallycross.</desc>
   </programme>
-  <programme start="20261018132826 +0000" stop="20261018133132 +0000" channel="redbull_action_reel">
-    <title lang="it">Brandon Semenuk – Velocità della luce</title>
-    <desc lang="it">La troupe di Revel Co. si dirige verso la valle di Hakuba, in Giappone, insieme al regista Clay Porter, in una terra solitamente riservata a sciatori e snowboarder. Cosa ne pensa Brandon Semenuk dello sporco giapponese?</desc>
+  <programme start="20261019031316 +0000" stop="20261019033123 +0000" channel="redbull_motorsports">
+    <title lang="it">The Motocross of Nations</title>
+    <desc lang="it">Jett and Hunter team up on the track representing Team Australia at the Motocross of Nations at Red Bud, where Jett makes his professional debut on the factory Honda CRF450.</desc>
   </programme>
-  <programme start="20261018133132 +0000" stop="20261018133633 +0000" channel="redbull_action_reel">
-    <title lang="it">Kriss Kyle swaps BMX for MTB</title>
-    <desc lang="it">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle. Watch as he transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+  <programme start="20261018183209 +0000" stop="20261018183423 +0000" channel="redbull_action_reel">
+    <title lang="it">Adrenaline Spike</title>
+    <desc lang="it">Polish freerunner Krystian Kowalewski gets an Adrenaline Spike, as he takes on VALORANT agent Jett's abilities and races through the streets of Berlin.</desc>
   </programme>
-  <programme start="20261018133633 +0000" stop="20261018133834 +0000" channel="redbull_action_reel">
-    <title lang="it">Kate Courtney</title>
-    <desc lang="it">Watch the undiluted sights and sounds of cross-country mountain biker Kate Courtney tearing up the trails in Sedona, Arizona.</desc>
+  <programme start="20261018183423 +0000" stop="20261018184408 +0000" channel="redbull_action_reel">
+    <title lang="it">Jason Paul a caccia del telefono</title>
+    <desc lang="it">Nel suo nuovo video, il freerunner Jason Paul corre tra i tetti e le strade di Amburgo alla ricerca disperata del suo telefono, ma sempre con lo stile e la follia che lo contraddistinguono.</desc>
   </programme>
-  <programme start="20261018133834 +0000" stop="20261018134009 +0000" channel="redbull_action_reel">
-    <title lang="it">Action from Fabio Wibmer's latest project</title>
-    <desc lang="it">Take a look at the action in Wibmer's Law as Fabio Wibmer takes situations that look dicey and turns them into outstanding tricks.</desc>
+  <programme start="20261018184408 +0000" stop="20261018184615 +0000" channel="redbull_action_reel">
+    <title lang="it">The Folgefonna session</title>
+    <desc lang="it">Go behind the scenes with The Collective crew as they capture some of the film's most stunning shots high on the Folgefonna plateau in Norway.</desc>
   </programme>
-  <programme start="20261018134009 +0000" stop="20261018134337 +0000" channel="redbull_action_reel">
-    <title lang="it">Realm con Brandon Semenuk</title>
-    <desc lang="it">I contributi di Brandon Semenuk al mondo della mountain bike sono in continua evoluzione. Dai podi dei concorsi agli edit, le sue abilità e visioni su una bicicletta siedono in un regno tutto loro.</desc>
+  <programme start="20261018184615 +0000" stop="20261018184903 +0000" channel="redbull_action_reel">
+    <title lang="it">Laurie Greenland</title>
+    <desc lang="it">Goditi la vista e il suono puro e crudo che accompagna la discesa della professionista di MTB Laurie Greenland attraverso una montagna boscosa in Nuova Zelanda: solo il suono cristallino degli pneumatici sulla roccia e sulla ghiaia e nient'altro.</desc>
   </programme>
-  <programme start="20261018134337 +0000" stop="20261018134750 +0000" channel="redbull_action_reel">
-    <title lang="it">CJ Collins FER DAYZ</title>
-    <desc lang="it">Abandoned pools, desert DIYs and even some action in the streets from everyone's favourite all-terrain animal, CJ Collins. Do your best to keep up with the action.</desc>
+  <programme start="20261018184903 +0000" stop="20261018185025 +0000" channel="redbull_action_reel">
+    <title lang="it">Petra BASE jump</title>
+    <desc lang="it">Red Bull Air Force's Miles Daisher becomes the first BASE jumper to land in front of Petra's famous UNESCO World Heritage Site, The Treasury, clearing a 30m-wide valley and reaching speeds of 32kph.</desc>
   </programme>
-  <programme start="20261018134750 +0000" stop="20261018135642 +0000" channel="redbull_action_reel">
+  <programme start="20261018185025 +0000" stop="20261018185537 +0000" channel="redbull_action_reel">
+    <title lang="it">Eli Hanneman 2020</title>
+    <desc lang="it">Seen by many as the best young surfer in the world, this Eli Hanneman edit brings you his finest recent work, from his home waves in Maui to the proving grounds of Oahu and further afield in Tahiti.</desc>
+  </programme>
+  <programme start="20261018185537 +0000" stop="20261018190429 +0000" channel="redbull_action_reel">
     <title lang="it">Una monoposto di F1 vs l'Outback australiano</title>
     <desc lang="it">Oracle Red Bull Racing ha mandato Daniel Ricciardo in Australia per conoscere il circuito di Albert Park. Il team può contare su alcuni dei migliori esperti di motorsport del Paese per affinare la strategia.</desc>
   </programme>
-  <programme start="20261017084100 +0000" stop="20261017093400 +0000" channel="20.it">
-    <desc lang="it">S3 E6 — A chiunque possa interessare
-Per distrarre Hope dal suo dolore, Lizzie la convince ad aiutarla a mostrare la scuola ai nuovi studenti. Josie affronta il primo giorno al liceo di Mystic Falls. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S3 E6</episode-num>
-    <title lang="it">Legacies</title>
-    <new />
+  <programme start="20261018190429 +0000" stop="20261018190757 +0000" channel="redbull_action_reel">
+    <title lang="it">Realm con Brandon Semenuk</title>
+    <desc lang="it">I contributi di Brandon Semenuk al mondo della mountain bike sono in continua evoluzione. Dai podi dei concorsi agli edit, le sue abilità e visioni su una bicicletta siedono in un regno tutto loro.</desc>
   </programme>
-  <programme start="20261017093400 +0000" stop="20261017102300 +0000" channel="20.it">
-    <desc lang="it">S3 E7 — Si', e' proprio un leprecauno
-La scuola Salvatore si trova in difficolta' finanziare, cosi' Lizzie propone di organizzare una raccolta fondi. Cloe aiuta Hope a gestire le sue emozioni. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S3 E7</episode-num>
-    <title lang="it">Legacies</title>
-    <new />
+  <programme start="20261018190757 +0000" stop="20261018191004 +0000" channel="redbull_action_reel">
+    <title lang="it">Freerunning illusions</title>
+    <desc lang="it">Life as a freerunner means the whole world is your playground... or is it just one big illusion? Jason Paul and Pasha Petkuns play mind tricks as they defy gravity with their freerunning illusions.</desc>
   </programme>
-  <programme start="20261017102300 +0000" stop="20261017111600 +0000" channel="20.it">
-    <desc lang="it">S3 E8 — E' un po' che non ci si vede
-Hope trova la prova che Landon e' ancora vivo ed escogita un piano per andare a salvarlo, ma in molti le voltano le spalle: la missione e' troppo pericolosa. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S3 E8</episode-num>
-    <title lang="it">Legacies</title>
-    <new />
+  <programme start="20261018191004 +0000" stop="20261018191144 +0000" channel="redbull_action_reel">
+    <title lang="it">Rob Warner and Matt Jones go riding in New Zealand</title>
+    <desc lang="it">Experience just the clear sound of bike tyre on gravel track as Rob Warner and slopestyle rider Matt Jones ride down a mountainside trail in New Zealand's South Island.</desc>
   </programme>
-  <programme start="20261017111600 +0000" stop="20261017120400 +0000" channel="20.it">
-    <desc lang="it">S3 E9 — Tutti i mostri di Malivore portano a questo livello di consapevolezza emotiva
-Alla Scuola Salvatore arriva un nuovo mostro. In apparenza solo una piccola, tenera creatura, e' un gremlin. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S3 E9</episode-num>
-    <title lang="it">Legacies</title>
-    <new />
+  <programme start="20261018191144 +0000" stop="20261018191429 +0000" channel="redbull_action_reel">
+    <title lang="it">Tahnée Seagrave tears up Lousã, Portugal</title>
+    <desc lang="it">After incurring a life-changing head injury, British cyclist Tahnée Seagrave returns to full pace and is prepared to battle for a top spot at the UCI Downhill Mountain Bike World Cup.</desc>
   </programme>
-  <programme start="20261017120400 +0000" stop="20261017125800 +0000" channel="20.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Azione</category>
-    <desc lang="it">S1 E1 — Fase sei
-Una pandemia globale ha ucciso l'80 per cento della popolazione mondiale. A bordo di una nave da guerra americana, la dottoressa Scott e' l'unica in grado di creare un vaccino. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E1</episode-num>
-    <title lang="it">The Last Ship</title>
-    <new />
+  <programme start="20261018191429 +0000" stop="20261018191719 +0000" channel="redbull_action_reel">
+    <title lang="it">The mighty waves of Nazaré</title>
+    <desc lang="it">Le onde di Nazaré, in Portogallo, sono rinomate per la loro selvaggia ferocia, che le rende una vera calamita per i surfisti di big wave. Guarda Justine Dupont, Andrew Cotton, Conor Maguire, Kai Lenny e molti altri affrontare delle slab terrificanti.</desc>
   </programme>
-  <programme start="20261017125800 +0000" stop="20261017134500 +0000" channel="20.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Azione</category>
-    <desc lang="it">S1 E2 — Benvenuti a Guantanamo
-La Nathan James approda nella baia di Guantanamo per rifornirsi di carburante e di viveri ma ad attenderla vi e' un gruppo di terroristi arabi che si sono liberati. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E2</episode-num>
-    <title lang="it">The Last Ship</title>
-    <new />
+  <programme start="20261018191719 +0000" stop="20261018192235 +0000" channel="redbull_action_reel">
+    <title lang="it">Tyler Bereman</title>
+    <desc lang="it">Watch as a drone captures freestyle motocross rider Tyler Bereman on one epic ride from start to finish. No cuts, no edits, just maximum FMX action.</desc>
   </programme>
-  <programme start="20261017134500 +0000" stop="20261017143700 +0000" channel="20.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Azione</category>
-    <desc lang="it">S1 E3 — Fuga alla cieca
-Quincy deve consegnare Rachel e il virus primordiale a Ruskov,in cambio di moglie e figlia, rapite dal russo,ma viene bloccato. Chandler scopre come uscire dal porto. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E3</episode-num>
-    <title lang="it">The Last Ship</title>
-    <new />
+  <programme start="20261018192235 +0000" stop="20261018192430 +0000" channel="redbull_action_reel">
+    <title lang="it">Il cubo infinito</title>
+    <desc lang="it">I Red Bull BC One All Stars mostrano le loro mosse in un cubo di specchi, che estendono visivamente lo spazio in tutte le direzioni e danno l’illusione che i loro movimenti siano infiniti.</desc>
   </programme>
-  <programme start="20261017143700 +0000" stop="20261017153000 +0000" channel="20.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Azione</category>
-    <desc lang="it">S1 E4 — All'ultimo istante
-La dottoressa Rachel, con l'aiuto di Quincy, riesce a mettere a punto un prototipo di vaccino. Ma a bordo scoppia un incendio che causa la mancanza di energia elettrica.</desc>
-    <episode-num>S1 E4</episode-num>
-    <title lang="it">The Last Ship</title>
-    <new />
+  <programme start="20261018192430 +0000" stop="20261018192752 +0000" channel="redbull_action_reel">
+    <title lang="it">Pedro Burns</title>
+    <desc lang="it">Pedro Burns affronta tre location cilene estremamente diverse tra loro. Prima fa shredding su una montagna rocciosa, poi si fionda in un'epica discesa urbana e infine si addentra nella foresta.</desc>
   </programme>
-  <programme start="20261017153000 +0000" stop="20261017161800 +0000" channel="20.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Azione</category>
-    <desc lang="it">S1 E5 — El Toro
-Una squadra, guidata da Chandler, si inoltra nella giungla a caccia di scimmie per la dottoressa Scott. Ma cadono in un'imboscata e finiscono nelle mani di "El Toro".</desc>
-    <episode-num>S1 E5</episode-num>
-    <title lang="it">The Last Ship</title>
-    <new />
+  <programme start="20261018192752 +0000" stop="20261018193250 +0000" channel="redbull_action_reel">
+    <title lang="it">Skating in Mayan lands</title>
+    <desc lang="it">Explore the skate terrain throughout the ancient Mayan lands of Guatemala, Mexico and tiny Belize with Jaakko Ojanen, Madars Apse, Zack Wallin and Angelo Caro.</desc>
+  </programme>
+  <programme start="20261018193250 +0000" stop="20261018193842 +0000" channel="redbull_action_reel">
+    <title lang="it">Running Reverse</title>
+    <desc lang="it">Jason Paul vive una strana giornata nella sua città natale, Francoforte, in Germania. Guarda il freerunner mettere le cose a posto con una serie di mosse mozzafiato e ad alto rischio.</desc>
+  </programme>
+  <programme start="20261018193842 +0000" stop="20261018194249 +0000" channel="redbull_action_reel">
+    <title lang="it">Freerunner's guide to the Sydney Opera House</title>
+    <desc lang="it">Watch Dominic Di Tommaso freerun on the roof of the Sydney Opera House – all the way to tip of the sails. (Activities performed in a controlled environment under the supervision of professionals.)</desc>
+  </programme>
+  <programme start="20261018194249 +0000" stop="20261018194528 +0000" channel="redbull_action_reel">
+    <title lang="it">Uncontainable</title>
+    <desc lang="it">Always looking for bigger set-ups, Drew Bezanson built a custom BMX park using enormous shipping containers. Drew worked with a team of renowned ramp builders led by Nate Wessel to put together some of the biggest BMX obstacles ever ridden.</desc>
+  </programme>
+  <programme start="20261018194528 +0000" stop="20261018194755 +0000" channel="redbull_action_reel">
+    <title lang="it">Martin Söderström and Emil Johansson</title>
+    <desc lang="it">Pro MTB slopestyle legend Martin Söderström and FMB world champion Emil Johansson come together to ride one of their favourite destinations: Järvsö, Sweden.</desc>
   </programme>
   <programme start="20261017161800 +0000" stop="20261017171200 +0000" channel="20.it">
     <category lang="it">Serie TV</category>
@@ -7026,86 +6950,6 @@ Continua la guerra tra la Nathan James ed i "prescelti" guidati da Sean Ramsey. 
     <title lang="it">Lara Croft: Tomb Raider - La culla della vita</title>
     <new />
   </programme>
-  <programme start="20261017085700 +0000" stop="20261017105800 +0000" channel="Canale.5.it">
-    <desc lang="it">Il processo tv che affronta vicende comuni e quotidiane con uno sguardo sempre attento ai temi piu' attuali. Conduce Barbara Palombelli.</desc>
-    <title lang="it">Forum</title>
-    <new />
-  </programme>
-  <programme start="20261017105800 +0000" stop="20261017114100 +0000" channel="Canale.5.it">
-    <category lang="it">TG</category>
-    <category lang="it">Telegiornale</category>
-    <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.</desc>
-    <title lang="it">Tg5</title>
-    <new />
-  </programme>
-  <programme start="20261017114100 +0000" stop="20261017115000 +0000" channel="Canale.5.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality show</category>
-    <desc lang="it">L'appuntamento quotidiano con la vita nella casa del Grande Fratello.</desc>
-    <title lang="it">Grande Fratello Vip</title>
-    <new />
-  </programme>
-  <programme start="20261017115000 +0000" stop="20261017120300 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S35 E147
-Carter mette in atto il suo piano per prendere il controllo della Forrester Creations depositando i documenti della nuova forma giuridica dell'azienda. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S35 E147</episode-num>
-    <title lang="it">Beautiful - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017120300 +0000" stop="20261017122400 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S35 E148
-Zende, Will ed Electra si chiedono cosa stia succedendo ai piani superiori. Si tratta di una riunione cosi' importante che nessuno puo' avere accesso all'ufficio. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S35 E148</episode-num>
-    <title lang="it">Beautiful - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017122400 +0000" stop="20261017131400 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S2 E80
-Mentre Akif annuncia a Suzan di aver lasciato casa, Nebahat realizza la fine del matrimonio. Omer e Ogulcan faticano a vendere acqua, Kaan riaccende la gelosia tra Doruk e Asiye. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S2 E80</episode-num>
-    <title lang="it">Tutto per la mia famiglia - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017131400 +0000" stop="20261017133200 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S2 E81
-Scoperto che Asiye e' svenuta per la fame, Omer accetta un lavoro misterioso e pericoloso per garantire un futuro alle sorelle. Akif insiste con Suzan nonostante l'opposizione di Harika. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S2 E81</episode-num>
-    <title lang="it">Tutto per la mia famiglia - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017133200 +0000" stop="20261017140400 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S4 E142
-Cansu, dimostrando una forte instabilita' psicologica, confessa parlando da sola che butterebbe il bambino in mare e viene sorpresa da Cagatay a lanciarlo pericolosamente vicino all'acqua. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S4 E142</episode-num>
-    <title lang="it">Forbidden Fruit - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017140400 +0000" stop="20261017143000 +0000" channel="Canale.5.it">
-    <category lang="it">Fiction</category>
-    <category lang="it">Soap opera</category>
-    <desc lang="it">S4 E143
-Le rivelazioni di Sedai su Cansu e Cagatay gettano Sahika ed Ender nel caos: le due donne scoprono che tra i due potrebbe esserci molto piu' di una semplice amicizia. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S4 E143</episode-num>
-    <title lang="it">Forbidden Fruit - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017143000 +0000" stop="20261017164200 +0000" channel="Canale.5.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Talk Show</category>
-    <desc lang="it">Ospiti di Silvia Toffanin: Luciana Littizzetto, Alex Baudo con Katia Ricciarelli, i tuffatori Conte e Pelligra, Clizia Incorvaia e Sara e Soraya di Temptation Island.</desc>
-    <title lang="it">Verissimo</title>
-    <new />
-  </programme>
   <programme start="20261017164200 +0000" stop="20261017175400 +0000" channel="Canale.5.it">
     <category lang="it">Intrattenimento</category>
     <category lang="it">Varietà</category>
@@ -8564,84 +8408,6 @@ Dopo la morte di Mahmut, nella villa di Hasan Ali regna il caos e i sospetti con
     <desc lang="it">Max Giusti conduce la nuova edizione insieme a Isobel Fetiyera: studio rinnovato, band dal vivo, nuova prova finale e un montepremi che puo' raggiungere i 500.000 euro.</desc>
     <title lang="it">Caduta libera</title>
     <new />
-  </programme>
-  <programme start="20261017085000 +0000" stop="20261017094500 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality Show</category>
-    <credits>
-      <actor>Kirstie Allsopp</actor>
-      <actor>Phill Spancer</actor>
-    </credits>
-    <date>2012</date>
-    <desc lang="it">S5 E2 — Allison e Robert
-Alison e Robert devono decidere se sistemare la loro abitazione oppure acquistarne un'altra. Seguiranno i consigli di Hilary o si affideranno a David?</desc>
-    <episode-num>S5 E2</episode-num>
-    <title lang="it">Love it or List it: Prendere o lasciare</title>
-  </programme>
-  <programme start="20261017094500 +0000" stop="20261017104000 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality Show</category>
-    <credits>
-      <actor>Kirstie Allsopp</actor>
-      <actor>Phill Spancer</actor>
-    </credits>
-    <date>2014</date>
-    <desc lang="it">S9 E3 — Katherine, Natalia e Paolo
-David e Hilary supportano Katherine, un'affettuosa nonna, a prendere una decisione importante riguardo la sua attuale abitazione.</desc>
-    <episode-num>S9 E3</episode-num>
-    <title lang="it">Love it or List it - Prendere o lasciare</title>
-  </programme>
-  <programme start="20261017104000 +0000" stop="20261017104500 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality Show</category>
-    <date>2025</date>
-    <desc lang="it">Alessandro Borghese apre le porte dei suoi ristoranti, milanese e veneziano, a due celebrities che con l'aiuto della brigata si sfideranno ai fornelli.</desc>
-    <title lang="it">Celebrity Chef - Anteprima</title>
-  </programme>
-  <programme start="20261017104500 +0000" stop="20261017115000 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2022</date>
-    <desc lang="it">S1 E50 — Max Angioni e Giampiero Mughini
-Alessandro Borghese oggi apre le porte del suo ristorante veneziano a Max Angioni e Giampiero Mughini che con l'aiuto della brigata si sfideranno ai fornelli.</desc>
-    <episode-num>S1 E50</episode-num>
-    <title lang="it">Alessandro Borghese - Celebrity Chef</title>
-  </programme>
-  <programme start="20261017115000 +0000" stop="20261017131500 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2022</date>
-    <desc lang="it">S5 E3 — Bike Hotel
-Bruno Barbieri pedalera' dritto verso le coste del Mar Adriatico. Qui, tra Romagna e Marche, spopolano i Bike Hotel, dedicati agli appassionati delle due ruote.</desc>
-    <episode-num>S5 E3</episode-num>
-    <title lang="it">Bruno Barbieri - 4 Hotel</title>
-  </programme>
-  <programme start="20261017131500 +0000" stop="20261017144000 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2022</date>
-    <desc lang="it">S5 E4 — Ischia
-Ischia e' pronta a ospitare Bruno Barbieri. Il nord dell'isola accoglie i viaggiatori nella vita mondana, il sud offre natura e relax. A unire le due anime c'e' il mare cristallino.</desc>
-    <episode-num>S5 E4</episode-num>
-    <title lang="it">Bruno Barbieri - 4 Hotel</title>
-  </programme>
-  <programme start="20261017144000 +0000" stop="20261017154000 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality Show</category>
-    <date>2015</date>
-    <desc lang="it">S3 E5 — La Foggia
-Fratello chef e sorella caposala sono divisi da liti e incomprensioni. Lo Chef Antonino Cannavacciuolo deve farli calare l'uno nei panni dell'altra e rilanciare un ristorante ormai fuori controllo.</desc>
-    <episode-num>S3 E5</episode-num>
-    <title lang="it">Cucine da incubo</title>
-  </programme>
-  <programme start="20261017154000 +0000" stop="20261017170000 +0000" channel="cielo.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2024</date>
-    <desc lang="it">S10 E1 — Il rifugio del ghiottone
-Lo chef Antonino Cannavacciuolo fa visita al ristorante "Il rifugio del ghiottone" con il compito di riaccendere la fiamma della passione della cuoca e proprietaria Yaqueline.</desc>
-    <episode-num>S10 E1</episode-num>
-    <title lang="it">Cucine da incubo</title>
   </programme>
   <programme start="20261017170000 +0000" stop="20261017182500 +0000" channel="cielo.it">
     <category lang="it">Intrattenimento</category>
@@ -10827,51 +10593,6 @@ Gli amici chiedono a Ross e a Rachel che cosa e' accaduto la notte in cui hanno 
     <date>2009</date>
     <desc lang="it">Dopo una collisione in volo, un aereo si sta per schiantare nel centro di Berlino. Le autorita' militari devono decidere se abbatterlo.</desc>
     <title lang="it">Paura in volo</title>
-  </programme>
-  <programme start="20261017084900 +0000" stop="20261017110900 +0000" channel="Cine34.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Azione</category>
-    <credits>
-      <director>D. Damiani</director>
-    </credits>
-    <date>2000</date>
-    <desc lang="it">Alberto Tomba si cimenta nel cinema. Alex e' un carabiniere specializzato nello sfondamento di porte. Il caso gli affidera' una nuova missione. Con Michelle Hunziker.</desc>
-    <title lang="it">Alex l'ariete</title>
-    <new />
-  </programme>
-  <programme start="20261017110900 +0000" stop="20261017130300 +0000" channel="Cine34.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Commedia</category>
-    <credits>
-      <director>V. Salemme</director>
-    </credits>
-    <date>1998</date>
-    <desc lang="it">Prima di sottoporsi ad una rischiosa operazione al cuore, Roberto vuole togliersi uno sfizio particolare: fare l'amore con Frida, la moglie del suo caro amico Michele.</desc>
-    <title lang="it">L'amico del cuore</title>
-    <new />
-  </programme>
-  <programme start="20261017130300 +0000" stop="20261017151700 +0000" channel="Cine34.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Commedia</category>
-    <credits>
-      <director>F. Brizzi</director>
-    </credits>
-    <date>2019</date>
-    <desc lang="it">Diego pensa di curare la propria depressione risolvendo i problemi altrui. Ma la strada per l'inferno e' lastricata di buone intenzioni. Con C. Bisio e F. Insinna.</desc>
-    <title lang="it">Se mi vuoi bene</title>
-    <new />
-  </programme>
-  <programme start="20261017151700 +0000" stop="20261017171900 +0000" channel="Cine34.it">
-    <credits>
-      <director>R. Milani</director>
-    </credits>
-    <date>2019</date>
-    <desc lang="it">Una scialba impiegata al Ministero e' in realta' un brillante agente segreto, un'eroina che lotta contro l'ordinaria incivilta'. Con P. Cortellesi.</desc>
-    <title lang="it">Ma cosa ci dice il cervello</title>
-    <new />
   </programme>
   <programme start="20261017171900 +0000" stop="20261017191500 +0000" channel="Cine34.it">
     <category lang="it">Film</category>
@@ -14012,39 +13733,6 @@ Tom e Chrissie Larkton sono delle superstar della pasticceria. Gestiscono una pa
     <episode-num>S3 E2</episode-num>
     <title lang="it">Il delitto della porta accanto</title>
   </programme>
-  <programme start="20261017092800 +0000" stop="20261017115700 +0000" channel="Iris.it">
-    <credits>
-      <director>R. Donner</director>
-    </credits>
-    <date>1992</date>
-    <desc lang="it">Per il ciclo: ACTION. A Los Angeles l'agente investigativo Martin Rigg e il collega Roger Murtaugh devono recuperare delle armi rubate da un deposito.</desc>
-    <title lang="it">Arma letale 3</title>
-    <new />
-  </programme>
-  <programme start="20261017115700 +0000" stop="20261017143400 +0000" channel="Iris.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Thriller</category>
-    <credits>
-      <director>T. Alfredson</director>
-    </credits>
-    <date>2011</date>
-    <desc lang="it">Per il ciclo: VERY BRITISH. Londra, 1973. Una spia britannica deve scoprire una talpa russa all'interno del Circus, il piu' grande dipartimento dei Servizi Segreti Britannici. Con Gary Oldman.</desc>
-    <title lang="it">La talpa</title>
-    <new />
-  </programme>
-  <programme start="20261017143400 +0000" stop="20261017165300 +0000" channel="Iris.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Drammatico</category>
-    <credits>
-      <director>P. Fly</director>
-    </credits>
-    <date>2018</date>
-    <desc lang="it">Per il ciclo: LA TENSIONE CORRE SU IIRS. Dalla vera storia dello scandalo "Oil-for-Food": un giovane impiegato delle Nazioni Unite scopre che i funzionari approfittano degli aiuti destinati ai poveri.</desc>
-    <title lang="it">Giochi di potere</title>
-    <new />
-  </programme>
   <programme start="20261017165300 +0000" stop="20261017191400 +0000" channel="Iris.it">
     <category lang="it">Film</category>
     <category lang="it">Cinema</category>
@@ -14987,102 +14675,6 @@ Stefano e' neo papa' del piccolo Luca, neo marito dell'adorata Elisa, e neo patr
     <date>2021</date>
     <desc lang="it">Per il ciclo: EFFETTO NOTTE. I ricchi coniugi Henninger, invitati ad una festa nel deserto del Marocco, si smarriscono e finiscono per investire ed uccidere un giovane del posto.</desc>
     <title lang="it">The Forgiven</title>
-    <new />
-  </programme>
-  <programme start="20261017083100 +0000" stop="20261017085700 +0000" channel="Italia.1.it">
-    <desc lang="it">S2 E9 — La triangolazione dell'asparago
-Sheldon fa in modo che Leonard inizi a frequentare Stephanie, l'unica donna secondo lui abbastanza intelligente per l'amico. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E9</episode-num>
-    <title lang="it">THE BIG BANG THEORY</title>
-    <new />
-  </programme>
-  <programme start="20261017085700 +0000" stop="20261017092200 +0000" channel="Italia.1.it">
-    <desc lang="it">S2 E10 — La sciarada di Vartabedian
-Leonard si rende conto che Stephanie punta ad avere una relazione seria, ma lui non si sente pronto. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E10</episode-num>
-    <title lang="it">THE BIG BANG THEORY</title>
-    <new />
-  </programme>
-  <programme start="20261017092200 +0000" stop="20261017095300 +0000" channel="Italia.1.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Sit-Com</category>
-    <desc lang="it">S4 E11 — Gli affari sono affari
-Frequentando la palestra, Will fa nuove amicizie e, tra un esercizio e l'altro, finisce per trovarsi al centro di un'ingarbugliata vicenda a tre. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO. QUESTO PROGRAMMA E' SOTTOTITOLATO.</desc>
-    <episode-num>S4 E11</episode-num>
-    <title lang="it">Will &amp; Grace</title>
-    <new />
-  </programme>
-  <programme start="20261017095300 +0000" stop="20261017102500 +0000" channel="Italia.1.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Sit-Com</category>
-    <desc lang="it">S4 E12 — Balle di Natale
-E' Natale e Will fa la conoscenza di un ballerino, ma e' troppo imbarazzato per presentarlo ai suoi amici. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO. QUESTO PROGRAMMA E' SOTTOTITOLATO.</desc>
-    <episode-num>S4 E12</episode-num>
-    <title lang="it">Will &amp; Grace</title>
-    <new />
-  </programme>
-  <programme start="20261017102500 +0000" stop="20261017110600 +0000" channel="Italia.1.it">
-    <category lang="it">TG</category>
-    <category lang="it">Telegiornale</category>
-    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
-    <title lang="it">Studio Aperto</title>
-    <new />
-  </programme>
-  <programme start="20261017110600 +0000" stop="20261017114800 +0000" channel="Italia.1.it">
-    <category lang="it">Sport</category>
-    <category>Sports</category>
-    <desc lang="it">Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.</desc>
-    <title lang="it">Sport mediaset 2026</title>
-    <live />
-  </programme>
-  <programme start="20261017114800 +0000" stop="20261017122600 +0000" channel="Italia.1.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Magazine</category>
-    <desc lang="it">Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli piu' recenti e anticipazioni sulle novita' piu' interessanti.</desc>
-    <title lang="it">Drive up (it1)</title>
-    <new />
-  </programme>
-  <programme start="20261017122600 +0000" stop="20261017132200 +0000" channel="Italia.1.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S6 — S6 La radice di tutti i mali
-La squadra indaga sull'omicidio di un capitano della JAG che e' stato scoperto a casa da sua figlia, unica erede della sua grande proprieta'. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S6</episode-num>
-    <title lang="it">NCIS: New Orleans</title>
-    <new />
-  </programme>
-  <programme start="20261017132200 +0000" stop="20261017141600 +0000" channel="Italia.1.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S6 — S6 L'uomo in rosso
-Quando Pride non riesce a dormire per i continui incubi su un uomo vestito di rosso, si sottopone a un trattamento specializzato per capire l'identita' dell'uomo. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S6</episode-num>
-    <title lang="it">NCIS: New Orleans</title>
-    <new />
-  </programme>
-  <programme start="20261017141600 +0000" stop="20261017150500 +0000" channel="Italia.1.it">
-    <desc lang="it">S2 E6 — Il cecchino
-L'esperienza militare pregressa di Mel si dimostra cruciale quando McCall e' ingaggiata dal procuratore distrettuale Grafton per catturare un serial killer. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S2 E6</episode-num>
-    <title lang="it">The Equalizer</title>
-    <new />
-  </programme>
-  <programme start="20261017150500 +0000" stop="20261017155400 +0000" channel="Italia.1.it">
-    <desc lang="it">S2 E7 — Collisione di mondi
-Bishop chiede aiuto a McCall, Harry e Mel quando un terrorista conosciuto in passato scopre l'identita' di suo figlio. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S2 E7</episode-num>
-    <title lang="it">The Equalizer</title>
-    <new />
-  </programme>
-  <programme start="20261017155400 +0000" stop="20261017162000 +0000" channel="Italia.1.it">
-    <desc lang="it">S2 E1
-Tra gioielli non dichiarati, un uccello esotico, attraversamenti irregolari e polveri sospette, gli agenti CBP affrontano nuovi casi ai confini.</desc>
-    <episode-num>S2 E1</episode-num>
-    <title lang="it">Airport security Usa</title>
     <new />
   </programme>
   <programme start="20261017162000 +0000" stop="20261017163000 +0000" channel="Italia.1.it">
@@ -16960,130 +16552,6 @@ Il team indaga sulla morte di un marine che doveva rilasciare un'importante test
     <date>2009</date>
     <desc lang="it">Megatron e' tornato per vendicarsi e Sam e' chiamato a salvare la Terra e il destino dell'Universo. Secondo capitolo della saga.</desc>
     <title lang="it">Transformers - La vendetta del Caduto</title>
-    <new />
-  </programme>
-  <programme start="20261017081900 +0000" stop="20261017084900 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S8 E14 — Fratelli che combattono insieme
-Choza rivela a Dan che Madara e' tornato in vita con la Resurrezione e che i cinque Kage, tra cui Tsunade, sono impegnati nello scontro. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S8 E14</episode-num>
-    <title lang="it">Naruto Shippuden</title>
-    <new />
-  </programme>
-  <programme start="20261017084900 +0000" stop="20261017105600 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <credits>
-      <director>T. Takiguchi</director>
-    </credits>
-    <date>2011</date>
-    <desc lang="it">Lupin viene costretto a fare un furto da una donna che tiene in ostaggio Fujiko. Fatto il colpo Lupin si accorge che la gemma rubata e' un falso.</desc>
-    <title lang="it">Lupin III: Il sigillo di sangue, la sirena dell'eternita'</title>
-    <new />
-  </programme>
-  <programme start="20261017105600 +0000" stop="20261017112200 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E10 — Leader delle cheerleader
-Tayo proibisce a Dele di ballare, e Abishola ricorre al sostegno di Bob per spiegare al ragazzo i suoi sentimenti. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E10</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017112200 +0000" stop="20261017115200 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E11 — Non l'ho cresciuto per essere una teenager
-Quando Abishola mette il veto sul viaggio in Nigeria che Dele dovrebbe fare con suo padre, il ragazzo si ribella per la prima volta. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E11</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017115200 +0000" stop="20261017121500 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E12 — Noi non tradiamo la famiglia
-Bob si prepara a incontrare la madre di Abishola, e quando chiede l'aiuto di Tunde per assicurarsi l'approvazione della suocera, rimane sorpreso. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E12</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017121500 +0000" stop="20261017124400 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E13 — Un grosso fagotto africano
-Gloria va in vacanza e Abishola deve gestire lo staff delle infermiere, ma scopre di non essere all'altezza di un lavoro che richiede una certa capacita'. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E13</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017124400 +0000" stop="20261017131000 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E14 — Una vecchia pellaccia
-Bob e Abishola cercano di aiutare Kemi che, dopo essere stata mollata da Chukwuemeka, teme che i giorni felici non torneranno piu'. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E14</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017131000 +0000" stop="20261017133800 +0000" channel="Italia.2.it">
-    <desc lang="it">S2 E15 — La cura amorevole di Tunde
-Abishola inizia a studiare alla facolta' di medicina e offende Gloria con un commento indelicato sulle difficolta' della collega per diventare dottoressa. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E15</episode-num>
-    <title lang="it">Bob Hearts Abishola</title>
-    <new />
-  </programme>
-  <programme start="20261017133800 +0000" stop="20261017135900 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E61 — Il piano annienta mortali di Zamasu
-Black rivela essere lo Zamasu di una linea temporale alternativa che ha ucciso Gowasu diventando Kaiohshin dopo aver preso il suo orecchino Potara. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E61</episode-num>
-    <title lang="it">Dragon Ball Super</title>
-    <new />
-  </programme>
-  <programme start="20261017135900 +0000" stop="20261017142700 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E62 — In difesa del mondo
-Trunks scatena la sua forza contro Black e Zamasu suggerendo nel frattempo a Vegeta di portare con se' Goku e Bulma nel passato con la macchina del tempo. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E62</episode-num>
-    <title lang="it">Dragon Ball Super</title>
-    <new />
-  </programme>
-  <programme start="20261017142700 +0000" stop="20261017145600 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E63 — Zamasu e Black contro Goku e Vegeta
-Trunks tiene testa ai due nemici fino al ritorno di Vegeta, Goku e Bulma con la macchina del tempo. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E63</episode-num>
-    <title lang="it">Dragon Ball Super</title>
-    <new />
-  </programme>
-  <programme start="20261017145600 +0000" stop="20261017152500 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E64 — Zamasu e Black si fondono
-Trunks riesce a imprigionare Zamasu con la Mafuba, ma non chiude bene il vaso e il nemico si libera. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E64</episode-num>
-    <title lang="it">Dragon Ball Super</title>
-    <new />
-  </programme>
-  <programme start="20261017152500 +0000" stop="20261017155200 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E65 — Il sommo potere del Supremo : e' giunta la fine
-La fusione di Zamasu e' completa. Goku e Vegeta tentano di resistergli ma la forza di Black e l'immortalita' di Zamasu hanno la meglio. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E65</episode-num>
-    <title lang="it">Dragon Ball Super</title>
-    <new />
-  </programme>
-  <programme start="20261017155200 +0000" stop="20261017162100 +0000" channel="Italia.2.it">
-    <category lang="it">Cartoni</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Anime</category>
-    <desc lang="it">S1 E66 — La sfida finale
-Goku ricorre al Kaiohken, ma il dio gli resiste e lo scaglia sul terreno, iniziando subito dopo ad assumere una forma mostruosa. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S1 E66</episode-num>
-    <title lang="it">Dragon Ball Super</title>
     <new />
   </programme>
   <programme start="20261017162100 +0000" stop="20261017165100 +0000" channel="Italia.2.it">
@@ -21466,65 +20934,6 @@ Luke presta a Lorelai 30.000 dollari per consentirle di continuare i lavori alla
     <episode-num>S18 E223</episode-num>
     <title lang="it">Tempesta d'amore</title>
   </programme>
-  <programme start="20261017081000 +0000" stop="20261017092000 +0000" channel="27Twentyseven.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Commedia</category>
-    <desc lang="it">Rimorso di Laura - I parte
-Caroline annuncia al marito di aspettare un figlio. Per i coniugi Ingalls si tratta del quarto e Charles spera ardentemente che questa volta nasca un maschio. VISIONE ADATTA A TUTTI.</desc>
-    <title lang="it">La casa nella prateria</title>
-    <new />
-  </programme>
-  <programme start="20261017092000 +0000" stop="20261017101800 +0000" channel="27Twentyseven.it">
-    <desc lang="it">S2 E15 — L' altra
-L'esercito massacra una tribu' intera di Cani Sciolti e "salva" una ragazza bianca cresciuta con gli indiani. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E15</episode-num>
-    <title lang="it">La signora del West</title>
-    <new />
-  </programme>
-  <programme start="20261017101800 +0000" stop="20261017111700 +0000" channel="27Twentyseven.it">
-    <desc lang="it">S2 E16 — Gli orfani
-Un gruppo di orfanelli giunge in citta' e il Reverendo decide di occuparsene insieme a Michaela. I due vorrebbero trovare una casa a ognuno di loro, ma nessuno sembra volerli. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E16</episode-num>
-    <title lang="it">La signora del West</title>
-    <new />
-  </programme>
-  <programme start="20261017111700 +0000" stop="20261017121500 +0000" channel="27Twentyseven.it">
-    <desc lang="it">S2 E17 — La truppa dei bisonti
-Dei soldati di colore soprannominati "Buffalo Soldiers" vengono inviati dall'esercito a combattere gli indiani cani sciolti. Sono capitanati da Arthur Tyrrell. VISIONE ADATTA A TUTTI.</desc>
-    <episode-num>S2 E17</episode-num>
-    <title lang="it">La signora del West</title>
-    <new />
-  </programme>
-  <programme start="20261017121500 +0000" stop="20261017130900 +0000" channel="27Twentyseven.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Commedia</category>
-    <desc lang="it">Rimorso di Laura - II parte
-Il bambino di Charles e Caroline, nato con gravi problemi di salute, muore. Laura, non avendo pregato per la salvezza del fratellino, si sente in colpa e fugge. VISIONE ADATTA A TUTTI.</desc>
-    <title lang="it">La casa nella prateria</title>
-    <new />
-  </programme>
-  <programme start="20261017130900 +0000" stop="20261017141100 +0000" channel="27Twentyseven.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Commedia</category>
-    <desc lang="it">Natale a Plum Creek
-E' Natale. Gli Ingalls sono impegnati nella ricerca dei regali, ma la mancanza di denaro crea loro non poche difficolta'. VISIONE ADATTA A TUTTI.</desc>
-    <title lang="it">La casa nella prateria</title>
-    <new />
-  </programme>
-  <programme start="20261017141100 +0000" stop="20261017151100 +0000" channel="27Twentyseven.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Commedia</category>
-    <desc lang="it">Litigi in famiglia
-Caroline Ingalls si presenta all'emporio degli Oleson con delle uova da vendere. La signora Oleson, scorbutica come al solito, pretende di sottopagare la merce. VISIONE ADATTA A TUTTI.</desc>
-    <title lang="it">La casa nella prateria</title>
-    <new />
-  </programme>
-  <programme start="20261017151100 +0000" stop="20261017170800 +0000" channel="27Twentyseven.it">
-    <desc lang="it">L'ultima diva
-Una ex ballerina di successo, vorrebbe ritornare sulle scene, interpretando un musical, ma il marito, nonostante sia molto ricco, non e' disposto a finanziare il progetto. VISIONE ADATTA A TUTTI.</desc>
-    <title lang="it">Colombo</title>
-    <new />
-  </programme>
   <programme start="20261017170800 +0000" stop="20261017191400 +0000" channel="27Twentyseven.it">
     <desc lang="it">I cospiratori
 Un poeta, capo di un gruppo pacifista irlandese, si accorda clandestinamente con un contrabbandiere d'armi. Quando scopre che questi tenta il doppio gioco, lo uccide. VISIONE ADATTA A TUTTI.</desc>
@@ -22797,21 +22206,6 @@ Un esperto programmatore di computer vuole vendicarsi degli uomini della Fondazi
     <title lang="it">Super Car</title>
     <new />
   </programme>
-  <programme start="20261017103000 +0000" stop="20261017124400 +0000" channel="Mediaset.Extra.it">
-    <desc lang="it">Appuntamento quotidiano con la casa del Grande Fratello.</desc>
-    <title lang="it">Grande Fratello Vip Live</title>
-    <new />
-  </programme>
-  <programme start="20261017124400 +0000" stop="20261017144400 +0000" channel="Mediaset.Extra.it">
-    <desc lang="it">Appuntamento quotidiano con la casa del Grande Fratello.</desc>
-    <title lang="it">Grande Fratello Vip Live</title>
-    <new />
-  </programme>
-  <programme start="20261017144400 +0000" stop="20261017164400 +0000" channel="Mediaset.Extra.it">
-    <desc lang="it">Appuntamento quotidiano con la casa del Grande Fratello.</desc>
-    <title lang="it">Grande Fratello Vip Live</title>
-    <new />
-  </programme>
   <programme start="20261017164400 +0000" stop="20261017191900 +0000" channel="Mediaset.Extra.it">
     <desc lang="it">Appuntamento quotidiano con la casa del Grande Fratello.</desc>
     <title lang="it">Grande Fratello Vip Live</title>
@@ -23501,56 +22895,6 @@ Un esperto programmatore di computer vuole vendicarsi degli uomini della Fondazi
     <category lang="it">Documentario</category>
     <episode-num>S2 E8</episode-num>
     <title lang="it">L'investigatore Wolfe</title>
-  </programme>
-  <programme start="20261017090400 +0000" stop="20261017100000 +0000" channel="Rete.4.it">
-    <desc lang="it">S2 E59
-Ilgaz ed Eren interrogano un'addetta alle pulizie e perquisiscono casa di Salim, senza trovare la collana. Intanto emerge che la bomba aveva solo scopo intimidatorio. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S2 E59</episode-num>
-    <title lang="it">Segreti di famiglia - PrimaTv</title>
-    <new />
-  </programme>
-  <programme start="20261017100000 +0000" stop="20261017102600 +0000" channel="Rete.4.it">
-    <category lang="it">TG</category>
-    <category lang="it">Telegiornale</category>
-    <desc lang="it">Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.</desc>
-    <title lang="it">Tg4</title>
-    <new />
-  </programme>
-  <programme start="20261017102600 +0000" stop="20261017115700 +0000" channel="Rete.4.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S3 E11
-Una coppia di comici un tempo molto affiatati si ritrova per il fidanzamento dei figli./Un nipote di Jessica trova il cadavere di uno dei suoi capi riverso sulla scrivania del suo studio. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S3 E11</episode-num>
-    <title lang="it">La signora in giallo</title>
-    <new />
-  </programme>
-  <programme start="20261017115700 +0000" stop="20261017132800 +0000" channel="Rete.4.it">
-    <desc lang="it">Programma storico delle reti Mediaset che vede due contendenti affidare la soluzione del loro contrasto al giudizio di un giudice arbitro.</desc>
-    <title lang="it">Lo sportello di forum</title>
-    <new />
-  </programme>
-  <programme start="20261017132800 +0000" stop="20261017133300 +0000" channel="Rete.4.it">
-    <desc lang="it">ITA 2023
-Tg4 - Diario del giorno (Anteprima).</desc>
-    <title lang="it">Tg4 - Diario del giorno (Anteprima)</title>
-    <new />
-  </programme>
-  <programme start="20261017133300 +0000" stop="20261017143300 +0000" channel="Rete.4.it">
-    <category lang="it">Informazione</category>
-    <desc lang="it">Approfondimento a cura del Tg4 sui principali fatti del giorno.</desc>
-    <title lang="it">Diario del weekend</title>
-    <new />
-  </programme>
-  <programme start="20261017143300 +0000" stop="20261017165800 +0000" channel="Rete.4.it">
-    <credits>
-      <director>J. Nelson</director>
-    </credits>
-    <date>1994</date>
-    <desc lang="it">Un vedovo, padre di una bambina che soffre di mutismo temporaneo, ingaggia come governante una donna di colore. La sua vita viene stravolta.</desc>
-    <title lang="it">Una moglie per papa'</title>
-    <new />
   </programme>
   <programme start="20261017165800 +0000" stop="20261017174100 +0000" channel="Rete.4.it">
     <category lang="it">TG</category>
@@ -24820,157 +24164,6 @@ Manuel raggiunge Curro nonostante il fucile puntato e i due si riabbracciano. En
     <date>2006</date>
     <desc lang="it">Jack Stanfield e' uno specialista di sistemi di sicurezza informatici bancari sotto ricatto, perche' costretto a rubare nella banca in cui lavora. Con Harrison Ford.</desc>
     <title lang="it">Firewall - Accesso negato</title>
-    <new />
-  </programme>
-  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Altro</category>
-    <date>2021</date>
-    <desc lang="it">TG24 Agenda - La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi.</desc>
-    <title lang="it">TG24 Agenda</title>
-    <new />
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Altro</category>
-    <date>2021</date>
-    <desc lang="it">TG24 Agenda - La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi.</desc>
-    <title lang="it">TG24 Agenda</title>
-    <new />
-  </programme>
-  <programme start="20261017093000 +0000" stop="20261017100000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Altro</category>
-    <date>2021</date>
-    <desc lang="it">TG24 Agenda - La settimana che sta per cominciare, letta in anteprima per raccontare il contesto, le notizie e i dibattiti al centro della settimana. Conduce Lavinia Spingardi.</desc>
-    <title lang="it">TG24 Agenda</title>
-    <new />
-  </programme>
-  <programme start="20261017100000 +0000" stop="20261017103000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. La domanda del giorno, lo Sport, il Meteo.</desc>
-    <title lang="it">Il TG di Mezzogiorno</title>
-    <new />
-  </programme>
-  <programme start="20261017103000 +0000" stop="20261017105500 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017105500 +0000" stop="20261017110000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2023</date>
-    <desc lang="it">TG24 Preview.</desc>
-    <title lang="it">TG24 Preview</title>
-    <new />
-  </programme>
-  <programme start="20261017110000 +0000" stop="20261017113000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2019</date>
-    <desc lang="it">Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto.</desc>
-    <title lang="it">Ore 13</title>
-    <new />
-  </programme>
-  <programme start="20261017113000 +0000" stop="20261017115000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2019</date>
-    <desc lang="it">Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto.</desc>
-    <title lang="it">Ore 13</title>
-    <new />
-  </programme>
-  <programme start="20261017115000 +0000" stop="20261017120000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2020</date>
-    <desc lang="it">Telegiornale.</desc>
-    <title lang="it">Extra Time</title>
-    <new />
-  </programme>
-  <programme start="20261017120000 +0000" stop="20261017123000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017123000 +0000" stop="20261017130000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017130000 +0000" stop="20261017133000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2026</date>
-    <desc lang="it">S3 E42 — Ep.42
-Uno spazio per approfondire la stretta attualita' e per raccontare i fatti sfuggiti dai radar, con ospiti in studio e sevizi dedicati. Ogni sabato alle h 16.</desc>
-    <episode-num>S3 E42</episode-num>
-    <title lang="it">Sky TG25</title>
-    <new />
-  </programme>
-  <programme start="20261017143000 +0000" stop="20261017145000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017145000 +0000" stop="20261017150000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">News</category>
-    <date>2024</date>
-    <desc lang="it">Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali.</desc>
-    <title lang="it">Sky Meteo24</title>
-    <new />
-  </programme>
-  <programme start="20261017150000 +0000" stop="20261017153000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017153000 +0000" stop="20261017160000 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
-    <new />
-  </programme>
-  <programme start="20261017160000 +0000" stop="20261017162500 +0000" channel="Sky.TG24.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.</desc>
-    <title lang="it">TG24 mezz'ora</title>
     <new />
   </programme>
   <programme start="20261017162500 +0000" stop="20261017165500 +0000" channel="Sky.TG24.it">
@@ -28714,89 +27907,6 @@ Le principali notizie della settimana, raccontate in 30 minuti, a cura della red
     <category lang="it">Rubrica</category>
     <title lang="it">Tgcom rassegna stampa 2026</title>
   </programme>
-  <programme start="20261017081700 +0000" stop="20261017091400 +0000" channel="Top.Crime.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S5 E5 — Bullismo
-Il preside della scuola privata maschile St. Bart's e' stato ucciso. Tutte le prove e le dichiarazioni degli studenti fanno pensare che il colpevole sia Derek, uno studente. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S5 E5</episode-num>
-    <title lang="it">Harry Wild - La signora del delitto</title>
-    <new />
-  </programme>
-  <programme start="20261017091400 +0000" stop="20261017100200 +0000" channel="Top.Crime.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S5 E6 — La verita
-Malky si sveglia accanto al corpo senza vita di Happy, non e' certo di non averlo ucciso, ma grazie all'aiuto di Harry e Fergus scoprira' di essere innocente. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S5 E6</episode-num>
-    <title lang="it">Harry Wild - La signora del delitto</title>
-    <new />
-  </programme>
-  <programme start="20261017100200 +0000" stop="20261017105700 +0000" channel="Top.Crime.it">
-    <desc lang="it">S19 E19 — Costi sommersi
-L'Unita' Speciale indaga sulla scomparsa di Jules e di sua figlia. I sospetti convergono sul marito, che sostiene di aver ricevuto una telefonata dal rapitore. PUO' NUOCERE AI MINORI.</desc>
-    <episode-num>S19 E19</episode-num>
-    <title lang="it">Law &amp; Order: Special Victims Unit</title>
-    <new />
-  </programme>
-  <programme start="20261017105700 +0000" stop="20261017114700 +0000" channel="Top.Crime.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Drammatico</category>
-    <desc lang="it">S19 E20 — Il libro di Esther
-Rollins prende a cuore il caso di Esther, una ragazza scappata di casa e in difficolta'. Poco dopo, al distretto si presenta il padre di Esther e la verita' viene a galla. PUO' NUOCERE AI MINORI.</desc>
-    <episode-num>S19 E20</episode-num>
-    <title lang="it">Law &amp; Order: Special Victims Unit</title>
-    <new />
-  </programme>
-  <programme start="20261017114700 +0000" stop="20261017123900 +0000" channel="Top.Crime.it">
-    <desc lang="it">S19 E21 — Il tutore
-Malik, un ragazzo di colore, e' il tutore della sorella Tiana. Una sera Malik, mentre sta per essere arrestato, dichiara che Tiana e' stata violentata da sei ragazzi. PUO' NUOCERE AI MINORI.</desc>
-    <episode-num>S19 E21</episode-num>
-    <title lang="it">Law &amp; Order: Special Victims Unit</title>
-    <new />
-  </programme>
-  <programme start="20261017123900 +0000" stop="20261017133700 +0000" channel="Top.Crime.it">
-    <desc lang="it">S19 E22 — Mamma
-Un'anziana signora in una struttura per demenza senile, sostiene di essere stata stuprata, ma le analisi non rilevano alcuna violenza. I detective indagano nel suo passato. PUO' NUOCERE AI MINORI.</desc>
-    <episode-num>S19 E22</episode-num>
-    <title lang="it">Law &amp; Order: Special Victims Unit</title>
-    <new />
-  </programme>
-  <programme start="20261017133700 +0000" stop="20261017142900 +0000" channel="Top.Crime.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S5 E5 — Bullismo
-Il preside della scuola privata maschile St. Bart's e' stato ucciso. Tutte le prove e le dichiarazioni degli studenti fanno pensare che il colpevole sia Derek, uno studente. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S5 E5</episode-num>
-    <title lang="it">Harry Wild - La signora del delitto</title>
-    <new />
-  </programme>
-  <programme start="20261017142900 +0000" stop="20261017152300 +0000" channel="Top.Crime.it">
-    <category lang="it">Serie TV</category>
-    <category lang="it">Fiction</category>
-    <category lang="it">Crime</category>
-    <desc lang="it">S5 E6 — La verita
-Malky si sveglia accanto al corpo senza vita di Happy, non e' certo di non averlo ucciso, ma grazie all'aiuto di Harry e Fergus scoprira' di essere innocente. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
-    <episode-num>S5 E6</episode-num>
-    <title lang="it">Harry Wild - La signora del delitto</title>
-    <new />
-  </programme>
-  <programme start="20261017152300 +0000" stop="20261017171800 +0000" channel="Top.Crime.it">
-    <category lang="it">Film</category>
-    <category lang="it">Cinema</category>
-    <category lang="it">Azione</category>
-    <credits>
-      <director>D. Moore</director>
-    </credits>
-    <date>2003</date>
-    <desc lang="it">Una donna e' accusata dell'omicidio di una facoltosa zia e della sua rivale in amore. Nonostante l'evidenza dei fatti, a Poirot qualcosa non torna.</desc>
-    <title lang="it">Poirot: La parola alla difesa</title>
-    <new />
-  </programme>
   <programme start="20261017171800 +0000" stop="20261017181700 +0000" channel="Top.Crime.it">
     <desc lang="it">S5 E9 — Furto d'identita
 Brenda deve riaprire il caso di uno psichiatra assassinato, poiche' viene rilevata una discrepanza nella confessione resa dall'omicida reo confesso. VISIONE CONSIGLIATA CON LA PRESENZA DI UN ADULTO.</desc>
@@ -30387,83 +29497,6 @@ In citta' si consumano tre stupri, tutti con lo stesso modus operandi. L'aggress
     <title lang="it">Law &amp; Order: Special Victims Unit</title>
     <new />
   </programme>
-  <programme start="20261017081000 +0000" stop="20261017093000 +0000" channel="TV8.HD.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Reality Show</category>
-    <date>2024</date>
-    <desc lang="it">S7 E3 — Ep. 3
-A contendersi la vittoria e il titolo di miglior matrimonio di questo episodio sono quattro spose sfrenate. Costantino e' pronto a tutto!</desc>
-    <episode-num>S7 E3</episode-num>
-    <title lang="it">Quattro matrimoni</title>
-  </programme>
-  <programme start="20261017093000 +0000" stop="20261017093500 +0000" channel="TV8.HD.it">
-    <category lang="it">Informazione</category>
-    <category lang="it">Notiziario</category>
-    <date>2015</date>
-    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno.</desc>
-    <title lang="it">Sky TG24 in pillole</title>
-  </programme>
-  <programme start="20261017093500 +0000" stop="20261017105500 +0000" channel="TV8.HD.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2020</date>
-    <desc lang="it">S7 E1 — Basilicata: Via Herculea
-Cosa si cucina lungo la Via dei Sapori della Basilicata? Tocca ad Antonio, Michele, Paola e Antonio presentare ad Alessandro un pranzo dal gusto autentico.</desc>
-    <episode-num>S7 E1</episode-num>
-    <title lang="it">Alessandro Borghese - 4 Ristoranti</title>
-  </programme>
-  <programme start="20261017105500 +0000" stop="20261017131500 +0000" channel="TV8.HD.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <date>2026</date>
-    <desc lang="it">S13 E8 — Ep.08
-Ottava tappa di Pechino Express e ultima in Cina: quali coppie riusciranno ad aggiudicarsi un biglietto per il Giappone?</desc>
-    <episode-num>S13 E8</episode-num>
-    <title lang="it">Pechino Express</title>
-  </programme>
-  <programme start="20261017131500 +0000" stop="20261017133000 +0000" channel="TV8.HD.it">
-    <category lang="it">Sports</category>
-    <category lang="it">Motori</category>
-    <date>2026</date>
-    <desc lang="it">S2026 E49
-... 13 17/10/2026 Pre SBK. - L'anteprima della gara di Superbike.</desc>
-    <episode-num>S2026 E49</episode-num>
-    <title lang="it">Pre Superbike 2026 Round 13 17/10/2026</title>
-    <live />
-  </programme>
-  <programme start="20261017133000 +0000" stop="20261017140500 +0000" channel="TV8.HD.it">
-    <category lang="it">Sports</category>
-    <category lang="it">Motori</category>
-    <date>2026</date>
-    <desc lang="it">S2026 E130
-Ultimo Round della stagione 2026. Dal circuito di Jerez, la prima gara della World Superbike. Telecronaca Vercellesi - Temporali.</desc>
-    <episode-num>S2026 E130</episode-num>
-    <title lang="it">Spagna: Gara 1</title>
-    <live />
-  </programme>
-  <programme start="20261017140500 +0000" stop="20261017142500 +0000" channel="TV8.HD.it">
-    <category lang="it">Sports</category>
-    <category lang="it">Motori</category>
-    <date>2026</date>
-    <desc lang="it">S2026 E50
-... 13 17/10/2026 Post SBK. - Il post gara della World Superbike, dove piloti e addetti ai lavori ci raccontano le loro sensazioni subito dopo il traguardo.</desc>
-    <episode-num>S2026 E50</episode-num>
-    <title lang="it">Post Superbike 2026 Round 13 17/10/2026</title>
-    <live />
-  </programme>
-  <programme start="20261017142500 +0000" stop="20261017172000 +0000" channel="TV8.HD.it">
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Show</category>
-    <credits>
-      <producer>Alessandro Raina</producer>
-      <producer>Fausto Cogliati</producer>
-    </credits>
-    <date>2026</date>
-    <desc lang="it">S20 E5 — Bootcamp. 2a parte
-Chi conquistera' i 4 si' dei giudici e si guadagnera' un posto nella fase finale delle selezioni?</desc>
-    <episode-num>S20 E5</episode-num>
-    <title lang="it">X Factor</title>
-  </programme>
   <programme start="20261017172000 +0000" stop="20261017182500 +0000" channel="TV8.HD.it">
     <category lang="it">Intrattenimento</category>
     <category lang="it">Show</category>
@@ -32032,61 +31065,6 @@ Sergio, Maria, Lorenzo e Taka si sfideranno per vincere il titolo di miglior ris
     <title lang="it">GP Australia: Qualifiche</title>
     <live />
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Motor.Trend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -32392,57 +31370,57 @@ Sergio, Maria, Lorenzo e Taka si sfideranno per vincere il titolo di miglior ris
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Real.Time.it">
+  <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="Real.Time.it">
+  <programme start="20261021070000 +0000" stop="20261021080000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Real.Time.it">
+  <programme start="20261021080000 +0000" stop="20261021090000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="Real.Time.it">
+  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Real.Time.it">
+  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="Real.Time.it">
+  <programme start="20261021110000 +0000" stop="20261021120000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="Real.Time.it">
+  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="Real.Time.it">
+  <programme start="20261021130000 +0000" stop="20261021140000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="Real.Time.it">
+  <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="Real.Time.it">
+  <programme start="20261021150000 +0000" stop="20261021160000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Real.Time.it">
+  <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="Motor.Trend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -32748,6 +31726,61 @@ Sergio, Maria, Lorenzo e Taka si sfideranno per vincere il titolo di miglior ris
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261021050000 +0000" stop="20261021060000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021080000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021090000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021120000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021140000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021160000 +0000" channel="Real.Time.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="Real.Time.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />

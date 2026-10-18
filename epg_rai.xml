@@ -134,7 +134,7 @@
   </programme>
   <programme start="20261018203500 +0200" stop="20261018204500 +0200" channel="Rai1.it">
     <title lang="it">Fiorello e Biggio</title>
-    <desc lang="it">Rosario Fiorello, con Fabrizio Biggio, presenta uno show di pura leggerezza, con gag e ospiti in studio. Regia di Piergiorgio Camilli.</desc>
+    <desc lang="it">Rosario Fiorello, con Fabrizio Biggio, presenta uno show di pura leggerezza, con gag e ospiti in studio.</desc>
   </programme>
   <programme start="20261018204500 +0200" stop="20261018213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 18/10/2026</title>
@@ -266,22 +266,19 @@
     <desc lang="it">Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia.</desc>
   </programme>
   <programme start="20261020005000 +0200" stop="20261020012500 +0200" channel="Rai1.it">
-    <title lang="it">La Nottatanza</title>
-    <desc lang="it">INTRATTENIMENTO - L'appuntamento radiofonico de La Pennicanza, condotto da Rosario Fiorello con Fabrizio Biggio, diventa anche un appuntamento televisivo, ogni notte in replica su Rai Uno in terza serata.. - Conduce Rosario Fiorello Con Fabrizio Biggio Regia di Piergiorgio Camilli </desc>
-  </programme>
-  <programme start="20261020005500 +0200" stop="20261020012000 +0200" channel="Rai1.it">
     <title lang="it">La Nottatanza del 19/10/2026</title>
+    <desc lang="it">L'appuntamento radiofonico de La Pennicanza, condotto da Rosario Fiorello con Fabrizio Biggio, diventa anche un appuntamento televisivo, ogni notte in replica su Rai Uno in terza serata. Conduce Rosario Fiorello. Con Fabrizio Biggio.Regia di Piergiorgio Camilli. </desc>
   </programme>
   <programme start="20261020012500 +0200" stop="20261020013000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261020012500 +0200" stop="20261020022500 +0200" channel="Rai1.it">
-    <title lang="it">Sottovoce e dintorni Cinematografo Speciale Roma - Puntata del 19/10/2026</title>
-    <desc lang="it">Un appuntamento speciale per la Festa del Cinema Roma che si svolgerà dal 13 al 25 ottobre 2026 presso l'Auditorium Parco della Musica.</desc>
-  </programme>
   <programme start="20261020013000 +0200" stop="20261020023000 +0200" channel="Rai1.it">
     <title lang="it">Sottovoce e dintorni Cinematografo Speci</title>
     <desc lang="it">Sottovoce e dintorni Cinematografo Speciale Festa del Cinema di Roma - RUBRICA - Due puntate speciali di Cinematografo per La Festa del Cinema di Roma che si svolgerà dal 13 al 25 ottobre 2026. - Un programma di e con Gigi Marzullo Produttori esecutivi Sabina Caracciolo, Ginevra De Grassi Di Pianura, Maria Elena Pastore, Simona Bazzi A cura di Francesca Fedeli </desc>
+  </programme>
+  <programme start="20261020013000 +0200" stop="20261020022500 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni Cinematografo Speciale Roma - Puntata del 19/10/2026</title>
+    <desc lang="it">Un appuntamento speciale per la Festa del Cinema Roma che si svolgerà dal 13 al 25 ottobre 2026 presso l'Auditorium Parco della Musica.</desc>
   </programme>
   <programme start="20261020023000 +0200" stop="20261020041000 +0200" channel="Rai1.it">
     <title lang="it">Provaci ancora Prof! S7E4 - Ragioni superiori</title>
@@ -2743,66 +2740,71 @@
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261019060000 +0200" stop="20261019083000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Verona - Civitanova</title>
-    <desc lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Verona - Civitanova</desc>
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 1a giornata: Rana Verona - Cucine Lube Civitanova</title>
+    <desc lang="it">La SuperLega Credem Banca 2026-2027 si apre con la sfida tra Rana Verona e Cucine Lube Civitanova, protagoniste della prima giornata del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261019083000 +0200" stop="20261019111500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 3a giornata: Milano-Novara</title>
-    <desc lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 3a giornata: Milano-Novara</desc>
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 3a giornata: Numia Vero Volley Milano – Igor Gorgonzola Novara</title>
+    <desc lang="it">Nella terza giornata della Serie A1 Fineco 2026-2027, la Numia Vero Volley Milano affronta l'Igor Gorgonzola Novara in una sfida di alto livello.</desc>
   </programme>
   <programme start="20261019111500 +0200" stop="20261019121500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 1</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 1</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 1)</title>
+    <desc lang="it"> Rallye Sanremo (gara 1)</desc>
   </programme>
   <programme start="20261019121500 +0200" stop="20261019131500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 2)</title>
+    <desc lang="it"> Rallye Sanremo (gara 2)</desc>
   </programme>
   <programme start="20261019131500 +0200" stop="20261019155500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Cuneo - Perugia</title>
-    <desc lang="it">Pallavolo Maschile: Superlega Credem Banca 2026/27 Cuneo - Perugia</desc>
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 1a giornata: Acqua Sant' Anna Cuneo - Sir Susa Scai Perugia</title>
+    <desc lang="it">Nella prima giornata della SuperLega Credem Banca 2026-2027, Acqua Sant' Anna Cuneo e Sir Susa Scai Perugia si affrontano nel primo appuntamento stagionale delle due squadre.</desc>
   </programme>
   <programme start="20261019155500 +0200" stop="20261019171500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Veneto Classic 2026</title>
-    <desc lang="it">Ciclismo: Veneto Classic 2026</desc>
+    <desc lang="it">Veneto Classic</desc>
   </programme>
   <programme start="20261019171500 +0200" stop="20261019184500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro Femminile: Serie A1 2026/27 3a giornata: Schio - Campobasso</title>
-    <desc lang="it">Pallacanestro Femminile: Serie A1 2026/27 3a giornata: Schio - Campobasso</desc>
+    <title lang="it">Basket: Serie A1 femminile 2026-2027 - 3a giornata: Famila Wuber Schio - La Molisana Magnolia Campobasso</title>
+    <desc lang="it">Nella terza giornata della Serie A1 femminile 2026-2027, Famila Wuber Schio e La Molisana Magnolia Campobasso si affrontano in una sfida del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261019184500 +0200" stop="20261019193000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. Mondiali di Tiro di Campagna Yankton</title>
-    <desc lang="it">Tiro con l'Arco. Mondiali di Tiro di Campagna Yankton</desc>
+    <title lang="it">Tiro con l'Arco - Mondiali di Tiro di Campagna 2026</title>
+    <desc lang="it">Mondiali di Tiro di Campagna 2026</desc>
   </programme>
   <programme start="20261019193000 +0200" stop="20261019203500 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 19/10/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
-  <programme start="20261019203500 +0200" stop="20261019233500 +0200" channel="RaiSport.it">
-    <title lang="it">World Aquatics: Nuoto (25m) Coppa del Mo</title>
-    <desc lang="it">World Aquatics: Nuoto (25m) Coppa del Mondo 2026 Tashkent - 2a tappa (1a e 2a parte)</desc>
+  <programme start="20261019203500 +0200" stop="20261019220000 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 2a giornata: Finali (prima parte)</title>
+    <desc lang="it">Coppa del Mondo (25m) 2026 - 2a giornata: Finali (prima parte)</desc>
+  </programme>
+  <programme start="20261019220000 +0200" stop="20261019233500 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto - Coppa del Mondo (25m) 2026 - 2a giornata: Finali (seconda parte)</title>
+    <desc lang="it">Coppa del Mondo (25m) - 2a giornata: Finali (seconda parte)</desc>
   </programme>
   <programme start="20261019233500 +0200" stop="20261020004500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclismo: Veneto Classic 2026</title>
+    <desc lang="it">Veneto Classic</desc>
   </programme>
   <programme start="20261020004500 +0200" stop="20261020014500 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</title>
-    <desc lang="it">Automobilismo: Camp. Italiano Rally Sanremo - gara 2</desc>
+    <title lang="it">Campionato Italiano Assoluto Rally 2026 - Rallye Sanremo (gara 2)</title>
+    <desc lang="it"> Rallye Sanremo (gara 2)</desc>
   </programme>
   <programme start="20261020014500 +0200" stop="20261020021000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
   </programme>
   <programme start="20261020021000 +0200" stop="20261020033000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo 2026: Giro del Veneto Elite</title>
-    <desc lang="it">Ciclismo 2026: Giro del Veneto Elite</desc>
+    <title lang="it">Ciclismo: Giro del Veneto Uomini 2026</title>
+    <desc lang="it">Giro del Veneto Uomini</desc>
   </programme>
   <programme start="20261020033000 +0200" stop="20261020043000 +0200" channel="RaiSport.it">
-    <title lang="it">BordoCampo</title>
+    <title lang="it">BordoCampo del 19/10/2026</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20261020043000 +0200" stop="20261020060000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo su Pista: Camp. Mondiali Shanghai 2026 5a giornata</title>
-    <desc lang="it">Ciclismo su Pista: Camp. Mondiali Shanghai 2026 5a giornata</desc>
+    <title lang="it">Ciclismo su Pista: Mondiali 2026 - 5a giornata</title>
+    <desc lang="it">Mondiali - 5a giornata</desc>
   </programme>
   <programme start="20261020060000 +0200" stop="20261020080000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio Femminile: serie A Women Athora 2026/27 Juventus - Como</title>
