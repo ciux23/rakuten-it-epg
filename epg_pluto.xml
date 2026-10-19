@@ -12,17 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261019110000 +0200" stop="20261019150557 +0200" channel="pluto_film_tv">
+  <programme start="20261019163000 +0200" stop="20261019191802 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261019150557 +0200" stop="20261019171357 +0200" channel="pluto_film_tv">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
-  </programme>
-  <programme start="20261019171357 +0200" stop="20261019191802 +0200" channel="pluto_film_tv">
-    <title lang="it">A Circus Story and a Love Song</title>
-    <desc lang="it">Refugio, un romantico sognatore la cui ricerca del vero amore, durata anni, lo porta dalla vita circense in Messico alla vita notturna di New Orleans, dove si innamora inaspettatamente di una bellissima ballerina esotica con un passato complicato.</desc>
   </programme>
   <programme start="20261019191802 +0200" stop="20261019210002 +0200" channel="pluto_film_tv">
     <title lang="it">La signora Dalloway</title>
@@ -68,33 +60,33 @@
     <title lang="it">Noryang</title>
     <desc lang="it">Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang.</desc>
   </programme>
-  <programme start="20261020170401 +0200" stop="20261020230000 +0200" channel="pluto_film_tv">
+  <programme start="20261020170401 +0200" stop="20261020190001 +0200" channel="pluto_film_tv">
+    <title lang="it">Lovers</title>
+    <desc lang="it">Tradimenti, vendette, amori e colpi di scena animano quattro storie parallele interpretate dai medesimi attori sullo sfondo di Bologna. Amore, commedia, dubbio e sospetto si fondono nel film italiano pluripremiato all'estero.</desc>
+  </programme>
+  <programme start="20261020190001 +0200" stop="20261020210101 +0200" channel="pluto_film_tv">
+    <title lang="it">Half Nelson</title>
+    <desc lang="it">Candidatura agli Oscar per Ryan Gosling. Dan è un insegnante di scuola pubblica, brillante e capace di motivare i suoi allievi nonostante le difficoltà della vita di periferia. Nel privato però affoga i suoi tormenti nell'abuso di alcool e droghe.</desc>
+  </programme>
+  <programme start="20261020210101 +0200" stop="20261020225355 +0200" channel="pluto_film_tv">
+    <title lang="it">Il compleanno</title>
+    <desc lang="it">Un gruppo di amici in vacanza è messo in crisi dall'arrivo di un ragazzo: morbosità omertà e passione in un melodramma di rara efficacia.</desc>
+  </programme>
+  <programme start="20261020225355 +0200" stop="20261021043000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020230000 +0200" stop="20261021110000 +0200" channel="pluto_film_tv">
+  <programme start="20261021043000 +0200" stop="20261021163000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021110000 +0200" stop="20261021170000 +0200" channel="pluto_film_tv">
+  <programme start="20261021163000 +0200" stop="20261021223000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019110000 +0200" stop="20261019143406 +0200" channel="pluto_film_azione">
+  <programme start="20261019163000 +0200" stop="20261019194640 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261019143406 +0200" stop="20261019162506 +0200" channel="pluto_film_azione">
-    <title lang="it">La Leggenda Di Hei</title>
-    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
-  </programme>
-  <programme start="20261019162506 +0200" stop="20261019180506 +0200" channel="pluto_film_azione">
-    <title lang="it">Avengers Grimm</title>
-    <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
-  </programme>
-  <programme start="20261019180506 +0200" stop="20261019194640 +0200" channel="pluto_film_azione">
-    <title lang="it">La gang degli svitati</title>
-    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
   </programme>
   <programme start="20261019194640 +0200" stop="20261019213018 +0200" channel="pluto_film_azione">
     <title lang="it">Hostile Territory - Il tempo è il nemico</title>
@@ -148,45 +140,29 @@
     <title lang="it">Broken Promise</title>
     <desc lang="it">Quando i fascisti si impadroniscono del suo Paese, Martin resta inerme mentre i membri della comunità ebraica, e la sua stessa famiglia, vengono mandati nei campi di concentramento.</desc>
   </programme>
-  <programme start="20261020191638 +0200" stop="20261020230000 +0200" channel="pluto_film_azione">
+  <programme start="20261020191638 +0200" stop="20261020213103 +0200" channel="pluto_film_azione">
+    <title lang="it">In the name of the King</title>
+    <desc lang="it">La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.</desc>
+  </programme>
+  <programme start="20261020213103 +0200" stop="20261020230303 +0200" channel="pluto_film_azione">
+    <title lang="it">In the Name of the King 3: L'ultima Missione</title>
+    <desc lang="it">Trasportato indietro all'epoca medievale, un assassino professionista deve recuperare i figli di un miliardario ma prima si trova a combattere contro un esercito e un drago.</desc>
+  </programme>
+  <programme start="20261020230303 +0200" stop="20261021043000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020230000 +0200" stop="20261021110000 +0200" channel="pluto_film_azione">
+  <programme start="20261021043000 +0200" stop="20261021163000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021110000 +0200" stop="20261021170000 +0200" channel="pluto_film_azione">
+  <programme start="20261021163000 +0200" stop="20261021223000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261019110000 +0200" stop="20261019152520 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261019163000 +0200" stop="20261019201920 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261019152520 +0200" stop="20261019161420 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'ascesa della stella nera</title>
-    <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
-  </programme>
-  <programme start="20261019161420 +0200" stop="20261019170320 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Una tonalità più bianca di pallido</title>
-    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
-  </programme>
-  <programme start="20261019170320 +0200" stop="20261019175220 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Visione doppia</title>
-    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
-  </programme>
-  <programme start="20261019175220 +0200" stop="20261019184120 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Legami di sangue</title>
-    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
-  </programme>
-  <programme start="20261019184120 +0200" stop="20261019193020 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Alter Ego</title>
-    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
-  </programme>
-  <programme start="20261019193020 +0200" stop="20261019201920 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
-    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
   </programme>
   <programme start="20261019201920 +0200" stop="20261019210820 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Interfaccia</title>
@@ -292,15 +268,39 @@
     <title lang="it">Mutant X: Un passo più vicino</title>
     <desc lang="it">La squadra lotta per contenere i poteri mutanti fuori controllo di Brennan quando mette in pericolo la missione per proteggere la figlia di un senatore.</desc>
   </programme>
-  <programme start="20261020173320 +0200" stop="20261020230000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261020173320 +0200" stop="20261020182220 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Controllo della realtà</title>
+    <desc lang="it">Shalimar si mette nei guai quando la squadra incontra un mutante dell'era della guerra fredda con la capacità di alterare la realtà e distruggere la mente delle persone.</desc>
+  </programme>
+  <programme start="20261020182220 +0200" stop="20261020191120 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Risveglio</title>
+    <desc lang="it">La squadra aiuta l'equipaggio di una stazione di ricerca oceanica minacciata da una creatura preistorica precedentemente ritenuta estinta.</desc>
+  </programme>
+  <programme start="20261020191120 +0200" stop="20261020200020 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Per evitare di diventare</title>
+    <desc lang="it">Shalimar accetta con riluttanza di contattare il suo estraneo padre quando la squadra scopre che la sua azienda è coinvolta in test genetici e manipolazione.</desc>
+  </programme>
+  <programme start="20261020200020 +0200" stop="20261020204920 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In una notte senza luna</title>
+    <desc lang="it">Nell'emozionante apertura di stagione, i membri superstiti di Mutant X emergono da un'esplosione mortale per incontrare Lexa, che li fa iniziare a mettere in discussione i presupposti fondamentali del loro mondo.</desc>
+  </programme>
+  <programme start="20261020204920 +0200" stop="20261020213820 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il prezzo del peccato</title>
+    <desc lang="it">La squadra Mutant X deve fermare l'asta di una sostanza altamente letale che un certo numero di famigerati terroristi internazionali sono in lizza per acquisire.</desc>
+  </programme>
+  <programme start="20261020213820 +0200" stop="20261020222720 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La razza</title>
+    <desc lang="it">La squadra Mutant X viene coinvolta per aiutare una base militare che è stata infettata da una malattia mortale.</desc>
+  </programme>
+  <programme start="20261020222720 +0200" stop="20261021043000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020230000 +0200" stop="20261021110000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261021043000 +0200" stop="20261021163000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021110000 +0200" stop="20261021170000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261021163000 +0200" stop="20261021223000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
