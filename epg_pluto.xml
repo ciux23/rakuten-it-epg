@@ -12,25 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261020000000 +0200" stop="20261020043624 +0200" channel="pluto_film_tv">
+  <programme start="20261020090000 +0200" stop="20261020123108 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261020043624 +0200" stop="20261020064224 +0200" channel="pluto_film_tv">
-    <title lang="it">Il bambino di Mâcon</title>
-    <desc lang="it">Ispirato ad una storia accaduta nel 1600, Greenaway porta in scena uno spettacolo in cui i confini fra pubblico e palcoscenico si mischiano in un continuo gioco atto a confondere realtà e finzione.</desc>
-  </programme>
-  <programme start="20261020064224 +0200" stop="20261020084629 +0200" channel="pluto_film_tv">
-    <title lang="it">A Circus Story and a Love Song</title>
-    <desc lang="it">Refugio, un romantico sognatore la cui ricerca del vero amore, durata anni, lo porta dalla vita circense in Messico alla vita notturna di New Orleans, dove si innamora inaspettatamente di una bellissima ballerina esotica con un passato complicato.</desc>
-  </programme>
-  <programme start="20261020084629 +0200" stop="20261020103008 +0200" channel="pluto_film_tv">
-    <title lang="it">Drive me home</title>
-    <desc lang="it">Antonio e Agostino crescono insieme in un piccolo paesino siciliano incastrato tra le montagne, sognando una vita diversa</desc>
-  </programme>
-  <programme start="20261020103008 +0200" stop="20261020123108 +0200" channel="pluto_film_tv">
-    <title lang="it">Il diario dell'amore</title>
-    <desc lang="it">Dopo la morte di sua moglie, Henry si propone di aiutare un adolescente a costruire una zattera.</desc>
   </programme>
   <programme start="20261020123108 +0200" stop="20261020141608 +0200" channel="pluto_film_tv">
     <title lang="it">L'Erba Di Grace</title>
@@ -68,45 +52,41 @@
     <title lang="it">IN FULL BLOOM -I FIORI DELLA RABBIA</title>
     <desc lang="it">Fine seconda Guerra Mondiale. La yakuza organizza un incontro di pugilato invitando un pugile americano a combattere un atleta locale di fronte alle telecamere di tutto il mondo.</desc>
   </programme>
-  <programme start="20261021060810 +0200" stop="20261021120000 +0200" channel="pluto_film_tv">
+  <programme start="20261021060810 +0200" stop="20261021082257 +0200" channel="pluto_film_tv">
+    <title lang="it">White Flowers</title>
+    <desc lang="it">A Roma un uomo si sveglia in una stanza d’albergo: ha una ferita alla testa e una pistola, ma non ricorda nulla della sua identità né del suo passato. Presto si accorge di essere in pericolo, inseguito da qualcuno che vuole ucciderlo.</desc>
+  </programme>
+  <programme start="20261021082257 +0200" stop="20261021102402 +0200" channel="pluto_film_tv">
+    <title lang="it">Le Due vie del Destino</title>
+    <desc lang="it">Con Colin Firth e Nicole Kidman, la vera storia di Eric Lomax, ex ufficiale inglese torturato dai giapponesi nel 1942 durante la costruzione della “ferrovia della morte”. Anni dopo scopre che uno dei suoi aguzzini è vivo e parte alla ricerca di vendetta.</desc>
+  </programme>
+  <programme start="20261021102402 +0200" stop="20261021115559 +0200" channel="pluto_film_tv">
+    <title lang="it">November Criminals</title>
+    <desc lang="it">Nel giorno in cui Addison fa l’amore per la prima volta con Phoebe, il suo amico Kevin viene ucciso. L’omicidio viene risolto come violenza di gruppo ma Addison decide che questa volta deve agire e indagare sull’accaduto.</desc>
+  </programme>
+  <programme start="20261021115559 +0200" stop="20261021134510 +0200" channel="pluto_film_tv">
+    <title lang="it">Bee Season</title>
+    <desc lang="it">Richard Gere è il protagonista di questa avvincente storia su un padre ossessionato dall'idea di allenare la sua talentuosa figlia per il National Spelling Bee.</desc>
+  </programme>
+  <programme start="20261021134510 +0200" stop="20261021155910 +0200" channel="pluto_film_tv">
+    <title lang="it">A proposito di donne</title>
+    <desc lang="it">Whoopi Goldberg, Drew Barrymore e Mary-Louise Parker commettono accidentalmente un crimine, e si danno alla fuga in questa commedia divertente.</desc>
+  </programme>
+  <programme start="20261021155910 +0200" stop="20261021210000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021120000 +0200" stop="20261022000000 +0200" channel="pluto_film_tv">
+  <programme start="20261021210000 +0200" stop="20261022090000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261022000000 +0200" stop="20261022060000 +0200" channel="pluto_film_tv">
+  <programme start="20261022090000 +0200" stop="20261022150000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020000000 +0200" stop="20261020031213 +0200" channel="pluto_film_azione">
+  <programme start="20261020090000 +0200" stop="20261020133803 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261020031213 +0200" stop="20261020050419 +0200" channel="pluto_film_azione">
-    <title lang="it">Prisoners of the Ghostland</title>
-    <desc lang="it">Hero, uno spietato rapinatore di banche, viene fatto uscire di prigione da Il Governatore. In cambio Hero dovrà salvare Berenice, nipote de Il Governatore, tenuta in ostaggio in un oscuro universo soprannaturale: Ghostland.</desc>
-  </programme>
-  <programme start="20261020050419 +0200" stop="20261020064419 +0200" channel="pluto_film_azione">
-    <title lang="it">Mom And Dad</title>
-    <desc lang="it">Una dark comedy diventata un cult! Uno strano disturbo causa un improvviso comportamento violento dei genitori verso i propri figli, costringendo una ragazza e suo fratello minore a scappare da mamma (Selma Blair) e papà (Nicolas Cage).</desc>
-  </programme>
-  <programme start="20261020064419 +0200" stop="20261020083219 +0200" channel="pluto_film_azione">
-    <title lang="it">The Legionary - Fuga all'inferno</title>
-    <desc lang="it">Alain è un pugile che deve fuggire da Marsiglia per essersi rifiutato di vendere un incontro. Siamo negli anni Venti, e la sua unica possibilità di fuga è il reclutamento nella Legione Straniera.</desc>
-  </programme>
-  <programme start="20261020083219 +0200" stop="20261020100219 +0200" channel="pluto_film_azione">
-    <title lang="it">2012: Supernova</title>
-    <desc lang="it">In una galassia non lontana dalla Terra una stella si sta trasformando in Supernova. Mentre le microonde emesse dal gigante stellare minacciano il Pianeta, uno scienziato escogita un disperato piano di salvezza. C'è ancora una speranza per l'umanità.</desc>
-  </programme>
-  <programme start="20261020100219 +0200" stop="20261020115119 +0200" channel="pluto_film_azione">
-    <title lang="it">Otto secondi di gloria</title>
-    <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
-  </programme>
-  <programme start="20261020115119 +0200" stop="20261020133803 +0200" channel="pluto_film_azione">
-    <title lang="it">Dead Heat</title>
-    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
   </programme>
   <programme start="20261020133803 +0200" stop="20261020151148 +0200" channel="pluto_film_azione">
     <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
@@ -144,65 +124,41 @@
     <title lang="it">Ercole a New York</title>
     <desc lang="it">Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.</desc>
   </programme>
-  <programme start="20261021063623 +0200" stop="20261021120000 +0200" channel="pluto_film_azione">
+  <programme start="20261021063623 +0200" stop="20261021082307 +0200" channel="pluto_film_azione">
+    <title lang="it">Dead Heat</title>
+    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
+  </programme>
+  <programme start="20261021082307 +0200" stop="20261021100807 +0200" channel="pluto_film_azione">
+    <title lang="it">Midnight Chronicles</title>
+    <desc lang="it">In un mondo oscuro e avvolto dalle tenebre, il dio Izrador regna con il pugno di ferro e costringe gli uomini a vivere un'esistenza oppressa.</desc>
+  </programme>
+  <programme start="20261021100807 +0200" stop="20261021114450 +0200" channel="pluto_film_azione">
+    <title lang="it">Ladre per Caso</title>
+    <desc lang="it">L’introversa Carole e la ribelle Caroline hanno in comune una sola cosa: il padre Patrick, un ladro internazionale ricercato in tutto il mondo. Intenzionato a rubare uno «stradivari» da 15 milioni di euro, chiederà alle figlie di assisterlo nell’impresa.</desc>
+  </programme>
+  <programme start="20261021114450 +0200" stop="20261021132550 +0200" channel="pluto_film_azione">
+    <title lang="it">Geo Disaster</title>
+    <desc lang="it">Un vulcano, un terremoto e un tornado convergono su Los Angeles per formare un cataclisma senza precedenti.</desc>
+  </programme>
+  <programme start="20261021132550 +0200" stop="20261021160450 +0200" channel="pluto_film_azione">
+    <title lang="it">T-34 Eroi D'Acciaio</title>
+    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
+  </programme>
+  <programme start="20261021160450 +0200" stop="20261021210000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021120000 +0200" stop="20261022000000 +0200" channel="pluto_film_azione">
+  <programme start="20261021210000 +0200" stop="20261022090000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261022000000 +0200" stop="20261022060000 +0200" channel="pluto_film_azione">
+  <programme start="20261022090000 +0200" stop="20261022150000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261020000000 +0200" stop="20261020042920 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261020090000 +0200" stop="20261020132820 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261020042920 +0200" stop="20261020051820 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Di chi sono questi boschi</title>
-    <desc lang="it">La squadra si dirige nella natura selvaggia per rintracciare una bestia assassina che sta prendendo di mira gli escursionisti.</desc>
-  </programme>
-  <programme start="20261020051820 +0200" stop="20261020060720 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il futuro rivelato</title>
-    <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
-  </programme>
-  <programme start="20261020060720 +0200" stop="20261020065620 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Nessun uomo lasciato indietro</title>
-    <desc lang="it">Un aereo militare viene abbattuto dietro le linee nemiche, spingendo la squadra a fare un tentativo disperato di recuperare l'arma segreta del governo nascosta a bordo.</desc>
-  </programme>
-  <programme start="20261020065620 +0200" stop="20261020074520 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'incrocio dell'anima</title>
-    <desc lang="it">La squadra parte per salvare Brennan, che è rimasto intrappolato in una città invisibile e rischia l'esecuzione per un crimine che non ha commesso.</desc>
-  </programme>
-  <programme start="20261020074520 +0200" stop="20261020083420 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il segno dall'alto</title>
-    <desc lang="it">Tre extraterrestri che rappresentano una grave minaccia per l'umanità prendono di mira Shalimar, così la squadra si mette in viaggio per salvarla dalle loro grinfie malvagie.</desc>
-  </programme>
-  <programme start="20261020083420 +0200" stop="20261020092320 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Corpo e anima</title>
-    <desc lang="it">Un mutante disincarnato si impossessa dei corpi di varie persone e si mette alla ricerca di coloro che gli hanno fatto questo. Uno di loro è un medico che piace a Shalimar.</desc>
-  </programme>
-  <programme start="20261020092320 +0200" stop="20261020101220 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sostituta</title>
-    <desc lang="it">Durante un lavoro, Shalimar viene ferita e viene aiutata da un'altra mutante feral, Nikki, che conosceva ed era stata quasi scelta per la squadra. Mentre Shalimar si riprende, lei si offre di sostituirla.</desc>
-  </programme>
-  <programme start="20261020101220 +0200" stop="20261020110120 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La truffa</title>
-    <desc lang="it">La losca ex-ragazza di Brennan si rivolge a lui per un aiuto quando la sua ultima truffa prende una piega mortale.</desc>
-  </programme>
-  <programme start="20261020110120 +0200" stop="20261020115020 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Alla fine del destino</title>
-    <desc lang="it">La squadra affronta la sua missione più pericolosa finora: fermare un gruppo di eco-terroristi.</desc>
-  </programme>
-  <programme start="20261020115020 +0200" stop="20261020123920 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Tra queste mura</title>
-    <desc lang="it">Brennan è arrabbiato con Adam, il quale gli dice che gli è stato affidato il compito di mantenere un segreto e se ne va dopo aver parlato con quella persona. L'uomo sta cercando qualcuno ed è disposto ad uccidere chiunque per arrivare a quella persona.</desc>
-  </programme>
-  <programme start="20261020123920 +0200" stop="20261020132820 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Tempo difficile</title>
-    <desc lang="it">La squadra va sotto copertura per indagare sulle morti inspiegabili in una prigione.</desc>
   </programme>
   <programme start="20261020132820 +0200" stop="20261020141720 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Sotto un manto di guerra</title>
@@ -288,15 +244,59 @@
     <title lang="it">Mutant X: L'arte dell'attrazione</title>
     <desc lang="it">Mentre la squadra di Mutant X combatte per recuperare una formula nascosta in una collezione di opere d'arte, Shalimar riceve informazioni vitali da una fonte misteriosa.</desc>
   </programme>
-  <programme start="20261021063720 +0200" stop="20261021120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261021063720 +0200" stop="20261021072620 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una vita normale</title>
+    <desc lang="it">Mutant X rintraccia uno scienziato disonesto mentre Shalimar si separa dalla squadra per aiutare Adam a salvare lo scienziato - e scoprire il vero cattivo.</desc>
+  </programme>
+  <programme start="20261021072620 +0200" stop="20261021081520 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Lealtà divise</title>
+    <desc lang="it">Brennan è costretto a tornare al suo passato criminale quando Mutant X scopre che il suo vecchio partner è coinvolto nel furto di segreti del Dominio.</desc>
+  </programme>
+  <programme start="20261021081520 +0200" stop="20261021090420 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'età dell'innocenza</title>
+    <desc lang="it">Mutant X scopre un vecchio esperimento militare che coinvolge un siero che inverte l'età ed è sorpreso di scoprire che il nonno di Jesse è uno dei soggetti del test.</desc>
+  </programme>
+  <programme start="20261021090420 +0200" stop="20261021095320 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Si è esaurita</title>
+    <desc lang="it">Scoprendo che la loro compagna di squadra Lexa è il soggetto di un esperimento segreto che la sta controllando, la squadra Mutant X dà la caccia al medico responsabile.</desc>
+  </programme>
+  <programme start="20261021095320 +0200" stop="20261021104220 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In mezzo</title>
+    <desc lang="it">Quando la vita di Jesse è in bilico, Brennan deve connettersi con lui e condurlo attraverso i ricordi passati che hanno condiviso per salvargli la vita.</desc>
+  </programme>
+  <programme start="20261021104220 +0200" stop="20261021113120 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Amante del sogno</title>
+    <desc lang="it">Mutant X deve impedire a uno scienziato di clonare le donne per usarle come schiave nel suo ultra-esclusivo club per uomini.</desc>
+  </programme>
+  <programme start="20261021113120 +0200" stop="20261021122020 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La profezia</title>
+    <desc lang="it">Brennan combatte con un Guardiano della Profezia per fermare il piano del defunto mutante Ashlocke dall'oltretomba di dominare il mondo.</desc>
+  </programme>
+  <programme start="20261021122020 +0200" stop="20261021130920 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il circo delle meraviglie</title>
+    <desc lang="it">I sospetti di Lexa portano Mutant X a svelare un campo di morte itinerante, che si presenta come un circo per i rifugiati mutanti e il nemico di Mutant X all'interno del Dominio.</desc>
+  </programme>
+  <programme start="20261021130920 +0200" stop="20261021135820 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'assalto</title>
+    <desc lang="it">Molti dei misteri che circondano Mutant X vengono rivelati quando Lexa e Jesse vengono catturati dal Dominio, e la squadra, insieme ad Adam, va a salvarli.</desc>
+  </programme>
+  <programme start="20261021135820 +0200" stop="20261021145020 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Primo episodio</title>
+    <desc lang="it">Quando i Synths sono catturati da Hobb gli unici che possono salvarli sono gli Hawkin che, aiutati da Pete Drummond, minacciano di rivelare tutto alla stampa se i Synths non saranno rilasciati.</desc>
+  </programme>
+  <programme start="20261021145020 +0200" stop="20261021154320 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Secondo episodio</title>
+    <desc lang="it">Laura diventa sempre più sospettosa, sentendosi minacciata dalla presenza di Anita. Hobb tiene Fred prigioniero nella sua struttura ed il segreto di Leo è rivelato.</desc>
+  </programme>
+  <programme start="20261021154320 +0200" stop="20261021210000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261021120000 +0200" stop="20261022000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261021210000 +0200" stop="20261022090000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261022000000 +0200" stop="20261022060000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261022090000 +0200" stop="20261022150000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
