@@ -119,7 +119,7 @@
   </programme>
   <programme start="20261026203000 +0200" stop="20261026203500 +0200" channel="Rai1.it">
     <title lang="it">Cinque Minuti -  Puntata del 26/10/2026</title>
-    <desc lang="it">Bruno Vespa racconta l'Italia e il mondo attraverso interviste a personaggi della politica interna e internazionale, del mondo artistico, culturale e dello spettacolo per approfondire le notizie giorno per giorno.</desc>
+    <desc lang="it">Il Ministro dell'Interno Matteo Piantedosi è ospite di Bruno Vespa nella puntata di "Cinque minuti".</desc>
   </programme>
   <programme start="20261026203500 +0200" stop="20261026213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi -  Puntata del 26/10/2026</title>
@@ -888,11 +888,11 @@
   </programme>
   <programme start="20261026201000 +0200" stop="20261026204000 +0200" channel="Rai3.it">
     <title lang="it">Fin che la barca va - Puntata del 26/10/2026</title>
-    <desc lang="it">Piero Chiambretti naviga lungo il Tevere invitando a bordo di una barca personaggi dello spettacolo, del giornalismo e dello sport per confrontarsi e dialogare su temi d'attualità.</desc>
+    <desc lang="it">Don Stefano Stimamiglio dialoga con Piero Chiambretti su una barca che naviga sul fiume Tevere, nel cuore di Roma.</desc>
   </programme>
   <programme start="20261026204000 +0200" stop="20261026205000 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 26/10/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Due risultati a sorpresa aprono il mese elettorale, in Serbia e in Brasile. Ne abbiamo parlato con Francesco Strazzari della Scuola Superiore Sant'Anna di Pisa. Una lezione utile per l'Italia dove i giovani sono tornati in piazza a manifestare sulle condizioni di vita e sul disarmo. Li abbiamo seguiti a Roma e a Milano durante le manifestazioni di sabato.</desc>
   </programme>
   <programme start="20261026205000 +0200" stop="20261026211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 26/10/2026 EP7056</title>
@@ -1030,7 +1030,7 @@
   </programme>
   <programme start="20261027211500 +0200" stop="20261028000000 +0200" channel="Rai3.it">
     <title lang="it">Filorosso - Puntata del 27/10/2026</title>
-    <desc lang="it">Antonino Monteleone racconta l'attualità attraverso interviste, reportage dal campo e il contributo di ospiti di primo piano, italiani e internazionali, offrendo un racconto puntuale e autorevole della realtà che ci circonda.</desc>
+    <desc lang="it">Gli scontri e le manifestazioni che hanno attraversato diverse città italiane, le tensioni internazionali che continuano a ridefinire gli equilibri geopolitici, un'inchiesta esclusiva sui presunti certificati medici di idoneità rilasciati a cittadini stranieri irregolari e il dramma dell'emergenza abitativa sono al centro della puntata. Si apre con un focus dedicato ai principali scenari geopolitici internazionali e alle crisi che stanno ridefinendo gli equilibri mondiali. Ospite in studio il sociologo e politologo Alessandro Orsini. Ampio spazio è poi dedicato alle manifestazioni e agli scontri divampati in diverse città italiane e alle indagini su Youssef Siher, fermato perché ritenuto la mente del "Movimento 17 Ottobre". A confrontarsi in studio, tra gli altri, la giornalista e scrittrice Karima Moual, il direttore di "Libero" Pietro Senaldi, il consigliere regionale della Lombardia del Partito Democratico Pierfrancesco Majorino, il giornalista Gianluigi Paragone, l'avvocata Annamaria Bernardini De Pace e il saggista e presidente della Fondazione Tatarella Francesco Giubilei. Nel corso della puntata viene inoltre proposta un'inchiesta esclusiva sugli sviluppi dell'indagine della Procura di Ravenna sui presunti falsi certificati medici emessi per dichiarare i migranti irregolari non idonei al trattenimento nei Centri di permanenza per il rimpatrio. Spazio anche all'emergenza casa, tra sfratti, disagio abitativo e occupazioni abusive. Le telecamere di "Filorosso" raccontano le storie di anziani costretti a lasciare le proprie abitazioni, le difficoltà di chi non riesce ad accedere a un alloggio e i meccanismi che alimentano il racket delle occupazioni, compresi i circuiti che spiegano e favoriscono l'occupazione degli immobili.</desc>
   </programme>
   <programme start="20261028000000 +0200" stop="20261028010000 +0200" channel="Rai3.it">
     <title lang="it">Speciale TG3 Linea Notte - Israele al voto</title>
@@ -2074,27 +2074,31 @@
     <title lang="it">Crociere di nozze - Provenza</title>
     <desc lang="it"> La felicità di Julia e Lennart viene messa in pericolo dall'invidia di Eva, mentre Ulrike e Jean dovranno affrontare una situazione molto delicata.</desc>
   </programme>
-  <programme start="20261026141000 +0200" stop="20261026160000 +0200" channel="RaiPremium.it">
+  <programme start="20261026141000 +0200" stop="20261026155000 +0200" channel="RaiPremium.it">
     <title lang="it">L'Ispettore Coliandro - S5E4 - Salsa &amp; merengue</title>
     <desc lang="it">Coliandro deve difendere Remedios, bellissima ragazza non udente, unica testimone dei traffici di una gang latinoamericana.</desc>
   </programme>
-  <programme start="20261026160000 +0200" stop="20261026160500 +0200" channel="RaiPremium.it">
+  <programme start="20261026155000 +0200" stop="20261026162000 +0200" channel="RaiPremium.it">
+    <title lang="it">Il santone - S2E4 - La lavanderia</title>
+    <desc lang="it">Uno scambio di mundu mette in crisi i due Santoni. Teresa si offre di aiutare Mirko che teme ripercussioni per aver spiato nel computer di Igor. Only Oscio offre i suoi consigli a Carlo.</desc>
+  </programme>
+  <programme start="20261026162000 +0200" stop="20261026162500 +0200" channel="RaiPremium.it">
     <title lang="it">Anica - Appuntamento al Cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20261026160500 +0200" stop="20261026165500 +0200" channel="RaiPremium.it">
+  <programme start="20261026162500 +0200" stop="20261026170500 +0200" channel="RaiPremium.it">
     <title lang="it">Heartland S7E18 - Desideri esauditi</title>
     <desc lang="it">Il principe Ahmed propone ad Amy di far parte della sua squadra per andare in Europa ai Campionati Mondiali di Equitazione. Amy Vince con Charger, un cavallo di Ty e Caleb, al Futury, una gara annuale.</desc>
   </programme>
-  <programme start="20261026165500 +0200" stop="20261026174500 +0200" channel="RaiPremium.it">
+  <programme start="20261026170500 +0200" stop="20261026175000 +0200" channel="RaiPremium.it">
     <title lang="it">Heartland S8E1 - Nuovi equilibri</title>
     <desc lang="it">Amy torna dall'Europa, ma incontra subito molte difficoltà nell'inserirsi nella sua vecchia vita e nel suo rapporto con Ty. Jack e Lisa devono svelare alla famiglia il loro matrimonio segreto, ma le cose non vanno nel verso giusto.</desc>
   </programme>
-  <programme start="20261026174500 +0200" stop="20261026184500 +0200" channel="RaiPremium.it">
+  <programme start="20261026175000 +0200" stop="20261026185000 +0200" channel="RaiPremium.it">
     <title lang="it">Che Dio ci aiuti S4E15 - Orgoglio e pregiudizi </title>
     <desc lang="it">Suor Angela cerca di aiutare il piccolo Mauro a ritrovare la serenità dopo la separazione dei genitori, ma la situazione è più complessa del previsto. Per fortuna la suora potrà contare sull'aiuto di Guido, tornato a Fabriano per fare una sorpresa ad Azzurra. Intanto Monica e Nico interferiscono a vicenda nelle rispettive relazioni sentimentali.</desc>
   </programme>
-  <programme start="20261026184500 +0200" stop="20261026194500 +0200" channel="RaiPremium.it">
+  <programme start="20261026185000 +0200" stop="20261026194500 +0200" channel="RaiPremium.it">
     <title lang="it">Che Dio ci aiuti S4E16 - Fortuna che ci sei</title>
     <desc lang="it">Suor Angela accetta di occuparsi di Delia, una ragazzina che infligge a se stessa il dolore per la perdita del padre che non riesce ad accettare.  Mentre Nico cerca di risparmiare a Monica l'ennesima delusione sentimentale, Azzurra lotta contro la sfortuna nel tentativo di organizzare a Emma una festa a sorpresa indimenticabile.</desc>
   </programme>
@@ -2111,12 +2115,12 @@
     <desc lang="it">Renée e Aaron sono sposati e vivono nella grande casa che lei ha ereditato dopo la morte della madre. Renée però ha paura dei cambiamenti e non accetta le continue proposte di Aaron, che vorrebbe cambiare vita e diventare uno Chef. Un giorno, un elfo di Babbo Natale le regala una campanella in grado di esaudire un desiderio per Natale. Renée, in un momento di sconforto, suona la campanella desiderando una nuova vita. Cosa succederà?</desc>
   </programme>
   <programme start="20261026225000 +0200" stop="20261026235500 +0200" channel="RaiPremium.it">
-    <title lang="it">Occhi di gatto - Tamara ep.1</title>
-    <desc lang="it">SERIE TV - Dopo 12 anni dalla morte del padre e dall'incendio della sua galleria, Sylia, Alexia e Tamara scoprono che uno dei suoi quadri è stato rubato e decidono di indagare sulla misteriosa tragedia.... - di A. Laurent con C. Lou, C. Labbé, C. Roman 2024 FRA - PROGRAMMA ADATTO AD UNA VISONE CONGIUNTA CON UN ADULTO</desc>
+    <title lang="it">Occhi di gatto - S1E1 - Tamara</title>
+    <desc lang="it">Sylia, Alexia e Tamara sono tre sorelle che si riuniscono dopo dodici anni dalla morte del padre e dall'incendio della sua galleria d'arte per fare chiarezza sull'accaduto. Tamara sospetta che il padre sia stato assassinato per rubare i suoi quadri e approfitta di una mostra alla Torre Eiffel per rubare un quadro che è appartenuto a suo padre e convincere così le sue sorelle.</desc>
   </programme>
   <programme start="20261026235500 +0200" stop="20261027005500 +0200" channel="RaiPremium.it">
-    <title lang="it">Occhi di gatto - Sylia ep.2</title>
-    <desc lang="it">SERIE TV - Sylia, Alexia e Tamara escogitano un piano per rubare la cassaforte di Godard, al cui interno trovano una scheda di memoria e le prove che molti quadri del padre sono passati dalle sue mani Alle ore 00:50 Ra - i News - di A. Laurent con C. Lou, C. Labbé, C. Roman 2024 FRA - PROGRAMMA ADATTO AD UNA VISONE CONGIUNTA CON UN ADULTO</desc>
+    <title lang="it">Occhi di gatto - S1E2 - Sylia</title>
+    <desc lang="it">Sylia, Alexia e Tamara devono recuperare la scheda di memoria che è all'interno di un quadro nell'ufficio di Godard. Le tre scoprono che l'uomo effettivamente ha valutato molti quadri del loro adorato padre e ora appartenenti ad un unico proprietario: Armand Chassagne. Quando le ladre scoprono che l'uomo sta per organizzare una festa alla Reggia di Versailles si mettono all'opera per tentare di imbucarsi all'evento.</desc>
   </programme>
   <programme start="20261027005500 +0200" stop="20261027030000 +0200" channel="RaiPremium.it">
     <title lang="it">Storie italiane - Puntata del 26/10/2026</title>
@@ -2587,7 +2591,8 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261026223000 +0200" stop="20261026230000 +0200" channel="RaiNews24.it">
-    <title lang="it">Spotlight - Puntata del 26/10/2026</title>
+    <title lang="it">Spotlight - Il re e l'oro nero. La sfida alle multinazionali nel Delta del Niger, la terra del petrolio nigeriano - 26/10/2026</title>
+    <desc lang="it">Ha inquinato la nostra terra, ha ucciso persone": Bubaraye Dakolo, re di Ekpetiama, in Nigeria meridionale, ha intentato una causa miliardaria contro il colosso energetico Shell, che per decenni ha estratto petrolio dal delta del Niger. Secondo Dakolo la multinazionale non può abbandonare il territorio senza prima aver completato una bonifica dei siti contaminati e aver risarcito le comunità. Spotlight vi porta nel Delta del Niger, una delle regioni più ricche di biodiversità dell'Africa, contaminata da decenni di estrazioni e sversamenti dell'oro nero che hanno impregnato la terra e inquinato le falde acquifere. E dove le fiamme perenni, il cosiddetto gas flaring, illuminano a giorno i villaggi, disperdendo nell'aria un cocktail tossico, con conseguenze devastanti sulla salute e sull'ambiente. Una storia di impatto ambientale, violazione di diritti umani e resilienza. </desc>
   </programme>
   <programme start="20261026230000 +0200" stop="20261026233000 +0200" channel="RaiNews24.it">
     <title lang="it">NOTTE 24 - RASSEGNA STAMPA</title>

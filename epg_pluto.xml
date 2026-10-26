@@ -12,21 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261026110000 +0200" stop="20261026135402 +0200" channel="pluto_film_tv">
+  <programme start="20261026163000 +0200" stop="20261026194703 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026135402 +0200" stop="20261026161302 +0200" channel="pluto_film_tv">
-    <title lang="it">Verso il Sole</title>
-    <desc lang="it">Blue è un giovane navajo che sta scontando una duplice condanna ed è affetto da un tumore incurabile che non gli lascia scampo.</desc>
-  </programme>
-  <programme start="20261026161302 +0200" stop="20261026175802 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20261026175802 +0200" stop="20261026194703 +0200" channel="pluto_film_tv">
-    <title lang="it">The Girl who Believes in Miracles</title>
-    <desc lang="it">Quando la giovane Sara sente un predicatore dire che la fede può spostare le montagne, inizia a pregare. Improvvisamente, le persone nella sua città vengono misteriosamente guarite, ma presto la fama prende il sopravvento.</desc>
   </programme>
   <programme start="20261026194703 +0200" stop="20261026220052 +0200" channel="pluto_film_tv">
     <title lang="it">Mother and Child</title>
@@ -76,33 +64,29 @@
     <title lang="it">Mother and Child</title>
     <desc lang="it">Tre donne diverse, la forza del legame indissolubile che si crea tra una madre e un figlio. Karen, ex ragazza madre; Elizabeth, avvocato di successo, abbandonata in fasce; Lucy, giovane donna che vuole diventare madre.</desc>
   </programme>
-  <programme start="20261027173705 +0200" stop="20261027230000 +0200" channel="pluto_film_tv">
+  <programme start="20261027173705 +0200" stop="20261027195605 +0200" channel="pluto_film_tv">
+    <title lang="it">Verso il Sole</title>
+    <desc lang="it">Blue è un giovane navajo che sta scontando una duplice condanna ed è affetto da un tumore incurabile che non gli lascia scampo.</desc>
+  </programme>
+  <programme start="20261027195605 +0200" stop="20261027220045 +0200" channel="pluto_film_tv">
+    <title lang="it">La Nuova Era</title>
+    <desc lang="it">Peter e Katherine sono una ricca coppia di Beverly Hills: comprano quello che vogliono e sono incredibilmente alla moda. Quando i due perdono il lavoro, il loro mondo felice sembra finire...</desc>
+  </programme>
+  <programme start="20261027220045 +0200" stop="20261028043000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_film_tv">
+  <programme start="20261028043000 +0200" stop="20261028163000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_film_tv">
+  <programme start="20261028163000 +0200" stop="20261028223000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261026110000 +0200" stop="20261026154456 +0200" channel="pluto_film_azione">
+  <programme start="20261026163000 +0200" stop="20261026204917 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026154456 +0200" stop="20261026172501 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
-    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
-  </programme>
-  <programme start="20261026172501 +0200" stop="20261026190817 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e la tomba di Akhenaton</title>
-    <desc lang="it">Mentre è sulle tracce del tesoro di Ugarit, Jack Hunter si reca in Turchia, dove viene informato su un presunto complotto tra americani e mafiosi russi per impossessarsi della Stella del Cielo, un artefatto dagli straordinari poteri.</desc>
-  </programme>
-  <programme start="20261026190817 +0200" stop="20261026204917 +0200" channel="pluto_film_azione">
-    <title lang="it">Geo Disaster</title>
-    <desc lang="it">Un vulcano, un terremoto e un tornado convergono su Los Angeles per formare un cataclisma senza precedenti.</desc>
   </programme>
   <programme start="20261026204917 +0200" stop="20261026223023 +0200" channel="pluto_film_azione">
     <title lang="it">The Gaelic King</title>
@@ -148,45 +132,37 @@
     <title lang="it">Sharknado 5 - Global Swarming</title>
     <desc lang="it">Fin Shepard e sua moglie April sono alle prese con decine di squali mostruosi che stanno devastando ogni angolo del globo. Uno di questi ha portato via il loro figlio più giovane.</desc>
   </programme>
-  <programme start="20261027162415 +0200" stop="20261027230000 +0200" channel="pluto_film_azione">
+  <programme start="20261027162415 +0200" stop="20261027181215 +0200" channel="pluto_film_azione">
+    <title lang="it">A prova di idiota</title>
+    <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
+  </programme>
+  <programme start="20261027181215 +0200" stop="20261027190821 +0200" channel="pluto_film_azione">
+    <title lang="it">Lupin the 3rd: Ishikawa Goemon. Getto di sangue</title>
+    <desc lang="it">Il giovane Goemon diventa guardia del corpo di un boss della malavita, ma un avversario implacabile lo uccide. Per salvare il proprio onore, il samurai deve affrontare una sanguinosa sfida mettendo in gioco la propria vita.</desc>
+  </programme>
+  <programme start="20261027190821 +0200" stop="20261027204206 +0200" channel="pluto_film_azione">
+    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
+    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
+  </programme>
+  <programme start="20261027204206 +0200" stop="20261027223106 +0200" channel="pluto_film_azione">
+    <title lang="it">Otto secondi di gloria</title>
+    <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
+  </programme>
+  <programme start="20261027223106 +0200" stop="20261028043000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_film_azione">
+  <programme start="20261028043000 +0200" stop="20261028163000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_film_azione">
+  <programme start="20261028163000 +0200" stop="20261028223000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261026110000 +0200" stop="20261026153915 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261026163000 +0200" stop="20261026203951 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026153915 +0200" stop="20261026162815 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Amante del sogno</title>
-    <desc lang="it">Mutant X deve impedire a uno scienziato di clonare le donne per usarle come schiave nel suo ultra-esclusivo club per uomini.</desc>
-  </programme>
-  <programme start="20261026162815 +0200" stop="20261026171715 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La profezia</title>
-    <desc lang="it">Brennan combatte con un Guardiano della Profezia per fermare il piano del defunto mutante Ashlocke dall'oltretomba di dominare il mondo.</desc>
-  </programme>
-  <programme start="20261026171715 +0200" stop="20261026180615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il circo delle meraviglie</title>
-    <desc lang="it">I sospetti di Lexa portano Mutant X a svelare un campo di morte itinerante, che si presenta come un circo per i rifugiati mutanti e il nemico di Mutant X all'interno del Dominio.</desc>
-  </programme>
-  <programme start="20261026180615 +0200" stop="20261026185515 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'assalto</title>
-    <desc lang="it">Molti dei misteri che circondano Mutant X vengono rivelati quando Lexa e Jesse vengono catturati dal Dominio, e la squadra, insieme ad Adam, va a salvarli.</desc>
-  </programme>
-  <programme start="20261026185515 +0200" stop="20261026194956 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Tutti  Prima Parte</title>
-    <desc lang="it">La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare e proteggere le strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
-  </programme>
-  <programme start="20261026194956 +0200" stop="20261026203951 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Tutti  Seconda Parte</title>
-    <desc lang="it">e proteggere le La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
   </programme>
   <programme start="20261026203951 +0200" stop="20261026212938 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Fata Morgana</title>
@@ -280,15 +256,43 @@
     <title lang="it">Andromeda: D meno zero</title>
     <desc lang="it">L'equipaggio dell’Andromeda sta ancora imparando come lavorare insieme mentre vengono attaccati dai Risolutori.</desc>
   </programme>
-  <programme start="20261027162111 +0200" stop="20261027230000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261027162111 +0200" stop="20261027171011 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Doppia elica</title>
+    <desc lang="it">L'Andromeda è coinvolta in una faida tra un pianeta Than e una colonia nietzscheana.</desc>
+  </programme>
+  <programme start="20261027171011 +0200" stop="20261027175911 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Lo shock del nuovo (puntata pilota)</title>
+    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
+  </programme>
+  <programme start="20261027175911 +0200" stop="20261027184811 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Io urlo con il corpo elettrico</title>
+    <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
+  </programme>
+  <programme start="20261027184811 +0200" stop="20261027193711 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Roulette russa</title>
+    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
+  </programme>
+  <programme start="20261027193711 +0200" stop="20261027202654 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: I Cinque</title>
+    <desc lang="it">Durante una riunione segreta a Roma, Magnus incontra Nikola Tesla, che le confida che la Cabala è venuta a vendicarsi. Magnus si accorge che la lealtà di Tesla potrebbe non essere così salda come quando facevano parte di un ordine chiamato I Cinque.</desc>
+  </programme>
+  <programme start="20261027202654 +0200" stop="20261027211637 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Edward</title>
+    <desc lang="it">Un artista con una grande capacità di disegnare immagini a memoria può essere la chiave per risolvere la morte sospetta di suo padre violento Ma ci vorrà il profilo forense di Will per determinare se i disegni del ragazzo sono ispirati alla realtà.</desc>
+  </programme>
+  <programme start="20261027211637 +0200" stop="20261027220620 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Requiem</title>
+    <desc lang="it">Magnus e Will indagano su un'angosciante richiesta d'aiuto nelle profondità del Triangolo delle Bermuda, dando origine a una battaglia mortale per salvare la vita di Magnus.</desc>
+  </programme>
+  <programme start="20261027220620 +0200" stop="20261028043000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261028043000 +0200" stop="20261028163000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261028163000 +0200" stop="20261028223000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
