@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261026000000 +0200" stop="20261026045757 +0200" channel="pluto_film_tv">
+  <programme start="20261026110000 +0200" stop="20261026135402 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026045757 +0200" stop="20261026063352 +0200" channel="pluto_film_tv">
-    <title lang="it">Blood and Money</title>
-    <desc lang="it">Jim è un veterano in pensione. Mentre è a caccia in un bosco innevato trova una grossa somma di denaro. Si troverà contro una squadra di spietati criminali pronti a tutto pur di riaverli.</desc>
-  </programme>
-  <programme start="20261026063352 +0200" stop="20261026083252 +0200" channel="pluto_film_tv">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20261026083252 +0200" stop="20261026101752 +0200" channel="pluto_film_tv">
-    <title lang="it">Tutta colpa di Sara</title>
-    <desc lang="it">Dopo essere stata notificata della richiesta di divorzio, una donna convince un ufficiale giudiziario ad aiutarla a riottenere ciò che le è dovuto.</desc>
-  </programme>
-  <programme start="20261026101752 +0200" stop="20261026120902 +0200" channel="pluto_film_tv">
-    <title lang="it">Il più grande sogno</title>
-    <desc lang="it">A 39 anni Mirko è appena uscito dal carcere: fuori, nella periferia di Roma, lo aspetta un futuro da inventare</desc>
-  </programme>
-  <programme start="20261026120902 +0200" stop="20261026135402 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
   </programme>
   <programme start="20261026135402 +0200" stop="20261026161302 +0200" channel="pluto_film_tv">
     <title lang="it">Verso il Sole</title>
@@ -72,49 +52,45 @@
     <title lang="it">The Boston strangler</title>
     <desc lang="it">La storia di Albert De Salvo, l'uomo che nei primi anni Sessanta seminò il terrore a Boston con una serie di omicidi che la stampa attribuì ad un serial killer soprannominato Lo strangolatore di Boston.</desc>
   </programme>
-  <programme start="20261027061319 +0200" stop="20261027120000 +0200" channel="pluto_film_tv">
+  <programme start="20261027061319 +0200" stop="20261027074042 +0200" channel="pluto_film_tv">
+    <title lang="it">Date Movie</title>
+    <desc lang="it">Una parodia delle commedie romantiche su un uomo, la sua cotta, i suoi genitori e il padre di lei.</desc>
+  </programme>
+  <programme start="20261027074042 +0200" stop="20261027095342 +0200" channel="pluto_film_tv">
+    <title lang="it">Amore Mio Aiutami</title>
+    <desc lang="it">Tra i film più ispirati del Sordi regista. Giovanni e Raffaella sono una coppia affiatata da anni. Quando Raffaella si innamora di Valerio, chiederà aiuto proprio a suo marito per cercare di far passare l'infatuazione. Con Monica Vitti e Alberto Sordi.</desc>
+  </programme>
+  <programme start="20261027095342 +0200" stop="20261027121242 +0200" channel="pluto_film_tv">
+    <title lang="it">Verso il Sole</title>
+    <desc lang="it">Blue è un giovane navajo che sta scontando una duplice condanna ed è affetto da un tumore incurabile che non gli lascia scampo.</desc>
+  </programme>
+  <programme start="20261027121242 +0200" stop="20261027134005 +0200" channel="pluto_film_tv">
+    <title lang="it">Date Movie</title>
+    <desc lang="it">Una parodia delle commedie romantiche su un uomo, la sua cotta, i suoi genitori e il padre di lei.</desc>
+  </programme>
+  <programme start="20261027134005 +0200" stop="20261027152316 +0200" channel="pluto_film_tv">
+    <title lang="it">La storia infinita</title>
+    <desc lang="it">Un ragazzino di 10 anni, prende un libro intitolato La storia infinita in una vecchia libreria, e inizia a sfogliarlo. Legge la storia di Fantasia, una terra magica governata dall'Imperatrice Bambina e abitata da tutti i tipi di creature meravigliose.</desc>
+  </programme>
+  <programme start="20261027152316 +0200" stop="20261027173705 +0200" channel="pluto_film_tv">
+    <title lang="it">Mother and Child</title>
+    <desc lang="it">Tre donne diverse, la forza del legame indissolubile che si crea tra una madre e un figlio. Karen, ex ragazza madre; Elizabeth, avvocato di successo, abbandonata in fasce; Lucy, giovane donna che vuole diventare madre.</desc>
+  </programme>
+  <programme start="20261027173705 +0200" stop="20261027230000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027120000 +0200" stop="20261028000000 +0200" channel="pluto_film_tv">
+  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028000000 +0200" stop="20261028060000 +0200" channel="pluto_film_tv">
+  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261026000000 +0200" stop="20261026041948 +0200" channel="pluto_film_azione">
+  <programme start="20261026110000 +0200" stop="20261026154456 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026041948 +0200" stop="20261026060248 +0200" channel="pluto_film_azione">
-    <title lang="it">Assalto A Wall Street</title>
-    <desc lang="it">Jim è un ex soldato. Un giorno la moglie si ammala di tumore e lui scopre di aver perso tutti i risparmi a causa degli azzardi del suo consulente finanziario.</desc>
-  </programme>
-  <programme start="20261026060248 +0200" stop="20261026075215 +0200" channel="pluto_film_azione">
-    <title lang="it">Operation Chromite</title>
-    <desc lang="it">Durante la Guerra di Corea, per contrastare l'avanzata nordcoreana, MacArthur orchestra l'operazione segreta Chromite, infiltrando spie tra le linee nemiche.</desc>
-  </programme>
-  <programme start="20261026075215 +0200" stop="20261026084821 +0200" channel="pluto_film_azione">
-    <title lang="it">Lupin the 3rd: Ishikawa Goemon. Getto di sangue</title>
-    <desc lang="it">Il giovane Goemon diventa guardia del corpo di un boss della malavita, ma un avversario implacabile lo uccide. Per salvare il proprio onore, il samurai deve affrontare una sanguinosa sfida mettendo in gioco la propria vita.</desc>
-  </programme>
-  <programme start="20261026084821 +0200" stop="20261026102230 +0200" channel="pluto_film_azione">
-    <title lang="it">Finding Steve McQueen</title>
-    <desc lang="it">Ohio, 1972. Harry ama la guida spericolata e Steve McQueen, e pianifica insieme allo zio e ad un gruppo di amici la rapina più grande della storia americana. Pennsylvania, 1980. Harry è ricercato ma ama Molly tanto da volerle raccontare tutta la verità.</desc>
-  </programme>
-  <programme start="20261026102230 +0200" stop="20261026120930 +0200" channel="pluto_film_azione">
-    <title lang="it">Abduction</title>
-    <desc lang="it">Un confuso uomo esce da una fontana del parco in Vietnam senza ricordare chi sia o da dove venga. Mentre vaga per la città, mettendo insieme indizi sul suo passato, viene inseguito senza sosta da figure misteriosamente pericolose.</desc>
-  </programme>
-  <programme start="20261026120930 +0200" stop="20261026135756 +0200" channel="pluto_film_azione">
-    <title lang="it">Il Giorno del Giudizio</title>
-    <desc lang="it">Una tempesta apocalittica minaccia di spazzare via una nazione intera. Viene emesso lo stato di emergenza mentre si diffonde il caos.</desc>
-  </programme>
-  <programme start="20261026135756 +0200" stop="20261026154456 +0200" channel="pluto_film_azione">
-    <title lang="it">Pressione in cabina</title>
-    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
   </programme>
   <programme start="20261026154456 +0200" stop="20261026172501 +0200" channel="pluto_film_azione">
     <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
@@ -152,77 +128,41 @@
     <title lang="it">Shrapnel - Guerra al cartello</title>
     <desc lang="it">Un ex marine (Jason Patric) e il suo vecchio compagno di guerra (Cam Gigandet) si infiltrano nel pericoloso mondo di un cartello messicano per scoprire la verità sulla scomparsa della figlia. Riusciranno a sopravvivere e a fare giustizia?</desc>
   </programme>
-  <programme start="20261027073400 +0200" stop="20261027120000 +0200" channel="pluto_film_azione">
+  <programme start="20261027073400 +0200" stop="20261027093300 +0200" channel="pluto_film_azione">
+    <title lang="it">Speed Kills</title>
+    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
+  </programme>
+  <programme start="20261027093300 +0200" stop="20261027112000 +0200" channel="pluto_film_azione">
+    <title lang="it">Pressione in cabina</title>
+    <desc lang="it">Un jet commerciale totalmente automatizzato viene hackerato durante il viaggio inaugurale e un pilota della Marina caduto in disgrazia e un eccentrico tecnico devono correre contro il tempo per trovare il sabotatore.</desc>
+  </programme>
+  <programme start="20261027112000 +0200" stop="20261027130137 +0200" channel="pluto_film_azione">
+    <title lang="it">Otzi - L'ultimo cacciatore</title>
+    <desc lang="it">Neolitico. Il clan guidato da Otzi viene attaccato per sottrarre uno scrigno contente un oggetto sacro. Rientrato all'accampamento, trova i membri della tribù brutalmente assassinati. Accecato dal dolore e dalla rabbia, ha un unico obiettivo: la vendetta!</desc>
+  </programme>
+  <programme start="20261027130137 +0200" stop="20261027144515 +0200" channel="pluto_film_azione">
+    <title lang="it">Hostile Territory - Il tempo è il nemico</title>
+    <desc lang="it">Di ritorno dalla Guerra Civile, l'ex prigioniero Jack Calgrove scopre che sua moglie è morta e che i suoi figli, presunti orfani, sono su un treno diretto verso un territorio ostile nel profondo West.</desc>
+  </programme>
+  <programme start="20261027144515 +0200" stop="20261027162415 +0200" channel="pluto_film_azione">
+    <title lang="it">Sharknado 5 - Global Swarming</title>
+    <desc lang="it">Fin Shepard e sua moglie April sono alle prese con decine di squali mostruosi che stanno devastando ogni angolo del globo. Uno di questi ha portato via il loro figlio più giovane.</desc>
+  </programme>
+  <programme start="20261027162415 +0200" stop="20261027230000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027120000 +0200" stop="20261028000000 +0200" channel="pluto_film_azione">
+  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028000000 +0200" stop="20261028060000 +0200" channel="pluto_film_azione">
+  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261026000000 +0200" stop="20261026041315 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261026110000 +0200" stop="20261026153915 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261026041315 +0200" stop="20261026050215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La presa dei corvi</title>
-    <desc lang="it">Quando Lexa viene inconsapevolmente drogata con una sostanza letale, la squadra deve correre per trovare l'antidoto prima che sia troppo tardi.</desc>
-  </programme>
-  <programme start="20261026050215 +0200" stop="20261026055115 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Ombre nell'oscurità</title>
-    <desc lang="it">La squadra Mutant X è chiamata a indagare su bizzarre attività che si verificano in un ospedale locale.</desc>
-  </programme>
-  <programme start="20261026055115 +0200" stop="20261026064015 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La mano di Dio</title>
-    <desc lang="it">La squadra Mutant X si imbarca in una missione per localizzare e catturare un potente super-mutante che possiede poteri divini.</desc>
-  </programme>
-  <programme start="20261026064015 +0200" stop="20261026072915 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il deserto</title>
-    <desc lang="it">Jesse è costretto a riallacciare i rapporti con la sua ex fidanzata quando la squadra Mutant X viene a sapere che la sua azienda è coinvolta nella manipolazione genetica delle colture.</desc>
-  </programme>
-  <programme start="20261026072915 +0200" stop="20261026081815 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Senza uscita</title>
-    <desc lang="it">Un mutante che ha la capacità di interfacciarsi con qualsiasi computer con la sua mente, che viene paralizzato dopo un incontro con la squadra, prende il controllo dei computer di Sanctuary.</desc>
-  </programme>
-  <programme start="20261026081815 +0200" stop="20261026090715 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il custode del fratello</title>
-    <desc lang="it">La squadra Mutant X viene a conoscenza del fratello gemello estraniato di Lexa quando diventa l'obiettivo principale di un'operazione sotterranea che raccoglie organi di mutanti.</desc>
-  </programme>
-  <programme start="20261026090715 +0200" stop="20261026095615 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Possibilità</title>
-    <desc lang="it">Brennan e la squadra Mutant X uniscono le forze con un mutante che viaggia nel tempo per disinnescare una bomba che minaccia conseguenze devastanti.</desc>
-  </programme>
-  <programme start="20261026095615 +0200" stop="20261026104515 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La teoria della cospirazione</title>
-    <desc lang="it">Mentre Brennan e Shalimar indagano su un misterioso incidente aereo, Lexa contempla il suo futuro con la squadra Mutant X.</desc>
-  </programme>
-  <programme start="20261026104515 +0200" stop="20261026113415 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'arte dell'attrazione</title>
-    <desc lang="it">Mentre la squadra di Mutant X combatte per recuperare una formula nascosta in una collezione di opere d'arte, Shalimar riceve informazioni vitali da una fonte misteriosa.</desc>
-  </programme>
-  <programme start="20261026113415 +0200" stop="20261026122315 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Una vita normale</title>
-    <desc lang="it">Mutant X rintraccia uno scienziato disonesto mentre Shalimar si separa dalla squadra per aiutare Adam a salvare lo scienziato - e scoprire il vero cattivo.</desc>
-  </programme>
-  <programme start="20261026122315 +0200" stop="20261026131215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Lealtà divise</title>
-    <desc lang="it">Brennan è costretto a tornare al suo passato criminale quando Mutant X scopre che il suo vecchio partner è coinvolto nel furto di segreti del Dominio.</desc>
-  </programme>
-  <programme start="20261026131215 +0200" stop="20261026140115 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: L'età dell'innocenza</title>
-    <desc lang="it">Mutant X scopre un vecchio esperimento militare che coinvolge un siero che inverte l'età ed è sorpreso di scoprire che il nonno di Jesse è uno dei soggetti del test.</desc>
-  </programme>
-  <programme start="20261026140115 +0200" stop="20261026145015 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Si è esaurita</title>
-    <desc lang="it">Scoprendo che la loro compagna di squadra Lexa è il soggetto di un esperimento segreto che la sta controllando, la squadra Mutant X dà la caccia al medico responsabile.</desc>
-  </programme>
-  <programme start="20261026145015 +0200" stop="20261026153915 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: In mezzo</title>
-    <desc lang="it">Quando la vita di Jesse è in bilico, Brennan deve connettersi con lui e condurlo attraverso i ricordi passati che hanno condiviso per salvargli la vita.</desc>
   </programme>
   <programme start="20261026153915 +0200" stop="20261026162815 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Mutant X: Amante del sogno</title>
@@ -292,15 +232,63 @@
     <title lang="it">Zoo: Il principio</title>
     <desc lang="it">Lo zoologo Jackson Oz si mette in viaggio con l'amico Abraham per raggiungere un villaggio di turisti che da due giorni non risponde alla radio. Intanto a Los Angeles si verificano attacchi da parte di leoni fuggiti dallo zoo.</desc>
   </programme>
-  <programme start="20261027062739 +0200" stop="20261027120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261027062739 +0200" stop="20261027071334 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Reagire o scappare</title>
+    <desc lang="it">Nel mondo si intensificano gli attacchi di animali e Chloe, che lavora per i servizi di intelligence francese viene chiamata per indagare. Jackson e Abraham volano in Giappone, mentre Jamie e Mitch scoprono stranezze nelle onde cerebrali di un leone.</desc>
+  </programme>
+  <programme start="20261027071334 +0200" stop="20261027080107 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Un primo passo</title>
+    <desc lang="it">Jackson e Abraham si recano a casa del padre a Tokyo ma l'aereo su cui viaggiano viene attaccato dai pipistrelli. Un agente francese che li fa incontrare con Chloe, Mitch e Jamie: saranno in squadra per fronteggiare gli attacchi degli animali.</desc>
+  </programme>
+  <programme start="20261027080107 +0200" stop="20261027085548 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Rifugio Per Tutti  Prima Parte</title>
+    <desc lang="it">La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare e proteggere le strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
+  </programme>
+  <programme start="20261027085548 +0200" stop="20261027094543 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Rifugio Per Tutti  Seconda Parte</title>
+    <desc lang="it">e proteggere le La dottoressa Helen Magnus recluta un perspicace psichiatra forense chiamato Will Zimmerman per unirsi a lei nella ricerca di rintracciare, studiare strane e spesso terrificanti creature che popolano segretamente il nostro mondo.</desc>
+  </programme>
+  <programme start="20261027094543 +0200" stop="20261027103530 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Fata Morgana</title>
+    <desc lang="it">La dottoressa Magnus, sua figlia Ashley e il dottor Will Zimmerman liberano tre donne da una misteriosa cripta in Scozia, riportandole al Santuario per trovare rifugio. All'insaputa della squadra, e delle donne stesse, loro hanno poteri straordinari.</desc>
+  </programme>
+  <programme start="20261027103530 +0200" stop="20261027112530 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'uomo Flessibile</title>
+    <desc lang="it">Un'indagine su una serie di bizzarre rapine porta Magnus e Will a una banda criminale di ladri che sembrano essere in grado di intrufolarsi tra le crepe della legge... letteralmente.</desc>
+  </programme>
+  <programme start="20261027112530 +0200" stop="20261027121520 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Kush</title>
+    <desc lang="it">Di ritorno con un anormale catturato in Himalaya, Magnus e Will sono isolati dalla civiltà dopo che il loro aereo precipita in una catena montuosa Mentre aspettano una squadra di soccorso, i sopravvissuti cominciano a essere vittime di attacchi.</desc>
+  </programme>
+  <programme start="20261027121520 +0200" stop="20261027130511 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: I Nubbini</title>
+    <desc lang="it">Quando una coppia di anormali carini, pelosi e apparentemente innocui viene portata per uno studio scientifico, la squadra del Santuario inizia a mostrare alcune attrazioni animali nascoste l'una per l'altra.</desc>
+  </programme>
+  <programme start="20261027130511 +0200" stop="20261027135411 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Sotto la notte</title>
+    <desc lang="it">Dopo essere stato abbandonato vicino ad un buco nero, il capitano Dylan Hunt viene ritrovata da una nave  di salvataggio mercenaria e scopre di essere rimasto ibernato per 300 anni.</desc>
+  </programme>
+  <programme start="20261027135411 +0200" stop="20261027144311 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Una fiamma di dichiarazione</title>
+    <desc lang="it">Dylan protegge l'Andromeda dai mercenari mentre Beka comincia a chiedersi se stanno combattendo la fazione sbagliata.</desc>
+  </programme>
+  <programme start="20261027144311 +0200" stop="20261027153211 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Perdere il lampo fatidico</title>
+    <desc lang="it">Dylan trova una stazione spaziale popolata da bambini che credono che lui sia per lì per portare la pace e uccidere i loro nemici.</desc>
+  </programme>
+  <programme start="20261027153211 +0200" stop="20261027162111 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: D meno zero</title>
+    <desc lang="it">L'equipaggio dell’Andromeda sta ancora imparando come lavorare insieme mentre vengono attaccati dai Risolutori.</desc>
+  </programme>
+  <programme start="20261027162111 +0200" stop="20261027230000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261027120000 +0200" stop="20261028000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261027230000 +0200" stop="20261028110000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261028000000 +0200" stop="20261028060000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261028110000 +0200" stop="20261028170000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
