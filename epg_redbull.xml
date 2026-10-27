@@ -15,54 +15,6 @@
   <channel id="redbull_action_reel">
     <display-name lang="it">Red Bull Action Reel</display-name>
   </channel>
-  <programme start="20261026203959 +0000" stop="20261026210319 +0000" channel="redbull_tv">
-    <title lang="it">Paradigm</title>
-    <desc lang="it">Dalla precisione dello slopestyle ai salti del freeride e passando per la velocità pura della discesa, Thomas Genon, Szymon Godziek, Emil Johansson e Kade Edwards mettono in mostra il loro talento sulla MTB con una performance davvero adrenalinica.</desc>
-  </programme>
-  <programme start="20261026210319 +0000" stop="20261026215759 +0000" channel="redbull_tv">
-    <title lang="it">Hard Enduro 2025: The Hardest Season Yet?</title>
-    <desc lang="it">Go behind the scenes of Red Bull Erzbergrodeo, Red Bull Romaniacs and Red Bull Outliers as the toughest Hard Enduro riders on Earth did battle across the world in 2025.</desc>
-  </programme>
-  <programme start="20261026215759 +0000" stop="20261026225035 +0000" channel="redbull_tv">
-    <title lang="it">Red Bull Rampage: Men's highlights</title>
-    <desc lang="it">Watch the 18 male mountain bike athletes compete in this invitation-only freeride event. After creating their own lines in the red-rock landscape of Utah, see them showcase their skill and creativity.</desc>
-  </programme>
-  <programme start="20261026225035 +0000" stop="20261026234235 +0000" channel="redbull_tv">
-    <title lang="it">Red Bull Rampage: Highlights gara femminile</title>
-    <desc lang="it">Una dozzina di atlete di mountain bike hanno partecipato a questo evento di freeride riservato alle invitate. Dopo aver tracciato le proprie linee nel paesaggio di roccia rossa dello Utah, guardale mentre mettono in mostra la loro abilità e creatività.</desc>
-  </programme>
-  <programme start="20261026234235 +0000" stop="20261027000813 +0000" channel="redbull_tv">
-    <title lang="it">Asa Vermette's Ascent</title>
-    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
-  </programme>
-  <programme start="20261027000813 +0000" stop="20261027002645 +0000" channel="redbull_tv">
-    <title lang="it">10 best runs from Red Bull Rampage 2024</title>
-    <desc lang="it">Relive the best runs from Red Bull Rampage 2024 – from jaw-dropping lines to insane tricks. For the first time, female riders threw down with the men, making history with groundbreaking performances.</desc>
-  </programme>
-  <programme start="20261027002645 +0000" stop="20261027010656 +0000" channel="redbull_tv">
-    <title lang="it">Let the games begin</title>
-    <desc lang="it">Kalle Rovanperä delivers a shock announcement about his future that reverberates through the paddock. Meanwhile, ruthless battles for the Drivers' Championship take a dramatic turn in Central Europe.</desc>
-  </programme>
-  <programme start="20261027010656 +0000" stop="20261027015140 +0000" channel="redbull_tv">
-    <title lang="it">Cause and effect</title>
-    <desc lang="it">Reigning champ Kalle Rovanperä fights a defiant car, while Takamoto Katsuta battles to save his career. Tension explodes when young challenger Oliver Solberg is given an opportunity to prove himself.</desc>
-  </programme>
-  <programme start="20261027015140 +0000" stop="20261027023703 +0000" channel="redbull_tv">
-    <title lang="it">Fortune favours the brave</title>
-    <desc lang="it">The 2025 season concludes with a dramatic double-header in Japan and Saudi Arabia. From heart-stopping crashes to a stunning run in the Saudi dunes, it all comes down to one final Power Stage.</desc>
-  </programme>
-  <programme start="20261027023703 +0000" stop="20261027031609 +0000" channel="redbull_tv">
-    <title lang="it">Resilience</title>
-    <desc lang="it">Can Latvian superstar Mārtiņš Sesks bounce back from his lost podium in 2024 to prove he belongs at rally sport's highest level?</desc>
-  </programme>
-  <programme start="20261027031609 +0000" stop="20261027035201 +0000" channel="redbull_tv">
-    <title lang="it">Defend and attack</title>
-    <desc lang="it">The 2025 WRC blasts off at Rallye Monte-Carlo. Champ Thierry Neuville aims to prove his title was no fluke. With Ogier and a hungry new team-mate, Fourmaux, the real battle may be inside his own team.</desc>
-  </programme>
-  <programme start="20261027035201 +0000" stop="20261027041636 +0000" channel="redbull_tv">
-    <title lang="it">Boston, USA</title>
-    <desc lang="it">A strong headwind challenges the weird and wonderful flying machines. In one of America's great academic cities, which teams will have the engineering prowess to conquer the elements – and gravity?</desc>
-  </programme>
   <programme start="20261027041636 +0000" stop="20261027050030 +0000" channel="redbull_tv">
     <title lang="it">Bern, Switzerland </title>
     <desc lang="it">Join the wild ride at the Red Bull Soapbox Race 2023 in Switzerland as teams race homemade, gravity-powered cars through twists and turns, combining creativity, speed and a few crashes.</desc>
@@ -95,153 +47,133 @@
     <title lang="it">Paved</title>
     <desc lang="it">Un po' lezione di storia, un po' ritrovo, un po' odissea nel backcountry, Paved - una coproduzione Burton e Red Bull Media House - celebra la passione e l'anima dello snowboard con uno stile crudo, ironico e scanzonato.</desc>
   </programme>
-  <programme start="20261026205513 +0000" stop="20261026211907 +0000" channel="redbull_bike">
-    <title lang="it">Colombia</title>
-    <desc lang="it">Rob Warner e Finn Iles in Colombia in cerca dei più selvaggi trail del Sud America.</desc>
+  <programme start="20261027074701 +0000" stop="20261027085600 +0000" channel="redbull_tv">
+    <title lang="it">Pressure Drop</title>
+    <desc lang="it">Follow the world’s best skiers and snowboarders in a cinematic ride through risk, beauty and the pursuit of perfection.</desc>
   </programme>
-  <programme start="20261026211907 +0000" stop="20261026224254 +0000" channel="redbull_bike">
-    <title lang="it">The Engine Inside</title>
-    <desc lang="it">Six people from different worlds dedicate their lives to a simple, age-old machine: the bicycle. Facing overwhelming challenges, their stories reveal the power within us to build a better world.</desc>
+  <programme start="20261027085600 +0000" stop="20261027091158 +0000" channel="redbull_tv">
+    <title lang="it">Hill bombing San Francisco with Nico Hiraga</title>
+    <desc lang="it">Madars Apse joins Nico Hiraga and a local crew to bomb hills and skate iconic San Francisco spots, exploring how the city’s chaotic energy shaped one of skateboarding’s most influential scenes.</desc>
   </programme>
-  <programme start="20261026224254 +0000" stop="20261026230720 +0000" channel="redbull_bike">
-    <title lang="it">Kenya</title>
-    <desc lang="it">Rob Warner e il professionista del freeride Matt Jones si recano in Kenya, dove esplorano una delle montagne più alte dell’Africa e fanno incontri ravvicinati con la fauna locale.</desc>
+  <programme start="20261027091158 +0000" stop="20261027092702 +0000" channel="redbull_tv">
+    <title lang="it">From the streets to global skate icon: Tiago Lemos</title>
+    <desc lang="it">Madars Apse travels to Brazil to trace Tiago Lemos’s journey from the streets to global skate stardom. Watch how he chased a bigger dream and rose from one of skateboarding’s toughest scenes.</desc>
   </programme>
-  <programme start="20261026230720 +0000" stop="20261026232521 +0000" channel="redbull_bike">
-    <title lang="it">EMIL – Every Mystery I've Lived: The Next Chapter</title>
-    <desc lang="it">Ancora combattendo per tenere il passo con la sua malattia autoimmune, vediamo come si comporta il campione di slopestyle MTB Emil Johansson mentre cerca di riconquistare il suo titolo nel 2020.</desc>
+  <programme start="20261027092702 +0000" stop="20261027094146 +0000" channel="redbull_tv">
+    <title lang="it">Inside the Dime Glory Challenge</title>
+    <desc lang="it">Madars Apse heads to Montréal for the Dime Glory Challenge. With Alexis Lacroix and Ryan Decenzo he explores the city’s skate scene before stepping into the chaos of skateboarding's most fun event.</desc>
   </programme>
-  <programme start="20261026232521 +0000" stop="20261026233733 +0000" channel="redbull_bike">
-    <title lang="it">Recap show – Nové Město</title>
-    <desc lang="it">Watch a full recap of the cross-country action from Nové Město, which saw Rebecca McConnell take three wins from three, while Tom Pidcock left it late to secure his second victory of the season.</desc>
+  <programme start="20261027094146 +0000" stop="20261027095903 +0000" channel="redbull_tv">
+    <title lang="it">Breaking the YouTube algorithm with the Dern Bros</title>
+    <desc lang="it">Madars Apse along with Bam Margera and Jamie Thomas track the Dern Brothers from Florida to California to see how they built one of skateboarding’s biggest YouTube channels.</desc>
   </programme>
-  <programme start="20261026233733 +0000" stop="20261026234340 +0000" channel="redbull_bike">
-    <title lang="it">La ragazza più veloce del villaggio</title>
-    <desc lang="it">La storia ispiratrice di Khothalang Leuta, che sta rompendo i confini nel ciclismo e influenzando una generazione dal pump track nella sua città natale di Roma nel Lesotho, in Sud Africa.</desc>
+  <programme start="20261027095903 +0000" stop="20261027103340 +0000" channel="redbull_tv">
+    <title lang="it">South America Tour</title>
+    <desc lang="it">Skaters Ryan Sheckler, Jamie Foy, Torey Pudwill, Felipe Gustavo, Ryan Decenzo, Alex Sorgente, Angelo Caro, Gustavo Ribeiro, Gavin Bottger and friends rip right through Brazil, Argentina and Chile.</desc>
   </programme>
-  <programme start="20261026234340 +0000" stop="20261027000621 +0000" channel="redbull_bike">
-    <title lang="it">The Road Back: Brook MacDonald</title>
-    <desc lang="it">Witness the recovery of top New Zealand mountain biker Brook MacDonald after a devastating accident jeopardised his chances of competing again.</desc>
+  <programme start="20261027103340 +0000" stop="20261027105405 +0000" channel="redbull_tv">
+    <title lang="it">Johannesburg</title>
+    <desc lang="it">Explore the skateboarding scenes thriving throughout Jo'burg in 2023, from Westdene DIY to the Island Gals and the mighty Skate Society Soweto.</desc>
   </programme>
-  <programme start="20261027000621 +0000" stop="20261027002353 +0000" channel="redbull_bike">
-    <title lang="it">Full recap from Red Bull Formation 2022</title>
-    <desc lang="it">Here’s what went down in the desert in Virgin, Utah, for the third edition of Red Bull Formation – the women’s freeride MTB progression session.</desc>
+  <programme start="20261027105405 +0000" stop="20261027110728 +0000" channel="redbull_tv">
+    <title lang="it">Virginia</title>
+    <desc lang="it">Gilbert Crockett and friends show us around the stores, brands and DIY skate spots that make for a uniquely homegrown skateboarding scene in the state capital of Virginia, USA.</desc>
   </programme>
-  <programme start="20261027002353 +0000" stop="20261027004548 +0000" channel="redbull_bike">
-    <title lang="it">Dear 39th Street</title>
-    <desc lang="it">Dopo essersi sentito un outsider al Tour de France, Justin Williams ha formato la sua squadra di ciclismo. </desc>
+  <programme start="20261027110728 +0000" stop="20261027113029 +0000" channel="redbull_tv">
+    <title lang="it">San Francisco</title>
+    <desc lang="it">Modern skateboarding owes a big thank you to the Bay Area skate scene. With more than its fair share of iconic spots and hills, San Francisco is a legendary skate destination like no other.</desc>
   </programme>
-  <programme start="20261027004548 +0000" stop="20261027010124 +0000" channel="redbull_bike">
-    <title lang="it">Norwegian freeride with Brage Vestavik</title>
-    <desc lang="it">Crafting unique lines in northern Europe, Norway's Brage Vestavik has made a name for himself as the toughest freerider on the scene. Have his ancestral roots created a new breed of mountain biker?</desc>
+  <programme start="20261027113029 +0000" stop="20261027115806 +0000" channel="redbull_tv">
+    <title lang="it">Janja Garnbret vs her 10th world title</title>
+    <desc lang="it">Janja Garnbret is chasing her 10th world title, and the pressure is unlike anything she’s faced before. Will shifting to the outdoors for new motivation help her, or push her closer to cracking?</desc>
   </programme>
-  <programme start="20261027010124 +0000" stop="20261027011618 +0000" channel="redbull_bike">
-    <title lang="it">It's all about the drama</title>
-    <desc lang="it">MTB riders Kate Courtney, Finn Iles, Loïc Bruni and more look back at past editions of Fast Life, remember the good times, as well as the some of their toughest moments.</desc>
+  <programme start="20261027115806 +0000" stop="20261027122211 +0000" channel="redbull_tv">
+    <title lang="it">Jakob Schubert sends a 9c route</title>
+    <desc lang="it">Join Jakob Schubert in Flatanger, Norway, as he battles for the first ascent of 'B.I.G.' (9c), relying on experience, creativity and relentless commitment to unlock this historic line.</desc>
   </programme>
-  <programme start="20261027011618 +0000" stop="20261027014047 +0000" channel="redbull_bike">
-    <title lang="it">Ecuador</title>
-    <desc lang="it">Rob Warner va in Ecuador con la stella nascente della MTB Finn Iles per affrontare il Cotopaxi, nelle Ande. I due si preparano in modo insolito per poter affrontare l’alta quota.</desc>
+  <programme start="20261027122211 +0000" stop="20261027124616 +0000" channel="redbull_tv">
+    <title lang="it">Nika Potapova: nothing to lose, but a lot to prove</title>
+    <desc lang="it">Nika Potapova is chasing the dream of becoming a pro climber, no matter the cost. The sacrifices are real, the pressure is constant and the outcome is far from guaranteed.</desc>
   </programme>
-  <programme start="20261027014047 +0000" stop="20261027020625 +0000" channel="redbull_bike">
-    <title lang="it">Asa Vermette's Ascent</title>
-    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
-  </programme>
-  <programme start="20261027020625 +0000" stop="20261027021503 +0000" channel="redbull_bike">
-    <title lang="it">Tom Oehler sulle Dolomiti</title>
-    <desc lang="it">Il leggendario trial rider Tom Oehler affronta le Dolomiti in questo video semplicemente pazzesco.</desc>
-  </programme>
-  <programme start="20261027021503 +0000" stop="20261027023552 +0000" channel="redbull_bike">
-    <title lang="it">Ora o mai più</title>
-    <desc lang="it">Con le poche gare della stagione 2020, la pressione per gareggiare al meglio è immensa.</desc>
-  </programme>
-  <programme start="20261027023552 +0000" stop="20261027032752 +0000" channel="redbull_bike">
-    <title lang="it">Le highlights di Whistler</title>
-    <desc lang="it">Resta al passo con tutto quello che è successo a Whistler negli eventi di slalom, pump track, downhill e slopestyle.</desc>
-  </programme>
-  <programme start="20261027032752 +0000" stop="20261027041335 +0000" channel="redbull_bike">
-    <title lang="it">Gamble</title>
-    <desc lang="it">Release the top dogs of downhill mountain bike racing from the confines of the tape, and what do you get? Raw speed, a heavy-hitting soundtrack and virgin locations as riders show their skill.</desc>
-  </programme>
-  <programme start="20261027041335 +0000" stop="20261027041818 +0000" channel="redbull_bike">
-    <title lang="it">Courage Adams</title>
-    <desc lang="it">Guarda lo street rider di BMX Courage Adams mentre atterra nella città di Johannesburg, in Sud Africa, per creare un'elettrizzante linea urbana attraverso le strade di Soweto.</desc>
-  </programme>
-  <programme start="20261027041818 +0000" stop="20261027043101 +0000" channel="redbull_bike">
-    <title lang="it">Underdogs e overdogs</title>
-    <desc lang="it">I top rider di MTB Kate Courtney e Loïc Bruni ricordano alcuni degli alti e bassi della loro carriera in mountain bike. Le star americane dell'XCO e francesi della DH raccontano come hanno reagito loro e il mondo intero.</desc>
-  </programme>
-  <programme start="20261027043101 +0000" stop="20261027044301 +0000" channel="redbull_bike">
+  <programme start="20261027043101 +0000" stop="20261027044300 +0000" channel="redbull_bike">
     <title lang="it">Skill vs luck</title>
     <desc lang="it">Which gets a rider better results – having the support of a factory team behind them or going it alone? Top MTB riders like Kate Courtney, Loïc Bruni and Finn Iles share their experiences.</desc>
   </programme>
-  <programme start="20261026203735 +0000" stop="20261026211405 +0000" channel="redbull_adventure">
-    <title lang="it">Red Bull Dual Ascent</title>
-    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
+  <programme start="20261027044300 +0000" stop="20261027050102 +0000" channel="redbull_bike">
+    <title lang="it">EMIL – Every Mystery I've Lived: The Next Chapter</title>
+    <desc lang="it">Ancora combattendo per tenere il passo con la sua malattia autoimmune, vediamo come si comporta il campione di slopestyle MTB Emil Johansson mentre cerca di riconquistare il suo titolo nel 2020.</desc>
   </programme>
-  <programme start="20261026211405 +0000" stop="20261026213736 +0000" channel="redbull_adventure">
-    <title lang="it">Filming free solo on Les Drus in France</title>
-    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
+  <programme start="20261027050102 +0000" stop="20261027060955 +0000" channel="redbull_bike">
+    <title lang="it">The Old World</title>
+    <desc lang="it">The Old World è una vetrina per i rider europei che dominano il palco mondiale della mountain bike.</desc>
   </programme>
-  <programme start="20261026213736 +0000" stop="20261026215744 +0000" channel="redbull_adventure">
-    <title lang="it">All You Need is a Ball</title>
-    <desc lang="it">Learn how the world’s best freestyle footballers, like Red Bull Street Style World Final 2022 winner Caitlyn Schrepfer, have pushed the sport forward and are paving the way for a new generation.</desc>
+  <programme start="20261027060955 +0000" stop="20261027063635 +0000" channel="redbull_bike">
+    <title lang="it">Progression</title>
+    <desc lang="it">Nel 2021, otto atlete di mountain bike si sono riunite per far progredire ed evolvere lo sport del freeride femminile. Queste donne si sono recate su una montagna a Virgin, nello Utah, per prendere parte alla Red Bull Formation, per creare e poi guidare linee dall'alto verso il basso su una ripida sezione di montagna. Questo film racconta la storia di quel camp, dove la collaborazione e il sostegno piuttosto che la competizione erano i principi che hanno spinto le protagoniste a dare il massimo.</desc>
   </programme>
-  <programme start="20261026215744 +0000" stop="20261026222100 +0000" channel="redbull_adventure">
-    <title lang="it">The high road - Scalata al successo parte 1</title>
-    <desc lang="it">Segui le incredibili scalate di Nina Williams verso l'Olimpo della disciplina.</desc>
+  <programme start="20261027063635 +0000" stop="20261027071320 +0000" channel="redbull_bike">
+    <title lang="it">Brandon Semenuk – Steps to the Top </title>
+    <desc lang="it">Canadian MTB prodigy Brandon Semenuk secured a fourth Red Bull Rampage win in 2021, cementing his name as one of the all-time greats in mountain biking. This is how he and his team made it happen.</desc>
   </programme>
-  <programme start="20261026222100 +0000" stop="20261026224002 +0000" channel="redbull_adventure">
-    <title lang="it">The high road - Scalata al successo parte 2</title>
-    <desc lang="it">Nina Williams prova un'incredibile impresa: un boulder di 15 metri chiamato Too Big to Flail.</desc>
+  <programme start="20261027071320 +0000" stop="20261027072031 +0000" channel="redbull_bike">
+    <title lang="it">The power of bikes</title>
+    <desc lang="it">L'atleta di endurance Rebecca Rusch e l'avventuriero Patrick Sweeney sono pronti a sfidare il Kilimanjaro in bici, in Tanzania. L'obiettivo è di raccogliere fondi per l'organizzazione no-profit World Bicycle Relief.</desc>
   </programme>
-  <programme start="20261026224002 +0000" stop="20261026224736 +0000" channel="redbull_adventure">
-    <title lang="it">City of Gold</title>
-    <desc lang="it">Freerunner Dominic Di Tommaso is transported inside a video game where he must collect gold coins. But can he find them all in order to complete the final level and escape back to real life?</desc>
+  <programme start="20261027072031 +0000" stop="20261027074609 +0000" channel="redbull_bike">
+    <title lang="it">Asa Vermette's Ascent</title>
+    <desc lang="it">One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
   </programme>
-  <programme start="20261026224736 +0000" stop="20261026230504 +0000" channel="redbull_adventure">
-    <title lang="it">One Day, 4061m &amp; 4478m</title>
-    <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
+  <programme start="20261027074609 +0000" stop="20261027081004 +0000" channel="redbull_bike">
+    <title lang="it">New Zealand</title>
+    <desc lang="it">Rob Warner and slopestyle genius Matt Jones make their way through New Zealand’s South Island trails. The two take on the country's longest and most remote single track.</desc>
   </programme>
-  <programme start="20261026230504 +0000" stop="20261026233117 +0000" channel="redbull_adventure">
-    <title lang="it">The Nose speed record parte 3</title>
-    <desc lang="it">Dopo settimane di allenamento e qualche errore di troppo, Alex Honnold e Tommy Caldwell provano a infrangere il record.</desc>
+  <programme start="20261027081004 +0000" stop="20261027081612 +0000" channel="redbull_bike">
+    <title lang="it">La ragazza più veloce del villaggio</title>
+    <desc lang="it">La storia ispiratrice di Khothalang Leuta, che sta rompendo i confini nel ciclismo e influenzando una generazione dal pump track nella sua città natale di Roma nel Lesotho, in Sud Africa.</desc>
   </programme>
-  <programme start="20261026233117 +0000" stop="20261026234805 +0000" channel="redbull_adventure">
-    <title lang="it">Beneath the Ice</title>
-    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
+  <programme start="20261027081612 +0000" stop="20261027082903 +0000" channel="redbull_bike">
+    <title lang="it">French advantage</title>
+    <desc lang="it">With the country's history of producing a wealth of successful bikers, MTB riders of today speculate about what qualities French competitors possess that see them finish on the podium so often.</desc>
   </programme>
-  <programme start="20261026234805 +0000" stop="20261026235319 +0000" channel="redbull_adventure">
-    <title lang="it">Wild freerun</title>
-    <desc lang="it">Freerunner Krystian Kowalewski explores Rudawy Landscape Park in his home country of Poland. Trees and rock formations make a perfect parkour playground for him to show off his skills.</desc>
+  <programme start="20261027082903 +0000" stop="20261027085331 +0000" channel="redbull_bike">
+    <title lang="it">Nepal</title>
+    <desc lang="it">Rob Warner e il professionista di downhill Olly Wilkins affrontano la catena montuosa più alta del mondo partendo dalle pendici dell’Himalaya, in Nepal.</desc>
   </programme>
-  <programme start="20261026235319 +0000" stop="20261027013156 +0000" channel="redbull_adventure">
-    <title lang="it">Valley Uprising</title>
-    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
+  <programme start="20261027085331 +0000" stop="20261027090619 +0000" channel="redbull_bike">
+    <title lang="it">Instinct vs science</title>
+    <desc lang="it">The best MTB riders race on instinct. Why? Because understanding the science of speed doesn't always help them know when to go fast and when to slow down. They have to work it out themselves.</desc>
   </programme>
-  <programme start="20261027013156 +0000" stop="20261027021956 +0000" channel="redbull_adventure">
-    <title lang="it">360 Ascent</title>
-    <desc lang="it">I climber di fama mondiale Janja Garnbret e Domen Škofic affrontano la scalata del percorso multi-pitch artificiale più alto al mondo: la ciminiera più alta d'Europa, la Trbovlje Power Station, in Slovenia.</desc>
+  <programme start="20261027090619 +0000" stop="20261027092900 +0000" channel="redbull_bike">
+    <title lang="it">The Road Back: Brook MacDonald</title>
+    <desc lang="it">Witness the recovery of top New Zealand mountain biker Brook MacDonald after a devastating accident jeopardised his chances of competing again.</desc>
   </programme>
-  <programme start="20261027021956 +0000" stop="20261027025626 +0000" channel="redbull_adventure">
-    <title lang="it">Red Bull Dual Ascent</title>
-    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
+  <programme start="20261027092900 +0000" stop="20261027095410 +0000" channel="redbull_bike">
+    <title lang="it">Kriss Kyle: Out of Season</title>
+    <desc lang="it">I boschi selvaggi del Galles ospitano il maestro Kyle.</desc>
   </programme>
-  <programme start="20261027025626 +0000" stop="20261027030202 +0000" channel="redbull_adventure">
-    <title lang="it">Dom-ination Cairo</title>
-    <desc lang="it">The Egyptian city of Cairo is host to Australian freerunner Dominic Di Tommaso, who showcases his impressive parkour skills at a series of iconic locations, including the River Nile and the pyramids.</desc>
+  <programme start="20261027095410 +0000" stop="20261027100024 +0000" channel="redbull_bike">
+    <title lang="it">Wee day out</title>
+    <desc lang="it">Guarda Danny MacAskill in azione nella Scozia rurale, mentre si gode un giro semplice e divertente su piste meno battute.</desc>
   </programme>
-  <programme start="20261027030202 +0000" stop="20261027032518 +0000" channel="redbull_adventure">
-    <title lang="it">The high road - Scalata al successo parte 1</title>
-    <desc lang="it">Segui le incredibili scalate di Nina Williams verso l'Olimpo della disciplina.</desc>
+  <programme start="20261027100024 +0000" stop="20261027101458 +0000" channel="redbull_bike">
+    <title lang="it">Si ricomincia</title>
+    <desc lang="it">Kate Courtney, Loïc Bruni e Finn Iles parlano delle sfide di una stagione 2020 diversa dal solito.</desc>
   </programme>
-  <programme start="20261027032518 +0000" stop="20261027034245 +0000" channel="redbull_adventure">
-    <title lang="it">One Day, 4061m &amp; 4478m</title>
-    <desc lang="it">In una sfida di alpinismo unica nel suo genere, l'ultrarunner Fernanda Maciel cerca di aggiudicarsi il record di scalata sul Gran Paradiso, seguito subito dopo dalla sua nemesi: il Cervino. Tutto in sole 24 ore.</desc>
+  <programme start="20261027101458 +0000" stop="20261027101941 +0000" channel="redbull_bike">
+    <title lang="it">Courage Adams</title>
+    <desc lang="it">Guarda lo street rider di BMX Courage Adams mentre atterra nella città di Johannesburg, in Sud Africa, per creare un'elettrizzante linea urbana attraverso le strade di Soweto.</desc>
   </programme>
-  <programme start="20261027034245 +0000" stop="20261027035532 +0000" channel="redbull_adventure">
-    <title lang="it">Jason Paul’s Wild Ride</title>
-    <desc lang="it">Join pro freerunners Jason Paul, Silke Sollfrank and Krystian Kowalewski at Tripsdrill theme park in Cleebronn, Germany, as they plan and execute a run in and around the famous Mammut roller coaster.</desc>
+  <programme start="20261027101941 +0000" stop="20261027104137 +0000" channel="redbull_bike">
+    <title lang="it">Dear 39th Street</title>
+    <desc lang="it">Dopo essersi sentito un outsider al Tour de France, Justin Williams ha formato la sua squadra di ciclismo. </desc>
+  </programme>
+  <programme start="20261027104137 +0000" stop="20261027110606 +0000" channel="redbull_bike">
+    <title lang="it">Ecuador</title>
+    <desc lang="it">Rob Warner va in Ecuador con la stella nascente della MTB Finn Iles per affrontare il Cotopaxi, nelle Ande. I due si preparano in modo insolito per poter affrontare l’alta quota.</desc>
+  </programme>
+  <programme start="20261027110606 +0000" stop="20261027115148 +0000" channel="redbull_bike">
+    <title lang="it">Gamble</title>
+    <desc lang="it">Release the top dogs of downhill mountain bike racing from the confines of the tape, and what do you get? Raw speed, a heavy-hitting soundtrack and virgin locations as riders show their skill.</desc>
   </programme>
   <programme start="20261027035532 +0000" stop="20261027044032 +0000" channel="redbull_adventure">
     <title lang="it">The Last Ascent</title>
@@ -251,168 +183,236 @@
     <title lang="it">Best moments from Copenhagen</title>
     <desc lang="it">Do look down! These are the best moments from the third event of the 2022 Red Bull Cliff Diving World Series in Copenhagen, Denmark, so you can catch every detail of the top dives.</desc>
   </programme>
-  <programme start="20261027053257 +0000" stop="20261027053812 +0000" channel="redbull_adventure">
+  <programme start="20261027053257 +0000" stop="20261027053811 +0000" channel="redbull_adventure">
     <title lang="it">Wild freerun</title>
     <desc lang="it">Freerunner Krystian Kowalewski explores Rudawy Landscape Park in his home country of Poland. Trees and rock formations make a perfect parkour playground for him to show off his skills.</desc>
   </programme>
-  <programme start="20261026203451 +0000" stop="20261026211217 +0000" channel="redbull_motorsports">
-    <title lang="it">Flight Mode by Tom Pagès</title>
-    <desc lang="it">FMX legend Tom Pagès keeps making history by pushing the limits of his sport. After reinventing FMX on land, he combines freestyle motocross and freefall off a 135m cliff in Avoriaz, France.</desc>
+  <programme start="20261027053811 +0000" stop="20261027071648 +0000" channel="redbull_adventure">
+    <title lang="it">Valley Uprising</title>
+    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
   </programme>
-  <programme start="20261026211217 +0000" stop="20261026222729 +0000" channel="redbull_motorsports">
-    <title lang="it">Mint 400</title>
-    <desc lang="it">La Mint 400 torna a ruggire nel deserto del Nevada per la 48esima volta e la gara di quest’anno è la più emozionante di sempre. Guarda i migliori piloti di off-road lanciati sui loro Unlimited Trick Truck da 800 cavalli attraverso 650 chilometri di percorso durissimo.</desc>
+  <programme start="20261027071648 +0000" stop="20261027073336 +0000" channel="redbull_adventure">
+    <title lang="it">Beneath the Ice</title>
+    <desc lang="it">Will Gadd utilizza la sua conoscenza e le sue ineguagliabili abilità di scalatore su ghiaccio per condurre una spedizione scientifica in un territorio precedentemente inesplorato tra le calotte polari della Groenlandia.</desc>
   </programme>
-  <programme start="20261026222729 +0000" stop="20261026231929 +0000" channel="redbull_motorsports">
-    <title lang="it">Mint 400</title>
-    <desc lang="it">Con quattro estenuanti giri di 160 chilometri ciascuno attraverso l’implacabile deserto che circonda Las Vegas, l’eroe di casa Bryze Menzies difende il titolo nella gara di fuoristrada più prestigiosa degli Stati Uniti, resa famosa dal film "Paura e delirio a Las Vegas" di Hunter S. Thompson.</desc>
+  <programme start="20261027073336 +0000" stop="20261027082137 +0000" channel="redbull_adventure">
+    <title lang="it">360 Ascent</title>
+    <desc lang="it">I climber di fama mondiale Janja Garnbret e Domen Škofic affrontano la scalata del percorso multi-pitch artificiale più alto al mondo: la ciminiera più alta d'Europa, la Trbovlje Power Station, in Slovenia.</desc>
   </programme>
-  <programme start="20261026231929 +0000" stop="20261026233702 +0000" channel="redbull_motorsports">
-    <title lang="it">Family support and dedication</title>
-    <desc lang="it">Tom Vialle is the newest member of the Red Bull KTM Factory Racing team. Learn the story of how his family are sharing in his dream for MXGP glory.</desc>
+  <programme start="20261027082137 +0000" stop="20261027082911 +0000" channel="redbull_adventure">
+    <title lang="it">City of Gold</title>
+    <desc lang="it">Freerunner Dominic Di Tommaso is transported inside a video game where he must collect gold coins. But can he find them all in order to complete the final level and escape back to real life?</desc>
   </programme>
-  <programme start="20261026233702 +0000" stop="20261027003052 +0000" channel="redbull_motorsports">
-    <title lang="it">Toby Price: Ridin’ Shotgun</title>
-    <desc lang="it">Six-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?</desc>
+  <programme start="20261027082911 +0000" stop="20261027084813 +0000" channel="redbull_adventure">
+    <title lang="it">The high road - Scalata al successo parte 2</title>
+    <desc lang="it">Nina Williams prova un'incredibile impresa: un boulder di 15 metri chiamato Too Big to Flail.</desc>
   </programme>
-  <programme start="20261027003052 +0000" stop="20261027004553 +0000" channel="redbull_motorsports">
-    <title lang="it">La matricola sale in cattedra</title>
-    <desc lang="it">Jorge Prado è al debutto in MXGP ma non si è lasciato intimorire: eccolo in azione mentre affronta i migliori rider del mondo.</desc>
+  <programme start="20261027084813 +0000" stop="20261027091129 +0000" channel="redbull_adventure">
+    <title lang="it">The high road - Scalata al successo parte 1</title>
+    <desc lang="it">Segui le incredibili scalate di Nina Williams verso l'Olimpo della disciplina.</desc>
   </programme>
-  <programme start="20261027004553 +0000" stop="20261027014457 +0000" channel="redbull_motorsports">
-    <title lang="it">Mint 400</title>
-    <desc lang="it">La Great American Off-Road Race si svolge nel deserto fuori da Las Vegas, Nevada, negli Stati Uniti. L’evento è aperto a truck fuoristrada di tutti i tipi, ma ognuno deve completare tre giri di 200 km (125 miglia) il più velocemente possibile.</desc>
+  <programme start="20261027091129 +0000" stop="20261027094759 +0000" channel="redbull_adventure">
+    <title lang="it">Red Bull Dual Ascent</title>
+    <desc lang="it">Sedici tra i migliori climber del mondo, divisi in otto team, si sfidano per essere i più veloci a scalare la diga della Verzasca nei sei tiri che compongono il Red Bull Dual Ascent. Due percorsi identici l'uno di fianco all'altro, 180 m di ascesa verticale, una sola squadra a vincere.</desc>
   </programme>
-  <programme start="20261027014457 +0000" stop="20261027025232 +0000" channel="redbull_motorsports">
-    <title lang="it">Crandon World Cup</title>
-    <desc lang="it">More than 50,000 fans gather in Crandon, Wisconsin, to cheer for their favourite drivers as they race on the longest and the fastest short-course track for Crandon World Championship Off-Road Races.</desc>
+  <programme start="20261027094759 +0000" stop="20261027101130 +0000" channel="redbull_adventure">
+    <title lang="it">Filming free solo on Les Drus in France</title>
+    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
   </programme>
-  <programme start="20261027025232 +0000" stop="20261027030855 +0000" channel="redbull_motorsports">
-    <title lang="it">Taking on a brand new race</title>
-    <desc lang="it">Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the Abestone Hard Enduro race. This race is brand new for the riders, and the excitement is real!</desc>
+  <programme start="20261027101130 +0000" stop="20261027102416 +0000" channel="redbull_adventure">
+    <title lang="it">Jason Paul’s Wild Ride</title>
+    <desc lang="it">Join pro freerunners Jason Paul, Silke Sollfrank and Krystian Kowalewski at Tripsdrill theme park in Cleebronn, Germany, as they plan and execute a run in and around the famous Mammut roller coaster.</desc>
   </programme>
-  <programme start="20261027030855 +0000" stop="20261027033117 +0000" channel="redbull_motorsports">
-    <title lang="it">Revving it up for HERO Challenge</title>
-    <desc lang="it">Manuel Lettenbichler and Paul Bolton are in Poland for HERO Challenge. Ahead of the event they check out the track, show us around the location and get impressions of two-stroke from other riders.</desc>
+  <programme start="20261027102416 +0000" stop="20261027102931 +0000" channel="redbull_adventure">
+    <title lang="it">Wild freerun</title>
+    <desc lang="it">Freerunner Krystian Kowalewski explores Rudawy Landscape Park in his home country of Poland. Trees and rock formations make a perfect parkour playground for him to show off his skills.</desc>
   </programme>
-  <programme start="20261027033117 +0000" stop="20261027033316 +0000" channel="redbull_motorsports">
-    <title lang="it">GP Ice Race </title>
-    <desc lang="it">Guarda Max Verstappen in azione con il suo bolide F1, munito di speciali pneumatici chiodati Pirelli, su un tracciato ghiacciato unico nel suo genere. A fargli compagnia c'è la stella dell'ice speedway Franky Zorn.</desc>
+  <programme start="20261027102931 +0000" stop="20261027104939 +0000" channel="redbull_adventure">
+    <title lang="it">All You Need is a Ball</title>
+    <desc lang="it">Learn how the world’s best freestyle footballers, like Red Bull Street Style World Final 2022 winner Caitlyn Schrepfer, have pushed the sport forward and are paving the way for a new generation.</desc>
   </programme>
-  <programme start="20261027033316 +0000" stop="20261027034408 +0000" channel="redbull_motorsports">
-    <title lang="it">The guy out front</title>
-    <desc lang="it">Jeffrey Herlings has passed Antonio Cairoli on the track this year, but is he prepared for the pressure of being the sport's public ambassador, which brings with it a new set of mental challenges?</desc>
+  <programme start="20261027104939 +0000" stop="20261027111037 +0000" channel="redbull_adventure">
+    <title lang="it">The Nose speed record parte 1</title>
+    <desc lang="it">Alex Honnold e Tommy Caldwell ci mostrano il record di velocità della scalata del The Nose su El Capitan, California.</desc>
   </programme>
-  <programme start="20261027034408 +0000" stop="20261027040138 +0000" channel="redbull_motorsports">
-    <title lang="it">Rallye du Maroc</title>
-    <desc lang="it">The five desert stages of the 2021 Rallye du Maroc gave us a full season’s worth of cross-country drama in cars and on bikes. Now the dust has settled, see who came out on top of a monumental tussle.</desc>
+  <programme start="20261027111037 +0000" stop="20261027121624 +0000" channel="redbull_adventure">
+    <title lang="it">K2: The Impossible Descent</title>
+    <desc lang="it">Il 22 luglio del 2018, uno sciatore polacco ha scritto la storia dando il via alla sua discesa da un'altezza di 8611 m. Segui l'epica spedizione di Andrzej Bargiel dalla Polonia al Pakistan, culminata con la discesa in sci del K2.</desc>
   </programme>
-  <programme start="20261027040138 +0000" stop="20261027041409 +0000" channel="redbull_motorsports">
-    <title lang="it">La vista dalla cima</title>
-    <desc lang="it">Tony Cairoli è il rider di maggior successo del campionato, ma il tempo non è dalla sua, visto che dovrà sfidare atleti con 10 anni in meno di lui. Riuscirà ancora a competere ai livelli top di sempre?</desc>
+  <programme start="20261027121624 +0000" stop="20261027135501 +0000" channel="redbull_adventure">
+    <title lang="it">Valley Uprising</title>
+    <desc lang="it">Valley Uprising is the riveting, unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.</desc>
   </programme>
-  <programme start="20261027041409 +0000" stop="20261027045809 +0000" channel="redbull_motorsports">
+  <programme start="20261027135501 +0000" stop="20261027140235 +0000" channel="redbull_adventure">
+    <title lang="it">City of Gold</title>
+    <desc lang="it">Freerunner Dominic Di Tommaso is transported inside a video game where he must collect gold coins. But can he find them all in order to complete the final level and escape back to real life?</desc>
+  </programme>
+  <programme start="20261027140235 +0000" stop="20261027142607 +0000" channel="redbull_adventure">
+    <title lang="it">Filming free solo on Les Drus in France</title>
+    <desc lang="it">Climbing icon Alex Honnold and alpinist extraordinaire Nic Hojac head to the Mont Blanc Massif, hoping to climb on Les Drus and some legendary faces in one of the European adventure hotspots.</desc>
+  </programme>
+  <programme start="20261027142607 +0000" stop="20261027151107 +0000" channel="redbull_adventure">
+    <title lang="it">The Last Ascent</title>
+    <desc lang="it">6 anni fa, Will Gadd affrontò per la prima volta i pinnacoli ghiacciati del Kilimanjaro. Ora che il ghiaccio sta iniziando a sciogliersi rapidamente, ha deciso di tornare sulla vetta per un'ultima scalata.</desc>
+  </programme>
+  <programme start="20261027041408 +0000" stop="20261027045808 +0000" channel="redbull_motorsports">
     <title lang="it">Red Bull Straight Rhythm</title>
     <desc lang="it">La battaglia dei dossi vede i piloti di supercross affrontare una pista ritmica "srotolata" di 800 metri con salti e doppi a Pomona, California, negli USA.</desc>
   </programme>
-  <programme start="20261027045809 +0000" stop="20261027051354 +0000" channel="redbull_motorsports">
+  <programme start="20261027045808 +0000" stop="20261027051354 +0000" channel="redbull_motorsports">
     <title lang="it">The next generation</title>
     <desc lang="it">Nine-time world champion Antonio Cairoli is one of the top MX riders of his generation, but several up-and-coming riders are poised to make it big. Can Tony win a 10th title before he's overtaken?</desc>
   </programme>
-  <programme start="20261027051354 +0000" stop="20261027061657 +0000" channel="redbull_motorsports">
+  <programme start="20261027051354 +0000" stop="20261027061656 +0000" channel="redbull_motorsports">
     <title lang="it">Crandon</title>
     <desc lang="it">La prima Coppa del Mondo off-road è arrivata e i migliori piloti professionisti di ogni classe competono per il titolo. Ospita la gara la leggendaria pista Big House in Wisconsin, negli Stati Uniti, un luogo con una tradizione di 46 anni nelle corse di truck fuoristrada.</desc>
   </programme>
-  <programme start="20261027061657 +0000" stop="20261027064031 +0000" channel="redbull_motorsports">
+  <programme start="20261027061656 +0000" stop="20261027064030 +0000" channel="redbull_motorsports">
     <title lang="it">Tackling Red Bull TKO</title>
     <desc lang="it">Barely 10 days after Red Bull Romaniacs Mani Lettenbichler and Paul Bolton are in the USA for Red Bull Knockout Extreme Enduro, chatting with drivers, scouting trails and checking out trucks.</desc>
   </programme>
-  <programme start="20261027064031 +0000" stop="20261027074257 +0000" channel="redbull_motorsports">
+  <programme start="20261027064030 +0000" stop="20261027074256 +0000" channel="redbull_motorsports">
     <title lang="it">Erzbergfodeo Red Bull Hare Scramble</title>
     <desc lang="it">The action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?</desc>
   </programme>
-  <programme start="20261027074257 +0000" stop="20261027084626 +0000" channel="redbull_motorsports">
+  <programme start="20261027074256 +0000" stop="20261027084626 +0000" channel="redbull_motorsports">
     <title lang="it">Straight Rhythm</title>
     <desc lang="it">Red Bull Straight Rhythm è un’evoluzione innovativa del supercross in cui una pista viene "srotolata": nessuna curva, solo una sezione ritmica dritta lunga 800 metri. Questo nuovo formato di gara ha messo in campo 32 piloti in un testa a testa di puro MX racing.</desc>
   </programme>
-  <programme start="20261026205401 +0000" stop="20261026205827 +0000" channel="redbull_action_reel">
-    <title lang="it">Skate Intersection – Lost in Shanghai</title>
-    <desc lang="it">Join Maxim Habanec, Vladik Scholz and Angelo Caro as they discover the unique and unusual skate terrain of Shanghai’s tributes to several European destinations – all hidden within the city limits.</desc>
+  <programme start="20261027084626 +0000" stop="20261027090359 +0000" channel="redbull_motorsports">
+    <title lang="it">Family support and dedication</title>
+    <desc lang="it">Tom Vialle is the newest member of the Red Bull KTM Factory Racing team. Learn the story of how his family are sharing in his dream for MXGP glory.</desc>
   </programme>
-  <programme start="20261026205827 +0000" stop="20261026210009 +0000" channel="redbull_action_reel">
-    <title lang="it">Nouria Newman kayaks in British Columbia</title>
-    <desc lang="it">Follow Nouria Newman’s incredible white water kayaking along the Spillimacheen River in British Columbia, Canada. Her kayaking skills are unlike anything you’ve ever seen before.</desc>
+  <programme start="20261027090359 +0000" stop="20261027092506 +0000" channel="redbull_motorsports">
+    <title lang="it">Dead Sea season opener</title>
+    <desc lang="it">He may be unable to compete due to injury, but that won't stop enduro rider Mani travelling to Israel’s Dead Sea with fellow rider Paul for the Hard Enduro season opener – 400m below sea level.</desc>
   </programme>
-  <programme start="20261026210009 +0000" stop="20261026210601 +0000" channel="redbull_action_reel">
-    <title lang="it">Running Reverse</title>
-    <desc lang="it">Jason Paul vive una strana giornata nella sua città natale, Francoforte, in Germania. Guarda il freerunner mettere le cose a posto con una serie di mosse mozzafiato e ad alto rischio.</desc>
+  <programme start="20261027092506 +0000" stop="20261027100910 +0000" channel="redbull_motorsports">
+    <title lang="it">Nitro Rallycross</title>
+    <desc lang="it">per il quarto anno consecutivo i migliori atleti si danno battaglia nella spettacolare competizione di Travis Pastrana, con una serie di eventi che alzano il livello di FMX, BMX, skate, scooter e rallycross.</desc>
   </programme>
-  <programme start="20261026210601 +0000" stop="20261026211118 +0000" channel="redbull_action_reel">
-    <title lang="it">Tyler Bereman</title>
-    <desc lang="it">Watch as a drone captures freestyle motocross rider Tyler Bereman on one epic ride from start to finish. No cuts, no edits, just maximum FMX action.</desc>
+  <programme start="20261027100910 +0000" stop="20261027110412 +0000" channel="redbull_motorsports">
+    <title lang="it">Hare Scramble</title>
+    <desc lang="it">Jonny Walker difende il titolo contro Taddy Błażusiak e centinaia di altri rivali nel grande evento che ossessiona tutti i praticanti di Hard Enduro. La Hare Scramble è punitiva per i piloti che osano tentare di portarla a termine.</desc>
   </programme>
-  <programme start="20261026211118 +0000" stop="20261026211319 +0000" channel="redbull_action_reel">
-    <title lang="it">Kate Courtney</title>
-    <desc lang="it">Watch the undiluted sights and sounds of cross-country mountain biker Kate Courtney tearing up the trails in Sedona, Arizona.</desc>
+  <programme start="20261027110412 +0000" stop="20261027115612 +0000" channel="redbull_motorsports">
+    <title lang="it">Hare Scramble</title>
+    <desc lang="it">Con il Gigante di Ferro che si crogiola in condizioni meteo quasi perfette, 500 piloti di Hard Enduro schizzano dalla linea di partenza. Il percorso nella miniera austriaca è la sfida di Hard Enduro più insidiosa dell’anno, con solo il tre per cento dei corridori che hanno concluso la gara.</desc>
   </programme>
-  <programme start="20261026211319 +0000" stop="20261026211541 +0000" channel="redbull_action_reel">
-    <title lang="it">The Soul Flyers</title>
-    <desc lang="it">Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door!</desc>
+  <programme start="20261027115612 +0000" stop="20261027130018 +0000" channel="redbull_motorsports">
+    <title lang="it">Hare Scramble</title>
+    <desc lang="it">Il clou dell’Erzbergrodeo, l’Hare Scramble, è una corsa di Hard Enduro da incubo lunga 35 km, che porta i piloti a lanciarsi alla carica dal fondo della più grande miniera di ferro dell’Austria. La 22esima edizione di questa gara storica sembra essere la più dura di sempre.</desc>
   </programme>
-  <programme start="20261026211541 +0000" stop="20261026211846 +0000" channel="redbull_action_reel">
-    <title lang="it">Brandon Semenuk – Velocità della luce</title>
-    <desc lang="it">La troupe di Revel Co. si dirige verso la valle di Hakuba, in Giappone, insieme al regista Clay Porter, in una terra solitamente riservata a sciatori e snowboarder. Cosa ne pensa Brandon Semenuk dello sporco giapponese?</desc>
+  <programme start="20261027130018 +0000" stop="20261027131027 +0000" channel="redbull_motorsports">
+    <title lang="it">Motorbikes and bicycles</title>
+    <desc lang="it">Manuel Lettenbichler heads to Erzberg, Austria, for a special project where he gets the whole mountain to himself. Meanwhile, Paul Bolton takes on the first race after his shoulder injury.</desc>
   </programme>
-  <programme start="20261026211846 +0000" stop="20261026212152 +0000" channel="redbull_action_reel">
-    <title lang="it">Dreamland</title>
-    <desc lang="it">Professional freerunners Jason Paul and Dimitris Kyrsanidis explore a shipping container-filled obstacle course through Port of Haydarpaşa in Turkey, at the entrance of the Bosphorus.</desc>
+  <programme start="20261027131027 +0000" stop="20261027141802 +0000" channel="redbull_motorsports">
+    <title lang="it">Kenda Tennessee Knockout</title>
+    <desc lang="it">It was blood, sweat and tears in the Great Smoky Mountains as America's top off-road motorcycle riders faced a brutal test of man and machine at the annual Tennessee Knockout Extreme Enduro.</desc>
   </programme>
-  <programme start="20261026212152 +0000" stop="20261026212359 +0000" channel="redbull_action_reel">
-    <title lang="it">The Folgefonna session</title>
-    <desc lang="it">Go behind the scenes with The Collective crew as they capture some of the film's most stunning shots high on the Folgefonna plateau in Norway.</desc>
+  <programme start="20261027141802 +0000" stop="20261027143252 +0000" channel="redbull_motorsports">
+    <title lang="it">Silk Way Rally</title>
+    <desc lang="it">Russian trucking giants KAMAZ debuted a new look machine at the Silk Way Rally as Red Bull KTM Factory Racing got back to winning ways. There was also a last-minute course correction to deal with.</desc>
   </programme>
-  <programme start="20261026212359 +0000" stop="20261026213251 +0000" channel="redbull_action_reel">
-    <title lang="it">Una monoposto di F1 vs l'Outback australiano</title>
-    <desc lang="it">Oracle Red Bull Racing ha mandato Daniel Ricciardo in Australia per conoscere il circuito di Albert Park. Il team può contare su alcuni dei migliori esperti di motorsport del Paese per affinare la strategia.</desc>
+  <programme start="20261027143252 +0000" stop="20261027145000 +0000" channel="redbull_motorsports">
+    <title lang="it">Brotherly love at Red Bud</title>
+    <desc lang="it">While Jett's race hits a snag, Hunter scoops the red plate – the Lawrence brothers compete at the RedBud track in Michigan as the 250 Pro Motocross battle hits mid-season.</desc>
   </programme>
-  <programme start="20261026213251 +0000" stop="20261026213542 +0000" channel="redbull_action_reel">
-    <title lang="it">What tourists don't see</title>
-    <desc lang="it">Dominic Di Tommaso gives a tour through the city of Bruges, Belgium unlike anything tourists have ever seen, jumping from building to building with no fear of heights.</desc>
+  <programme start="20261027145000 +0000" stop="20261027151211 +0000" channel="redbull_motorsports">
+    <title lang="it">Ripping it up in Romania</title>
+    <desc lang="it">Mani Lettenbichler and Paul Bolton head to Sibiu for Red Bull Romaniacs, probably the most anticipated and most feared event on the Hard Enduro calendar.</desc>
   </programme>
-  <programme start="20261026213542 +0000" stop="20261026214043 +0000" channel="redbull_action_reel">
-    <title lang="it">Kriss Kyle swaps BMX for MTB</title>
-    <desc lang="it">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle. Watch as he transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+  <programme start="20261027151211 +0000" stop="20261027160416 +0000" channel="redbull_motorsports">
+    <title lang="it">Straight Rhythm</title>
+    <desc lang="it">La pressione è alta quando 32 corridori d’élite si affrontano testa a testa sulla sezione ritmica lunga 800 metri di pista "srotolata": niente curve, niente giri, solo pista dritta irta di ostacoli. Su un percorso così breve, la vittoria è determinata da millimetri e secondi.</desc>
   </programme>
-  <programme start="20261026214043 +0000" stop="20261026214547 +0000" channel="redbull_action_reel">
-    <title lang="it">Warehouse paradise</title>
-    <desc lang="it">Jaakko Ojanen, Philipp Schuster and fellow skateboarders hit the perfect mini ramp suspended from the ceiling 7m off the ground in the unreal warehouse of premiere ramp builder, IOU Ramps.</desc>
+  <programme start="20261027160416 +0000" stop="20261027171151 +0000" channel="redbull_motorsports">
+    <title lang="it">Crandon World Cup</title>
+    <desc lang="it">More than 50,000 fans gather in Crandon, Wisconsin, to cheer for their favourite drivers as they race on the longest and the fastest short-course track for Crandon World Championship Off-Road Races.</desc>
   </programme>
-  <programme start="20261026214547 +0000" stop="20261026215229 +0000" channel="redbull_action_reel">
+  <programme start="20261027171151 +0000" stop="20261027172907 +0000" channel="redbull_motorsports">
+    <title lang="it">Il prodigio del motocross</title>
+    <desc lang="it">L'estate 2021 di Jett parte benissimo grazie al comando della classifica preso a inizio 250 Pro Motocross Championship, ma diventa perfetto quando riceve una visita a sorpresa da un ex prodigio del motocross: Travis Pastrana.</desc>
+  </programme>
+  <programme start="20261027043602 +0000" stop="20261027044244 +0000" channel="redbull_action_reel">
     <title lang="it">From sim to reality</title>
     <desc lang="it">Max Verstappen gets sucked into his simulator and needs to clear different levels to get ready for the Belgium GP in Spa-Francorchamps.</desc>
   </programme>
-  <programme start="20261026215229 +0000" stop="20261026215749 +0000" channel="redbull_action_reel">
+  <programme start="20261027044244 +0000" stop="20261027044445 +0000" channel="redbull_action_reel">
+    <title lang="it">Kate Courtney</title>
+    <desc lang="it">Watch the undiluted sights and sounds of cross-country mountain biker Kate Courtney tearing up the trails in Sedona, Arizona.</desc>
+  </programme>
+  <programme start="20261027044445 +0000" stop="20261027044731 +0000" channel="redbull_action_reel">
+    <title lang="it">360° of Jaxson Riddle</title>
+    <desc lang="it">See Jaxson Riddle lay down tricks in 360 degrees as he carves through the landscape of southwest Utah ahead of competing in his second Red Bull Rampage.</desc>
+  </programme>
+  <programme start="20261027044731 +0000" stop="20261027045020 +0000" channel="redbull_action_reel">
+    <title lang="it">The mighty waves of Nazaré</title>
+    <desc lang="it">Le onde di Nazaré, in Portogallo, sono rinomate per la loro selvaggia ferocia, che le rende una vera calamita per i surfisti di big wave. Guarda Justine Dupont, Andrew Cotton, Conor Maguire, Kai Lenny e molti altri affrontare delle slab terrificanti.</desc>
+  </programme>
+  <programme start="20261027045020 +0000" stop="20261027045230 +0000" channel="redbull_action_reel">
+    <title lang="it">Wake Crane</title>
+    <desc lang="it">Three top wakeboarders – Dominik Gührs, Felix Georgii and Dominik Hernler – rip around a custom wakeboard park built from a crane and a bunch of cargo containers in the port of Pula, Croatia.</desc>
+  </programme>
+  <programme start="20261027045230 +0000" stop="20261027045638 +0000" channel="redbull_action_reel">
+    <title lang="it">Freerunner's guide to the Sydney Opera House</title>
+    <desc lang="it">Watch Dominic Di Tommaso freerun on the roof of the Sydney Opera House – all the way to tip of the sails. (Activities performed in a controlled environment under the supervision of professionals.)</desc>
+  </programme>
+  <programme start="20261027045638 +0000" stop="20261027050003 +0000" channel="redbull_action_reel">
+    <title lang="it">Wakeskate reflection</title>
+    <desc lang="it">South African wakeskater Matti Buys invited one of the most influential pioneers of the sport, USA’s Brian Grubb, to South Africa to hit some of the most prominent spots around Durban.</desc>
+  </programme>
+  <programme start="20261027050003 +0000" stop="20261027050308 +0000" channel="redbull_action_reel">
+    <title lang="it">Dreamland</title>
+    <desc lang="it">Professional freerunners Jason Paul and Dimitris Kyrsanidis explore a shipping container-filled obstacle course through Port of Haydarpaşa in Turkey, at the entrance of the Bosphorus.</desc>
+  </programme>
+  <programme start="20261027050308 +0000" stop="20261027050516 +0000" channel="redbull_action_reel">
+    <title lang="it">The Folgefonna session</title>
+    <desc lang="it">Go behind the scenes with The Collective crew as they capture some of the film's most stunning shots high on the Folgefonna plateau in Norway.</desc>
+  </programme>
+  <programme start="20261027050516 +0000" stop="20261027050821 +0000" channel="redbull_action_reel">
+    <title lang="it">Brandon Semenuk – Velocità della luce</title>
+    <desc lang="it">La troupe di Revel Co. si dirige verso la valle di Hakuba, in Giappone, insieme al regista Clay Porter, in una terra solitamente riservata a sciatori e snowboarder. Cosa ne pensa Brandon Semenuk dello sporco giapponese?</desc>
+  </programme>
+  <programme start="20261027050821 +0000" stop="20261027051010 +0000" channel="redbull_action_reel">
+    <title lang="it">Brandon Semenuk – Raw 100, V6</title>
+    <desc lang="it">Brandon Semenuk porta l'azione in una miniera abbandonata a Merritt, British Columbia, per il suo sesto contributo alla nostra serie Raw 100.</desc>
+  </programme>
+  <programme start="20261027051010 +0000" stop="20261027051214 +0000" channel="redbull_action_reel">
+    <title lang="it">Best moments</title>
+    <desc lang="it">Watch our curated edit of some the best moments from the eighth edition of Red Bull Art of Motion, where freerunners turned the Athenian Riviera into their own personal playground.</desc>
+  </programme>
+  <programme start="20261027051214 +0000" stop="20261027051429 +0000" channel="redbull_action_reel">
+    <title lang="it">Adrenaline Spike</title>
+    <desc lang="it">Polish freerunner Krystian Kowalewski gets an Adrenaline Spike, as he takes on VALORANT agent Jett's abilities and races through the streets of Berlin.</desc>
+  </programme>
+  <programme start="20261027051429 +0000" stop="20261027051719 +0000" channel="redbull_action_reel">
+    <title lang="it">Cherry blossoms</title>
+    <desc lang="it">The blossom-laden, tree-lined streets of Taipei and Kaohsiung in Taiwan provided skateboarder Simon Stricker with an irresistible playground to shred.</desc>
+  </programme>
+  <programme start="20261027051719 +0000" stop="20261027052239 +0000" channel="redbull_action_reel">
     <title lang="it">Benny Milam’s snowmobile session with Levi LaVallee</title>
     <desc lang="it">With some creativity Benny Milam and Levi LaVallee turn a field and a few bales of hay into the perfect setup for a one-of-a-kind tow-in snowboarding session in Minnesota, USA.</desc>
   </programme>
-  <programme start="20261026215749 +0000" stop="20261026220031 +0000" channel="redbull_action_reel">
+  <programme start="20261027052239 +0000" stop="20261027052520 +0000" channel="redbull_action_reel">
     <title lang="it">Catching storm waves</title>
     <desc lang="it">Mentre una violenta tempesta del Pacifico Settentrionale si abbatte sulle Hawaii, Kai Lenny, Joao Maffini, Torrey Meister, Nic Lamb e altri si lanciano sulle onde selvagge di Jaws.</desc>
   </programme>
-  <programme start="20261026220031 +0000" stop="20261026220348 +0000" channel="redbull_action_reel">
-    <title lang="it">Keys to the track</title>
-    <desc lang="it">To Travis Pastrana, Alexander Rossi and Gregg Duffy, plunging winter temps just mean they won't be bothered as they let themselves into Indianapolis Motor Speedway for a day of high-octane fun.</desc>
+  <programme start="20261027052520 +0000" stop="20261027052655 +0000" channel="redbull_action_reel">
+    <title lang="it">Action from Fabio Wibmer's latest project</title>
+    <desc lang="it">Take a look at the action in Wibmer's Law as Fabio Wibmer takes situations that look dicey and turns them into outstanding tricks.</desc>
   </programme>
-  <programme start="20261026220348 +0000" stop="20261026220848 +0000" channel="redbull_action_reel">
-    <title lang="it">Off-road</title>
-    <desc lang="it">Off-roaders Seth Quintero and Mitch Guthrie Jr carve lines and crawl over rocks in the King of the Hammers desert to reach the top of the mountain – all captured in a single take from an aerial drone.</desc>
+  <programme start="20261027052655 +0000" stop="20261027053153 +0000" channel="redbull_action_reel">
+    <title lang="it">Skating in Mayan lands</title>
+    <desc lang="it">Explore the skate terrain throughout the ancient Mayan lands of Guatemala, Mexico and tiny Belize with Jaakko Ojanen, Madars Apse, Zack Wallin and Angelo Caro.</desc>
   </programme>
-  <programme start="20261026220848 +0000" stop="20261026221028 +0000" channel="redbull_action_reel">
-    <title lang="it">Rob Warner and Matt Jones go riding in New Zealand</title>
-    <desc lang="it">Experience just the clear sound of bike tyre on gravel track as Rob Warner and slopestyle rider Matt Jones ride down a mountainside trail in New Zealand's South Island.</desc>
+  <programme start="20261027053153 +0000" stop="20261027053444 +0000" channel="redbull_action_reel">
+    <title lang="it">Breaking in the elements</title>
+    <desc lang="it">It’s a battle of the elements as Red Bull BC One All Stars Menno, dancing in water, and Lil G, dancing while on fire, stage the most visually stunning dance-off.</desc>
   </programme>
-  <programme start="20261026221028 +0000" stop="20261026221318 +0000" channel="redbull_action_reel">
-    <title lang="it">Kolohe Andino</title>
-    <desc lang="it">Filmer Jacob Vanderwork brings us his best Kolohe Andino clips from their work together over the winter. Watch as Andino tears through the Hawaiian barrels.</desc>
+  <programme start="20261027053444 +0000" stop="20261027053738 +0000" channel="redbull_action_reel">
+    <title lang="it">Emil Johansson in Nuova Zelanda</title>
+    <desc lang="it">Non soddisfatto di aver vinto al primo round il titolo di Slopestyle World Champs 2020 a Rotorua, la star svedese dello slopestyle, Emil Johansson, ha girato un edit in bike park con la troupe locale, Hunt Cinema.</desc>
   </programme>
 </tv>
