@@ -30,26 +30,26 @@
   <channel id="RaiRadio2Visual.it">
     <display-name lang="it">rai-radio-2</display-name>
   </channel>
-  <programme start="20261028004000 +0200" stop="20261028011500 +0200" channel="Rai1.it">
+  <programme start="20261028004000 +0200" stop="20261028013000 +0200" channel="Rai1.it">
     <title lang="it">La Nottatanza - Puntata del 27/10/2026</title>
     <desc lang="it">È tempo di novità: "La Pennicanza" in onda anche su Rai1 in versione "La Nottatanza" con contenuti inediti di Rosario Fiorello, Fabrizio Biggio e dei loro ospiti. </desc>
   </programme>
-  <programme start="20261028011500 +0200" stop="20261028012000 +0200" channel="Rai1.it">
+  <programme start="20261028013000 +0200" stop="20261028013500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261028012000 +0200" stop="20261028021000 +0200" channel="Rai1.it">
-    <title lang="it">Tutti pazzi per amore - S1E1 - Questione di feeling</title>
-    <desc lang="it">Laura Dal Fiore è una donna separata madre di due figli, Emanuele e Nina. La loro vita scorre tranquilla fino a quando sul suo pianerottolo non si trasferisce Paolo Giorgi, vedovo, con sua figlia adolescente Cristina. Le due famiglie, dalle abitudini e gusti opposti, finiscono col detestarsi.</desc>
+  <programme start="20261028013500 +0200" stop="20261028022000 +0200" channel="Rai1.it">
+    <title lang="it">Sottovoce e dintorni: Luciano Rispoli - Puntata del 27/10/2026</title>
+    <desc lang="it">Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura. </desc>
   </programme>
-  <programme start="20261028021000 +0200" stop="20261028030000 +0200" channel="Rai1.it">
-    <title lang="it">Tutti pazzi per amore - S1E2 - Se telefonando</title>
-    <desc lang="it">Paolo ha perso il numero di telefono di Laura e cerca disperatamente il modo di ritrovarlo, mentre lei attende sconsolata una sua chiamata. Fortunatamente, le colleghe di "Tu donna" intervengono per risolvere la situazione. Ma potrà la magia del loro primo incontro far digerire ai due la scoperta di essere uno l'odiato vicino di casa dell'altro?</desc>
+  <programme start="20261028022000 +0200" stop="20261028035500 +0200" channel="Rai1.it">
+    <title lang="it">Provaci ancora Prof! S7E8 - La resa dei conti</title>
+    <desc lang="it">Gaetano e Camilla si sono separati. Lui soffre ma tiene il punto. Lei vorrebbe non pensarci ma ci pensa e soffre, così, alla fine, decide di fare un tentativo per recuperare la storia d'amore. Di Vasco continuano a non esserci notizie e Camilla, preoccupata, chiede informazioni ai compagni. </desc>
   </programme>
-  <programme start="20261028030000 +0200" stop="20261028034500 +0200" channel="Rai1.it">
+  <programme start="20261028035500 +0200" stop="20261028045000 +0200" channel="Rai1.it">
     <title lang="it">Doc Martin S2E2</title>
     <desc lang="it">La maestra Louisa Glasson e il Doc Martin sono innamorati, ma fanno di tutto per nasconderselo. Quando lei si candida per diventare la nuova Preside della scuola, lui dovrebbe darle il suo voto come membro del Consiglio d'Istituto.</desc>
   </programme>
-  <programme start="20261028034500 +0200" stop="20261028055500 +0200" channel="Rai1.it">
+  <programme start="20261028045000 +0200" stop="20261028055500 +0200" channel="Rai1.it">
     <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20261028055500 +0200" stop="20261028062800 +0200" channel="Rai1.it">
@@ -380,12 +380,12 @@
     <desc lang="it">Theo, un ragazzino in gamba, chiede alla squadra di aiutarlo a ritrovare la mamma, da poco scomparsa. Indagando, viene allo scoperto che la donna, Allie Acosta, è in fuga da un cacciatore di taglie.</desc>
   </programme>
   <programme start="20261028034500 +0200" stop="20261028035500 +0200" channel="Rai2.it">
-    <title lang="it">Zio Gianni</title>
-    <desc lang="it">Gianni ha 50 anni e improvvisamente non ha più lavoro, non ha più una moglie, non ha nemmeno una casa. Mentre rimette a posto la sua vita - o almeno ci prova! - l'unica cosa che può fare è andare a vivere con tre studenti poco più che ventenni.</desc>
+    <title lang="it">Zio Gianni S2E19 - Alessandro e lo sport</title>
+    <desc lang="it">Zio Gianni cerca di convincere suo figlio Alessandro, che passa le giornate a giocare ai videogiochi, a praticare sport ed altre attività per fare nuove amicizie.</desc>
   </programme>
   <programme start="20261028035500 +0200" stop="20261028040500 +0200" channel="Rai2.it">
-    <title lang="it">Impazienti</title>
-    <desc lang="it">SIT COM - Una manovra imprevista e crash... un incidente! Nessuna ferita, per fortuna, ma ha inizio di un'interminabile controversia tra due automobilisti coll'unico obiettivo d'incassare un risarcimento.... - Da un'idea di Massimiliano Tortora Con Enrico Bertolino e Max Tortora Regia di Celeste Laudisio</desc>
+    <title lang="it">Impazienti - S1E16 - Palla al centro - Amnesia - La pasticca - Bu'</title>
+    <desc lang="it">C'è sempre un modo per giocare a calcetto. Anche in ospedale.</desc>
   </programme>
   <programme start="20261028040500 +0200" stop="20261028042000 +0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
@@ -453,7 +453,7 @@
   </programme>
   <programme start="20261028140500 +0200" stop="20261028153000 +0200" channel="Rai2.it">
     <title lang="it">Ore 14 - Puntata del 28/10/2026</title>
-    <desc lang="it">Un faro acceso sui principali avvenimenti del giorno di cronaca e attualità, raccontati con collegamenti in diretta dai luoghi dove i fatti sono avvenuti e commentati da autorevoli opinionisti.</desc>
+    <desc lang="it">I casi della puntata: Eleonora Guidi, con una nuova perizia sull'assassino; il giallo della ricina e il mistero delle cozze, un dettaglio che apre nuovi interrogativi sulla vicenda; e il delitto di Garlasco, con video inediti di Andrea Sempio. </desc>
   </programme>
   <programme start="20261028153000 +0200" stop="20261028170000 +0200" channel="Rai2.it">
     <title lang="it">BellaMa' - Puntata del 28/10/2026</title>
@@ -515,12 +515,12 @@
     <desc lang="it">Il corpo del sottoufficiale di seconda classe Kendall Wells fa il suo drammatico ingresso in scena durante uno spettacolo teatrale. La squadra inizia a raccogliere indizi.</desc>
   </programme>
   <programme start="20261029034000 +0200" stop="20261029035000 +0200" channel="Rai2.it">
-    <title lang="it">Zio Gianni</title>
-    <desc lang="it">SIT COM - Perso il lavoro e cacciato di casa dalla moglie, Gianni Coletti, a cinquant'anni, si ritrova a dover reinventare la sua vita. Va a vivere in un piccolo appartamento, ma lo deve condividere con tre ragazzi ventenni.... - Da un'idea di The Pills Con Paolo Calabresi, Luca Di Capua, Cristel Checca, Francesco Russo Regia di Sydney Sibilia e Daniele Grassetti Prodotta da Andrea Paris e Matteo Rovere per IFF</desc>
+    <title lang="it">Zio Gianni S2E30 - Home Alone</title>
+    <desc lang="it">I coinquilini di Zio Gianni devono partire per il weekend, ma sono preoccupati nel lasciare solo Gianni a casa: nel quartiere, infatti, agiscono dei ladri che non esitano ad uccidere gli anziani per derubarli.</desc>
   </programme>
   <programme start="20261029035000 +0200" stop="20261029040000 +0200" channel="Rai2.it">
-    <title lang="it">Impazienti</title>
-    <desc lang="it">SIT COM - Una manovra imprevista e crash... un incidente! Nessuna ferita, per fortuna, ma ha inizio di un'interminabile controversia tra due automobilisti coll'unico obiettivo d'incassare un risarcimento.... - Da un'idea di Massimiliano Tortora Con Enrico Bertolino e Max Tortora Regia di Celeste Laudisio</desc>
+    <title lang="it">Impazienti - S1E17 - Il fidanzato - Inseparabili</title>
+    <desc lang="it">Due padri a confronto: chi è il genitore migliore?</desc>
   </programme>
   <programme start="20261029040000 +0200" stop="20261029042000 +0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
@@ -595,8 +595,8 @@
     <desc lang="it">20 concorrenti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
   </programme>
   <programme start="20261029170000 +0200" stop="20261029180000 +0200" channel="Rai2.it">
-    <title lang="it">Squadra Speciale Cobra 11 La guerra dell</title>
-    <desc lang="it">Squadra Speciale Cobra 11 La guerra delle immobiliari - TELEFILM - Martin Gruber, figlio di un immobiliarista, vuole ricattare il padre con delle foto compromettenti, per indurlo a cedere uno stabile agli  - attivisti che l'hanno occupato... - 21^ stagione Con Erdogan Atalay, Daniel Roesner</desc>
+    <title lang="it">Squadra Speciale Cobra 11 S20E12 - La guerra delle immobiliari</title>
+    <desc lang="it">Semir e Paul assistono a un brutale omicidio di un giovane motociclista; iniziano così ad indagare. Una traccia li porta nell'ambiente di occupanti abusivi di abitazioni, che vorrebbero degli alloggi in città a prezzi accessibili. L'identità della vittima viene subito scoperta, si tratta di Jonas, uno degli occupanti.</desc>
   </programme>
   <programme start="20261029180000 +0200" stop="20261029181000 +0200" channel="Rai2.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
@@ -616,12 +616,12 @@
     <title lang="it">Meteo 2</title>
   </programme>
   <programme start="20261029190000 +0200" stop="20261029194500 +0200" channel="Rai2.it">
-    <title lang="it">Blue Bloods Fiducia</title>
-    <desc lang="it">TELEFILM - Danny e Baez indagano sulla morte di un giovane studente, avvenuta in seguito ad un'intossicazione da alcool. Eddie e Maya, la sua nuova partner, intervengono in un litigio.... - 9^ stagione Con Tom Selleck, Bridget Moynahan, Donnie Wahlberg</desc>
+    <title lang="it">Blue Bloods S9E6 - Fiducia</title>
+    <desc lang="it">Danny e Baez indagano sulla morte di un giovane studente, avvenuta in seguito ad un'intossicazione da alcool. Eddie e Maya, la sua nuova partner, intervengono in un litigio tra due uomini di origini ispaniche.</desc>
   </programme>
   <programme start="20261029194500 +0200" stop="20261029203000 +0200" channel="Rai2.it">
-    <title lang="it">Blue Bloods Il ritorno di Delgado</title>
-    <desc lang="it">TELEFILM - In una discarica viene trovata una testa mozzata che corrisponde al corpo che si presumeva fosse di Delgado. Invece, Delgado è vivo e collabora con la D.E.A..... - 9^ stagione Con Tom Selleck, Bridget Moynahan, Donnie Wahlberg</desc>
+    <title lang="it">Blue Bloods S9E7 - Il ritorno di Delgado</title>
+    <desc lang="it">In una discarica viene trovata una testa mozzata che corrisponde al corpo che si presumeva fosse di Delgado.</desc>
   </programme>
   <programme start="20261029203000 +0200" stop="20261029210000 +0200" channel="Rai2.it">
     <title lang="it">TG2 20.30</title>
@@ -819,16 +819,16 @@
     <desc lang="it">A cura delle redazioni regionali della TGR</desc>
   </programme>
   <programme start="20261028080000 +0200" stop="20261028095000 +0200" channel="Rai3.it">
-    <title lang="it">Agorà - Puntata del 28/10/2026</title>
-    <desc lang="it">Annalisa Bruchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
+    <title lang="it">Lotta in pari - Agorà</title>
+    <desc lang="it">Il voto in Israele ridisegna gli equilibri politici, con Netanyahu in testa ma senza una maggioranza certa. In Italia, la manovra torna al centro del confronto con le misure dedicate ai giovani e alle pensioni. Intanto, Youssef Siher sceglie di non rispondere alla gip e cresce l'attenzione in vista di venerdì. Ne parlano: Debora Bergamini, Elisabetta Piccolotti, Francesco Borgonovo, Carmen Lasorella, Agnese Pini, Corradino Mineo, Gianni Barbacetto, Fabio Dragoni, Annalisa Terranova, Daniela Tagliafico, Germano Dottori. </desc>
   </programme>
   <programme start="20261028095000 +0200" stop="20261028104500 +0200" channel="Rai3.it">
-    <title lang="it">Agorà Extra - Puntata del 28/10/2026</title>
-    <desc lang="it">Giulia Di Stefano racconta l'attualità attraverso analisi, interviste e dibattiti con i protagonisti della politica e del giornalismo per comprendere i cambiamenti dell'Italia e del mondo.</desc>
+    <title lang="it">L'ora X - Agorà Extra</title>
+    <desc lang="it">La manovra entra nella fase finale, con misure a sostegno di giovani, ceto medio e imprese. Il Governo punta a mantenere i conti in ordine. Il caro energia resta una sfida per le attività produttive, come racconta uno storico forno di Bologna. Si torna infine a parlare dell'ora solare e della possibile abolizione del cambio stagionale dell'ora. Ospiti: Ylenja Lucaselli, Marco Sarracino, Sarina Biraghi, Sara Manfuso, Michele Mirabella, Luigi Gabriele. </desc>
   </programme>
   <programme start="20261028104500 +0200" stop="20261028115500 +0200" channel="Rai3.it">
     <title lang="it">Elisir - Puntata del 28/10/2026</title>
-    <desc lang="it">Michele Mirabella, Francesca Parisella e Benedetta Rinaldi presentano nuovi approfondimenti su benessere fisico e psicologico, alimentazione, stili di vita e attualità medico-scientifica, grazie al contributo di esperti e a servizi sempre aggiornati.</desc>
+    <desc lang="it">Oggi si parla di sovrappeso, una condizione sempre più diffusa che rappresenta un importante fattore di rischio per numerose patologie croniche, tra cui malattie cardiovascolari, diabete e alcune forme di tumore. Ne parla Alessandro Laviano, responsabile dell'Unità Operativa di Nutrizione Clinica dell'Ospedale Sant'Andrea di Roma. A seguire, nella rubrica "È vero che?", si fa chiarezza sui sonniferi, farmaci spesso utilizzati per contrastare l'insonnia e altri disturbi del sonno. Quando possono essere realmente utili? Quali precauzioni è importante adottare per evitare effetti indesiderati o fenomeni di dipendenza? Risponde a queste domande Claudio Liguori, neurologo del Policlinico Tor Vergata di Roma. Infine, per "L'ABC della salute", si parla di aneurisma, una dilatazione anomala di un vaso sanguigno che spesso non provoca sintomi ma che, se non riconosciuta e monitorata, può comportare conseguenze molto gravi. Esistono controlli utili per identificarlo precocemente? E quali trattamenti sono disponibili? Lo spiega Yamume Tschomba, direttore di chirurgia vascolare al Policlinico Universitario Agostino Gemelli - Università Cattolica di Roma.</desc>
   </programme>
   <programme start="20261028115500 +0200" stop="20261028120000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
@@ -842,7 +842,7 @@
   </programme>
   <programme start="20261028125000 +0200" stop="20261028132000 +0200" channel="Rai3.it">
     <title lang="it">Quante storie - Puntata del 28/10/2026</title>
-    <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
+    <desc lang="it">Il Rinascimento non è stato soltanto l'età d'oro della conoscenza e della bellezza ma anche una pietra angolare nella costruzione dell'identità nazionale. Attraverso i capolavori di Leonardo, Raffaello e Michelangelo, il giornalista Aldo Cazzullo, ospite di Giorgio Zanchini a "Quante Storie", ripercorre il filo che lega il Rinascimento al nostro presente e auspica che la lezione del suo umanesimo torni a guidare le nostre azioni. </desc>
   </programme>
   <programme start="20261028132000 +0200" stop="20261028140000 +0200" channel="Rai3.it">
     <title lang="it">Passato e Presente - Margherita, la prima regina d'Italia - 28/10/2026</title>
@@ -860,29 +860,25 @@
   <programme start="20261028144900 +0200" stop="20261028145000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20261028145000 +0200" stop="20261028150500 +0200" channel="Rai3.it">
+  <programme start="20261028145000 +0200" stop="20261028150000 +0200" channel="Rai3.it">
     <title lang="it">TGR Leonardo</title>
     <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. Caporedattore centrale Francesco Marino. A cura della TGR Piemonte</desc>
   </programme>
-  <programme start="20261028150500 +0200" stop="20261028151500 +0200" channel="Rai3.it">
+  <programme start="20261028150000 +0200" stop="20261028160000 +0200" channel="Rai3.it">
+    <title lang="it">Rai Parlamento - Question Time</title>
+    <desc lang="it">In diretta dalla Camera dei Deputati "Question Time" - Interrogazioni a risposta immediata</desc>
+  </programme>
+  <programme start="20261028160000 +0200" stop="20261028161000 +0200" channel="Rai3.it">
     <title lang="it">TGR Piazza Affari</title>
     <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Lombardia</desc>
   </programme>
-  <programme start="20261028151500 +0200" stop="20261028152000 +0200" channel="Rai3.it">
+  <programme start="20261028161000 +0200" stop="20261028161500 +0200" channel="Rai3.it">
     <title lang="it">TG3 LIS</title>
   </programme>
-  <programme start="20261028152000 +0200" stop="20261028152500 +0200" channel="Rai3.it">
+  <programme start="20261028161500 +0200" stop="20261028162000 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
   </programme>
-  <programme start="20261028152500 +0200" stop="20261028161000 +0200" channel="Rai3.it">
-    <title lang="it">Last Cop - L'ultimo sbirro</title>
-    <desc lang="it">Nel 1980, il commissario Mick Brisgau cade in coma, a seguito di un colpo alla testa. Dopo 20 anni si risveglia e torna in servizio presso il commissariato di Essen, ma deve scontrarsi con metodi più moderni rispetto a quelli da lui usati in passato.</desc>
-  </programme>
-  <programme start="20261028161000 +0200" stop="20261028170000 +0200" channel="Rai3.it">
-    <title lang="it">Aspettando Geo</title>
-    <desc lang="it">DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu - tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi Un programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone Capo progetto: Fausta Vannutelli Coordinamento editoriale: Caterina Manganella  Regia: Michelangelo Pepe</desc>
-  </programme>
-  <programme start="20261028170000 +0200" stop="20261028190000 +0200" channel="Rai3.it">
+  <programme start="20261028162000 +0200" stop="20261028190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 28/10/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
@@ -913,7 +909,7 @@
   </programme>
   <programme start="20261028211500 +0200" stop="20261029000000 +0200" channel="Rai3.it">
     <title lang="it">Chi l'ha visto? - Puntata del 28/10/2026</title>
-    <desc lang="it">Raffaella Griggi racconta casi di scomparsa, storie di fragilità sociale e misteri da risolvere grazie all'aiuto dei telespettatori e al lavoro della redazione e degli inviati del programma.</desc>
+    <desc lang="it">Il disagio giovanile può assumere tante forme: in questa puntata la testimonianza della mamma di un ragazzo hikikomori che è riuscito ad uscire da un isolamento in cui era precipitato per il timore di essere inadeguato e dove si sentiva "protetto" dalle sue paure. Se ne parla con lo psicologo Marco Crepaldi, fondatore dell'associazione Hikikomori Italia. A seguire, il caso di Agata Scuto, la ragazza scomparsa nel 2012: Rosario Palermo, il compagno della madre, è stato condannato all'ergastolo con l'accusa di avere ucciso la ragazza e di averne occultato il corpo. Ma la Cassazione ha annullato con rinvio la sentenza e mercoledì inizia il nuovo processo presso la Corte d'Assise d'Appello di Catania. In diretta a "Chi l'ha visto? " la mamma di Agata lancia un appello: "Voglio sapere dov'è il corpo di mia figlia". Infine, la morte del calciatore Denis Bergamini, il cui corpo fu ritrovato lungo la statale 106 Jonica. Dopo 37 anni, si aspetta a breve la sentenza di un'inchiesta archiviata inizialmente come suicidio e poi riaperta: Denis, come ha sempre sostenuto la famiglia, non si è suicidato. Per la Procura si è trattato di un omicidio maturato all'interno della famiglia della ex fidanzata. Raffaella Griggi, insieme all'inviato Paolo Fattori che segue il caso dall'inizio, ricostruisce le tappe di questa vicenda. Come sempre spazio agli appelli, alle richieste di aiuto, alle segnalazioni dei telespettatori di persone in difficoltà.</desc>
   </programme>
   <programme start="20261029000000 +0200" stop="20261029010000 +0200" channel="Rai3.it">
     <title lang="it">TG3 Linea Notte</title>
@@ -1957,23 +1953,23 @@
   </programme>
   <programme start="20261029065500 +0200" stop="20261029084000 +0200" channel="RaiMovie.it">
     <title lang="it">3 straniere a Roma</title>
-    <desc lang="it">FILM COMMEDIA - Roma, anni Cinquanta. Tre ragazze milanesi in visita di piacere si fingono danesi per attirare un gruppo di ragazzi. Quanto durerà lo scherzo?. - di Claudio Gora con Claudia Cardinale, Yvonne Monlaur, Françoise Danell 1958 ITA</desc>
+    <desc lang="it">Elsa, Nanda e Marisa arrivano a Roma da Milano per Pasqua. Sentendosi ignorate da tutti, decidono di fingersi straniere: attirano così l'attenzione di tre giovani pronti a far da guida. La recita funziona e procura loro un invito a cena in un locale alla moda, dove però qualche bicchiere di troppo rischierà di svelare le loro vere origini.</desc>
   </programme>
   <programme start="20261029084000 +0200" stop="20261029102500 +0200" channel="RaiMovie.it">
     <title lang="it">Totò contro il pirata nero</title>
-    <desc lang="it">FILM COMICO - Totò, in fuga dalla legge, finisce su una nave pirata e ne diviene ufficiale. E' solo l'inizio di una serie di rocambolesche avventure.. - di Fernando Cerchio con Totò, Mario Petri, Aldo Giuffré 1964 ITA</desc>
+    <desc lang="it">Totò, in fuga dalla legge, finisce su una nave pirata e ne diviene ufficiale. E' solo l'inizio di una serie di rocambolesche avventure.</desc>
   </programme>
   <programme start="20261029102500 +0200" stop="20261029121000 +0200" channel="RaiMovie.it">
-    <title lang="it">Rose rosse per il führer</title>
-    <desc lang="it">FILM GUERRA - Durante la seconda guerra mondiale Liston, un coraggioso maggiore, ha l'incarico di recuperare un importante documento caduto nelle mani dello spionaggio tedesco.. - di Fernando Di Leo con James Daly, Pier Angeli, Nino Castelnuovo 1968 ITA - PROGRAMMA ADATTO AD UNA VISONE CONGIUNTA CON UN ADULTO</desc>
+    <title lang="it">Rose rosse per il Führer</title>
+    <desc lang="it">Durante la Seconda Guerra Mondiale, un maggiore americano cerca di recuperare, con l'aiuto di alcuni partigiani, un prezioso memorandum dalle mani dei nazisti.</desc>
   </programme>
   <programme start="20261029121000 +0200" stop="20261029140000 +0200" channel="RaiMovie.it">
     <title lang="it">Senza controllo</title>
-    <desc lang="it">FILM DRAMMATICO - Texas, oggi. Rimasta vedova, Stella cerca di pagare i debiti del suo lussuoso ranch con un programma di riabilitazione che prevede l'utilizzo di cavalli selvaggi. L'animalista Meredith fa di tutto per ostacolarla - . - di Alex Ranarivelo con Sharon Stone, Dorian Brown, Tommy Flanagan 2017 USA</desc>
+    <desc lang="it">Texas, oggi. Rimasta vedova, Stella Davis decide di risanare i debiti del proprio ranch di lusso aprendo le porte a dei detenuti perché possano addomesticare una mandria di cavalli selvaggi. Ma si troverà a battersi con pregiudizi, burocrazia e avidità.</desc>
   </programme>
   <programme start="20261029140000 +0200" stop="20261029160500 +0200" channel="RaiMovie.it">
     <title lang="it">Il ponte di Remagen</title>
-    <desc lang="it">FILM GUERRA - Fronte Occidentale, marzo 1945. Negli ultimi giorni della Seconda Guerra Mondiale, tedeschi e alleati si scontrano con ferocia per il controllo dell'ultimo ponte che consente la traversata del fiume Reno.. - di John Guillermin  con George Segal, Robert Vaughn, Ben Gazzara 1969 USA</desc>
+    <desc lang="it">Verso la fine della guerra, il ponte di Remagen diventa il teatro di una battaglia cruenta: i soldati tedeschi tentano di difenderlo strenuamente per sbarrare la strada agli americani. Nonostante gli atti di valore e i pesanti sacrifici umani da entrambe le parti, la strenua resistenza non può cambiare un destino ormai segnato per la Germania.</desc>
   </programme>
   <programme start="20261029160500 +0200" stop="20261029174000 +0200" channel="RaiMovie.it">
     <title lang="it">Alice e Peter</title>
@@ -1981,11 +1977,11 @@
   </programme>
   <programme start="20261029174000 +0200" stop="20261029192500 +0200" channel="RaiMovie.it">
     <title lang="it">California addio</title>
-    <desc lang="it">FILM WESTERN - Terminata la guerra di secessione, il giovane "California" va a trovare i familiari di un amico ucciso per consegnare loro la medaglia al valore del loro congiunto. Alle ore 18:35 Rai News. - di Michele Lupo con Giuliano Gemma, Miguel Bosé, William Berger 1977 ITA</desc>
+    <desc lang="it">Reduce sudista, Willy viene ucciso sulla strada del ritorno a casa e il commilitone California si reca dai suoi familiari portando la triste notizia. Accolto come un figlio e innamoratosi della sorella di Willy, decide di fermarsi, ma tre loschi individui inseguiti dall'esercito prendono la sua ragazza in ostaggio. </desc>
   </programme>
   <programme start="20261029192500 +0200" stop="20261029211000 +0200" channel="RaiMovie.it">
     <title lang="it">La liceale, il diavolo e l'acquasanta</title>
-    <desc lang="it">FILM COMMEDIA - Tre episodi birichini: una liceale sexy seduce il suo angelo custode; un poliziotto innamorato fronteggia un rivale inatteso; un uomo vende l'anima al diavolo, ma scopre che l'acquirente è int - eressato ad altro. - di Nando Cicero con Gloria Guida, Lino Banfi, Alvaro Vitali  1979 ITA - PROGRAMMA ADATTO AD UNA VISONE CONGIUNTA CON UN ADULTO</desc>
+    <desc lang="it">Tre episodi birichini: una liceale sexy seduce il suo angelo custode; un poliziotto innamorato fronteggia un rivale inatteso; un uomo vende l'anima al diavolo, ma scopre che l'acquirente è interessato ad altro. </desc>
   </programme>
   <programme start="20261029211000 +0200" stop="20261029231000 +0200" channel="RaiMovie.it">
     <title lang="it">Indagine su un cittadino al di sopra di ogni sospetto</title>
@@ -3239,9 +3235,13 @@
     <title lang="it">Sabato al 90° del 27/10/2026</title>
     <desc lang="it">La storica rubrica Rai che mostra tutti i gol e le azioni salienti degli anticipi di campionato di Serie A.</desc>
   </programme>
-  <programme start="20261028082500 +0200" stop="20261028111500 +0200" channel="RaiSport.it">
+  <programme start="20261028082500 +0200" stop="20261028104500 +0200" channel="RaiSport.it">
     <title lang="it">Curling - Europei 2026 - Gruppo A: Italia - Germania</title>
     <desc lang="it">Europei - Gruppo A: Italia - Germania</desc>
+  </programme>
+  <programme start="20261028104500 +0200" stop="20261028111500 +0200" channel="RaiSport.it">
+    <title lang="it">Corsa su strada - La 30 Trentina 2026</title>
+    <desc lang="it">La 30 Trentina </desc>
   </programme>
   <programme start="20261028111500 +0200" stop="20261028120000 +0200" channel="RaiSport.it">
     <title lang="it">La Rosa del Calcio del 27/10/2026</title>
@@ -3251,13 +3251,13 @@
     <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 2a giornata: Gas Sales Piacenza - Valsa Group Modena</title>
     <desc lang="it">Nella seconda giornata della SuperLega Credem Banca 2026-2027, Gas Sales Bluenergy Piacenza e Valsa Group Modena si affrontano in una sfida di alto livello del massimo campionato italiano.</desc>
   </programme>
-  <programme start="20261028140000 +0200" stop="20261028145000 +0200" channel="RaiSport.it">
+  <programme start="20261028140000 +0200" stop="20261028153000 +0200" channel="RaiSport.it">
     <title lang="it">Pattinaggio di Figura - Grand Prix de France 2026: Libero Coppie</title>
     <desc lang="it">Grand Prix de France - Libero Coppie</desc>
   </programme>
-  <programme start="20261028145000 +0200" stop="20261028164000 +0200" channel="RaiSport.it">
-    <title lang="it">World Skate Games 2026 - Pattinaggio su pista: Senior</title>
-    <desc lang="it">World Skate Games - Pattinaggio su pista: Senior</desc>
+  <programme start="20261028153000 +0200" stop="20261028164000 +0200" channel="RaiSport.it">
+    <title lang="it">Curling - Europei maschili 2026 - Gruppo A: Italia - Germania</title>
+    <desc lang="it">Europei maschili - Gruppo A: Italia - Germania</desc>
   </programme>
   <programme start="20261028164000 +0200" stop="20261028175000 +0200" channel="RaiSport.it">
     <title lang="it">World Skate Games 2026 - Pattinaggio artistico: Senior</title>
@@ -3282,11 +3282,11 @@
     <title lang="it">Curling - Europei 2026 - Gruppo A: Italia - Germania</title>
     <desc lang="it">Europei - Gruppo A: Italia - Germania</desc>
   </programme>
-  <programme start="20261029025000 +0200" stop="20261029050000 +0200" channel="RaiSport.it">
+  <programme start="20261029025000 +0200" stop="20261029045000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Coppa Italia Serie C Regionale Trenitalia 2026/27 Spezia - Livorno</title>
     <desc lang="it">Calcio: Coppa Italia Serie C Regionale Trenitalia 2026/27 Spezia - Livorno</desc>
   </programme>
-  <programme start="20261029050000 +0200" stop="20261029060000 +0200" channel="RaiSport.it">
+  <programme start="20261029052500 +0200" stop="20261029060000 +0200" channel="RaiSport.it">
     <title lang="it">World Skate Games 2026 - Pattinaggio su pista: Senior</title>
     <desc lang="it">World Skate Games - Pattinaggio su pista: Senior</desc>
   </programme>
@@ -3303,10 +3303,12 @@
     <desc lang="it">Campioni, storie e retroscena: tutto quello che c'è da sapere sulla pallavolo italiana, la Serie A maschile e femminile e le Nazionali.</desc>
   </programme>
   <programme start="20261029080000 +0200" stop="20261029092500 +0200" channel="RaiSport.it">
-    <title lang="it">Speciale La Domenica Sportiva</title>
+    <title lang="it">Domenica Sportiva - Puntata del 28/10/2026</title>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
   <programme start="20261029092500 +0200" stop="20261029121500 +0200" channel="RaiSport.it">
-    <title lang="it">Curling</title>
+    <title lang="it">Curling - Europei femminili 2026 - Gruppo A: Italia - Svizzera </title>
+    <desc lang="it">Europei femminili - Gruppo A: Italia - Svizzera</desc>
   </programme>
   <programme start="20261029121500 +0200" stop="20261029142500 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Coppa Italia Serie C Regionale Trenitalia 2026/27 Spezia - Livorno</title>
@@ -3420,7 +3422,7 @@
   </programme>
   <programme start="20261028103500 +0200" stop="20261028120000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 Social Club</title>
-    <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei.</desc>
+    <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei. Ospiti: Tullio De Piscopo, Federico Zampaglione, Giglia Marra, Maurizio Battista, Saverio Raimondo</desc>
   </programme>
   <programme start="20261028120000 +0200" stop="20261028133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 stai Serena</title>
