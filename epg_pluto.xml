@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261030010000 +0200" stop="20261030053757 +0200" channel="pluto_film_tv">
+  <programme start="20261030103000 +0200" stop="20261030143841 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261030053757 +0200" stop="20261030072357 +0200" channel="pluto_film_tv">
-    <title lang="it">Harold e Maude</title>
-    <desc lang="it">Un classico film di culto che mette in scena una delle coppie più improbabili della storia del cinema. Smentirà qualunque cosa abbiate visto o sentito a proposito degli amanti cinematografici.</desc>
-  </programme>
-  <programme start="20261030072357 +0200" stop="20261030090957 +0200" channel="pluto_film_tv">
-    <title lang="it">Girl In Progress</title>
-    <desc lang="it">Mentre Grace, una mamma single, si divide tra il lavoro, i conti e la sua relazione con un medico sposato, sua figlia Ansiedad trova una scorciatoia per diventare adulta prendendo ispirazione da un romanzo di formazione che sta leggendo per la scuola.</desc>
-  </programme>
-  <programme start="20261030090957 +0200" stop="20261030104437 +0200" channel="pluto_film_tv">
-    <title lang="it">Uno spostato sotto tiro</title>
-    <desc lang="it">Quella che doveva essere una fuga romantica si trasforma in una serie di disastri quando la fidanzata di Michael lo abbandona nel deserto, dove un adolescente gli ruba l'auto e viene preso in ostaggio durante una rapina al locale Sip and Zip.</desc>
-  </programme>
-  <programme start="20261030104437 +0200" stop="20261030123637 +0200" channel="pluto_film_tv">
-    <title lang="it">Detenuto in attesa di giudizio</title>
-    <desc lang="it">Il geometra Giuseppe Di Noi sperimenta i guai della Giustizia italiana degli anni '70 mentre torna in Italia per una vacanza.</desc>
-  </programme>
-  <programme start="20261030123637 +0200" stop="20261030143841 +0200" channel="pluto_film_tv">
-    <title lang="it">On My Way</title>
-    <desc lang="it">Bettie è una ristoratrice sessantenne a cui le cose vanno male: il compagno si sta per sposare con una donna più giovane e il ristorante è in crisi. Parte in auto per un viaggio senza destinazione che la riavvicinerà alla figlia e al nipote.</desc>
   </programme>
   <programme start="20261030143841 +0200" stop="20261030162441 +0200" channel="pluto_film_tv">
     <title lang="it">Harold e Maude</title>
@@ -72,41 +52,41 @@
     <title lang="it">Pootie Tang</title>
     <desc lang="it">Quando la guerra personale di Pootie contro l'avidità, l'ingiustizia e il consumismo a intaccare i suoi profitti alla LecterCorp, il capo impazzito dela compagnia lo introduce in un mondo pazzesco usando la sua cintura magica.</desc>
   </programme>
-  <programme start="20261031072153 +0200" stop="20261031130000 +0200" channel="pluto_film_tv">
+  <programme start="20261031072153 +0200" stop="20261031093053 +0200" channel="pluto_film_tv">
+    <title lang="it">Interstate 60</title>
+    <desc lang="it">Dal creatore di Ritorno al Futuro. Neil è un pittore ostacolato dal padre che vorrebbe vederlo laureato in legge. La situazione cambia all'improvviso quando incontra One Wish Grant (premio Oscar Gary Oldman), uomo in grado di esaudire ogni desiderio.</desc>
+  </programme>
+  <programme start="20261031093053 +0200" stop="20261031111953 +0200" channel="pluto_film_tv">
+    <title lang="it">Fatalità</title>
+    <desc lang="it">Con Nino D'Angelo, la storia di un uomo alla ricerca della felicità. Nino ha lasciato la famiglia per un'avventuriera che lo ha illuso e poi abbandonato. Proprio quando le cose tornano a girare per il meglio farà una fatale scoperta.</desc>
+  </programme>
+  <programme start="20261031111953 +0200" stop="20261031134953 +0200" channel="pluto_film_tv">
+    <title lang="it">Dreamgirls</title>
+    <desc lang="it">Con le eccezionali performance del cast, Dreamgirl racconta la storia di tre cantanti e del loro sogno: far trionfare la black music nel panorama USA degli Anni Sessanta e Settanta. Loro erano le Supremes!</desc>
+  </programme>
+  <programme start="20261031134953 +0200" stop="20261031152253 +0200" channel="pluto_film_tv">
+    <title lang="it">Pootie Tang</title>
+    <desc lang="it">Quando la guerra personale di Pootie contro l'avidità, l'ingiustizia e il consumismo a intaccare i suoi profitti alla LecterCorp, il capo impazzito dela compagnia lo introduce in un mondo pazzesco usando la sua cintura magica.</desc>
+  </programme>
+  <programme start="20261031152253 +0200" stop="20261031170953 +0200" channel="pluto_film_tv">
+    <title lang="it">True women</title>
+    <desc lang="it">Nel west dei mitici anni della frontiera Georgia Lawshe Woods si oppone alle strette regole morali per affermare sé stessa. Si appassiona alla politica affronta i pericoli della guerra e combatte l'ostilità degli indiani.</desc>
+  </programme>
+  <programme start="20261031170953 +0200" stop="20261031223000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261031130000 +0200" stop="20261101010000 +0200" channel="pluto_film_tv">
+  <programme start="20261031223000 +0200" stop="20261101103000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101010000 +0200" stop="20261101070000 +0200" channel="pluto_film_tv">
+  <programme start="20261101103000 +0200" stop="20261101163000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261030010000 +0200" stop="20261030053914 +0200" channel="pluto_film_azione">
+  <programme start="20261030103000 +0200" stop="20261030141430 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261030053914 +0200" stop="20261030073114 +0200" channel="pluto_film_azione">
-    <title lang="it">Gli irriducibili</title>
-    <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
-  </programme>
-  <programme start="20261030073114 +0200" stop="20261030090709 +0200" channel="pluto_film_azione">
-    <title lang="it">Duello tra i Ghiacci</title>
-    <desc lang="it">Durante la corsa all'oro dell'Alaska del 1800, un cacciatore inuit nativo cerca di salvare la sua casa ancestrale da uno spietato barone della terra.</desc>
-  </programme>
-  <programme start="20261030090709 +0200" stop="20261030105353 +0200" channel="pluto_film_azione">
-    <title lang="it">Dead Heat</title>
-    <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
-  </programme>
-  <programme start="20261030105353 +0200" stop="20261030122353 +0200" channel="pluto_film_azione">
-    <title lang="it">2012: Supernova</title>
-    <desc lang="it">In una galassia non lontana dalla Terra una stella si sta trasformando in Supernova. Mentre le microonde emesse dal gigante stellare minacciano il Pianeta, uno scienziato escogita un disperato piano di salvezza. C'è ancora una speranza per l'umanità.</desc>
-  </programme>
-  <programme start="20261030122353 +0200" stop="20261030141430 +0200" channel="pluto_film_azione">
-    <title lang="it">Crypto</title>
-    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
   </programme>
   <programme start="20261030141430 +0200" stop="20261030160630 +0200" channel="pluto_film_azione">
     <title lang="it">Furious Speed - Curve Pericolose</title>
@@ -148,65 +128,45 @@
     <title lang="it">Drone - Scegli il tuo nemico</title>
     <desc lang="it">Neil è un contractor che pilota droni e divide i suoi giorni tra missioni segrete e vita di periferia. La moglie e il figlio non conoscono la sua reale professione, finché un enigmatico imprenditore pakistano non si mette sulle sue tracce...</desc>
   </programme>
-  <programme start="20261031070213 +0200" stop="20261031130000 +0200" channel="pluto_film_azione">
+  <programme start="20261031070213 +0200" stop="20261031085013 +0200" channel="pluto_film_azione">
+    <title lang="it">A prova di idiota</title>
+    <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
+  </programme>
+  <programme start="20261031085013 +0200" stop="20261031102116 +0200" channel="pluto_film_azione">
+    <title lang="it">2 lava 2 lantula</title>
+    <desc lang="it">Secondo adrenalinico capitolo della saga spin-off di Sharknado. Quando un'eruzione vulcanica risveglia una colonia di ragni che invade e terrorizza la Florida, l'attore Colton West abbandona il set per correre in soccorso della figlia.</desc>
+  </programme>
+  <programme start="20261031102116 +0200" stop="20261031120222 +0200" channel="pluto_film_azione">
+    <title lang="it">The Gaelic King</title>
+    <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
+  </programme>
+  <programme start="20261031120222 +0200" stop="20261031133905 +0200" channel="pluto_film_azione">
+    <title lang="it">Ladre per Caso</title>
+    <desc lang="it">L’introversa Carole e la ribelle Caroline hanno in comune una sola cosa: il padre Patrick, un ladro internazionale ricercato in tutto il mondo. Intenzionato a rubare uno «stradivari» da 15 milioni di euro, chiederà alle figlie di assisterlo nell’impresa.</desc>
+  </programme>
+  <programme start="20261031133905 +0200" stop="20261031152226 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e la stella del paradiso</title>
+    <desc lang="it">L'avventuriero Jack Hunter insegue attraverso l'Europa Albert Littman, il suo nemico storico, cercando di contrastare i tentativi del rivale di impadronirsi di un pericoloso e misterioso oggetto.</desc>
+  </programme>
+  <programme start="20261031152226 +0200" stop="20261031170846 +0200" channel="pluto_film_azione">
+    <title lang="it">Borning 2 - Corsa Tra I Ghiacci</title>
+    <desc lang="it">Dopo due anni di prigione per corse illegali, Roy vuole rifarsi e fare da modello a sua figlia Nina. Rifiuta di correre ancora, ma quando scopre che Nina gareggerà col fidanzato, cambia idea e si prepara a sfidare di nuovo la strada.</desc>
+  </programme>
+  <programme start="20261031170846 +0200" stop="20261031223000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261031130000 +0200" stop="20261101010000 +0200" channel="pluto_film_azione">
+  <programme start="20261031223000 +0200" stop="20261101103000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101010000 +0200" stop="20261101070000 +0200" channel="pluto_film_azione">
+  <programme start="20261101103000 +0200" stop="20261101163000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261030010000 +0200" stop="20261030052914 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261030103000 +0200" stop="20261030142008 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261030052914 +0200" stop="20261030061345 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Mutazione genetica</title>
-    <desc lang="it">Dopo che una nave mercantile approda in Massachusetts, i topi invadono l'isola. Mitch fa visita a sua figlia e si prepara a ricevere la cura per la sua malattia terminale.</desc>
-  </programme>
-  <programme start="20261030061345 +0200" stop="20261030065746 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Comunicazioni a distanza</title>
-    <desc lang="it">La squadra indaga sui rapporti di Delavenne con la Reiden dopo che è stato visto da Mitch. La sfiducia cresce tra Mitch e gli altri quando scoprono che stava per restituire la cellula madre in cambio della medicina di sua figlia.</desc>
-  </programme>
-  <programme start="20261030065746 +0200" stop="20261030074635 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Mostro In Noi</title>
-    <desc lang="it">La dott.ssa Magnus lotta per salvare la vita di uno dei ricercatori del Santuario che è stato attaccato da un Anormale addomesticato. Henry cerca di capire cosa, o chi, abbia causato la reazione così violenta dell'Anormale.</desc>
-  </programme>
-  <programme start="20261030074635 +0200" stop="20261030083635 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Triade</title>
-    <desc lang="it">Will si mette contro i capi della Rete dei Santuari per difendere Magnus che è accusata di un omicidio. Ma mentre le prove si accumulano contro di lei, anche Will ha difficoltà a trovare un modo per difendere in modo convincente la sua innocenza.</desc>
-  </programme>
-  <programme start="20261030083635 +0200" stop="20261030092528 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: S.O.S In Alto Mare</title>
-    <desc lang="it">Magnus e Will si schiantano con il loro elicottero in un pozzo petrolifero abbandonato nel Golfo del Messico insieme a una creatura marina arrabbiata... senza via di fuga.</desc>
-  </programme>
-  <programme start="20261030092528 +0200" stop="20261030101422 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Fuoco Purificatore</title>
-    <desc lang="it">Magnus si riunisce con un vecchio amico, Jimmy che sta aiutando a trasportare un prezioso Anormale al Santuario. Ma l'Anormale attira l'attenzione di una pericolosa folla, mandando Jimmy a nascondersi, e Kate insieme a lui.</desc>
-  </programme>
-  <programme start="20261030101422 +0200" stop="20261030110322 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Dominio Del Mondo</title>
-    <desc lang="it">Magnus e Will indagano su una serie di inspiegabili sparizioni di adolescenti e li rintracciano in un'insolita clinica di riabilitazione in Messico... gestita da un vecchio amico di Magnus - con un'agenda mortale.</desc>
-  </programme>
-  <programme start="20261030110322 +0200" stop="20261030115308 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: L'energia Che Uccide</title>
-    <desc lang="it">I passeggeri e l'equipaggio di una nave che sta affondando nelle coste del Sud Africa sono salvati da Magnus e dalla sua squadra, e teletrasportati al Santuario per cure mediche. Ma quando uno è assassinato, tutti gli occhi si rivolgono a Druitt</desc>
-  </programme>
-  <programme start="20261030115308 +0200" stop="20261030124208 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Paura e disgusto nella Via Lattea</title>
-    <desc lang="it">Gerentex è tornato e chiede a Trance e Harper di aiutarlo nel suo nuovo piano: trovare Tarn-Vedra.</desc>
-  </programme>
-  <programme start="20261030124208 +0200" stop="20261030133108 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Abbandonarsi al destino</title>
-    <desc lang="it">Dylan e Rev Bem aiutano una società pacifica a combattere contro chi li vorrebbe schiavi. Ma devono fare attenzione: se Dylan insegna loro a uccidere, anche i figli che nasceranno sapranno uccidere.</desc>
-  </programme>
-  <programme start="20261030133108 +0200" stop="20261030142008 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il miele offerto</title>
-    <desc lang="it">Dylan tenta di portare la pace tra due fazioni avversarie di Nietzscheani scortando la principessa di un gruppo al matrimonio organizzato con il principe dell'altro.</desc>
   </programme>
   <programme start="20261030142008 +0200" stop="20261030150908 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Attraversato dalle stelle</title>
@@ -296,15 +256,59 @@
     <title lang="it">Sanctuary: Kali Prima Parte</title>
     <desc lang="it">Dai Santuari di tutto il mondo iniziano ad arrivare segnalazioni di comportamenti violenti ed erratici da parte dei loro più docili anormali. Magnus tiene una videoconferenza con i capi di famiglia dei Santuari internazionali.</desc>
   </programme>
-  <programme start="20261031074245 +0200" stop="20261031130000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261031074245 +0200" stop="20261031083229 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Kali Seconda Parte</title>
+    <desc lang="it">Magnus inizia a mettere insieme i dettagli scioccanti che circondano le visioni di Will su Kali, la sua malattia e la sua connessione con il più potente Anormale sulla Terra.</desc>
+  </programme>
+  <programme start="20261031083229 +0200" stop="20261031092212 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Kali Terza Parte</title>
+    <desc lang="it">L'apertura della terza stagione trova la squadra del Santuario che cerca disperatamente di trovare un modo per raggiungere Kali per prevenire catastrofi e disastri globali.</desc>
+  </programme>
+  <programme start="20261031092212 +0200" stop="20261031101153 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Ritorno Dall'Aldila</title>
+    <desc lang="it">Will soffre di amnesia riguardo agli eventi della sua esperienza di pre-morte, ma alcuni visitatori indesiderati diventano intenzionati a scoprire cosa è bloccato nella sua memoria.</desc>
+  </programme>
+  <programme start="20261031101153 +0200" stop="20261031110135 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Rapina In Banca</title>
+    <desc lang="it">La squadra va in missione di routine per recuperare un Anormale e portarlo al sicuro. Ma la missione diventa tutt'altro che di routine quando sono costretti a mettere in scena una rapina in banca per proteggere il pubblico dai danni.</desc>
+  </programme>
+  <programme start="20261031110135 +0200" stop="20261031115025 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Scia Di Sangue</title>
+    <desc lang="it">La squadra riceve una criptica chiamata di soccorso che potrebbe provenire solo da una persona... Nikola Tesla.</desc>
+  </programme>
+  <programme start="20261031115025 +0200" stop="20261031123925 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il vortice che si allarga</title>
+    <desc lang="it">Dylan e Rommie devono salvare Tyr, Harper e Rev dal mondo dei Magog.</desc>
+  </programme>
+  <programme start="20261031123925 +0200" stop="20261031132825 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Strategie di uscita</title>
+    <desc lang="it">Dylan, Beka, Rev e Tyr fanno un brusco atterraggio dopo essere scappati da una banda di Nietzscheani, ma dovranno presto affrontare una nuova minaccia: Rev ha fame.</desc>
+  </programme>
+  <programme start="20261031132825 +0200" stop="20261031141725 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Come incastrare un bugiardo</title>
+    <desc lang="it">L'equipaggio deve rubare un gioiello che è al centro di una faida tra un proprietario di Drift e il Than. Beka s’innamora di un capo della sicurezza con un passato da ladro.</desc>
+  </programme>
+  <programme start="20261031141725 +0200" stop="20261031150625 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Spietato come il sole</title>
+    <desc lang="it">L’Andromeda risponde a una chiamata di soccorso mentre una nave da carico viene attaccata.</desc>
+  </programme>
+  <programme start="20261031150625 +0200" stop="20261031155525 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Ultima chiamata per il martello rotto</title>
+    <desc lang="it">L'equipaggio è alla ricerca di un ex capo del Commonwealth latitante.</desc>
+  </programme>
+  <programme start="20261031155525 +0200" stop="20261031164425 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Tutto troppo umano</title>
+    <desc lang="it">Dylan, Beka e Trance vanno con Rommie alla scoperta di un'arma inventata su un pianeta che non crede nell'AI.</desc>
+  </programme>
+  <programme start="20261031164425 +0200" stop="20261031223000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261031130000 +0200" stop="20261101010000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261031223000 +0200" stop="20261101103000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101010000 +0200" stop="20261101070000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261101103000 +0200" stop="20261101163000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
