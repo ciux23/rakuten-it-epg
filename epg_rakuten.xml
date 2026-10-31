@@ -28,58 +28,6 @@
     <display-name lang="it">Serie Crime - Rakuten TV</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f9577d8c-bbb7-4055-919a-66c9ad8ee701.jpeg"></icon>
   </channel>
-  <programme start="20261030001926 +0100" stop="20261030020905 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">I See You</title>
-    <desc lang="it">Un uomo scopre che la moglie lo tradisce ma i due decidono di stare insieme. Qualche tempo dopo una presenza maligna comincia però a colpire la loro famiglia e a mettere in pericolo loro figlio.</desc>
-  </programme>
-  <programme start="20261030020906 +0100" stop="20261030035057 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Crucifixion: Il male è stato invocato</title>
-    <desc lang="it">Romania, 2004. Una ragazza esagitata, Adelina, viene sottoposta a un esorcismo da padre Dumitru con l'assistenza di alcune suore. La ragazza muore e il sacerdote e le suore vengono arrestati, accusati di omicidio.</desc>
-  </programme>
-  <programme start="20261030035058 +0100" stop="20261030052922 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">11 Settembre - Senza Scampo</title>
-    <desc lang="it">Un gruppo di 5 persone si trova intrappolato in un ascensore nella Torre Nord del World Trade Center l’undici settembre. Senza mai abbandonare la speranza, cerca di liberarsi e fuggire prima che accada l'impensabile.</desc>
-  </programme>
-  <programme start="20261030052923 +0100" stop="20261030065354 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Arma Micidiale</title>
-    <desc lang="it">Angel viene scarcerato e si riunisce con il suo amico Rich che lo aiuta a contrabbandare armi, ma non si rendono conto che la polizia di Detroit e l'FBI stanno lavorando per sgominare il contrabbando.</desc>
-  </programme>
-  <programme start="20261030065355 +0100" stop="20261030065959 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">La programmazione riprenderà a breve</title>
-    <desc lang="it">Ci stiamo concedendo un sonno riparatore per tornare più belli di prima! Resta sintonizzato e presto arriveranno altre proposte straordinarie di intrattenimento a cura di Rakuten TV.</desc>
-  </programme>
-  <programme start="20261030070000 +0100" stop="20261030095809 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Dragged Across Concrete: Poliziotti al limite</title>
-    <desc lang="it">C'è un poliziotto di lunga esperienza di nome Ridgeman e c'è il suo partner più giovane, più goloso e chiacchierone: Anthony. Durante l'arresto di uno spacciatore latinoamericano, i due ci vanno giù poco leggeri e vengono ripresi dalla videocamera di un vicino indignato e sbattuti al telegiornale.</desc>
-  </programme>
-  <programme start="20261030095810 +0100" stop="20261030114405 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Una spia al liceo</title>
-    <desc lang="it">Molly Morris viene ingaggiata dall'Fbi per un’operazione sotto copertura in una confraternita universitaria. Dovrà trasformarsi da dura e scaltra investigatrice privata in una raffinata e sofisticata studentessa universitaria, per proteggere la figlia di un ex-boss.</desc>
-  </programme>
-  <programme start="20261030114406 +0100" stop="20261030134040 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Baciati dalla sfortuna</title>
-    <desc lang="it">Donna sexy di Manhattan, Ashley è nota come la donna più sexy in circolazione, ma dopo un incontro romantico casuale con lo squattrinato Jake, si rende conto di aver fatto a cambio di destino con lui.</desc>
-  </programme>
-  <programme start="20261030134041 +0100" stop="20261030161540 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Third Person</title>
-    <desc lang="it">Tre storie di passione, fiducia e tradimento, che prendono vita in tre città diverse, dove si dipanano le vicende di tre coppie che sembrano non avere nulla in comune, se non un invisibile, flebile legame.</desc>
-  </programme>
-  <programme start="20261030161541 +0100" stop="20261030183649 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">The Kelly Gang</title>
-    <desc lang="it">L’ascesa e la caduta del famigerato bandito australiano Ned Kelly. La storia del giovane fuorilegge che riunì un gruppo di guerriglieri per organizzare una ribellione contro i soprusi dell’impero britannico.</desc>
-  </programme>
-  <programme start="20261030183650 +0100" stop="20261030203247 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">La Rosa Velenosa</title>
-    <desc lang="it">Carson Phillips, investigatore privato, viene coinvolto dalla sua ex-moglie in una indagine relativa all'uccisione del fidanzato della figlia. L’indagine prenderà una piega inaspettata.</desc>
-  </programme>
-  <programme start="20261030203248 +0100" stop="20261030223905 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">City of Lies - L'ora della verità</title>
-    <desc lang="it">Russell Poole è un ex-detective che ha immolato la sua vita e la sua carriera alle indagini su un caso che non è mai riuscito a risolvere, quello degli omicidi delle due star del rap Tupac Shakur e The Notorious B.I.G.</desc>
-  </programme>
-  <programme start="20261030223906 +0100" stop="20261031004417 +0100" channel="top-movies-rakuten-tv">
-    <title lang="it">Mirrors</title>
-    <desc lang="it">Una forza maligna utilizza specchi per entrare nella casa di una tormentata guardia di sicurezza.</desc>
-  </programme>
   <programme start="20261031004418 +0100" stop="20261031023117 +0100" channel="top-movies-rakuten-tv">
     <title lang="it">Drag me to hell</title>
     <desc lang="it">Dopo aver affrontato una scelta difficile sul lavoro, Christine viene perseguitata da un’anziana signora che, per vendicarsi, le lancerà contro una potente maledizionei, trasformando la sua vita in un vero inferno.</desc>
@@ -184,57 +132,54 @@
     <title lang="it">Rogue Hostage</title>
     <desc lang="it">Kyle Snowden, padre single ed ex marine, fa una sosta di routine al negozio del suo patrigno mentre si reca al lavoro. Si ritroverà coinvolto in un tentativo di rapina con un gruppo di clienti in ostaggio.</desc>
   </programme>
-  <programme start="20261030005623 +0100" stop="20261030023757 +0100" channel="action-rakuten-tv">
-    <title lang="it">Shrapnel - Guerra al cartello</title>
-    <desc lang="it">Un ex marine (Jason Patric) e il suo vecchio compagno di guerra (Cam Gigandet) si infiltrano nel pericoloso mondo di un cartello messicano per scoprire la verità sulla scomparsa della figlia. Riusciranno a sopravvivere e a fare giustizia?</desc>
+  <programme start="20261102014723 +0100" stop="20261102033702 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">I See You</title>
+    <desc lang="it">Un uomo scopre che la moglie lo tradisce ma i due decidono di stare insieme. Qualche tempo dopo una presenza maligna comincia però a colpire la loro famiglia e a mettere in pericolo loro figlio.</desc>
   </programme>
-  <programme start="20261030023758 +0100" stop="20261030044701 +0100" channel="action-rakuten-tv">
-    <title lang="it">Soar into the sun</title>
-    <desc lang="it">Un pilota sudcoreano della Air Force, Tae Hun, si ritrova trasferito in una unità di combattimento aerea dopo una arrogante e pericolosa quanto non pianificata dimostrazione di volo. Il primo giorno del suo trasferimento al F15K, incontra Cheol Hee, Top Gun dell’unità.</desc>
+  <programme start="20261102033703 +0100" stop="20261102054611 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Black Sea</title>
+    <desc lang="it">Il capitano di sommergibili Robinson (Jude Law), con un divorzio alle spalle e un figlio adolescente con cui non ha quasi alcun rapporto, viene licenziato dalla sua società di recupero relitti.</desc>
   </programme>
-  <programme start="20261030044702 +0100" stop="20261030065144 +0100" channel="action-rakuten-tv">
-    <title lang="it">China Salesman – Contratto Mortale</title>
-    <desc lang="it">Il giovane ingegnere informatico Yan Jian si offre volontario per una missione in Nord Africa. Nel conflitto viene coinvolta la spia francese Michael, oltre ai mercenari Lauder (Steven Seagal) e Kabbah (Mike Tyson).</desc>
+  <programme start="20261102054612 +0100" stop="20261102073518 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">LOL</title>
+    <desc lang="it">Lola è inseparabile dagli amici del cuore, Emily e Kyle, e ha una cotta per Chad. Al rientro a scuola dopo le vacanze, si accorge amaramente di non contare molto per lui e deve ammettere a sua volta di essere da sempre innamorata di Kyle.</desc>
   </programme>
-  <programme start="20261030065145 +0100" stop="20261030065959 +0100" channel="action-rakuten-tv">
-    <title lang="it">La programmazione riprenderà a breve</title>
-    <desc lang="it">Ci stiamo concedendo un sonno riparatore per tornare più belli di prima! Resta sintonizzato e presto arriveranno altre proposte straordinarie di intrattenimento a cura di Rakuten TV.</desc>
+  <programme start="20261102073519 +0100" stop="20261102095815 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Mother and child</title>
+    <desc lang="it">Tre donne molto diverse tra loro... una cosa in comune: la forza del legame indistruttibile che si crea tra una madre e un  figlio.</desc>
   </programme>
-  <programme start="20261030070000 +0100" stop="20261030085247 +0100" channel="action-rakuten-tv">
-    <title lang="it">Legacy of Lies</title>
-    <desc lang="it">Quando la figlia di un ex agente della CIA viene rapita, il padre (Adkins) sarà costretto a fare squadra con Sasha, misteriosa donna ucraina che sospetta il coinvolgimento del governo russo nel rapimento.</desc>
+  <programme start="20261102095816 +0100" stop="20261102120433 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">City of Lies - L'ora della verità</title>
+    <desc lang="it">Russell Poole è un ex-detective che ha immolato la sua vita e la sua carriera alle indagini su un caso che non è mai riuscito a risolvere, quello degli omicidi delle due star del rap Tupac Shakur e The Notorious B.I.G.</desc>
   </programme>
-  <programme start="20261030085248 +0100" stop="20261030112202 +0100" channel="action-rakuten-tv">
-    <title lang="it">Hit &amp; Run Squad</title>
-    <desc lang="it">Dopo il fallimento di un’indagine anti-riciclaggio, un’ambiziosa detective viene retrocessa ai crimini stradali. Con un collega tenta di incastrare lo stesso miliardario, infiltrandosi nelle corse clandestine.</desc>
+  <programme start="20261102120434 +0100" stop="20261102140746 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">The Dresser</title>
+    <desc lang="it">Durante una fatidica notte della Seconda Guerra Mondiale, una troupe itinerante di attori mette in scena il “Re Lear” di Shakespeare in un piccolo teatro inglese.</desc>
   </programme>
-  <programme start="20261030112203 +0100" stop="20261030133133 +0100" channel="action-rakuten-tv">
-    <title lang="it">Assassin's Creed</title>
-    <desc lang="it">Michael Fassbender, candidato all'Oscar, è la star sul grande schermo di questo film d'azione e d'avventura, tratto da una famosa saga di videogiochi.</desc>
+  <programme start="20261102140747 +0100" stop="20261102155631 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Gold</title>
+    <desc lang="it">Due uomini si imbattono nella più grande pepita d’oro mai trovata nel deserto. Dovranno escogitare un piano per scavare l’oro, cercando al tempo stesso di proteggere la scoperta da sguardi indiscreti.</desc>
   </programme>
-  <programme start="20261030133134 +0100" stop="20261030152218 +0100" channel="action-rakuten-tv">
-    <title lang="it">Vendetta - Una storia d'amore</title>
-    <desc lang="it">Teena viene stuprata mentre sta tornando a casa con la figlia dodicenne Bethie. Quando i carnefici assumono un procuratore famoso per difenderli, l'ufficiale di polizia John Droomor inizia a indagare allo scopo di garantire che la verità venga a galla e che la donna venga protetta dalla giustizia.</desc>
+  <programme start="20261102155632 +0100" stop="20261102174122 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Please Stand By: Tutto ciò che voglio</title>
+    <desc lang="it">Wendy soffre di una forma di autismo, che la cura e la struttura specializzata di Scottie riescono a tenere sotto controllo, favorendo una rigida routine quotidiana e permettendo che la ragazza coltivi la sua passione, ovvero la visione della saga televisiva di Star Trek.</desc>
   </programme>
-  <programme start="20261030152219 +0100" stop="20261030173216 +0100" channel="action-rakuten-tv">
-    <title lang="it">The Fighter</title>
-    <desc lang="it">"Irish" Mickey Ward (Mark Wahlberg) è un pugile di Boston che con l'aiuto del fratellastro Dicky Eklund (Christian Bale), ex pugile ed ex carcerato, si allena per tentare di superare la sua mediocrità e di ottenere una chance per ottenere il titolo mondiale dei pesi leggeri.</desc>
+  <programme start="20261102174123 +0100" stop="20261102192950 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">We are your Friends</title>
+    <desc lang="it">Cole, un giovane dj, fa la conoscenza del più esperto e famoso collega James Reed, e trova in lui una guida capace di dare una svolta alla sua carriera finora deludente. Contemporaneamente Cole si innamora di Sophie.</desc>
   </programme>
-  <programme start="20261030173217 +0100" stop="20261030190714 +0100" channel="action-rakuten-tv">
-    <title lang="it">Sharknado 4</title>
-    <desc lang="it">Quarto capitolo della saga sui famelici squali volanti. Dopo cinque anni di pace, un terrificante tornado si abbatte su Las Vegas, ma questa volta gli ingordi pescecani non saranno gli unici animali ad invadere la citta' del peccato.</desc>
+  <programme start="20261102192951 +0100" stop="20261102212506 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Labirinti e mostri</title>
+    <desc lang="it">Robbie ei suoi compagni di college sono tutti ossessionati dal gioco di ruolo "Labirinti e mostri". Tuttavia, i giochi prendono una strana piega quando Robbie inizia a sperimentare visioni dopo aver giocato una sessione in un mistico punto di riferimento locale.</desc>
   </programme>
-  <programme start="20261030190715 +0100" stop="20261030205448 +0100" channel="action-rakuten-tv">
-    <title lang="it">Cop Secret</title>
-    <desc lang="it">Bussi è il miglior poliziotto di Reykjavík. Il distretto confinante però ha un nuovo poliziotto altrettanto determinato e deciso, Horour.</desc>
+  <programme start="20261102212507 +0100" stop="20261102231221 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Quel momento imbarazzante</title>
+    <desc lang="it">Tre migliori amici si fanno una promessa: quella di restare tutti single. Hanno infatti timore che le relazioni serie possano annullare le loro personalità e far cambiare il loro rapporto di amicizia. Nel momento in cui meno se lo aspettano però tre ragazze gli faranno cambiare idea.</desc>
   </programme>
-  <programme start="20261030205449 +0100" stop="20261030224239 +0100" channel="action-rakuten-tv">
-    <title lang="it">Terre Selvagge</title>
-    <desc lang="it">Irlanda, 1209. Un gruppo di monaci è in marcia verso Roma per consegnare una preziosa reliquia. Attraversando un territorio tra accesi conflitti e il pericolo di una possibile invasione normanna, scoprono che il vero significato del reperto che custodiscono potrebbe condurli ad una tragica fine...</desc>
-  </programme>
-  <programme start="20261030224240 +0100" stop="20261031000707 +0100" channel="action-rakuten-tv">
-    <title lang="it">American Muscle</title>
-    <desc lang="it">Dopo dieci anni di reclusione John Falcon ha l'occasione di potersi vendicare di tutti quelli che lo hanno tradito e fatto incarcerare, compreso suo fratello.</desc>
+  <programme start="20261102231222 +0100" stop="20261103012621 +0100" channel="top-movies-rakuten-tv">
+    <title lang="it">Escobar: Paradise Lost</title>
+    <desc lang="it">Nick pensa di aver trovato il paradiso quando raggiunge il fratello in Colombia. Una laguna turchese, una spiaggia d'avorio, 
+onde perfette - è un sogno per questo giovane surfista canadese. Poi incontra Maria, una splendida ragazza colombiana.</desc>
   </programme>
   <programme start="20261031000708 +0100" stop="20261031014314 +0100" channel="action-rakuten-tv">
     <title lang="it">Hollow Point - Punto di non ritorno</title>
@@ -349,57 +294,57 @@
     <title lang="it">The Informer: Tre secondi per sopravvivere</title>
     <desc lang="it">Pete Koslow è un ex soldato specializzato in operazioni speciali che lavora come informatore per l’FBI per smantellare il traffico di droga della mafia polacca a New York.</desc>
   </programme>
-  <programme start="20261030005740 +0100" stop="20261030023156 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Next Day Air</title>
-    <desc lang="it">Un incauto fattorino consegna inavvertitamente all'indirizzo sbagliato un pacco contenente panetti di cocaina occultati.</desc>
+  <programme start="20261102011823 +0100" stop="20261102031620 +0100" channel="action-rakuten-tv">
+    <title lang="it">Renegades - Commando d'assalto</title>
+    <desc lang="it">Un team di Navy Seals, in missione in Bosnia durante la guerra, viene a sapere di un tesoro d’inestimabile valore nascosto dai nazisti sul fondo di un lago locale e rimasto lì per decenni. Decisi a recuperarlo, il gruppo s’imbarca in una difficile missione non autorizzata.</desc>
   </programme>
-  <programme start="20261030023157 +0100" stop="20261030042526 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Project A</title>
-    <desc lang="it">Hong Kong, 1800. Mentre gli inglesi sono occupati a governare le terre, i pirati sono i padroni dei mari facendo razzie delle imbarcazioni che incontrano. Nonostante vari tentativi la Guardia Costiera non riesce a sconfiggerli.</desc>
+  <programme start="20261102031621 +0100" stop="20261102054821 +0100" channel="action-rakuten-tv">
+    <title lang="it">The thieves</title>
+    <desc lang="it">Una infame banda di cinque ladri coreani, guidati da Popie, riceve un'offerta irresistibile da Macao Park, un ex partner: rubare la "lacrima del sole", un diamante di 318 carati dal valore di 20 milioni di dollari, nascosto in un casinò di Macao.</desc>
   </programme>
-  <programme start="20261030042527 +0100" stop="20261030060605 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Una bugia per amore</title>
-    <desc lang="it">Innamorato di una donna ebrea, un uomo decide di fingersi un membro della comunità ebraica allo scopo di conquistarla.</desc>
+  <programme start="20261102054822 +0100" stop="20261102073709 +0100" channel="action-rakuten-tv">
+    <title lang="it">Resta con me</title>
+    <desc lang="it">Salpati da Tahiti sotto un meraviglioso cielo stellato, Tami Oldham (Shailene Woodley) e il suo fidanzato Richard Sharp (Sam Claflin) sono giovani, innamorati e sognano una vita di avventure insieme...</desc>
   </programme>
-  <programme start="20261030060606 +0100" stop="20261030074200 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Burraco Fatale</title>
-    <desc lang="it">Irma, Eugenia, Miranda e Rina sono quattro donne diverse, ognuna con il proprio carattere, le proprie debolezze e le proprie eccentricità, ma legate da una conoscenza profonda e duratura nel tempo, unita e scandita dalle loro irrinunciabili partite a carte.</desc>
+  <programme start="20261102073710 +0100" stop="20261102094707 +0100" channel="action-rakuten-tv">
+    <title lang="it">The Fighter</title>
+    <desc lang="it">"Irish" Mickey Ward (Mark Wahlberg) è un pugile di Boston che con l'aiuto del fratellastro Dicky Eklund (Christian Bale), ex pugile ed ex carcerato, si allena per tentare di superare la sua mediocrità e di ottenere una chance per ottenere il titolo mondiale dei pesi leggeri.</desc>
   </programme>
-  <programme start="20261030074201 +0100" stop="20261030093555 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">First Daughter</title>
-    <desc lang="it">La figlia del presidente va al college, ma i pericoli del suo titolo la seguono.</desc>
+  <programme start="20261102094708 +0100" stop="20261102111335 +0100" channel="action-rakuten-tv">
+    <title lang="it">Big Ass Spider!</title>
+    <desc lang="it">Uno sterminatore e il suo assistente si trovano coinvolti in un'epica battaglia quando l'esercito americano si rendeconto di non riuscire a contenere un ragno gigante alieno che vaga infuriato per la città di Los Angeles.</desc>
   </programme>
-  <programme start="20261030093556 +0100" stop="20261030114133 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">The Hoax - L'imbroglio</title>
-    <desc lang="it">Lo scrittore Clifford Irving (Richard Gere) cerca una storia per dare una svolta alla sua carriera in picchiata.. Con l’aiuto dell’amico Dick Suskind (Alfred Molina), convince il suo editore di essere diventato amico intimo del leggendario miliardario eccentrico Howard Hughes.</desc>
+  <programme start="20261102111336 +0100" stop="20261102124833 +0100" channel="action-rakuten-tv">
+    <title lang="it">Sharknado 4</title>
+    <desc lang="it">Quarto capitolo della saga sui famelici squali volanti. Dopo cinque anni di pace, un terrificante tornado si abbatte su Las Vegas, ma questa volta gli ingordi pescecani non saranno gli unici animali ad invadere la citta' del peccato.</desc>
   </programme>
-  <programme start="20261030114134 +0100" stop="20261030134641 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Il club delle mamme single</title>
-    <desc lang="it">Quando cinque mamme single in difficoltà mettono da parte le loro differenze per formare un gruppo di sostegno, trovano ispirazione e allegria nella loro nuova associazione e si aiutano a vicenda per superare gli imprevisti che ostacolano il loro cammino.</desc>
+  <programme start="20261102124834 +0100" stop="20261102143355 +0100" channel="action-rakuten-tv">
+    <title lang="it">The 2nd</title>
+    <desc lang="it">L'agente segreto Vic Davis (Phillippe) si trova nel mezzo di un attacco terroristico, il cui bersaglio è la figlia di un giudice della Corte Suprema. La banda armata non si fermerà di fronte a niente per i propri scopi.</desc>
   </programme>
-  <programme start="20261030134642 +0100" stop="20261030160017 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Hector e la ricerca della felicità</title>
-    <desc lang="it">Hector è un bizzarro psichiatra stufo della propria vita monotona. Dopo aver avvisato la sua fidanzata Clara, l’uomo parte per un viaggio alla ricerca della felicità. Riuscirà mai a trovarla</desc>
+  <programme start="20261102143356 +0100" stop="20261102162436 +0100" channel="action-rakuten-tv">
+    <title lang="it">Dance to death</title>
+    <desc lang="it">Un torneo di danza mortale si svolge in una città sopravvissuta a un'apocalisse nucleare. L'energia per mandare avanti la città viene estratta da colui che perde e, in tale contesto, un giovane ragazzo di strada è costretto a prendere parte alla competizione</desc>
   </programme>
-  <programme start="20261030160018 +0100" stop="20261030174800 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Totò, Fabrizi e i giovani d'oggi</title>
-    <desc lang="it">Il cavalier Cocozza e il ragionier D'Amore hanno in comune solo una parlantina inarrestabile e una potente vocazione polemica. I due, acerrimi nemici, negano il consenso alle nozze dei loro figli che le proveranno tutte per riuscire a sposarsi. Ci riusciranno?</desc>
+  <programme start="20261102162437 +0100" stop="20261102181724 +0100" channel="action-rakuten-tv">
+    <title lang="it">Legacy of Lies</title>
+    <desc lang="it">Quando la figlia di un ex agente della CIA viene rapita, il padre (Adkins) sarà costretto a fare squadra con Sasha, misteriosa donna ucraina che sospetta il coinvolgimento del governo russo nel rapimento.</desc>
   </programme>
-  <programme start="20261030174801 +0100" stop="20261030193658 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Comportamenti Molto Cattivi</title>
-    <desc lang="it">Il sedicenne Rick Stevens non desidera altro che conquistare il cuore di Nina Pennington, la ragazza dei suoi sogni ed è pronto a tutto pur di riuscirci. Si ritroverà, però, coinvolto in una serie di avvenimenti del tutto fuori dagli schemi.</desc>
+  <programme start="20261102181725 +0100" stop="20261102200231 +0100" channel="action-rakuten-tv">
+    <title lang="it">Elektra</title>
+    <desc lang="it">Elektra la femme fatale della Marvel, dimostra che l'eroina più sexy della storia dei fumetti può uccidere anche solo con uno sguardo. Riportata alla vita dopo aver subito ferite mortali in Daredevil, Elektra ora vive per uccidere: è l'assassina più abile e spietata del mondo.</desc>
   </programme>
-  <programme start="20261030193659 +0100" stop="20261030212254 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Una spia al liceo</title>
-    <desc lang="it">Molly Morris viene ingaggiata dall'Fbi per un’operazione sotto copertura in una confraternita universitaria. Dovrà trasformarsi da dura e scaltra investigatrice privata in una raffinata e sofisticata studentessa universitaria, per proteggere la figlia di un ex-boss.</desc>
+  <programme start="20261102200232 +0100" stop="20261102215544 +0100" channel="action-rakuten-tv">
+    <title lang="it">Hot Dog: Attacco a Berlino</title>
+    <desc lang="it">I due ufficiali del GSG10 Luke e Theo non potrebbero essere più diversi. Ma ora devono unire le forze per salvare Mascha, la figlia di un ambasciatore che è stata rapita e per cui è stato chiesto un ingente riscatto.</desc>
   </programme>
-  <programme start="20261030212255 +0100" stop="20261030230931 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Miseria e nobiltà</title>
-    <desc lang="it">In pieno Ottocento, Felice e Pasquale, due poveri napoletani, uno scrivano ed un fotografo, devono fingere di essere gli aristocratici parenti del marchese per cui lavorano per riuscire a sbarcare il lunario.</desc>
+  <programme start="20261102215545 +0100" stop="20261102234335 +0100" channel="action-rakuten-tv">
+    <title lang="it">Terre Selvagge</title>
+    <desc lang="it">Irlanda, 1209. Un gruppo di monaci è in marcia verso Roma per consegnare una preziosa reliquia. Attraversando un territorio tra accesi conflitti e il pericolo di una possibile invasione normanna, scoprono che il vero significato del reperto che custodiscono potrebbe condurli ad una tragica fine...</desc>
   </programme>
-  <programme start="20261030230932 +0100" stop="20261031004814 +0100" channel="comedy-rakuten-tv">
-    <title lang="it">Uno sposato sotto tiro</title>
-    <desc lang="it">Il mondo di Michael viene sconvolto quando la compagna lo abbandona nel deserto, dove un adolescente gli ruba l'auto e viene preso in ostaggio durante una rapina al Sip and Zip locale.</desc>
+  <programme start="20261102234336 +0100" stop="20261103012737 +0100" channel="action-rakuten-tv">
+    <title lang="it">Undisputed III: Redemption</title>
+    <desc lang="it">Anni dopo lo scontro perso con il campione Chambers, il detenuto russo Boyka, infortunato a un ginocchio, non è più il combattente temuto di una volta e ha deciso di smettere con i combattimenti.</desc>
   </programme>
   <programme start="20261031004815 +0100" stop="20261031023224 +0100" channel="comedy-rakuten-tv">
     <title lang="it">American Ultra</title>
@@ -513,57 +458,61 @@
     <title lang="it">Vamos a matar, compañeros</title>
     <desc lang="it">Durante la Rivoluzione messicana, il mercante d'armi svedese Yodlaf Peterson e il peone El Vasco si alleano, tra tradimenti e sparatorie, per liberare il professore Xantos, simbolo della rivolta.</desc>
   </programme>
-  <programme start="20261030004844 +0100" stop="20261030023502 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Time</title>
-    <desc lang="it">Seh-hee e Ji-woo stanno insieme da due anni e sono molto innamorati. Ma con il passare del tempo Seh-hee inizia a temere che Ji-woo possa stancarsi di lei e diventa isterica ogni volta che l'uomo degna di attenzione un'altra.</desc>
+  <programme start="20261102011152 +0100" stop="20261102025053 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Il mio uomo è una canaglia</title>
+    <desc lang="it">George Segal e Karen Black interpretano magistralmente un eroinomane e la ragazza dallo spirito libero che gli fa desiderare di cambiare vita. Paula Prentiss e Robert De Niro sono tra gli interpreti di questo dramma che unisce comicità e tragedia.</desc>
   </programme>
-  <programme start="20261030023503 +0100" stop="20261030041740 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Il sesso e Mrs. X (Sex &amp; Mrs. X)</title>
-    <desc lang="it">È buffo cosa pochi giorni a Parigi possono insegnare a una donna single da poco sulla vita e sull’amore. Ma la cosa più buffa è che lo imparerà da una donna che dirige un servizio di escort d’alto bordo.</desc>
+  <programme start="20261102025054 +0100" stop="20261102044512 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Un angelo al mio fianco</title>
+    <desc lang="it">Amanda, giovane architetto, lavora alla ristrutturazione di una chiesa sotto la protezione invisibile del suo angelo custode, Will. Will si innamora di Amanda così i suoi superiori gli concedono una settimana da umano per conquistarla, ma nel frattempo Amanda si è invaghita di un altro ragazzo.</desc>
   </programme>
-  <programme start="20261030041741 +0100" stop="20261030065657 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Tra cielo e terra</title>
-    <desc lang="it">La vera storia delle peripezie di una donna Vietnamita, dall'infanzia disperata nel paese devastato dal conflitto alla vita di sposa di guerra americana - e non solo.</desc>
+  <programme start="20261102044513 +0100" stop="20261102062122 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">6 meglio di me</title>
+    <desc lang="it">Un uomo depresso con il blocco dello scrittore deve scrivere un disco hip-hop di successo per una cantante super-star.</desc>
   </programme>
-  <programme start="20261030065658 +0100" stop="20261030065959 +0100" channel="drama-rakuten-tv">
-    <title lang="it">La programmazione riprenderà a breve</title>
-    <desc lang="it">Ci stiamo concedendo un sonno riparatore per tornare più belli di prima! Resta sintonizzato e presto arriveranno altre proposte straordinarie di intrattenimento a cura di Rakuten TV.</desc>
+  <programme start="20261102062123 +0100" stop="20261102080813 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Le avventure di un uomo invisibile</title>
+    <desc lang="it">Un semplice pisolino e Nick Halloway, broker un po' esaurito, e' convinto di risvegliarsi come nuovo. Invece si risveglia come... sparito! Volatilizzato. Un incidente nucleare ha trasformato Nick nell'Uomo Invisibile.</desc>
   </programme>
-  <programme start="20261030070000 +0100" stop="20261030084519 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Naufragi</title>
-    <desc lang="it">Maria ha una personalità strana, sempre tenera con i figli anche se il marito la vorrebbe meno ingenua. Un evento terribile la getterà in un vortice di disperazione ma l'incontro con Amal, donna fuggita dalla guerra, la aiuterà a ritrovare le priorità della vita.</desc>
+  <programme start="20261102080814 +0100" stop="20261102094657 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Ghost Academy</title>
+    <desc lang="it">Un professore tormentato da allucinazioni di persone defunte, ottiene una cattedra per insegnare a una classe di soli cinque studenti. Ma gli alunni sono fantasmi, morti da più di vent'anni.</desc>
   </programme>
-  <programme start="20261030084520 +0100" stop="20261030110506 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Pushing Tin</title>
-    <desc lang="it">Nick Falzone è il numero uno dei controllori del traffico aereo, finché un tranquillo sconosciuto, Russell Bell, non viene trasferito nel dipartimento. La rivalità tra i due migliori controllori del traffico aereo del TRACON di New York sale a un livello potenzialmente pericoloso.</desc>
+  <programme start="20261102094658 +0100" stop="20261102113434 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Black Knight</title>
+    <desc lang="it">Quando un impiegato di un parco dei divertimenti a tema medievale (Lawrence) viene magicamente trasportato indietro nell'Inghilterra del XIV secolo, deve combattere contro un re malvagio, sicari letali... e delle tubature davvero orribili!</desc>
   </programme>
-  <programme start="20261030110507 +0100" stop="20261030130911 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Ciurè</title>
-    <desc lang="it">Palermo, un uomo sull'orlo della disperazione è deciso a fare di tutto pur di assicurare un futuro al figlio. La sua vita cambia completamente quando incontra per caso una ballerina transessuale che lavora in un night club.</desc>
+  <programme start="20261102113435 +0100" stop="20261102132009 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">L'Uomo Che Sapeva Troppo Poco</title>
+    <desc lang="it">Bill Murray è un americano imbranato che, mentre è in vacanza a Londra in visita al fratello, partecipa a un programma di 'virtual reality'. Quando crede che un vero tentativo di assassinio faccia parte del gioco, si trova per sbaglio immischiato in un caso di scambio d'identità e omicidio.</desc>
   </programme>
-  <programme start="20261030130912 +0100" stop="20261030145513 +0100" channel="drama-rakuten-tv">
-    <title lang="it">The Informers - Vite oltre il limite</title>
-    <desc lang="it">AAmbientato a Los Angeles, nel 1983, il dramma si sviluppa nell'arco di una settimana durante la quale saranno raccontate le storie di sette personaggi tra cui giovani viziati, produttori cinematografici, rockstars e persino un vampiro..</desc>
+  <programme start="20261102132010 +0100" stop="20261102151533 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Koza Nostra</title>
+    <desc lang="it">Vlada, premurosa signora ucraina, diventa nonna e decide di trasferirsi in Sicilia per conoscere il nipotino ma la figlia la mette alla porta. Vlada si ritroverà nell’improbabile ruolo di governante di Don Fredo, capo di una disfunzionale famiglia mafiosa.</desc>
   </programme>
-  <programme start="20261030145514 +0100" stop="20261030171622 +0100" channel="drama-rakuten-tv">
-    <title lang="it">The Kelly Gang</title>
-    <desc lang="it">L’ascesa e la caduta del famigerato bandito australiano Ned Kelly. La storia del giovane fuorilegge che riunì un gruppo di guerriglieri per organizzare una ribellione contro i soprusi dell’impero britannico.</desc>
+  <programme start="20261102151534 +0100" stop="20261102172111 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">The Hoax - L'imbroglio</title>
+    <desc lang="it">Lo scrittore Clifford Irving (Richard Gere) cerca una storia per dare una svolta alla sua carriera in picchiata.. Con l’aiuto dell’amico Dick Suskind (Alfred Molina), convince il suo editore di essere diventato amico intimo del leggendario miliardario eccentrico Howard Hughes.</desc>
   </programme>
-  <programme start="20261030171623 +0100" stop="20261030190600 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Ogni giorno</title>
-    <desc lang="it">Tratto dal romanzo di David Levithan, questo film romantico racconta la storia di un 16enne (Angourie Rice) che si innamora di A, uno spirito viaggiante che ogni mattina si sveglia in un corpo diverso e vive una vita diversa... ogni giorno.</desc>
+  <programme start="20261102172112 +0100" stop="20261102191441 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">A Little White Lie</title>
+    <desc lang="it">Un tuttofare vive e lavora a New York City dove viene scambiato per uno scrittore famoso e viene portato in un'università. Qui dovrà tenere il discorso di apertura per salvare il festival letterario dell'istituto.</desc>
   </programme>
-  <programme start="20261030190601 +0100" stop="20261030210527 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Amore inaspettato</title>
-    <desc lang="it">Bill, scrittore di successo, resta cieco a causa di un incidente stradale, nel quale sua moglie perde la vita. Un giorno si presenta alla sua porta Suzanne, obbligata ai servizi sociali a causa di una condanna penale. All’inizio i due non si piacciono, ma ben presto si scopriranno innamorati.</desc>
+  <programme start="20261102191442 +0100" stop="20261102210114 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">L'amore secondo Dan</title>
+    <desc lang="it">Dan Burns (Steve Carell) è un giornalista esperto in questioni familiari. Rimasto vedovo, si è rifugiato in una rassicurante routine, in cui cerca di scansare come la peste qualsiasi novità o imprevisto, con l’arduo compito di tenere a bada tre figlie adolescenti e ribelli.</desc>
   </programme>
-  <programme start="20261030210528 +0100" stop="20261030224321 +0100" channel="drama-rakuten-tv">
-    <title lang="it">November Criminals</title>
-    <desc lang="it">Il liceale Addison Schacht vende droga ai suoi compagni di classe, ha un rapporto turbolento con la sua migliore amica, e si improvvisa investigatore sfidando le autorità per scoprire la verità.</desc>
+  <programme start="20261102210115 +0100" stop="20261102225407 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Sotto Il Cielo Delle Hawaii</title>
+    <desc lang="it">Un famoso militare professionista ritorna sul luogo dei suoi più grandi trionfi legati al programma spaziale degli Stati Uniti a Honolulu, Hawaii. Qui incontra una sua ex, ma altrettanto inaspettatamente si innamora della giovane pilota dell'Air Force a lui assegnata.</desc>
   </programme>
-  <programme start="20261030224322 +0100" stop="20261031003813 +0100" channel="drama-rakuten-tv">
-    <title lang="it">Workers - Pronti a tutto</title>
-    <desc lang="it">Sandro e Filippo sono proprietari dell'agenzia interinale "Workers", praticamente trovano lavoro alle persone. Davanti a loro scorre gente di ogni tipo a caccia di impiego, personaggi pittoreschi e disoccupati pronti a tutto.</desc>
+  <programme start="20261102225408 +0100" stop="20261103003817 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">American Ultra</title>
+    <desc lang="it">Mike vive con la sua fidanzata Phoebe in una piccola cittadina americana, dove il suo passatempo preferito è l’uso abbondante di droghe. A sua insaputa, però, Mike è anche un agente super addestrato e letale e improvvisamente, quando il suo passato segreto torna a tormentarlo...</desc>
+  </programme>
+  <programme start="20261103003818 +0100" stop="20261103025614 +0100" channel="comedy-rakuten-tv">
+    <title lang="it">Istruzioni non incluse</title>
+    <desc lang="it">In questa commedia esilarante Valentín è un playboy di Acapulco che vive una vita eccentrica e senza responsabilità. Un giorno sulla sua porta si presenta Julie, una sua ex scappatella che gli lascia la figlia stravolgendogli la vita.</desc>
   </programme>
   <programme start="20261031003814 +0100" stop="20261031022108 +0100" channel="drama-rakuten-tv">
     <title lang="it">Omicidi in serie</title>
@@ -665,61 +614,53 @@
     <title lang="it">The Illusionist</title>
     <desc lang="it">Vienna, seconda metà dell'Ottocento. L' acclamato illusionista Eisenheim incanta le platee con i suoi incredibili trucchi. Ha persino catturato l' interesse del Principe Leopoldo e della sua fidanzata Sophia, un tempo legata sentimentalmente allo stesso Eisenheim.</desc>
   </programme>
-  <programme start="20261029235809 +0100" stop="20261030013259 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Megalodon</title>
-    <desc lang="it">Una nave militare alla ricerca di un sommergibile non identificato si trova faccia a faccia con uno squalo gigante. L'equipaggio si trova costretto a difendersi dalla mostruosa bestia.</desc>
+  <programme start="20261102010314 +0100" stop="20261102025805 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Workers - Pronti a tutto</title>
+    <desc lang="it">Sandro e Filippo sono proprietari dell'agenzia interinale "Workers", praticamente trovano lavoro alle persone. Davanti a loro scorre gente di ogni tipo a caccia di impiego, personaggi pittoreschi e disoccupati pronti a tutto.</desc>
   </programme>
-  <programme start="20261030013300 +0100" stop="20261030031457 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">47 Metri: Uncaged</title>
-    <desc lang="it">Dopo il primo 47 Metri, un nuovo terrificante capitolo. Quattro ragazze decidono di fare un’immersione tra le rovine di una città sommersa. Tra momenti di divertimento e varie sfide scopriranno presto di non essere sole.</desc>
+  <programme start="20261102025806 +0100" stop="20261102044611 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Il sole è anche una stella</title>
+    <desc lang="it">Un romantico universitario e una pragmatica giamaicana si incontrano, e si innamorano, in una magica giornata a New York, in questa storia d'amore dei nostri giorni...</desc>
   </programme>
-  <programme start="20261030031458 +0100" stop="20261030045504 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Zodiac: Il Segno Dell'apocalisse</title>
-    <desc lang="it">Elisabeth, curatrice di una collezione di reperti antichi per l'università, riceve una tavoletta realizzata più di 2.000 anni fa. Studiandola scopre che il destino dell'umanità sta per essere sconvolto da forze implacabili generate dalla tavoletta stessa</desc>
+  <programme start="20261102044612 +0100" stop="20261102070159 +0100" channel="drama-rakuten-tv">
+    <title lang="it">The Report</title>
+    <desc lang="it">Basato su eventi reali, un membro del personale del Senato indaga sul Programma di detenzione e interrogatorio della CIA dopo l’11 settembre.</desc>
   </programme>
-  <programme start="20261030045505 +0100" stop="20261030065401 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Risen: La fine dei giorni</title>
-    <desc lang="it">Un meteorite cade in una piccola città. L'astrobiologa Lauren viene contattata perché nel luogo dell'impatto viene rivenuta una misteriosa pianta che sta rilasciando spore tossiche. Chiunque sia morto nella zona sembra tornare in vita come uno zombie. E' iniziata una vera e propria apocalisse.</desc>
+  <programme start="20261102070200 +0100" stop="20261102090824 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Litigi d'amore</title>
+    <desc lang="it">Una madre sulla quarantina e le sue quattro belle ed energiche figlie devono all'improvviso cavarsela senza l'uomo di casa, scappato di casa con un'altra donna.</desc>
   </programme>
-  <programme start="20261030065402 +0100" stop="20261030065959 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">La programmazione riprenderà a breve</title>
-    <desc lang="it">Ci stiamo concedendo un sonno riparatore per tornare più belli di prima! Resta sintonizzato e presto arriveranno altre proposte straordinarie di intrattenimento a cura di Rakuten TV.</desc>
+  <programme start="20261102090825 +0100" stop="20261102112810 +0100" channel="drama-rakuten-tv">
+    <title lang="it">La donna del tenente francese</title>
+    <desc lang="it">Candidato a cinque premi Oscar (tra cui quello alla migliore attrice per Meryl Streep), questo capolavoro vanta nel suo cast anche Jeremy Irons, in una delle storie d'amore di più forte impatto visivo mai portate sullo schermo.</desc>
   </programme>
-  <programme start="20261030070000 +0100" stop="20261030085718 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Valhalla</title>
-    <desc lang="it">Røskva e Tjalfe intraprendono un avventuroso viaggio da Midgard a Valhalla con gli dei Thor e Loki. La vita a Valhalla, tuttavia, risulta minacciata dal temuto lupo Fenrir e dagli arcinemici Jotnar. Accanto agli dei, i due dovranno lottare per salvare Valhalla dalla fine del mondo: il Ragnarok.</desc>
+  <programme start="20261102112811 +0100" stop="20261102133643 +0100" channel="drama-rakuten-tv">
+    <title lang="it">The Imitation game</title>
+    <desc lang="it">Ritratto intenso e inquietante di un brillante e complesso uomo, THE IMITATION GAME mostra un genio che, sotto una pressione angosciante, ha contribuito a ridurre la durata della guerra e, quindi, a salvare milioni di vite.</desc>
   </programme>
-  <programme start="20261030085719 +0100" stop="20261030103310 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Earthstorm</title>
-    <desc lang="it">Un enorme impatto di un asteroide sulla Luna provoca tempeste sulla Terra a causa dei repentini cambiamenti delle maree oceaniche. Gli scienziati giungono alla conclusione che l'unica soluzione è quella di piazzare cariche nucleari sulla Luna per farla implodere e mantenerla integra.</desc>
+  <programme start="20261102133644 +0100" stop="20261102150656 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Regina</title>
+    <desc lang="it">Regina ha 15 anni e sogna di fare la cantante. A supportarla c’è soltanto il padre, Luigi, dato che Regina ha perso la madre anni prima e Luigi proprio per lei ha rinunciato alla sua carriera musicale. Il loro è un legame fortissimo, indissolubile.</desc>
   </programme>
-  <programme start="20261030103311 +0100" stop="20261030121014 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Termination Point</title>
-    <desc lang="it">L’agente Caleb Smith deve recuperare un’arma che permette di viaggiare nel tempo, rubata dallo scienziato Daniel Winter. Winter non vuole che questa tecnologia possa finire nelle mani sbagliate e rischierà tutto per evitare che l’arma venga usata contro il mondo intero.</desc>
+  <programme start="20261102150657 +0100" stop="20261102171047 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Voglia di ricominciare</title>
+    <desc lang="it">La commovente storia di formazione del rapporto violento tra un ragazzo, il suo nuovo patrigno e la sua terrorizzata madre.</desc>
   </programme>
-  <programme start="20261030121015 +0100" stop="20261030134729 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">L'ultimo giorno sulla terra</title>
-    <desc lang="it">In un futuro non troppo lontano, la temperatura del pianeta terra è aumentata a dismisura, molte specie si sono estinte e centinaia di persone sono diventate rifugiati climatici. Un nuovo pianeta è apparso in cielo ed è in rotta di collisione con la terra.</desc>
+  <programme start="20261102171048 +0100" stop="20261102191656 +0100" channel="drama-rakuten-tv">
+    <title lang="it">I segni del cuore - CODA</title>
+    <desc lang="it">Ruby non è una liceale qualunque: le sue giornate iniziano su una barca da pesca, a fianco di suo fratello  Leo, papà Frank e mamma Jackie, che sono tutti sordi. Ma la sua più grande passione è il canto e di talento ne ha da vendere.</desc>
   </programme>
-  <programme start="20261030134730 +0100" stop="20261030155600 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Proximity</title>
-    <desc lang="it">Un giovane scienziato della NASA JPL viene rapito dagli extraterrestri ma quando nessuno crede alla sua storia diventa ossessionato dalla ricerca di prove che confermino il suo viaggio.</desc>
+  <programme start="20261102191657 +0100" stop="20261102211623 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Amore inaspettato</title>
+    <desc lang="it">Bill, scrittore di successo, resta cieco a causa di un incidente stradale, nel quale sua moglie perde la vita. Un giorno si presenta alla sua porta Suzanne, obbligata ai servizi sociali a causa di una condanna penale. All’inizio i due non si piacciono, ma ben presto si scopriranno innamorati.</desc>
   </programme>
-  <programme start="20261030155601 +0100" stop="20261030174723 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">2:22 Il destino e' gia' scritto</title>
-    <desc lang="it">Dylan Boyd si rende conto che le sue giornate sono scandite dal replicarsi di piccoli eventi apparentemente casuali che si ripetono identici ogni giorno alla stessa ora, in una successione che termina puntualmente alle 2.22 alla stazione del treno.</desc>
+  <programme start="20261102211624 +0100" stop="20261102233455 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Family therapy</title>
+    <desc lang="it">Aleksander è ossessionato dall'immagine della sua famiglia perfetta, tanto da voler partecipare a un concorso per vincere un viaggio nello spazio. L'equilibrio precario esplode quando il figlio di una precedente relazione si unisce al nucleo familiare, scoperchiando bugie e segreti taciuti.</desc>
   </programme>
-  <programme start="20261030174724 +0100" stop="20261030191733 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Mystic Game</title>
-    <desc lang="it">Aleks è un adolescente in cerca del suo posto del mondo. Un giorno, pur essendo scettico in materia, si ritrova a partecipare ad un programma di magia al posto di un concorrente ritiratosi dopo esser caduto in un misterioso stato di trance.</desc>
-  </programme>
-  <programme start="20261030191734 +0100" stop="20261030211245 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">The Last Days</title>
-    <desc lang="it">Una misteriosa epidemia si diffonde in tutto il pianeta. L’umanità sviluppa una paura irrazionale per gli spazi aperti che porta alla morte immediata. Ben presto, la popolazione mondiale rimanente si ritroverà intrappolata all’interno degli edifici.</desc>
-  </programme>
-  <programme start="20261030211246 +0100" stop="20261030232236 +0100" channel="sci-fi-rakuten-tv">
-    <title lang="it">Wolf Call: Minaccia in alto mare</title>
-    <desc lang="it">Un giovane uomo ha il raro dono di riconoscere ogni suono che sente. A bordo di un sottomarino nucleare francese ogni cosa dipende da lui, "l’orecchio d’oro". Tutti lo reputano il migliore, finché un giorno non commette un errore che mette l’equipaggio in pericolo di vita.</desc>
+  <programme start="20261102233456 +0100" stop="20261103012933 +0100" channel="drama-rakuten-tv">
+    <title lang="it">Un padre in prestito</title>
+    <desc lang="it">Per poter adottare un ragazzo problematico, un impiegato postale solitario e non sposato deve dimostrare di essere emotivamente qualificato per amare e accudire un bambino.</desc>
   </programme>
   <programme start="20261030232237 +0100" stop="20261031011730 +0100" channel="sci-fi-rakuten-tv">
     <title lang="it">Monstrum</title>
@@ -833,113 +774,57 @@
     <title lang="it">Outlander - L'ultimo Vichingo</title>
     <desc lang="it">Un'astronave si schianta nella Norvegia del 709 d.c. A bordo si trova il guerriero umanoide Kainan e, a sua insaputa, il pericoloso Moorwen. Solo, su un pianeta sconosciuto e arretrato, il guerriero deve accordarsi con il re vichingo Rothgar per sconfiggere la temibile creatura.</desc>
   </programme>
-  <programme start="20261030003100 +0100" stop="20261030012451 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Beka vince un premio da un DJ radiofonico, scopre la verità su Seefra e trova il diagramma Meethus.</desc>
+  <programme start="20261102011922 +0100" stop="20261102025839 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">47 Metri</title>
+    <desc lang="it">Durante un’immersione due sorelle si trovano bloccate a 47 metri di profondità con una riserva d’aria limitata e circondate dagli squali.</desc>
   </programme>
-  <programme start="20261030012452 +0100" stop="20261030021844 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Flavin ritorna, scatenando una guerra tra gang, e aiuta Dylan a svilupparsi come Paradine.</desc>
+  <programme start="20261102025840 +0100" stop="20261102042725 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">LOLA</title>
+    <desc lang="it">1940, le sorelle Thom e Mars costruiscono la macchina LOLA, in grado di intercettare le trasmissioni radio e tv del futuro.</desc>
   </programme>
-  <programme start="20261030021845 +0100" stop="20261030031236 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Viene scoperto un cristallo in grado di far tornare l'Andromeda alla sua vecchia potenza, ma per ottenerlo Dylan deve lavorare per il proprietario della miniera.</desc>
+  <programme start="20261102042726 +0100" stop="20261102062309 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">La zona morta (The dead zone)</title>
+    <desc lang="it">Entrato in coma a seguito di uno spaventoso incidente stradale, il professor Smith riprende coscienza dopo 5 lunghi anni.</desc>
   </programme>
-  <programme start="20261030031237 +0100" stop="20261030040628 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Vengono scoperti su Seefra dei tunnel tramite cui è possibile raggiungere altri otto pianeti di Seefra.</desc>
+  <programme start="20261102062310 +0100" stop="20261102080749 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">La mia super ex-ragazza</title>
+    <desc lang="it">“La mia super ex-ragazza” segue le vicissitudini di Matt Saunders (Luke Wilson), un uomo ordinario, che lascia la sua storica fidanzata (Uma Thurman) – e scopre molto presto che è una supereroina ora in cerca di vendetta.</desc>
   </programme>
-  <programme start="20261030040629 +0100" stop="20261030050021 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Dopo che un anziano viene ucciso, Beka, Rhade e Harper vengono sospettati e messi sotto processo.</desc>
+  <programme start="20261102080750 +0100" stop="20261102100011 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">Tides</title>
+    <desc lang="it">In un lontano futuro, un’astronauta donna, giunta su un pianeta Terra ormai desolato e decimato, deve decidere il destino della popolazione umana. Un viaggio cinematografico mozzafiato attraverso sorprendenti colpi di scena.</desc>
   </programme>
-  <programme start="20261030050022 +0100" stop="20261030055413 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Dylan finisce a Seefra, popolato da persone superstiziose prive di tecnologia.</desc>
+  <programme start="20261102100012 +0100" stop="20261102113021 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">Mystic Game</title>
+    <desc lang="it">Aleks è un adolescente in cerca del suo posto del mondo. Un giorno, pur essendo scettico in materia, si ritrova a partecipare ad un programma di magia al posto di un concorrente ritiratosi dopo esser caduto in un misterioso stato di trance.</desc>
   </programme>
-  <programme start="20261030055414 +0100" stop="20261030064806 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Beka viene scaricata su Seefra dopo che l'Andromeda è stata rubata. Dylan deve dimostrare che la nave gli appartiene.</desc>
+  <programme start="20261102113022 +0100" stop="20261102130937 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">The Colony</title>
+    <desc lang="it">La Terra è diventata un pianeta di ghiaccio e gli ultimi umani sopravvissuti sono costretti a vivere sotto la superficie ghiacciata. Stremati dal freddo e dalla fame, i membri della Colonia 7 sospettano il peggio quando perdono il contatto con i soli altri sopravvissuti a loro noti della Colonia 5.</desc>
   </programme>
-  <programme start="20261030064807 +0100" stop="20261030074158 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Ancora su Seefra, Dylan ritrova Harper, che si è adattato alla vita lì.</desc>
+  <programme start="20261102130938 +0100" stop="20261102154027 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">The Core</title>
+    <desc lang="it">La Terra è minacciata da tempeste magnetiche che provocano terribili catastrofi. Il geofisico Josh Keyes scopre che il nucleo della Terra ha smesso di ruotare a causa del surriscaldamento dell'atmosfera terrestre. La soluzione: un viaggio al centro della Terra.</desc>
   </programme>
-  <programme start="20261030074159 +0100" stop="20261030083550 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Doyle è in realtà un androide costruito da Harper per contenere la programmazione di base di Rommie.</desc>
+  <programme start="20261102154028 +0100" stop="20261102175931 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">Ad Astra</title>
+    <desc lang="it">L'astronauta Roy McBride (Brad Pitt) viaggia fino ai lontani confini del sistema solare per trovare il padre scomparso e dipanare un mistero che minaccia la sopravvivenza del nostro pianeta.</desc>
   </programme>
-  <programme start="20261030083551 +0100" stop="20261030092943 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Beka vince un premio da un DJ radiofonico, scopre la verità su Seefra e trova il diagramma Meethus.</desc>
+  <programme start="20261102175932 +0100" stop="20261102193639 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">Stonehenge Apocalypse</title>
+    <desc lang="it">Alcuni studiosi, nel tentativo di decifrare la simbologia di una stele sotterranea, riattivano inavvertitamente il complesso megalitico di Salisbury, determinando una catastrofe mondiale alla quale solo uno scienziato incompreso e sbeffeggiato potrà porre rimedio.</desc>
   </programme>
-  <programme start="20261030092944 +0100" stop="20261030102335 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Flavin ritorna, scatenando una guerra tra gang, e aiuta Dylan a svilupparsi come Paradine.</desc>
+  <programme start="20261102193640 +0100" stop="20261102214600 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">12 ore per la fine del mondo</title>
+    <desc lang="it">Lera ha 15 anni e vive con la sua famiglia a Vladivostok. Suo padre lavora presso la stazione spaziale orbitante "Mira". Dopo che una pioggia di meteoriti ha colpito la città, Lera, aiutata dal padre ancora in orbita, ha solo una possibilità per salvare i suoi cari e la città da un nuovo disastro.</desc>
   </programme>
-  <programme start="20261030102336 +0100" stop="20261030111727 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Viene scoperto un cristallo in grado di far tornare l'Andromeda alla sua vecchia potenza, ma per ottenerlo Dylan deve lavorare per il proprietario della miniera.</desc>
+  <programme start="20261102214601 +0100" stop="20261102232559 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">Terminus</title>
+    <desc lang="it">David Chamberlain è un padre in difficoltà, vedovo con una figlia da mantenere e senza lavoro. Oltre a questo, il mondo è sull'orlo di un catastrofico conflitto nucleare. David fa una scoperta senza precedenti: un organismo extraterrestre che può contenere il segreto della vita stessa.</desc>
   </programme>
-  <programme start="20261030111728 +0100" stop="20261030121120 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Vengono scoperti su Seefra dei tunnel tramite cui è possibile raggiungere altri otto pianeti di Seefra.</desc>
-  </programme>
-  <programme start="20261030121121 +0100" stop="20261030130512 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Andromeda</title>
-    <desc lang="it">Dopo che un anziano viene ucciso, Beka, Rhade e Harper vengono sospettati e messi sotto processo.</desc>
-  </programme>
-  <programme start="20261030130513 +0100" stop="20261030135908 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
-  </programme>
-  <programme start="20261030135909 +0100" stop="20261030145304 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
-  </programme>
-  <programme start="20261030145305 +0100" stop="20261030154700 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
-  </programme>
-  <programme start="20261030154701 +0100" stop="20261030164055 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Shalimar si avvicina a un altro feral quando è "lussuria a prima vista", ma le cose si complicano quando il suo nuovo ragazzo cerca di trovare una cura per la sua condizione.</desc>
-  </programme>
-  <programme start="20261030164056 +0100" stop="20261030173451 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Quando una piaga che colpisce solo i mutanti imperversa, Adam e Eckhart accettano di lavorare insieme per trovare una cura.</desc>
-  </programme>
-  <programme start="20261030173452 +0100" stop="20261030182846 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Eckhart cerca un mutante in grado di assorbire energia, con il quale Brennan si lega sentimentalmente.</desc>
-  </programme>
-  <programme start="20261030182847 +0100" stop="20261030192242 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Jesse si innamora di un hacker di computer che Eckhart vuole "ingaggiare" per corrompere i canali di notizie del computer pubblico contro i Nuovi Mutanti... e a vantaggio della GSA.</desc>
-  </programme>
-  <programme start="20261030192243 +0100" stop="20261030201638 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Un ragazzo che sta sviluppando nuove abilità mutanti è stato rapito e la squadra accetta di trovarlo per sua madre. Più tardi vengono a sapere che è stata lei a far rapire il figlio.</desc>
-  </programme>
-  <programme start="20261030201639 +0100" stop="20261030211033 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Mutant X</title>
-    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
-  </programme>
-  <programme start="20261030211034 +0100" stop="20261030220614 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Relic Hunter</title>
-    <desc lang="it">Sydney, Nigel e il rivale cacciatore di reliquie Kurt Reiner si mettono alla ricerca del guanto da baseball.</desc>
-  </programme>
-  <programme start="20261030220615 +0100" stop="20261030230155 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Relic Hunter</title>
-    <desc lang="it">Chiunque rubi una statua di Mafdet, la dea-gatto egiziana, viene ucciso. Ora, la statua è sparita e Sydney e Nigel ricevono l'incarico di ritrovarla.</desc>
-  </programme>
-  <programme start="20261030230156 +0100" stop="20261030235736 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Relic Hunter</title>
-    <desc lang="it">Sydney e Nigel sono a Milano, in Italia, alla ricerca del famoso Libro dell'Amore di Casanova, andato perduto.</desc>
-  </programme>
-  <programme start="20261030235737 +0100" stop="20261031005527 +0100" channel="filmrise-sci-fi-it">
-    <title lang="it">Relic Hunter</title>
-    <desc lang="it">Sydney, Nigel e Claudia si trovano ad Atene, in Grecia, per cercare il leggendario gomitolo d'oro nel labirinto del Minotauro.</desc>
+  <programme start="20261102232600 +0100" stop="20261103021035 +0100" channel="sci-fi-rakuten-tv">
+    <title lang="it">La cura dal benessere</title>
+    <desc lang="it">Dal visionario regista di The Ring, arriva un thriller psicologico. Un giovane ed ambizioso dirigente viene mandato in un misterioso "centro benessere" a riprendere l'AD della sua azienda.</desc>
   </programme>
   <programme start="20261031005528 +0100" stop="20261031015108 +0100" channel="filmrise-sci-fi-it">
     <title lang="it">Relic Hunter</title>
@@ -1153,113 +1038,113 @@
     <title lang="it">Relic Hunter</title>
     <desc lang="it">Sydney e Nigel si trovano a Bruxelles, in Belgio, in cerca dell'orologio solare di Zeus, con l'obiettivo di fermare i Vampiri.</desc>
   </programme>
-  <programme start="20261030001955 +0100" stop="20261030010854 +0100" channel="crime-rakuten-tv">
-    <title lang="it">The Lost Room</title>
-    <desc lang="it">Lungo il cammino, Joe e Jennifer Bloom vengono a conoscenza del misterioso passato della Stanza. Martin Ruber cerca un oggetto per entrare a far parte dell'Ordine della Riunificazione.</desc>
+  <programme start="20261102010709 +0100" stop="20261102020249 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel si dirigono a Parigi, in Francia, per cercare un medaglione rubato, al fine di liberare la defunta nonna di Sydney dalle accuse.</desc>
   </programme>
-  <programme start="20261030010855 +0100" stop="20261030020653 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Crash</title>
-    <desc lang="it">Ben, confuso dalle droghe continua a essere tormentato dal Dottore e costringe Anthony a portarlo nel deserto per consultarsi con il suo sciamano; Cesar prova una grande soddisfazione nei suoi primi passi sul suolo americano.</desc>
+  <programme start="20261102020250 +0100" stop="20261102025830 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Quando l'aereo di Sydney precipita, un gruppo di suore le chiede di trovare la testa di un'altra suora che era stata decapitata secoli prima.</desc>
   </programme>
-  <programme start="20261030020654 +0100" stop="20261030030017 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Crash</title>
-    <desc lang="it">Cesar ripensa al suo passato e a ciò che gli ci è voluto per raggiungere Los Angeles; il matrimonio di Amy e Kenny prende una brutta piega, spingendo Kenny a riflettere su cosa vedesse in Inez.</desc>
+  <programme start="20261102025831 +0100" stop="20261102035410 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel cercano la pistola di Al Capone, tempestata di diamanti, per volere di un uomo, con la speranza che scagioni suo nonno dall'accusa di omicidio, per cui era stato incastrato.</desc>
   </programme>
-  <programme start="20261030030018 +0100" stop="20261030035122 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Una nuova vita per Zoe</title>
-    <desc lang="it">Zoe e M partecipano a una raccolta fondi di beneficenza dove Zoe giura di aver assistito al rapimento di un famoso stilista.</desc>
+  <programme start="20261102035411 +0100" stop="20261102045201 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel vanno in Scozia, alla ricerca di uno dei due anelli identici appartenuti a Calum e Elena.</desc>
   </programme>
-  <programme start="20261030035123 +0100" stop="20261030044227 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Una nuova vita per Zoe</title>
-    <desc lang="it">Zoe e Dan devono collaborare per determinare se la rapina in una gioielleria sia stata un lavoro dall'interno. I problemi iniziano quando Zoe e M sospettano che Dan possa essere coinvolto nella rapina.</desc>
+  <programme start="20261102045202 +0100" stop="20261102054742 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel vanno in Germania a cercare una chitarra di Elvis Presley andata perduta.</desc>
   </programme>
-  <programme start="20261030044228 +0100" stop="20261030053403 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Manhattan</title>
-    <desc lang="it">Helen e Charlie devono risolvere una crisi al reattore. Frank e Liza aiutano la famiglia di Paloma. Abby inizia un viaggio alla scoperta di se stessa.</desc>
+  <programme start="20261102054743 +0100" stop="20261102064323 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney, Nigel e Derek Lloyd si recano nella giungla peruviana per cercare la pergamena di Paracelso, che dovrebbe indicare la formula per trasformare il piombo in oro.</desc>
   </programme>
-  <programme start="20261030053404 +0100" stop="20261030062651 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Manhattan</title>
-    <desc lang="it">Sia Charlie che Frank affrontano seri interrogativi sul futuro dei loro progetti.</desc>
+  <programme start="20261102064324 +0100" stop="20261102073719 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
   </programme>
-  <programme start="20261030062652 +0100" stop="20261030071715 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Rectify</title>
-    <desc lang="it">La famiglia di Daniel cerca di accettare la sua confessione e l'imminente espulsione.</desc>
+  <programme start="20261102073720 +0100" stop="20261102083115 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
   </programme>
-  <programme start="20261030071716 +0100" stop="20261030080815 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Rectify</title>
-    <desc lang="it">Daniel tenta di adattarsi alle nuove circostanze mentre Amantha deve affrontare enormi cambiamenti a livello personale e problemi sul lavoro.</desc>
+  <programme start="20261102083116 +0100" stop="20261102092511 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Shalimar si avvicina a un altro feral quando è "lussuria a prima vista", ma le cose si complicano quando il suo nuovo ragazzo cerca di trovare una cura per la sua condizione.</desc>
   </programme>
-  <programme start="20261030080816 +0100" stop="20261030085905 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Rectify</title>
-    <desc lang="it">Daniel incontra il suo funzionario di sorveglianza per la libertà condizionale e scopre nuove, spiacevoli restrizioni alla sua vita.</desc>
+  <programme start="20261102092512 +0100" stop="20261102101906 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Un Nuovo Mutante viene rapito dalla sua famiglia, e Mutant X si mette in viaggio per recuperarlo e scoprire l'interesse di Eckhart per lui.</desc>
   </programme>
-  <programme start="20261030085906 +0100" stop="20261030095227 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Mogli assassine</title>
-    <desc lang="it">Crystal Johnson desidera l'amore, ma la sua profonda paranoia e la sua inclinazione alla violenza la fanno esplodere. Quando crede che il suo ragazzo la tradisca, lo pugnala con un coltello da cucina.</desc>
+  <programme start="20261102101907 +0100" stop="20261102111302 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Quando una piaga che colpisce solo i mutanti imperversa, Adam e Eckhart accettano di lavorare insieme per trovare una cura.</desc>
   </programme>
-  <programme start="20261030095228 +0100" stop="20261030104620 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Mogli assassine</title>
-    <desc lang="it">Carol Singh arriva a New York dal Suriname sperando di realizzare il sogno americano, tra cui quello di sposarsi. Ma quando il geloso fidanzato Dave diventa sempre più violento, una colluttazione con un coltello da cucina provoca la morte di Dave e Carol finisce dietro le sbarre.</desc>
+  <programme start="20261102111303 +0100" stop="20261102120658 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Jesse si innamora di un hacker di computer che Eckhart vuole "ingaggiare" per corrompere i canali di notizie del computer pubblico contro i Nuovi Mutanti... e a vantaggio della GSA.</desc>
   </programme>
-  <programme start="20261030104621 +0100" stop="20261030113530 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Mogli assassine</title>
-    <desc lang="it">Dopo un'attività di successo come spacciatrice di cocaina nella rutilante Fort Lauderdale degli anni '80, Donna Buchanan si ritrova con un signore maturo di nome Charlie. Ma Charlie si rivela essere un profittatore e un violento.</desc>
+  <programme start="20261102120659 +0100" stop="20261102130053 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Un ragazzo che sta sviluppando nuove abilità mutanti è stato rapito e la squadra accetta di trovarlo per sua madre. Più tardi vengono a sapere che è stata lei a far rapire il figlio.</desc>
   </programme>
-  <programme start="20261030113531 +0100" stop="20261030122635 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Mogli assassine</title>
-    <desc lang="it">Diane si innamora del carismatico politico Joe Reilly, ma non appena si dicono "lo voglio" Joe manifesta il tiranno violento che è in lui.</desc>
+  <programme start="20261102130054 +0100" stop="20261102135449 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
   </programme>
-  <programme start="20261030122636 +0100" stop="20261030133144 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Cherif</title>
-    <desc lang="it">Mentre Adeline fa progressi decisivi nell'indagine sull'omicidio di suo fratello, Kader e Doucet vengono presi in ostaggio da Bruno Portal, un uomo in fuga, accusato di aver fatto assassinare sua figlia.</desc>
+  <programme start="20261102135450 +0100" stop="20261102144844 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Mutant X</title>
+    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
   </programme>
-  <programme start="20261030133145 +0100" stop="20261030143741 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Cherif</title>
-    <desc lang="it">L'assassinio dell'avvocato del principale sospettato nella morte del fratello di Adeline mette Cherif e Briard sotto pressione. L'indagine viene affidata parallelamente a Sylvie Delmas, capo dell'Interpol.</desc>
+  <programme start="20261102144845 +0100" stop="20261102154425 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel si ritrovano a Moose Bay, in Alaska, alla ricerca del sarcofago di un'imperatrice cinese.</desc>
   </programme>
-  <programme start="20261030143742 +0100" stop="20261030153829 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Cherif</title>
-    <desc lang="it">In custodia cautelare, Adeline è incriminata per l'omicidio del comandante Garnier, ma Cherif e tutta la famiglia del commissariato si mobilitano per scagionarla...</desc>
+  <programme start="20261102154426 +0100" stop="20261102164006 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney, Nigel e il rivale cacciatore di reliquie Kurt Reiner si mettono alla ricerca del guanto da baseball.</desc>
   </programme>
-  <programme start="20261030153830 +0100" stop="20261030163957 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Cherif</title>
-    <desc lang="it">In attesa del reintegro di Adeline, Kader indaga da solo sull'omicidio di una ragazza in una villa di lusso, nei quartieri chic di Lione. Deve cooperare con Roxane, una poliziotta della Brigata Minorile che sta dando la caccia a una banda di adolescenti.</desc>
+  <programme start="20261102164007 +0100" stop="20261102173547 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Chiunque rubi una statua di Mafdet, la dea-gatto egiziana, viene ucciso. Ora, la statua è sparita e Sydney e Nigel ricevono l'incarico di ritrovarla.</desc>
   </programme>
-  <programme start="20261030163958 +0100" stop="20261030173203 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">Il ladro professionista Richard Denz ha sottratto delle armi ad alta tecnologia viene inseguito dalla killer Eva Weissmann. Jan e Semir riescon a mettersi sulle tracce di Denz, ma non appena questi li mette al corrente di quanto fatto, al porto su...</desc>
+  <programme start="20261102173548 +0100" stop="20261102183128 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel sono a Milano, in Italia, alla ricerca del famoso Libro dell'Amore di Casanova, andato perduto.</desc>
   </programme>
-  <programme start="20261030173204 +0100" stop="20261030182407 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">Ariane Borsche è testimone di un omicidio. Quando viene coinvolta in un incidente in autostrada, Jan e Semir non si accorgono che l'auto è stata manomessa.</desc>
+  <programme start="20261102183129 +0100" stop="20261102192919 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney, Nigel e Claudia si trovano ad Atene, in Grecia, per cercare il leggendario gomitolo d'oro nel labirinto del Minotauro.</desc>
   </programme>
-  <programme start="20261030182408 +0100" stop="20261030191606 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">L'hacker di computer Van Breukelen viene arrestato a seguito di un incidente. Quando viene assassinato poco dopo alla stazione, i poliziotti cominciano a investigare l'ambiente hacker.</desc>
+  <programme start="20261102192920 +0100" stop="20261102202500 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel sono prima a Il Cairo, in Egitto, e poi ad Amsterdam.</desc>
   </programme>
-  <programme start="20261030191607 +0100" stop="20261030200756 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">Hotte riceve una visita dalla madre, Elfriede. Dopo l'inseguimento della ladra Selina e uno scontro, Elfriede, senza saperlo, entra in possesso di un sistema circuitale e Hotte e sua madre diventano il target di Selina e dei suoi scagnozzi.</desc>
+  <programme start="20261102202501 +0100" stop="20261102212040 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Sydney e Nigel si recano a Dublino, in Irlanda, alla ricerca della corona perduta dell'ultimo Re d'Irlanda.</desc>
   </programme>
-  <programme start="20261030200757 +0100" stop="20261030210003 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Squadra Speciale Cobra 11</title>
-    <desc lang="it">Un boss della droga viene assassinato a breve distanza subito dopo il suo rilascio. Quando il mondo della droga subito dopo fa ulteriori vittime, si scopre che nel caso sono coinvolte delle guardie di sicurezza.</desc>
+  <programme start="20261102212041 +0100" stop="20261102221621 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Relic Hunter</title>
+    <desc lang="it">Accompagnando l'illusionista Max, Sydney e Nigel si recano ad Atlantic City, nel New Jersey, alla ricerca dello Scettro Reale dell'Ungheria, noto per essere maledetto, andato perduto.</desc>
   </programme>
-  <programme start="20261030210004 +0100" stop="20261030214915 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Detective McLean</title>
-    <desc lang="it">Uno dei dipendenti di Matt rimane coinvolto in un giro di prostituzione e si rivolge ad Allison per chiedere aiuto. Cameron e Mariah vanno a trovare Tim in carcere per il suo compleanno.</desc>
+  <programme start="20261102221622 +0100" stop="20261102231014 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Andromeda</title>
+    <desc lang="it">Dylan finisce a Seefra, popolato da persone superstiziose prive di tecnologia.</desc>
   </programme>
-  <programme start="20261030214916 +0100" stop="20261030223827 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Detective McLean</title>
-    <desc lang="it">Allison e Devin indagano sulla morte di un potente amministratore delegato. Nel frattempo, la madre di Cameron e Mariah, Jackie, torna a casa dal centro di riabilitazione.</desc>
+  <programme start="20261102231015 +0100" stop="20261103000406 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Andromeda</title>
+    <desc lang="it">Beka viene scaricata su Seefra dopo che l'Andromeda è stata rubata. Dylan deve dimostrare che la nave gli appartiene.</desc>
   </programme>
-  <programme start="20261030223828 +0100" stop="20261030232739 +0100" channel="crime-rakuten-tv">
-    <title lang="it">Detective McLean</title>
-    <desc lang="it">Allison e Devin scoprono la scioccante verità al centro di una guerra per il territorio a Crestview. In seguito, Allison e Matt portano tutta la famiglia a far visita a Tim in prigione e Jackie, gelosa del modo in cui Cameron guarda Allison, fa una scelta drastica.</desc>
+  <programme start="20261103000407 +0100" stop="20261103005758 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Andromeda</title>
+    <desc lang="it">Ancora su Seefra, Dylan ritrova Harper, che si è adattato alla vita lì.</desc>
   </programme>
-  <programme start="20261030232740 +0100" stop="20261031001715 +0100" channel="crime-rakuten-tv">
-    <title lang="it">The Lost Room</title>
-    <desc lang="it">In questo finale ad alta tensione di The Lost Room, Joe si serve di tutte le sue risorse e alleanze per trovare l'Oggetto Primario e salvare sua figlia.</desc>
+  <programme start="20261103005759 +0100" stop="20261103015151 +0100" channel="filmrise-sci-fi-it">
+    <title lang="it">Andromeda</title>
+    <desc lang="it">Beka vince un premio da un DJ radiofonico, scopre la verità su Seefra e trova il diagramma Meethus.</desc>
   </programme>
   <programme start="20261031001716 +0100" stop="20261031010632 +0100" channel="crime-rakuten-tv">
     <title lang="it">The Lost Room</title>
@@ -1480,5 +1365,117 @@
   <programme start="20261102001207 +0100" stop="20261102010142 +0100" channel="crime-rakuten-tv">
     <title lang="it">The Lost Room</title>
     <desc lang="it">In questo finale ad alta tensione di The Lost Room, Joe si serve di tutte le sue risorse e alleanze per trovare l'Oggetto Primario e salvare sua figlia.</desc>
+  </programme>
+  <programme start="20261102010143 +0100" stop="20261102015723 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Crash</title>
+    <desc lang="it">L'indagine di Ben sull'omicidio di sua figlia porta a una fonte sconvolgente di mercato nero di filmati di sorveglianza; Inez e Jimmy saldano i debiti di gioco di Jimmy.</desc>
+  </programme>
+  <programme start="20261102015724 +0100" stop="20261102025548 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Crash</title>
+    <desc lang="it">Ben e Anthony visitano il club di atletica dove è stata uccisa Cassie, ma vengono dissuasi dall'indagare oltre; Eddie ridicolizza il consiglio che Bo dà a Tyler, spingendo Bo a dimostrare la sua prestanza virile.</desc>
+  </programme>
+  <programme start="20261102025549 +0100" stop="20261102034648 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Una nuova vita per Zoe</title>
+    <desc lang="it">Una scrittrice di gialli un tempo famosa uccide il suo ricco cugino e fa sembrare che si tratti di un suicidio, ma poi assume Zoe e Dan per dimostrare che la morte è stata un omicidio.</desc>
+  </programme>
+  <programme start="20261102034649 +0100" stop="20261102043754 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Una nuova vita per Zoe</title>
+    <desc lang="it">Zoe e Dan vengono immediatamente coinvolti in un caso quando sentono l'aggressione di un personaggio radiofonico schietto durante una trasmissione. Le cose prendono una piega insolita quando si scopre che il DJ è cieco.</desc>
+  </programme>
+  <programme start="20261102043755 +0100" stop="20261102053004 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Manhattan</title>
+    <desc lang="it">Il gruppo Implosion supera un nuovo ostacolo con l'aiuto del passato di Charlie. Un visitatore inaspettato di The Hill solleva i sospetti su Frank.</desc>
+  </programme>
+  <programme start="20261102053005 +0100" stop="20261102062344 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Manhattan</title>
+    <desc lang="it">Uno sviluppo da oltreoceano dà nuova energia alla caccia a una spia a The Hill. Charlie e Abby fanno un sacrificio quando il piano con Frank è minacciato.</desc>
+  </programme>
+  <programme start="20261102062345 +0100" stop="20261102071405 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Rectify</title>
+    <desc lang="it">A Paulie la famiglia Holden-Talbot si adegua alla vita quotidiana priva dell'influenza catalizzatrice di Daniel. Janet è in ansia per Daniel lontano da casa.</desc>
+  </programme>
+  <programme start="20261102071406 +0100" stop="20261102080359 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Rectify</title>
+    <desc lang="it">Daniel continua ad adattarsi alla vita di gruppo, che è ulteriormente complicata dal suo nuovo compagno di stanza. Intanto Janet decide di far visita a Daniel.</desc>
+  </programme>
+  <programme start="20261102080400 +0100" stop="20261102085435 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Rectify</title>
+    <desc lang="it">Daniel ha una tregua temporanea dal tran tran della casa-famiglia quando s'imbarca in un'avventura con Chloe.</desc>
+  </programme>
+  <programme start="20261102085436 +0100" stop="20261102094640 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Mogli assassine</title>
+    <desc lang="it">Dopo aver sofferto per la mancanza di rispetto e le bugie degli uomini, Edna Wilson decide di concentrarsi sulla sua carriera e sulla sua famiglia. Ma quando rivede una vecchia fiamma dei tempi del liceo, inizia una storia d'amore travolgente.</desc>
+  </programme>
+  <programme start="20261102094641 +0100" stop="20261102103847 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Mogli assassine</title>
+    <desc lang="it">Dopo tre matrimoni finiti con problemi di dipendenza e divorzio, Debra Hudson si dedica agli altri attraverso la consulenza e l'assistenza sociale. Poi incontra Jamie, un uomo che non riesce ad aiutare e l'instabilità della loro relazione fa riemergere con prepotenza le sue dipendenze.</desc>
+  </programme>
+  <programme start="20261102103848 +0100" stop="20261102113054 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Mogli assassine</title>
+    <desc lang="it">Terri Pearson è una donna transgender costretta a stare in strada per sopravvivere.  Risparmia ogni centesimo per pagare l'intervento di trasformazione e incontra un uomo online.</desc>
+  </programme>
+  <programme start="20261102113055 +0100" stop="20261102122300 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Mogli assassine</title>
+    <desc lang="it">Karen Miller inizia una storia d'amore con un uomo più grande, ma lo lascia dopo essere rimasta incinta e torna a casa in Arizona. Una nuova storia d'amore con un collega si alimenta di alcol e abusi, finché lei non si difende conficcandogli un coltello nel collo.</desc>
+  </programme>
+  <programme start="20261102122301 +0100" stop="20261102132228 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Cherif</title>
+    <desc lang="it">Cherif e tutta la squadra del commissariato, in modalità travestimento, si ritrovano al 1° Fan Lyon Festival, ma un autore di fumetti viene assassinato in pieno evento in mezzo ai Cosplayer. I fan di Bob Hamilton sono in lutto e il colpevole è senza dubbio tra loro.</desc>
+  </programme>
+  <programme start="20261102132229 +0100" stop="20261102142055 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Cherif</title>
+    <desc lang="it">Il cadavere di Jessica Dufresne viene ritrovato in una zona industriale, con il cranio fracassato da un oggetto contundente. Per suo fratello Maxime e sua madre Anne, la sua morte è un ultimo colpo del destino: Jessica era appena ricomparsa, dieci anni dopo la sua misteriosa scomparsa.</desc>
+  </programme>
+  <programme start="20261102142056 +0100" stop="20261102152205 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Cherif</title>
+    <desc lang="it">Un attore di una compagnia teatrale amatoriale viene assassinato a pochi giorni dalla prima. L'indagine si complica per Cherif e Legoff quando scoprono che la pièce che doveva essere rappresentata era scritta da... il Brigadier-Capo Baudemont.</desc>
+  </programme>
+  <programme start="20261102152206 +0100" stop="20261102162158 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Cherif</title>
+    <desc lang="it">Una coppia di inglesi (Scott e Paula King, 50 anni) viene ritrovata morta nella casa che avevano affittato, con il volto deformato dalla paura... La loro morte è inspiegabile: non hanno segni di ferite ed erano barricati a doppia mandata la sera dell'omicidio. Kader e Legoff conducono le indagini...</desc>
+  </programme>
+  <programme start="20261102162159 +0100" stop="20261102171416 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Squadra Speciale Cobra 11</title>
+    <desc lang="it">Andrea e Semir sono a un distributore quando avviene un furto. Uno dei criminali minaccia Semir e Andrea gli spara per autodifesa. La partner del criminale promette vendetta ai danni di Andrea…</desc>
+  </programme>
+  <programme start="20261102171417 +0100" stop="20261102180548 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Squadra Speciale Cobra 11</title>
+    <desc lang="it">Dopo aver fermato un'auto che sfrecciava in autostrada, Tom e Semir trovano una gabbia contenente un felino di una specie protetta. Come è riuscito il malvivente ad aggirare i controlli e introdurre l'animale, tutelato da leggi internazionali?</desc>
+  </programme>
+  <programme start="20261102180549 +0100" stop="20261102185741 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Squadra Speciale Cobra 11</title>
+    <desc lang="it">Un pompiere muore in un incidente in autostrada. Nel suo armadietto, Tom e Semir scoprono un plico contenente foto e ritagli di giornale relativi a diversi incendi di case avvenuti nella loro area di competenza.</desc>
+  </programme>
+  <programme start="20261102185742 +0100" stop="20261102194919 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Squadra Speciale Cobra 11</title>
+    <desc lang="it">Dopo un incidente, la pattuglia autostradale trova Tom Kranich sul punto di morte. Con le sue ultime parole, svela qualcosa di incomprensibile. Semir scopre che un altro uomo rimasto ucciso nell'incidente era responsabile del'intera rete elettrica.</desc>
+  </programme>
+  <programme start="20261102194920 +0100" stop="20261102204138 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Squadra Speciale Cobra 11</title>
+    <desc lang="it">Una chiamata anonima segnala una bomba su di una vettura di un'agenzia di consegne. Semir raggiunge il veicolo giusto in tempo per vederlo saltare in aria. Per la pattuglia inizia una micidiale corsa contro il tempo…</desc>
+  </programme>
+  <programme start="20261102204139 +0100" stop="20261102213050 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Detective McLean</title>
+    <desc lang="it">Allison ha un alterco con una famosa giocatrice di calcio femminile e viene accusata di brutalità. A casa, Allison si preoccupa dell'interesse di Chris, amico di Cameron, per Rachel.</desc>
+  </programme>
+  <programme start="20261102213051 +0100" stop="20261102222002 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Detective McLean</title>
+    <desc lang="it">Uno dei dipendenti di Matt rimane coinvolto in un giro di prostituzione e si rivolge ad Allison per chiedere aiuto. Cameron e Mariah vanno a trovare Tim in carcere per il suo compleanno.</desc>
+  </programme>
+  <programme start="20261102222003 +0100" stop="20261102230914 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Detective McLean</title>
+    <desc lang="it">Allison e Devin indagano sulla morte di un potente amministratore delegato. Nel frattempo, la madre di Cameron e Mariah, Jackie, torna a casa dal centro di riabilitazione.</desc>
+  </programme>
+  <programme start="20261102230915 +0100" stop="20261102235831 +0100" channel="crime-rakuten-tv">
+    <title lang="it">The Lost Room</title>
+    <desc lang="it">Kreutzfeld, Jennifer, Wally e La Donnola cercano l'Oggetto Primario, ma uno di loro tradirà Joe mettendo in moto eventi che potrebbe porre fine al mondo così come lo conosciamo.</desc>
+  </programme>
+  <programme start="20261102235832 +0100" stop="20261103004807 +0100" channel="crime-rakuten-tv">
+    <title lang="it">The Lost Room</title>
+    <desc lang="it">Il detective Joe Miller indaga su un caso riguardante due uomini trovati completamente bruciati in un banco dei pegni. Apparentemente, c'entrano una strana chiave e un affare andato male.</desc>
+  </programme>
+  <programme start="20261103004808 +0100" stop="20261103014523 +0100" channel="crime-rakuten-tv">
+    <title lang="it">Crash</title>
+    <desc lang="it">Seth si trasferisce in un loft eco-compatibile dove annuncia un'impresa drastica per il miglioramento futuro di Los Angeles; Kenny fa amicizia con Tess, che gestisce un centro per senzatetto.</desc>
   </programme>
 </tv>
