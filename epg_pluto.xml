@@ -12,21 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261031100000 +0200" stop="20261031134953 +0200" channel="pluto_film_tv">
+  <programme start="20261031153000 +0200" stop="20261031193006 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261031134953 +0200" stop="20261031152253 +0200" channel="pluto_film_tv">
-    <title lang="it">Pootie Tang</title>
-    <desc lang="it">Quando la guerra personale di Pootie contro l'avidità, l'ingiustizia e il consumismo a intaccare i suoi profitti alla LecterCorp, il capo impazzito dela compagnia lo introduce in un mondo pazzesco usando la sua cintura magica.</desc>
-  </programme>
-  <programme start="20261031152253 +0200" stop="20261031170953 +0200" channel="pluto_film_tv">
-    <title lang="it">True women</title>
-    <desc lang="it">Nel west dei mitici anni della frontiera Georgia Lawshe Woods si oppone alle strette regole morali per affermare sé stessa. Si appassiona alla politica affronta i pericoli della guerra e combatte l'ostilità degli indiani.</desc>
-  </programme>
-  <programme start="20261031170953 +0200" stop="20261031193006 +0200" channel="pluto_film_tv">
-    <title lang="it">Queen of the desert</title>
-    <desc lang="it">Gertrude Bell, personaggio realmente esistito è una donna inglese dalla vita ricca e avventurosa che, all'alba del XX secolo, fu viaggiatrice, scrittrice, archeologa, esploratrice, cartografa, agente segreto e diplomatica per conto dell'Impero Britannico.</desc>
   </programme>
   <programme start="20261031193006 +0200" stop="20261031220006 +0200" channel="pluto_film_tv">
     <title lang="it">Dreamgirls</title>
@@ -68,33 +56,29 @@
     <title lang="it">La Forza Del Singolo</title>
     <desc lang="it">P.K. Newborn era l'unico bambino inglese in una scuola afrikaans. P.K. incontra il detenuto Geel Piet che gli insegna a tirare di boxe.</desc>
   </programme>
-  <programme start="20261101172003 +0200" stop="20261101220000 +0200" channel="pluto_film_tv">
+  <programme start="20261101172003 +0200" stop="20261101193412 +0200" channel="pluto_film_tv">
+    <title lang="it">Istruzioni non incluse</title>
+    <desc lang="it">Valentin è un playboy di Acapulco. Un giorno sulla sua porta viene lasciata una bambina e l'uomo decide di crescerla come fosse sua, cambiando così stile di vita ed arrivando a conquistare Hollywood come stuntman.</desc>
+  </programme>
+  <programme start="20261101193412 +0200" stop="20261101220012 +0200" channel="pluto_film_tv">
+    <title lang="it">Rob-B-Hood - Tre Rapinatori e un Bebè</title>
+    <desc lang="it">Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo.</desc>
+  </programme>
+  <programme start="20261101220012 +0200" stop="20261102033000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101220000 +0200" stop="20261102100000 +0200" channel="pluto_film_tv">
+  <programme start="20261102033000 +0200" stop="20261102153000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102100000 +0200" stop="20261102160000 +0200" channel="pluto_film_tv">
+  <programme start="20261102153000 +0200" stop="20261102213000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261031100000 +0200" stop="20261031133905 +0200" channel="pluto_film_azione">
+  <programme start="20261031153000 +0200" stop="20261031184119 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261031133905 +0200" stop="20261031152226 +0200" channel="pluto_film_azione">
-    <title lang="it">Jack Hunter e la stella del paradiso</title>
-    <desc lang="it">L'avventuriero Jack Hunter insegue attraverso l'Europa Albert Littman, il suo nemico storico, cercando di contrastare i tentativi del rivale di impadronirsi di un pericoloso e misterioso oggetto.</desc>
-  </programme>
-  <programme start="20261031152226 +0200" stop="20261031170846 +0200" channel="pluto_film_azione">
-    <title lang="it">Borning 2 - Corsa Tra I Ghiacci</title>
-    <desc lang="it">Dopo due anni di prigione per corse illegali, Roy vuole rifarsi e fare da modello a sua figlia Nina. Rifiuta di correre ancora, ma quando scopre che Nina gareggerà col fidanzato, cambia idea e si prepara a sfidare di nuovo la strada.</desc>
-  </programme>
-  <programme start="20261031170846 +0200" stop="20261031184119 +0200" channel="pluto_film_azione">
-    <title lang="it">Trading Paint - Oltre La Leggenda</title>
-    <desc lang="it">Cam, figlio di Sam Munroe (John Travolta), lascia la squadra del padre per correre con i rivali guidati da Linsky (Michael Madsen). Tra padre e figlio nasce una forte rivalità che si sfoga in una gara mozzafiato per il titolo di campione</desc>
   </programme>
   <programme start="20261031184119 +0200" stop="20261031203119 +0200" channel="pluto_film_azione">
     <title lang="it">Striscia Vincente</title>
@@ -144,45 +128,33 @@
     <title lang="it">La gang degli svitati</title>
     <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
   </programme>
-  <programme start="20261101162938 +0200" stop="20261101220000 +0200" channel="pluto_film_azione">
+  <programme start="20261101162938 +0200" stop="20261101190838 +0200" channel="pluto_film_azione">
+    <title lang="it">T-34 Eroi D'Acciaio</title>
+    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
+  </programme>
+  <programme start="20261101190838 +0200" stop="20261101205915 +0200" channel="pluto_film_azione">
+    <title lang="it">Crypto</title>
+    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
+  </programme>
+  <programme start="20261101205915 +0200" stop="20261101223015 +0200" channel="pluto_film_azione">
+    <title lang="it">Rampage</title>
+    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
+  </programme>
+  <programme start="20261101223015 +0200" stop="20261102033000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101220000 +0200" stop="20261102100000 +0200" channel="pluto_film_azione">
+  <programme start="20261102033000 +0200" stop="20261102153000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102100000 +0200" stop="20261102160000 +0200" channel="pluto_film_azione">
+  <programme start="20261102153000 +0200" stop="20261102213000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261031100000 +0200" stop="20261031141725 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261031153000 +0200" stop="20261031191125 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261031141725 +0200" stop="20261031150625 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Spietato come il sole</title>
-    <desc lang="it">L’Andromeda risponde a una chiamata di soccorso mentre una nave da carico viene attaccata.</desc>
-  </programme>
-  <programme start="20261031150625 +0200" stop="20261031155525 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Ultima chiamata per il martello rotto</title>
-    <desc lang="it">L'equipaggio è alla ricerca di un ex capo del Commonwealth latitante.</desc>
-  </programme>
-  <programme start="20261031155525 +0200" stop="20261031164425 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Tutto troppo umano</title>
-    <desc lang="it">Dylan, Beka e Trance vanno con Rommie alla scoperta di un'arma inventata su un pianeta che non crede nell'AI.</desc>
-  </programme>
-  <programme start="20261031164425 +0200" stop="20261031173325 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Visione doppia</title>
-    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
-  </programme>
-  <programme start="20261031173325 +0200" stop="20261031182225 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Legami di sangue</title>
-    <desc lang="it">Jesse viene coinvolto in una missione mortale sotto copertura dal suo padre estraniato, che lavora contro Eckhart.</desc>
-  </programme>
-  <programme start="20261031182225 +0200" stop="20261031191125 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Alter Ego</title>
-    <desc lang="it">Una giovane Nuova Mutante dal passato di Adam si presenta, cercando vendetta per la morte di suo padre.</desc>
   </programme>
   <programme start="20261031191125 +0200" stop="20261031200017 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Il Supereroe 2: La Freccia Spezzata</title>
@@ -292,15 +264,39 @@
     <title lang="it">Andromeda: Ouroboros</title>
     <desc lang="it">Le uova Magog di Harper stanno iniziando a schiudersi, quindi il team costruisce una macchina Teseract.</desc>
   </programme>
-  <programme start="20261101164738 +0200" stop="20261101220000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261101164738 +0200" stop="20261101173638 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
+    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
+  </programme>
+  <programme start="20261101173638 +0200" stop="20261101182538 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Interfaccia</title>
+    <desc lang="it">Emma si riunisce con un vecchio amico che possiede poteri di teletrasporto. La riunione diventa però pericolosa quando Michelle cerca di consegnare Emma alla GSA.</desc>
+  </programme>
+  <programme start="20261101182538 +0200" stop="20261101191438 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Presunto colpevole</title>
+    <desc lang="it">Adam viene incastrato per omicidio da un Nuovo Mutante con la capacità di rubare i ricordi delle persone.</desc>
+  </programme>
+  <programme start="20261101191438 +0200" stop="20261101200438 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Pax Romana</title>
+    <desc lang="it">Dopo aver ottenuto con successo l'accesso alla città di Praxis nella Terra Cava, Magnus e la squadra sono accolti con ostilità dal leader della città Ranna che ha un'agenda segreta.</desc>
+  </programme>
+  <programme start="20261101200438 +0200" stop="20261101205438 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Difficile Risveglio</title>
+    <desc lang="it">Magnus torna a casa da un viaggio notturno per trovare il Santuario in uno stato di caos sconcertante:detriti di battaglia ovunque,nessuno in vista,e un'ispezione programmata della squadra di sicurezza delle Nazioni Unite a poche ore di distanza.</desc>
+  </programme>
+  <programme start="20261101205438 +0200" stop="20261101214419 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Una Notte</title>
+    <desc lang="it">Quello che è iniziato come un innocente primo appuntamento per Will e Abby, si trasforma in un pericoloso rapimento da parte di una banda il cui leader affronta morte certa senza il loro aiuto.</desc>
+  </programme>
+  <programme start="20261101214419 +0200" stop="20261102033000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101220000 +0200" stop="20261102100000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261102033000 +0200" stop="20261102153000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102100000 +0200" stop="20261102160000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261102153000 +0200" stop="20261102213000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
