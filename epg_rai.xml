@@ -123,7 +123,7 @@
     <title lang="it">Passaggio a Nord-Ovest - Puntata del 31/10/2026</title>
     <desc lang="it">In questa puntata: facciamo un insolito viaggio in Spagna e precisamente a Siviglia per scoprire la preziosa arte sartoriale degli abiti da flamenco, simbolo della cultura spagnola. Raggiungiamo il Deserto del Kalahari in Namibia per conoscere i San, meglio conosciuti come Boscimani. Ammiriamo la recente scoperta della Kore di Vulci, la testa di una fanciulla rinvenuta nel sottosuolo del centro etrusco di Vulci, nel territorio di Montalto di Castro;- Andiamo a Firenze, presso il Palazzo Strozzi dove intraprendiamo un viaggio tra luoghi ed epoche diverse attraverso la mostra "BROKEN Il potere del frammento". Conduce Alberto Angela.</desc>
   </programme>
-  <programme start="20261031161000 +0200" stop="20261031164500 +0200" channel="Rai1.it">
+  <programme start="20261031161000 +0200" stop="20261031165300 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 31/10/2026</title>
     <desc lang="it">Lorena Bianchetti racconta la storia di Chiara Corbella Petrillo, scomparsa a 28 anni dopo aver affrontato la perdita di due figli e una grave malattia. Attraverso le testimonianze dei familiari, un ritratto della sua vita, della fede e della forza dei legami, mentre è in corso la causa di beatificazione. A seguire, ne "Le Ragioni della Speranza", un viaggio nel cuore di Napoli, tra il Duomo, la devozione a San Gennaro e le botteghe di San Gregorio Armeno, alla scoperta di storie di fede, arte e tradizione.</desc>
   </programme>
@@ -300,6 +300,7 @@
   </programme>
   <programme start="20261102052500 +0200" stop="20261102055500 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Punto Europa</title>
+    <desc lang="it">NOTIZIARIO - Ilavori del Parlamento Europeo, tra Strasburgo e Bruxelles, l'influenza dell'Unione Europea sulla vita degli Stati membri e dei cittadini.Direttrice Francesca De Martino. - A cura di Rai Parlamento</desc>
   </programme>
   <programme start="20261102055500 +0200" stop="20261102062800 +0200" channel="Rai1.it">
     <title lang="it">1mattina News - Puntata del 02/11/2026</title>
@@ -330,6 +331,7 @@
   </programme>
   <programme start="20261102085500 +0200" stop="20261102090000 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
+    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direttrice Francesca De Martino</desc>
   </programme>
   <programme start="20261102090000 +0200" stop="20261102090300 +0200" channel="Rai1.it">
     <title lang="it">TG 1 L.I.S.</title>
@@ -607,17 +609,9 @@
     <title lang="it">Le indagini di Sister Boniface Letale ma</title>
     <desc lang="it">Le indagini di Sister Boniface Letale ma non immortale 1^ Visione Rai - TELEFILM - Sister Boniface ed il suo team cercano di scoprire cosa abbia causato la morte di un membro del cast durante le riprese di -  un film poliziesco... - 2^ stagione Con Lorna Watson, Max Brown, Miranda Raison, Jerry Iwu</desc>
   </programme>
-  <programme start="20261101092500 +0200" stop="20261101101000 +0200" channel="Rai2.it">
-    <title lang="it">Le indagini di Sister Boniface</title>
-    <desc lang="it">Inghilterra, anni '60. Sorella Boniface è una suora cattolica del convento di St. Vincent nella città immaginaria di Great Slaughter nelle Cotswolds. Oltre ai suoi doveri religiosi in convento, produce vino e ha un dottorato di ricerca in scienze forensi, che le consente di collaborare come consulente scientifico della polizia locale per le indagini.</desc>
-  </programme>
-  <programme start="20261101101000 +0200" stop="20261101110000 +0200" channel="Rai2.it">
+  <programme start="20261101101500 +0200" stop="20261101110000 +0200" channel="Rai2.it">
     <title lang="it">Job Missione Lavoro - Puntata del 01/11/2026</title>
     <desc lang="it">Gabriella Carlucci e Adriana Volpe conducono il nuovo programma itinerante dedicato all'occupazione: colloqui, prove sul campo e opportunità concrete per chi cerca un impiego</desc>
-  </programme>
-  <programme start="20261101101500 +0200" stop="20261101110000 +0200" channel="Rai2.it">
-    <title lang="it">Job Missione Lavoro</title>
-    <desc lang="it">Un unico racconto che unisce la realtà imprenditoriale e la sua necessità di adeguarsi alle trasformazioni del mercato, con i sogni e la forza di chi cerca un'occupazione e si candida per un posto di lavoro.... - Condotto da Gabriella Carlucci, Adriana Volpe Un programma di Gabriella Carlucci, Adriana Volpe, Settimio Colangelo Scritto da Cristiano Fantechi Delegato RAI Antonino Ingegnieri Regia di Matteo Catelli Un programma realizzato in collaborazione con The Arena</desc>
   </programme>
   <programme start="20261101110000 +0200" stop="20261101111000 +0200" channel="Rai2.it">
     <title lang="it">TG Sport</title>
@@ -1051,23 +1045,23 @@
   <programme start="20261102002500 +0200" stop="20261102003000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20261102003000 +0200" stop="20261102024500 +0200" channel="Rai3.it">
+  <programme start="20261102003000 +0200" stop="20261102024000 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora - Puntata del 01/11/2026</title>
     <desc lang="it">In diretta da Washington, Monica Maggioni approfondisce le elezioni di midterm negli Stati Uniti e il loro significato per il futuro del Paese e gli equilibri internazionali.</desc>
   </programme>
-  <programme start="20261102024500 +0200" stop="20261102025000 +0200" channel="Rai3.it">
+  <programme start="20261102024000 +0200" stop="20261102024500 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PARTENZE E RITORNI, LA DERIVA INTERIORE di Roberto Turigliatto</desc>
   </programme>
-  <programme start="20261102025000 +0200" stop="20261102041000 +0200" channel="Rai3.it">
+  <programme start="20261102024500 +0200" stop="20261102040500 +0200" channel="Rai3.it">
     <title lang="it">Je Tu Il Elle</title>
     <desc lang="it">Il titolo scandisce i quattro tempi del film. Una giovane donna (interpretata dalla stessa regista) è sola in casa, poi in autostop, infine nel letto di un'amica.  Realizzato a bassissimo costo, in solo otto giorni, in bianco e nero, in lunghi piani sequenza e con solo 3 attori, il film "dimostra una disperazione muta vicina all'urlo".</desc>
   </programme>
-  <programme start="20261102041000 +0200" stop="20261102053100 +0200" channel="Rai3.it">
+  <programme start="20261102040500 +0200" stop="20261102052700 +0200" channel="Rai3.it">
     <title lang="it">Liverpool</title>
     <desc lang="it">Nel mezzo dell'Oceano Atlantico, Farrel chiede al capitano del cargo su cui lavora di farlo scendere terra: vuole tornare dove è nato per sapere se la madre è ancora viva. Farrel è sulle navi da venti anni, si è sempre ubriacato fino a non reggersi in piedi e non ha un amico.</desc>
   </programme>
-  <programme start="20261102053100 +0200" stop="20261102060000 +0200" channel="Rai3.it">
+  <programme start="20261102052700 +0200" stop="20261102060000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PARTENZE E RITORNI, LA DERIVA INTERIORE di Roberto Turigliatto</desc>
   </programme>
@@ -1137,6 +1131,7 @@
   </programme>
   <programme start="20261102152000 +0200" stop="20261102152500 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
+    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direttrice Francesca De Martina</desc>
   </programme>
   <programme start="20261102152500 +0200" stop="20261102161000 +0200" channel="Rai3.it">
     <title lang="it">Caffè Italia - Puntata del 02/11/2026</title>
@@ -1755,11 +1750,11 @@
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2016 ITA</desc>
   </programme>
-  <programme start="20261101202700 +0200" stop="20261101212100 +0200" channel="Rai5.it">
+  <programme start="20261101202700 +0200" stop="20261101212200 +0200" channel="Rai5.it">
     <title lang="it">Overland 20 - Verso l'Africa che cambia - Tra foreste e diamanti della Sierra Leone - 30/08/2019</title>
     <desc lang="it">Circondato dalla rigogliosa vegetazione della Sierra Leone, il team scopre a pochi chilometri dalla capitale Freetown il verde Santuario degli Scimpanzé Takugama: qui vengono curati, protetti e riabilitati, cuccioli di scimpanzé vittime di bracconaggio. Ma ci si rende subito conto che la fitta vegetazione, al di là dei recinti del Parco, sparisce d'un colpo e che la situazione della deforestazione è davvero critica. Eppure, proprio un gigantesco albero è il simbolo di Freetown, la capitale dove s'insediarono i primi schiavi liberati dal colonialismo americano ed europeo. Dopo aver visitato il museo nazionale e ripassato un po' di storia passata e recente, la squadra si rimette in marcia lungo le piste immerse nella foresta, incontrando panorami incredibili sulle rive di fiumi al tramonto.</desc>
   </programme>
-  <programme start="20261101212100 +0200" stop="20261101231200 +0200" channel="Rai5.it">
+  <programme start="20261101212200 +0200" stop="20261101231200 +0200" channel="Rai5.it">
     <title lang="it">La macchinazione</title>
     <desc lang="it">Roma 1975. Pasolini lavora al film "Salò" e al romanzo "Petrolio", che svela i legami tra politica e affari. Ma la relazione con il giovane Pino Pelosi e il furto del negativo del film lo trascinano in una trappola mortale. Dal libro "La macchinazione: Pasolini, la verità sulla morte" di David Grieco. Una candidatura ai Nastri d'Argento.</desc>
   </programme>
@@ -1767,11 +1762,11 @@
     <title lang="it">Italia: Viaggio nella Bellezza. I misteri dei giganti di Mont'e Prama (pt.9)</title>
     <desc lang="it">A partire dai primi anni Settanta la zona archeologica di Mont'e Prama, nella penisola del Sinis, nell'Oristanese, ha cominciato a restituire importanti reperti di una fase tarda della civiltà nuragica, intorno a 3000 anni fa. In particolare si tratta di decine e decine di statue a tutto tondo, le prime, nel contesto del Mediterraneo occidentale, che raffigurano uomini in armi, all'interno di una speciale necropoli apparentemente dedicata alla sepoltura di antichi guerrieri. Sculture fortemente iconiche, di grande impatto identitario, subito affettuosamente soprannominate "giganti di Mont'e Prama". Ma cosa rappresentano le statue? Che rapporto hanno con i defunti sepolti sotto di esse? Chi erano, e se sono morti tutti nello stesso momento, che cosa ha provocato la loro fine? E ancora, perché il luogo sembra essere stato oggetto di un irruente atto di iconoclastia? A queste, e ad altre domande, prova a rispondere "I misteri dei giganti di Mont'e Prama", una nuova puntata di "Italia. Viaggio nella Bellezza" che è anche un'esplorazione del territorio incontaminato del Sinis, delle sue bellezze naturali e della vicina città perduta di Tharros. Con interviste agli archeologi responsabili degli scavi, Alessandro Usai e Maura Vargiu, a studiosi come Momo Zucca e Anna Chiara Fariselli e con una testimonianza dello scrittore Flavio Soriga. </desc>
   </programme>
-  <programme start="20261102000400 +0200" stop="20261102010200 +0200" channel="Rai5.it">
+  <programme start="20261102000400 +0200" stop="20261102010300 +0200" channel="Rai5.it">
     <title lang="it">Storie della TV - L'ora del quiz</title>
     <desc lang="it">Storia di un genere televisivo tra i più popolari, il quiz, dagli esordi di Lascia o Raddoppia? all'Eredità degli anni 2000, tra domande insidiose, risposte leggendarie, vallette, gettoni d'oro e concorrenti diventati veri e propri miti.</desc>
   </programme>
-  <programme start="20261102010200 +0200" stop="20261102010400 +0200" channel="Rai5.it">
+  <programme start="20261102010300 +0200" stop="20261102010400 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
   </programme>
@@ -1823,11 +1818,11 @@
     <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
   </programme>
-  <programme start="20261102100000 +0200" stop="20261102105100 +0200" channel="Rai5.it">
+  <programme start="20261102100000 +0200" stop="20261102105200 +0200" channel="Rai5.it">
     <title lang="it">Storie della Scienza. pt3. Errore</title>
     <desc lang="it">A Partire dalle riflessioni del giornalista scientifico e saggista Pietro Greco, in questo episodio scopriamo come la scienza si muova anche per percorsi imprevedibili: spesso sono gli errori a produrre loro malgrado un salto in avanti nella comprensione del reale. Gli esempi in questo campo sono numerosi, e i protagonisti di queste storie sono spesso molto celebri, come Cartesio, Lamarck e persino Einstein. Percorriamo questa storia della scienza con Paolo Pecere - Storico della Filosofia ed Epistemologo, Università Roma Tre, Matteo Cerri - Neurofisiologo, Università di Bologna, Barbara Continenza - Storica della Scienza e delle Tecniche, Università di Roma Tor Vergata, Elena Canadelli - Storica della Scienza, Università di Padova, Adele La Rana - Storica della Fisica, Università di Verona, Tullia Sbarrato - Astrofisica, INAF.   </desc>
   </programme>
-  <programme start="20261102105100 +0200" stop="20261102131100 +0200" channel="Rai5.it">
+  <programme start="20261102105200 +0200" stop="20261102131100 +0200" channel="Rai5.it">
     <title lang="it">Geo - Puntata del 26/10/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
@@ -3325,13 +3320,9 @@
     <title lang="it">Pattinaggio di Figura - Grand Prix de France 2026: Libero Uomini</title>
     <desc lang="it">Grand Prix de France - Libero Uomini</desc>
   </programme>
-  <programme start="20261031075500 +0200" stop="20261031075500 +0200" channel="RaiSport.it">
+  <programme start="20261031075500 +0200" stop="20261031082500 +0200" channel="RaiSport.it">
     <title lang="it">Orienteering - Finale Coppa Italia Sprint 2026</title>
     <desc lang="it">Finale Coppa Italia Sprint</desc>
-  </programme>
-  <programme start="20261031075500 +0200" stop="20261031082500 +0200" channel="RaiSport.it">
-    <title lang="it">Orientamento Corsa: Finali Coppa Italia </title>
-    <desc lang="it">Orientamento Corsa: Finali Coppa Italia Sprint e Bosco</desc>
   </programme>
   <programme start="20261031082500 +0200" stop="20261031092500 +0200" channel="RaiSport.it">
     <title lang="it">Radiocorsa del 29/10/2026</title>
@@ -3350,16 +3341,16 @@
     <desc lang="it">Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet RAI.</desc>
   </programme>
   <programme start="20261031135500 +0200" stop="20261031164000 +0200" channel="RaiSport.it">
-    <title lang="it">Curling. Europei Ostrava: Semifinale femminile</title>
-    <desc lang="it">Curling. Europei Ostrava: Semifinale femminile</desc>
+    <title lang="it">Curling - Europei femminili 2026 - Semifinale: Svizzera - Scozia</title>
+    <desc lang="it">Europei femminili 2026 - Semifinale: Svizzera - Scozia</desc>
   </programme>
   <programme start="20261031164000 +0200" stop="20261031184500 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Serie A Women Athora 2026-2027 - 5a giornata: Sassuolo-Parma</title>
     <desc lang="it">Nella quinta giornata della Serie A Women Athora 2026-2027, Sassuolo e Parma si affrontano in una nuova sfida del massimo campionato femminile italiano.</desc>
   </programme>
   <programme start="20261031184500 +0200" stop="20261031210000 +0200" channel="RaiSport.it">
-    <title lang="it">Curling. Europei Ostrava: Semifinale maschile</title>
-    <desc lang="it">Curling. Europei Ostrava: Semifinale maschile</desc>
+    <title lang="it">Curling: Europei maschili 2026 - Semifinale: Italia - Repubblica Ceca</title>
+    <desc lang="it">Europei maschili - Semifinale: Italia - Repubblica Ceca</desc>
   </programme>
   <programme start="20261031210000 +0200" stop="20261031230000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027- 6a giornata: Reale Mutua Fenera Chieri - Laica Cioccolato UYBA</title>
@@ -3397,25 +3388,27 @@
     <title lang="it">Ciclocross - GP Mamma e Papà Guerciotti 2026</title>
     <desc lang="it">GP Mamma e Papà Guerciotti</desc>
   </programme>
-  <programme start="20261101095500 +0200" stop="20261101124500 +0200" channel="RaiSport.it">
+  <programme start="20261101095500 +0200" stop="20261101123500 +0200" channel="RaiSport.it">
     <title lang="it">Curling - Europei Femminili 2026 - Finale: da determinare</title>
     <desc lang="it">Europei Femminili - Finale: da determinare</desc>
   </programme>
-  <programme start="20261101124500 +0200" stop="20261101130500 +0200" channel="RaiSport.it">
-    <title lang="it">Tender del 29/10/2026</title>
-    <desc lang="it">Il mare, la vela, lo sport e molto altro ancora: benvenuti a Tender.</desc>
+  <programme start="20261101123500 +0200" stop="20261101130500 +0200" channel="RaiSport.it">
+    <title lang="it">Tender rubrica Vela</title>
   </programme>
   <programme start="20261101130500 +0200" stop="20261101135500 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili 2026: 1a giornata</title>
     <desc lang="it">Giochi Olimpici Giovanili: 1a giornata</desc>
   </programme>
-  <programme start="20261101135500 +0200" stop="20261101164500 +0200" channel="RaiSport.it">
+  <programme start="20261101135500 +0200" stop="20261101144500 +0200" channel="RaiSport.it">
     <title lang="it">Curling. Europei Ostrava: Finale maschile</title>
     <desc lang="it">Curling. Europei Ostrava: Finale maschile</desc>
   </programme>
-  <programme start="20261101164500 +0200" stop="20261101171500 +0200" channel="RaiSport.it">
-    <title lang="it">Orientamento Corsa: Finali Coppa Italia Sprint e Bosco</title>
-    <desc lang="it">Orientamento Corsa: Finali Coppa Italia Sprint e Bosco</desc>
+  <programme start="20261101144500 +0200" stop="20261101165000 +0200" channel="RaiSport.it">
+    <title lang="it">Calcio: Camp. Italiano serie C 2026/27 1</title>
+    <desc lang="it">Calcio: Camp. Italiano serie C 2026/27 12a giornata: Spezia - Atalanta U23</desc>
+  </programme>
+  <programme start="20261101165000 +0200" stop="20261101171500 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
   <programme start="20261101171500 +0200" stop="20261101174500 +0200" channel="RaiSport.it">
     <title lang="it">Ippica: Gran Premio delle Nazioni</title>
@@ -3426,8 +3419,8 @@
     <desc lang="it">Pallavolo. SuperLega Credem Banca: Pordenone-Trentino - 3a g.ta</desc>
   </programme>
   <programme start="20261101203000 +0200" stop="20261101211500 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco. Mondiali 3D Yankton</title>
-    <desc lang="it">Tiro con l'Arco. Mondiali 3D Yankton</desc>
+    <title lang="it">Pattinaggio di Figura: Grand Prix de Fra</title>
+    <desc lang="it">Pattinaggio di Figura: Grand Prix de France - Danza Libera</desc>
   </programme>
   <programme start="20261101211500 +0200" stop="20261101214500 +0200" channel="RaiSport.it">
     <title lang="it">Ippica. Gran Premio delle Nazioni</title>
@@ -3458,14 +3451,14 @@
     <desc lang="it">Ippica: Coppa di Milano</desc>
   </programme>
   <programme start="20261102050000 +0200" stop="20261102060000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco: Mondiali 3D Yankton</title>
-    <desc lang="it">Tiro con l'Arco: Mondiali 3D Yankton</desc>
+    <title lang="it">Pattinaggio di Figura: Grand Prix de Fra</title>
+    <desc lang="it">Pattinaggio di Figura: Grand Prix de France - Danza Libera</desc>
   </programme>
-  <programme start="20261102060000 +0200" stop="20261102073000 +0200" channel="RaiSport.it">
+  <programme start="20261102060000 +0200" stop="20261102073500 +0200" channel="RaiSport.it">
     <title lang="it">Pattinaggio di Figura: Grand Prix de France</title>
     <desc lang="it">Pattinaggio di Figura: Grand Prix de France</desc>
   </programme>
-  <programme start="20261102073000 +0200" stop="20261102081500 +0200" channel="RaiSport.it">
+  <programme start="20261102073500 +0200" stop="20261102081500 +0200" channel="RaiSport.it">
     <title lang="it">Speciale TG Sport: Mondiale Apnea</title>
     <desc lang="it">Speciale TG Sport: Mondiale Apnea</desc>
   </programme>
@@ -3473,43 +3466,49 @@
     <title lang="it">Domenica Sportiva - Puntata del 01/11/2026</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
-  <programme start="20261102100000 +0200" stop="20261102103000 +0200" channel="RaiSport.it">
+  <programme start="20261102100000 +0200" stop="20261102104000 +0200" channel="RaiSport.it">
     <title lang="it">Domenica Sportiva Extratime - Puntata del 01/11/2026</title>
     <desc lang="it">Servizi, interviste e approfondimenti a tutto campo, cronaca e anticipazioni sugli eventi più importanti dello Sport e sul mondo dei Motori.</desc>
   </programme>
-  <programme start="20261102103000 +0200" stop="20261102123500 +0200" channel="RaiSport.it">
+  <programme start="20261102104000 +0200" stop="20261102123000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Camp. Italiano serie C 2026/27 Spezia - Atalanta u23</title>
     <desc lang="it">Calcio: Camp. Italiano serie C 2026/27 Spezia - Atalanta u23</desc>
   </programme>
-  <programme start="20261102123500 +0200" stop="20261102131500 +0200" channel="RaiSport.it">
+  <programme start="20261102123000 +0200" stop="20261102125000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
+  </programme>
+  <programme start="20261102125000 +0200" stop="20261102133000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica: Gran Premio delle Nazioni</title>
     <desc lang="it">Ippica: Gran Premio delle Nazioni</desc>
   </programme>
-  <programme start="20261102131500 +0200" stop="20261102140000 +0200" channel="RaiSport.it">
-    <title lang="it">Tiro con l'Arco: Mondiali 3D Yankton</title>
-    <desc lang="it">Tiro con l'Arco: Mondiali 3D Yankton</desc>
+  <programme start="20261102133000 +0200" stop="20261102140000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio di Figura: Grand Prix de Fra</title>
+    <desc lang="it">Pattinaggio di Figura: Grand Prix de France - Danza Libera</desc>
   </programme>
-  <programme start="20261102140000 +0200" stop="20261102145000 +0200" channel="RaiSport.it">
+  <programme start="20261102140000 +0200" stop="20261102150000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili Dakar - 2a giornata</title>
     <desc lang="it">Giochi Olimpici Giovanili Dakar - 2a giornata</desc>
   </programme>
-  <programme start="20261102145000 +0200" stop="20261102160000 +0200" channel="RaiSport.it">
+  <programme start="20261102150000 +0200" stop="20261102152500 +0200" channel="RaiSport.it">
+    <title lang="it">Atletica Leggera: Venice marathon</title>
+  </programme>
+  <programme start="20261102152500 +0200" stop="20261102155000 +0200" channel="RaiSport.it">
     <title lang="it">World Skate Games: Asuncion 2026 Pattinaggio Corsa (gare senior)</title>
     <desc lang="it">World Skate Games: Asuncion 2026 Pattinaggio Corsa (gare senior)</desc>
   </programme>
-  <programme start="20261102160000 +0200" stop="20261102163000 +0200" channel="RaiSport.it">
+  <programme start="20261102155000 +0200" stop="20261102162000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross: Giro delle Regioni: Corridonia</title>
     <desc lang="it">Ciclocross: Giro delle Regioni: Corridonia</desc>
   </programme>
-  <programme start="20261102163000 +0200" stop="20261102170000 +0200" channel="RaiSport.it">
+  <programme start="20261102162000 +0200" stop="20261102165500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross: Giro delle Regioni: Tarvisio</title>
     <desc lang="it">Ciclocross: Giro delle Regioni: Tarvisio</desc>
   </programme>
-  <programme start="20261102170000 +0200" stop="20261102173000 +0200" channel="RaiSport.it">
+  <programme start="20261102165500 +0200" stop="20261102172500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross: Giro delle Regioni: Osoppo</title>
     <desc lang="it">Ciclocross: Giro delle Regioni: Osoppo</desc>
   </programme>
-  <programme start="20261102173000 +0200" stop="20261102180000 +0200" channel="RaiSport.it">
+  <programme start="20261102172500 +0200" stop="20261102180000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross: Giro delle Regioni: Sutrio</title>
     <desc lang="it">Ciclocross: Giro delle Regioni: Sutrio</desc>
   </programme>
@@ -3517,9 +3516,12 @@
     <title lang="it">Ciclocross: Giro delle Regioni: Capalbio</title>
     <desc lang="it">Ciclocross: Giro delle Regioni: Capalbio</desc>
   </programme>
-  <programme start="20261102183000 +0200" stop="20261102193000 +0200" channel="RaiSport.it">
+  <programme start="20261102183000 +0200" stop="20261102191000 +0200" channel="RaiSport.it">
     <title lang="it">Pentathlon Moderno. C.to Italiano Laser Run Aprilia</title>
     <desc lang="it">Pentathlon Moderno. C.to Italiano Laser Run Aprilia</desc>
+  </programme>
+  <programme start="20261102191000 +0200" stop="20261102193000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
   <programme start="20261102193000 +0200" stop="20261102203000 +0200" channel="RaiSport.it">
     <title lang="it">BordoCampo</title>
@@ -3580,7 +3582,7 @@
   </programme>
   <programme start="20261031120000 +0200" stop="20261031133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">Vi sentite spesso stanchi? Perché l'affaticamento mentale può diventare anche fisico? Possiamo allenarci a essere meno stanchi? A rispondere la dott.ssa Maura Manca Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20261031133000 +0200" stop="20261031134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3655,7 +3657,7 @@
   </programme>
   <programme start="20261101120000 +0200" stop="20261101133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">Sbagliare, singhiozzare, avere i brividi o un crampo sono segnali che ci invia il nostro corpo. Ad interpretarli con noi la Dott.ssa Emmanuela Guiducci e se volete scoprire quando e se usare il bicarbonato a fare chiarezza il Dott. Antonio Mistretta.  Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20261101133000 +0200" stop="20261101134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3756,7 +3758,7 @@
   </programme>
   <programme start="20261102180000 +0200" stop="20261102193000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Red Carpet Radio2</title>
-    <desc lang="it">Con Andrea Delogu, Mario Benedetto, Pippo Lorusso e la partecipazione di Michel Dessì. Regia di Peppe Verdel. A cura di Alex Alongi e Roberto Deidda.</desc>
+    <desc lang="it">Con Andrea Delogu e “I Lunatici” Roberto Arduini e Andrea di Ciancio. Regia di Peppe Verdel. A cura di Alex Alongi e Roberto Deidda.</desc>
   </programme>
   <programme start="20261102193000 +0200" stop="20261102194500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
