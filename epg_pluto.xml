@@ -12,17 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261101103000 +0200" stop="20261101145303 +0200" channel="pluto_film_tv">
+  <programme start="20261101160000 +0200" stop="20261101193412 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261101145303 +0200" stop="20261101172003 +0200" channel="pluto_film_tv">
-    <title lang="it">La Forza Del Singolo</title>
-    <desc lang="it">P.K. Newborn era l'unico bambino inglese in una scuola afrikaans. P.K. incontra il detenuto Geel Piet che gli insegna a tirare di boxe.</desc>
-  </programme>
-  <programme start="20261101172003 +0200" stop="20261101193412 +0200" channel="pluto_film_tv">
-    <title lang="it">Istruzioni non incluse</title>
-    <desc lang="it">Valentin è un playboy di Acapulco. Un giorno sulla sua porta viene lasciata una bambina e l'uomo decide di crescerla come fosse sua, cambiando così stile di vita ed arrivando a conquistare Hollywood come stuntman.</desc>
   </programme>
   <programme start="20261101193412 +0200" stop="20261101220012 +0200" channel="pluto_film_tv">
     <title lang="it">Rob-B-Hood - Tre Rapinatori e un Bebè</title>
@@ -68,33 +60,33 @@
     <title lang="it">Amarsi sotto la pioggia</title>
     <desc lang="it">Casey decide di rispettare le ultime volontà di sua madre e si reca a Londra per consegnare una lettera a Lord Benton. La donna si innamora del figlio del nobile britannico, Micheal.</desc>
   </programme>
-  <programme start="20261102162201 +0200" stop="20261102223000 +0200" channel="pluto_film_tv">
+  <programme start="20261102162201 +0200" stop="20261102184801 +0200" channel="pluto_film_tv">
+    <title lang="it">Rob-B-Hood - Tre Rapinatori e un Bebè</title>
+    <desc lang="it">Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo.</desc>
+  </programme>
+  <programme start="20261102184801 +0200" stop="20261102202301 +0200" channel="pluto_film_tv">
+    <title lang="it">Big Baby</title>
+    <desc lang="it">Uno scienziato inventa una macchina che agisce sui geni e trasforma il nipote di quattro anni in un adulto. Quando Bobby scappa di casa, i suoi fratelli devono riuscire a trovarlo prima del ritorno dei genitori. Il tempo stringe, rimane un solo giorno!</desc>
+  </programme>
+  <programme start="20261102202301 +0200" stop="20261102220101 +0200" channel="pluto_film_tv">
+    <title lang="it">Love Guru</title>
+    <desc lang="it">Un'esilarante commedia su un americano cresciuto in India da dei guru che torna negli U.S.A. in età avanzata per entrare nel business dell'auto-aiuto.</desc>
+  </programme>
+  <programme start="20261102220101 +0200" stop="20261103040000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102223000 +0200" stop="20261103103000 +0200" channel="pluto_film_tv">
+  <programme start="20261103040000 +0200" stop="20261103160000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261103103000 +0200" stop="20261103163000 +0200" channel="pluto_film_tv">
+  <programme start="20261103160000 +0200" stop="20261103220000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101103000 +0200" stop="20261101144804 +0200" channel="pluto_film_azione">
+  <programme start="20261101160000 +0200" stop="20261101205915 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261101144804 +0200" stop="20261101162938 +0200" channel="pluto_film_azione">
-    <title lang="it">La gang degli svitati</title>
-    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
-  </programme>
-  <programme start="20261101162938 +0200" stop="20261101190838 +0200" channel="pluto_film_azione">
-    <title lang="it">T-34 Eroi D'Acciaio</title>
-    <desc lang="it">Nel 1944, un coraggioso gruppo di soldati russi riuscì a fuggire dalla prigionia tedesca in un leggendario carro armato T-34 semidistrutto. Erano tempi di coraggio indimenticabile, feroci combattimenti, amore e miracoli leggendari.</desc>
-  </programme>
-  <programme start="20261101190838 +0200" stop="20261101205915 +0200" channel="pluto_film_azione">
-    <title lang="it">Crypto</title>
-    <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
   </programme>
   <programme start="20261101205915 +0200" stop="20261101223015 +0200" channel="pluto_film_azione">
     <title lang="it">Rampage</title>
@@ -140,53 +132,33 @@
     <title lang="it">Mega Quake 20.0</title>
     <desc lang="it">Mentre un mega-terremoto minaccia San Francisco, alcune scosse di preavviso creano scompiglio in città. Una squadra d'élite di servizi di emergenza e di catastrofi converge sull'epicentro previsto, lavorando per salvare quante più vite possibili.</desc>
   </programme>
-  <programme start="20261102161750 +0200" stop="20261102223000 +0200" channel="pluto_film_azione">
+  <programme start="20261102161750 +0200" stop="20261102175150 +0200" channel="pluto_film_azione">
+    <title lang="it">Bad blood - Debito di sangue</title>
+    <desc lang="it">Hannah è bionda, carina e incastrata in una vita buia e sporca, fatta di droghe, spaccio e illegalità in tutte le sue declinazioni. Sulle sue spalle, grava la responsabilità dell'intera famiglia, coinvolta in affari illeciti e amori impossibili.</desc>
+  </programme>
+  <programme start="20261102175150 +0200" stop="20261102194250 +0200" channel="pluto_film_azione">
+    <title lang="it">La Leggenda Di Hei</title>
+    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
+  </programme>
+  <programme start="20261102194250 +0200" stop="20261102223043 +0200" channel="pluto_film_azione">
+    <title lang="it">Noryang</title>
+    <desc lang="it">Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang.</desc>
+  </programme>
+  <programme start="20261102223043 +0200" stop="20261103040000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102223000 +0200" stop="20261103103000 +0200" channel="pluto_film_azione">
+  <programme start="20261103040000 +0200" stop="20261103160000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261103103000 +0200" stop="20261103163000 +0200" channel="pluto_film_azione">
+  <programme start="20261103160000 +0200" stop="20261103220000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261101103000 +0200" stop="20261101142038 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261101160000 +0200" stop="20261101205438 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261101142038 +0200" stop="20261101150938 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il principe</title>
-    <desc lang="it">Dylan and Tyr salvano un giovane principe da una rivolta che uccide il resto della sua famiglia e viene chiesto loro di diventare suoi consiglieri.</desc>
-  </programme>
-  <programme start="20261101150938 +0200" stop="20261101155838 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Bunker Hill</title>
-    <desc lang="it">Dylan e la flotta del New Commonwealth affrontano la flotta Drago-Kazov, che si dimostra essere molto più grande del previsto.</desc>
-  </programme>
-  <programme start="20261101155838 +0200" stop="20261101164738 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Ouroboros</title>
-    <desc lang="it">Le uova Magog di Harper stanno iniziando a schiudersi, quindi il team costruisce una macchina Teseract.</desc>
-  </programme>
-  <programme start="20261101164738 +0200" stop="20261101173638 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: La sindrome di Lazzaro</title>
-    <desc lang="it">La squadra incontra un mutante che uccide altri mutanti prosciugando la loro energia e può anche tornare in vita dopo essere stato ucciso.</desc>
-  </programme>
-  <programme start="20261101173638 +0200" stop="20261101182538 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Interfaccia</title>
-    <desc lang="it">Emma si riunisce con un vecchio amico che possiede poteri di teletrasporto. La riunione diventa però pericolosa quando Michelle cerca di consegnare Emma alla GSA.</desc>
-  </programme>
-  <programme start="20261101182538 +0200" stop="20261101191438 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Presunto colpevole</title>
-    <desc lang="it">Adam viene incastrato per omicidio da un Nuovo Mutante con la capacità di rubare i ricordi delle persone.</desc>
-  </programme>
-  <programme start="20261101191438 +0200" stop="20261101200438 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Pax Romana</title>
-    <desc lang="it">Dopo aver ottenuto con successo l'accesso alla città di Praxis nella Terra Cava, Magnus e la squadra sono accolti con ostilità dal leader della città Ranna che ha un'agenda segreta.</desc>
-  </programme>
-  <programme start="20261101200438 +0200" stop="20261101205438 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Difficile Risveglio</title>
-    <desc lang="it">Magnus torna a casa da un viaggio notturno per trovare il Santuario in uno stato di caos sconcertante:detriti di battaglia ovunque,nessuno in vista,e un'ispezione programmata della squadra di sicurezza delle Nazioni Unite a poche ore di distanza.</desc>
   </programme>
   <programme start="20261101205438 +0200" stop="20261101214419 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Una Notte</title>
@@ -284,15 +256,47 @@
     <title lang="it">Andromeda: Le cose che non possiamo cambiare</title>
     <desc lang="it">Dylan perde conoscenza a causa di un buco nero e si ritrova in una realtà alternativa con una moglie e un figlio.</desc>
   </programme>
-  <programme start="20261102161139 +0200" stop="20261102223000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261102161139 +0200" stop="20261102170039 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Lealtà sconosciuta</title>
+    <desc lang="it">L'equipaggio salva una dei vecchi fondatori del Commonwealth, ma scopre che ciò potrebbe creare più problemi di quanto possa valerne la pena.</desc>
+  </programme>
+  <programme start="20261102170039 +0200" stop="20261102174939 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Presunto colpevole</title>
+    <desc lang="it">Adam viene incastrato per omicidio da un Nuovo Mutante con la capacità di rubare i ricordi delle persone.</desc>
+  </programme>
+  <programme start="20261102174939 +0200" stop="20261102183839 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Niente da temere</title>
+    <desc lang="it">Un mutante con abilità telepatiche che può far provare alle persone, mentalmente, tutto ciò che vuole, riesce ad entrare nella mente dei Mutanti X. Ora gli sta facendo provare le loro peggiori paure.</desc>
+  </programme>
+  <programme start="20261102183839 +0200" stop="20261102192739 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Ballare sul rasoio</title>
+    <desc lang="it">Quando Mutant X e Genomex vengono ripresi mentre usano i loro poteri, entrambi devono affrontare il reporter che intende rendere pubbliche le informazioni.</desc>
+  </programme>
+  <programme start="20261102192739 +0200" stop="20261102201639 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Normandia</title>
+    <desc lang="it">In uno sguardo indietro alla Seconda Guerra Mondiale, troviamo Magnus, Watson e Griffin alla vigilia del D-Day... e scopriamo il ruolo di Magnus in uno degli eventi più importanti che hanno dato forma al nostro mondo.</desc>
+  </programme>
+  <programme start="20261102201639 +0200" stop="20261102210626 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Carentan</title>
+    <desc lang="it">Il Santuario riceve segnalazioni di inspiegabili sparizioni a Carentan, nella regione francese della Normandia, e parte per indagare sugli strani avvenimenti.</desc>
+  </programme>
+  <programme start="20261102210626 +0200" stop="20261102215611 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Fuori Dalla Realta</title>
+    <desc lang="it">Nessun Santuario in vista, Helen e Will si ritrovano come vicini di casa in una strada alberata di periferia... vivendo vite che nessuno dei due riconosce pienamente.</desc>
+  </programme>
+  <programme start="20261102215611 +0200" stop="20261102224555 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Avvolti Nell'Ombra</title>
+    <desc lang="it">Il Santuario riceve la notizia allarmante che un grande gruppo di anormali è stato avvistato all'ingresso di una grotta nel Sud Dakota. Magnus sa immediatamente che questa è la prima ondata di Anormali che emerge dalla Terra Cava.</desc>
+  </programme>
+  <programme start="20261102224555 +0200" stop="20261103040000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102223000 +0200" stop="20261103103000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261103040000 +0200" stop="20261103160000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261103103000 +0200" stop="20261103163000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261103160000 +0200" stop="20261103220000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
