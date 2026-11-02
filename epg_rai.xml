@@ -50,7 +50,7 @@
   </programme>
   <programme start="20261102052500 +0200" stop="20261102055500 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Punto Europa</title>
-    <desc lang="it">NOTIZIARIO - Ilavori del Parlamento Europeo, tra Strasburgo e Bruxelles, l'influenza dell'Unione Europea sulla vita degli Stati membri e dei cittadini.Direttrice Francesca De Martino. - A cura di Rai Parlamento</desc>
+    <desc lang="it">I lavori del Parlamento Europeo, tra Strasburgo e Bruxelles, l'influenza dell'Unione Europea sulla vita degli Stati membri e dei cittadini.Direttrice Francesca De Martino. A cura di Rai Parlamento.</desc>
   </programme>
   <programme start="20261102055500 +0200" stop="20261102062800 +0200" channel="Rai1.it">
     <title lang="it">1mattina News - Puntata del 02/11/2026</title>
@@ -60,14 +60,22 @@
     <title lang="it">Previsioni sulla viabilità CCISS Viaggia</title>
     <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</desc>
   </programme>
-  <programme start="20261102063000 +0200" stop="20261102065800 +0200" channel="Rai1.it">
+  <programme start="20261102063000 +0200" stop="20261102063300 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
+  </programme>
+  <programme start="20261102063300 +0200" stop="20261102065800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News - Puntata del 02/11/2026</title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
   </programme>
   <programme start="20261102065800 +0200" stop="20261102070000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261102070000 +0200" stop="20261102080000 +0200" channel="Rai1.it">
+  <programme start="20261102070000 +0200" stop="20261102071000 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
+  </programme>
+  <programme start="20261102071000 +0200" stop="20261102080000 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News - Puntata del 02/11/2026</title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
   </programme>
   <programme start="20261102080000 +0200" stop="20261102083000 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
@@ -81,7 +89,7 @@
   </programme>
   <programme start="20261102085500 +0200" stop="20261102090000 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
-    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direttrice Francesca De Martino</desc>
+    <desc lang="it">I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo. Direttrice Francesca De Martino</desc>
   </programme>
   <programme start="20261102090000 +0200" stop="20261102090300 +0200" channel="Rai1.it">
     <title lang="it">TG 1 L.I.S.</title>
@@ -155,7 +163,7 @@
     <desc lang="it">Eleonora Daniele racconta storie di cronaca che hanno scosso l'opinione pubblica, dando voce alle donne e al loro percorso di difesa dei diritti e di ricerca di giustizia.</desc>
   </programme>
   <programme start="20261103005500 +0200" stop="20261103015000 +0200" channel="Rai1.it">
-    <title lang="it">La-Nottatanza - Puntata del 03/11/2026</title>
+    <title lang="it">La Nottatanza - Puntata del 03/11/2026</title>
     <desc lang="it">È tempo di novità: "La Pennicanza" in onda anche su Rai1 in versione "La Nottatanza" con contenuti inediti di Rosario Fiorello, Fabrizio Biggio e dei loro ospiti.</desc>
   </programme>
   <programme start="20261103015000 +0200" stop="20261103015500 +0200" channel="Rai1.it">
@@ -180,37 +188,45 @@
     <title lang="it">Previsioni sulla viabilità CCISS Viaggia</title>
     <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</desc>
   </programme>
-  <programme start="20261103063000 +0200" stop="20261103065800 +0200" channel="Rai1.it">
+  <programme start="20261103063000 +0200" stop="20261103063300 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
+  </programme>
+  <programme start="20261103063300 +0200" stop="20261103065800 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News - Puntata del 03/11/2026</title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
   </programme>
   <programme start="20261103065800 +0200" stop="20261103070000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261103070000 +0200" stop="20261103080000 +0200" channel="Rai1.it">
+  <programme start="20261103070000 +0200" stop="20261103071000 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
+  </programme>
+  <programme start="20261103071000 +0200" stop="20261103080000 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News - Puntata del 03/11/2026</title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
   </programme>
   <programme start="20261103080000 +0200" stop="20261103083000 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
   </programme>
-  <programme start="20261103083000 +0200" stop="20261103083500 +0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-  </programme>
-  <programme start="20261103083500 +0200" stop="20261103085500 +0200" channel="Rai1.it">
-    <title lang="it">UnoMattina - Puntata del 03/11/2026</title>
-    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera celebra quest'anno il quarantesimo anniversario della sua nascita. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini e Daniela Ferolla.</desc>
-  </programme>
-  <programme start="20261103085500 +0200" stop="20261103090000 +0200" channel="Rai1.it">
+  <programme start="20261103083000 +0200" stop="20261103083300 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
-    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direyttrice Francesca De Martino</desc>
+    <desc lang="it">I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo. Direyttrice Francesca De Martino</desc>
   </programme>
-  <programme start="20261103090000 +0200" stop="20261103090300 +0200" channel="Rai1.it">
+  <programme start="20261103083300 +0200" stop="20261103083600 +0200" channel="Rai1.it">
     <title lang="it">TG 1 L.I.S.</title>
   </programme>
-  <programme start="20261103090300 +0200" stop="20261103095000 +0200" channel="Rai1.it">
-    <title lang="it">UnoMattina - Puntata del 03/11/2026</title>
-    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera celebra quest'anno il quarantesimo anniversario della sua nascita. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Massimiliano Ossini e Daniela Ferolla.</desc>
+  <programme start="20261103083600 +0200" stop="20261103084000 +0200" channel="Rai1.it">
+    <title lang="it">1mattina News - Puntata del 03/11/2026</title>
+    <desc lang="it">Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave.</desc>
   </programme>
-  <programme start="20261103095000 +0200" stop="20261103115500 +0200" channel="Rai1.it">
+  <programme start="20261103084000 +0200" stop="20261103084500 +0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20261103084500 +0200" stop="20261103103000 +0200" channel="Rai1.it">
+    <title lang="it">Roma, Santa Maria degli Angeli e dei Martiri: Funerali Solenni dei Militari Italiani caduti in Bosnia</title>
+    <desc lang="it">Roma, Santa Maria degli Angeli e dei Martiri: Funerali Solenni dei Militari Italiani caduti in Bosnia.</desc>
+  </programme>
+  <programme start="20261103103000 +0200" stop="20261103115500 +0200" channel="Rai1.it">
     <title lang="it">Storie italiane - Puntata del 03/11/2026</title>
     <desc lang="it">Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze.</desc>
   </programme>
@@ -484,36 +500,36 @@
     <title lang="it">TG2 Post</title>
     <desc lang="it">Rubrica informativa del TG2. Direttore Antonio Preziosi</desc>
   </programme>
-  <programme start="20261102212000 +0200" stop="20261102231000 +0200" channel="Rai2.it">
+  <programme start="20261102212000 +0200" stop="20261102230000 +0200" channel="Rai2.it">
     <title lang="it">Tramite Amicizia</title>
     <desc lang="it">Lorenzo è un quarantenne napoletano trapiantato al nord, proprietario e gestore dell'agenzia "Tramite Amicizia" che fornisce la propria amicizia a noleggio. Tutto funziona molto bene finché un giorno si trova a dover offrire la sua amicizia ad un imprenditore che vorrebbe chiudere la propria azienda di dolci in cui lavorano parenti ed amici di Lorenzo. Riuscirà a diventar amico del nemico?</desc>
   </programme>
-  <programme start="20261102231000 +0200" stop="20261103004000 +0200" channel="Rai2.it">
+  <programme start="20261102230000 +0200" stop="20261102234500 +0200" channel="Rai2.it">
+    <title lang="it">S.W.A.T. Exiles S1E1 - Una nuova famiglia</title>
+    <desc lang="it">Dopo essere stato messo da parte, Hondo viene richiamato da Hicks per addestrare una nuova squadra, composta da ragazzi molto giovani e tutti  con una storia da raccontare.</desc>
+  </programme>
+  <programme start="20261102234500 +0200" stop="20261103011500 +0200" channel="Rai2.it">
     <title lang="it">Il Processo del Lunedì del 02/11/2026</title>
     <desc lang="it">A partire dal posticipo, giornalisti, ex calciatori e tifosi si confrontano sugli episodi più controversi e sulle polemiche più accese del weekend di Campionato.</desc>
   </programme>
-  <programme start="20261103004000 +0200" stop="20261103021100 +0200" channel="Rai2.it">
+  <programme start="20261103011500 +0200" stop="20261103024900 +0200" channel="Rai2.it">
     <title lang="it">7 Minuti</title>
     <desc lang="it">Un'azienda tessile viene acquisita da una multinazionale estera. La nuova proprietà sembra intenzionata a non effettuare licenziamenti, ma chiede alle operaie di firmare una particolare clausola che prevede la riduzione di 7 minuti dell'orario di pranzo. Lo sviluppo del dibattito fra le operaie porterà ognuna di esse a una fase di profonda riflessione.</desc>
   </programme>
-  <programme start="20261103021100 +0200" stop="20261103021500 +0200" channel="Rai2.it">
+  <programme start="20261103024900 +0200" stop="20261103025000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
   </programme>
-  <programme start="20261103021500 +0200" stop="20261103025500 +0200" channel="Rai2.it">
+  <programme start="20261103025000 +0200" stop="20261103033000 +0200" channel="Rai2.it">
     <title lang="it">N.C.I.S. Hawai'i S2E13 - Scelte sbagliate</title>
     <desc lang="it">Nel corso di un'irruzione dell'N.C.I.S. in un laboratorio clandestino che fabbrica metanfetamina, avviene un'esplosione e si scopre che non si è trattato di un incidente ma di un attentato</desc>
   </programme>
-  <programme start="20261103025500 +0200" stop="20261103034000 +0200" channel="Rai2.it">
-    <title lang="it">N.C.I.S. Hawai'i S2E14 - Doppia colpa</title>
-    <desc lang="it"> Jane, Jimmy e Sam sono stati rapiti. Parker arriva alle Hawaii e prende in mano le indagini. Intanto, Morgan Miller, una contractor corrotta della C.I.A., s'infiltra nella squadra.</desc>
-  </programme>
-  <programme start="20261103034000 +0200" stop="20261103035000 +0200" channel="Rai2.it">
-    <title lang="it">Zio Gianni Gianni e il nuovo lavoro</title>
-    <desc lang="it">SIT COM - Perso il lavoro e cacciato di casa dalla moglie, Gianni Coletti, a cinquant'anni, si ritrova a dover reinventare la sua vita. Va a vivere in un piccolo appartamento, ma lo deve condividere con tre rag - azzi ventenni... - Da un'idea di The Pills Con Paolo Calabresi, Luca Di Capua, Cristel Checca, Francesco Russo Regia di Sydney Sibilia e Daniele Grassetti Prodotta da Andrea Paris e Matteo Rovere per IFF</desc>
+  <programme start="20261103033000 +0200" stop="20261103035000 +0200" channel="Rai2.it">
+    <title lang="it">Zio Gianni S2E32 - Gianni e Il nuovo lavoro</title>
+    <desc lang="it">Zio Gianni, stanco di travestirsi da "Super Panda", accetta una proposta di lavoro dal suo ex capo, Sergio. Ricevuto il primo stipendio e resosi conto di essere stato truffato, Gianni medita vendetta. </desc>
   </programme>
   <programme start="20261103035000 +0200" stop="20261103035500 +0200" channel="Rai2.it">
-    <title lang="it">Impazienti - Una bella donna - Occupato!</title>
-    <desc lang="it">Impazienti - Una bella donna - Occupato! - Pronto intervento - Strappalacrime - SIT COM - Una manovra imprevista e crash... un incidente! Nessuna ferita, per fortuna, ma ha inizio di un'interminabile contr - oversia tra due automobilisti coll'unico obiettivo d'incassare un risarcimento... - Da un'idea di Massimiliano Tortora Con Enrico Bertolino e Max Tortora Regia di Celeste Laudisio</desc>
+    <title lang="it">Impazienti - S1E21 - Una bella donna - Occupato! - Pronto intervento - Strappalacrime</title>
+    <desc lang="it">De gustibus... In ogni campo possibile.</desc>
   </programme>
   <programme start="20261103035500 +0200" stop="20261103042000 +0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
@@ -806,16 +822,16 @@
     <desc lang="it">A cura delle redazioni regionali della TGR</desc>
   </programme>
   <programme start="20261102080000 +0200" stop="20261102095000 +0200" channel="Rai3.it">
-    <title lang="it">Agorà - Puntata del 02/11/2026</title>
-    <desc lang="it">Annalisa Bruchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
+    <title lang="it">Vedo non Veto - Agorà</title>
+    <desc lang="it">Si parla delle proteste dei giovani, che continuano a mobilitare le piazze, e dello scontro tra maggioranza e opposizione sulla manovra economica. Sguardo poi agli Stati Uniti, dove si avvicinano le elezioni di Midterm e Trump torna a lanciare minacce. Ospiti: Francesco Filini, Arturo Scotto, Franco Bechis, Bruno Manfellotto, Daniele Capezzone, Rita Lofano, Giada Fazzalari, Marino Sinibaldi, Francesco Pionati, Massimo Bernardini. </desc>
   </programme>
   <programme start="20261102095000 +0200" stop="20261102104500 +0200" channel="Rai3.it">
-    <title lang="it">Agorà Extra - Puntata del 02/11/2026</title>
-    <desc lang="it">Giulia Di Stefano racconta l'attualità attraverso analisi, interviste e dibattiti con i protagonisti della politica e del giornalismo per comprendere i cambiamenti dell'Italia e del mondo.</desc>
+    <title lang="it">Casa per casa - Agorà Extra</title>
+    <desc lang="it">Affrontare l'emergenza casa e le nuove misure messe in campo dal governo, tra il piano abitativo e le novità introdotte dalla manovra. Un approfondimento tra opportunità e criticità per chi affitta, mutui agevolati per i giovani, graduatorie per l'accesso alle case popolari e il fenomeno dei bed and breakfast, che ridisegna il mercato del turismo e degli affitti. Ospiti: Roberto Rosso, Benedetta Scuderi, Annalisa Terranova, Maurizio Fiasco, Gianni Trovati, Antonio Ciucci. </desc>
   </programme>
   <programme start="20261102104500 +0200" stop="20261102115500 +0200" channel="Rai3.it">
     <title lang="it">Elisir - Puntata del 02/11/2026</title>
-    <desc lang="it">Michele Mirabella, Francesca Parisella e Benedetta Rinaldi presentano nuovi approfondimenti su benessere fisico e psicologico, alimentazione, stili di vita e attualità medico-scientifica, grazie al contributo di esperti e a servizi sempre aggiornati.</desc>
+    <desc lang="it">Oggi si parla di nevralgia del trigemino, patologia neurologica che provoca un dolore molto intenso al volto, spesso descritto come una scossa elettrica improvvisa. Attacchi dolorosi che possono rendere difficili anche gesti semplici come mangiare, parlare o lavarsi il viso. Quali sono le cause, come si riconosce e quali terapie sono oggi disponibili? Lo spiega il professor Gioacchino Tedeschi, Professore Emerito di Neurologia dell'Università degli Studi della Campania Luigi Vanvitelli. A seguire, nello spazio "È vero che?", si parla di metabolismo, un complesso insieme di processi che consente all'organismo di trasformare il cibo in energia e di svolgere correttamente tutte le sue funzioni vitali. Esistono davvero persone che bruciano calorie più velocemente di altre? E quanto incidono alimentazione e attività fisica? A rispondere è Maria Grazia Carbonelli, direttore dell'Unità Operativa di Dietologia dell'Ospedale San Camillo di Roma e Vicesegretario Nazionale ADI, l'Associazione Italiana di Dietetica e Nutrizione Clinica. Infine, la rubrica "ABC della Salute" accende i riflettori sul tumore dell'ovaio, una malattia oncologica che interessa ogni anno migliaia di donne e che spesso viene diagnosticata in fase avanzata perché i sintomi iniziali possono essere sfumati e facilmente confusi con altri disturbi. Quali sono i principali fattori di rischio e quali le possibilità offerte oggi dalla diagnosi precoce e dalle nuove terapie? Ne parla Camilla Nero, specialista in Ginecologia e Ostetricia e ricercatrice presso il Policlinico Universitario Agostino Gemelli IRCCS di Roma.</desc>
   </programme>
   <programme start="20261102115500 +0200" stop="20261102120000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
@@ -829,7 +845,7 @@
   </programme>
   <programme start="20261102124500 +0200" stop="20261102131500 +0200" channel="Rai3.it">
     <title lang="it">Quante storie - Puntata del 02/11/2026</title>
-    <desc lang="it">Giorgio Zanchini accompagna il pubblico in un viaggio dall’arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, per comprendere le mille facce di un Paese meraviglioso e contraddittorio attraverso i libri e i loro autori.</desc>
+    <desc lang="it">Sicurezza, sovranità, nazione: sono solo alcuni dei concetti che negli ultimi anni sono confluiti nelle politiche delle destre europee e hanno contribuito alle loro affermazioni. Ma perché la sinistra ha abbandonato questi temi? Come mai le forze progressiste non riescono più a intercettare il sentimento comune e gli umori dell'elettorato? Il giornalista Alessandro De Angelis risponde a queste e ad altre domande di Giorgio Zanchini in una puntata di Quante Storie che prende in esame la crepa apertasi dopo la caduta del Muro tra la sinistra e il popolo. </desc>
   </programme>
   <programme start="20261102131500 +0200" stop="20261102140000 +0200" channel="Rai3.it">
     <title lang="it">Passato e Presente - Jimmy Carter, un outsider alla Casa Bianca - 09/02/2023</title>
@@ -860,21 +876,17 @@
   </programme>
   <programme start="20261102152000 +0200" stop="20261102152500 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
-    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direttrice Francesca De Martina</desc>
+    <desc lang="it">I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo. Direttrice Francesca De Martino</desc>
   </programme>
   <programme start="20261102152500 +0200" stop="20261102161000 +0200" channel="Rai3.it">
     <title lang="it">Caffè Italia - Puntata del 02/11/2026</title>
-    <desc lang="it">Greta Mauro e Pino Strabioli incontrano Andrea Delogu, pronta a tornare alla conduzione de "La Porta Magica", e Veronica Pivetti, protagonista dello spettacolo teatrale "Breaking Brecht". Spazio poi al Festival dei Popoli con Alessandro Stellino e al libro "La figlia del Clan" di Danilo Chirico, dedicato alla storia di Giuseppina Pesce. Tra gli appuntamenti culturali, le mostre dedicate a Matisse a Milano e a Pontormo a Roma.</desc>
+    <desc lang="it">Il ritorno di Andrea Delogu alla guida de "La Porta Magica" per il terzo anno consecutivo e il teatro di Veronica Pivetti con "Breaking Brecht" aprono gli incontri di Greta Mauro e Pino Strabioli. In puntata anche Alessandro Stellini, con il Festival dei Popoli, Danilo Chirico, autore de "La figlia del Clan", e le grandi mostre dedicate a Matisse e Pontormo, raccontate da Chiara Gatti ed Elena Capretti.</desc>
   </programme>
   <programme start="20261102161000 +0200" stop="20261102162000 +0200" channel="Rai3.it">
     <title lang="it">sVista - Puntata del 02/11/2026</title>
     <desc lang="it">Il racconto per immagini della settimana interpretate con un linguaggio irriverente e onirico, un editoriale in 10 minuti attraverso suoni e colori ideato e realizzato da Alexander Jakhnagiev, fondatore e direttore dell'Agenzia VISTA.</desc>
   </programme>
-  <programme start="20261102162000 +0200" stop="20261102170000 +0200" channel="Rai3.it">
-    <title lang="it">Aspettando Geo</title>
-    <desc lang="it">DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu - tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi Un programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone Capo progetto: Fausta Vannutelli Coordinamento editoriale: Caterina Manganella  Regia: Michelangelo Pepe</desc>
-  </programme>
-  <programme start="20261102170000 +0200" stop="20261102190000 +0200" channel="Rai3.it">
+  <programme start="20261102162000 +0200" stop="20261102190000 +0200" channel="Rai3.it">
     <title lang="it">Geo - Puntata del 02/11/2026</title>
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
@@ -892,8 +904,8 @@
     <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
   </programme>
   <programme start="20261102201000 +0200" stop="20261102203500 +0200" channel="Rai3.it">
-    <title lang="it">Generazione Bellezza - Puntata del 02/11/2026</title>
-    <desc lang="it">Emilio Casalini racconta il valore della bellezza italiana con storie di luoghi, persone e progetti che valorizzano il nostro patrimonio culturale.</desc>
+    <title lang="it">Generazione Bellezza - Rondine, la cittadella della pace - Puntata del 02/11/2026</title>
+    <desc lang="it">Nel cuore della Toscana, un borgo medievale risorto dalle rovine ospita la Cittadella della Pace, dove giovani provenienti da paesi in conflitto imparano a superare l'odio e a vivere insieme. L'esperienza maturata nella risoluzione dei conflitti è stata oggi esportata in decine di "Sezioni Rondine" nelle scuole superiori italiane, trasformando questo metodo in uno strumento per combattere il disagio giovanile in tutto il Paese. </desc>
   </programme>
   <programme start="20261102203500 +0200" stop="20261102204500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 02/11/2026</title>
@@ -905,7 +917,7 @@
   </programme>
   <programme start="20261102211500 +0200" stop="20261103000000 +0200" channel="Rai3.it">
     <title lang="it">Lo stato delle cose - Puntata del 02/11/2026</title>
-    <desc lang="it">Massimo Giletti racconta i fatti, gli eventi e le storie al centro del dibattito pubblico.</desc>
+    <desc lang="it">Michele Santoro torna a commentare la stretta attualità politica italiana e internazionale. E torna con documenti esclusivi anche l'inchiesta sul caso David Rossi, il manager del Monte dei Paschi di Siena morto 13 anni fa, sul quale oggi sono stati aperti due fascicoli per omicidio e tre Procure stanno indagando di concerto con la Commissione parlamentare d'inchiesta che nelle ultime settimane è stata travolta da una pesante bufera mediatica per aver rivelato i nomi dei presunti responsabili, della morte di Rossi. In studio, il Presidente della Commissione parlamentare d'inchiesta Gianluca Vinci e Carmelo Miceli,  avvocato della moglie e della figlia di David Rossi. Anche le piazze italiane, infiammate dalle proteste dei giovani che hanno manifestato nelle ultime settimane, sono al centro della puntata: chi sono i ragazzi che manifestano e cosa alimenta la loro rabbia? E soprattutto: chi è davvero Youssef Siher, l'attivista del Movimento 17 ottobre, la cui scarcerazione sta sollevando polemiche e preoccupazione? In studio il confronto tra alcuni giovani, Luca Barbareschi, attore e conduttore televisivo e Benedetta Sabene, analista politica. Procede anche l'inchiesta sul delitto di Garlasco che oggi pone Andrea Sempio e Alberto Stasi su un binario parallelo: l'uno aspetta la richiesta di rinvio a giudizio della Procura di Pavia, l'altro la richiesta di revisione della condanna. Per la Procura il movente di Sempio è di natura sessuale con i video trovati nei suoi hard disk dove parla di donne e sesso violento. Si confrontano Liborio Cataliotti, legale di Andrea Sempio e Antonio De Rensis, legale di Stasi.</desc>
   </programme>
   <programme start="20261103000000 +0200" stop="20261103010000 +0200" channel="Rai3.it">
     <title lang="it">TG3 Linea Notte</title>
@@ -916,7 +928,7 @@
   </programme>
   <programme start="20261103010500 +0200" stop="20261103011500 +0200" channel="Rai3.it">
     <title lang="it">TG Magazine</title>
-    <desc lang="it">A cura di Rai Parlamento</desc>
+    <desc lang="it">Lo spazio di Rai Parlamento che ospita dal lunedì al venerdì ogni giorno una diversa rubrica di approfondimento sull'attualità politica nazionale ed europea. Direttrice Francesca De Martino. A cura di Rai Parlamento</desc>
   </programme>
   <programme start="20261103011500 +0200" stop="20261103023000 +0200" channel="Rai3.it">
     <title lang="it">O anche no - Puntata del 04/10/2026</title>
@@ -995,7 +1007,7 @@
   </programme>
   <programme start="20261103152000 +0200" stop="20261103152500 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
-    <desc lang="it">NOTIZIARIO - I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo.. - Direttrice Francesca De Martino</desc>
+    <desc lang="it">I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo. Direttrice Francesca De Martino</desc>
   </programme>
   <programme start="20261103152500 +0200" stop="20261103162000 +0200" channel="Rai3.it">
     <title lang="it">Nessun uomo è un'isola. AIRC: 60 anni per la ricerca sul cancro</title>
@@ -1023,8 +1035,8 @@
     <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
   </programme>
   <programme start="20261103201000 +0200" stop="20261103203500 +0200" channel="Rai3.it">
-    <title lang="it">Generazione Bellezza - Puntata del 03/11/2026</title>
-    <desc lang="it">Emilio Casalini racconta il valore della bellezza italiana con storie di luoghi, persone e progetti che valorizzano il nostro patrimonio culturale.</desc>
+    <title lang="it">Generazione Bellezza - La Via Francigena, il cammino che rigenera - Puntata del 03/11/2026</title>
+    <desc lang="it">Attraverso i borghi di Altopascio, Gambassi Terme e Monteriggioni, il cammino storico si conferma un potente motore di sviluppo economico, culturale e sociale. Amministrazioni, associazioni e cittadini collaborano per accogliere migliaia di pellegrini, riaprendo botteghe, forni e strutture ricettive al di fuori dei circuiti turistici di massa. E infine passare dall’accoglienza all’ospitalità.  </desc>
   </programme>
   <programme start="20261103203500 +0200" stop="20261103204500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 03/11/2026</title>
@@ -1046,8 +1058,8 @@
     <title lang="it">Meteo 3</title>
   </programme>
   <programme start="20261104013500 +0200" stop="20261104014500 +0200" channel="Rai3.it">
-    <title lang="it">TG- Magazine</title>
-    <desc lang="it">RUBRICA - Lo spazio di Rai Parlamento che ospita dal lunedì al venerdì ogni giorno una diversa rubrica di approfondimento sull'attualità politica nazionale ed europea.Direttrice Francesca De Martino.. - A cura di Rai Parlamento</desc>
+    <title lang="it">TG Magazine</title>
+    <desc lang="it">Lo spazio di Rai Parlamento che ospita dal lunedì al venerdì ogni giorno una diversa rubrica di approfondimento sull'attualità politica nazionale ed europea. Direttrice Francesca De Martino. A cura di Rai Parlamento</desc>
   </programme>
   <programme start="20261104014500 +0200" stop="20261104060000 +0200" channel="Rai3.it">
     <title lang="it">RaiNews24</title>
@@ -1118,6 +1130,7 @@
   </programme>
   <programme start="20261104152000 +0200" stop="20261104152500 +0200" channel="Rai3.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
+    <desc lang="it">I lavori parlamentari, l'attualità dalle aule di Camera e Senato e dalle Commissioni, i principali temi dell'agenda politica, le iniziative del Governo. Direttrice Francesca De Martino</desc>
   </programme>
   <programme start="20261104152500 +0200" stop="20261104161500 +0200" channel="Rai3.it">
     <title lang="it">Last Cop - L'ultimo sbirro</title>
@@ -1149,8 +1162,8 @@
     <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
   </programme>
   <programme start="20261104201000 +0200" stop="20261104203500 +0200" channel="Rai3.it">
-    <title lang="it">Generazione Bellezza - Puntata del 04/11/2026</title>
-    <desc lang="it">Emilio Casalini racconta il valore della bellezza italiana con storie di luoghi, persone e progetti che valorizzano il nostro patrimonio culturale.</desc>
+    <title lang="it">Generazione Bellezza - Il Pollino e la giostra più lenta del mondo - Puntata del 04/11/2026</title>
+    <desc lang="it">Nel Parco Nazionale del Pollino l’arte contemporanea diventa un modo nuovo per scoprire il territorio. Il simbolo è “RB Ride”, la giostra più lenta del mondo, che ruota quasi impercettibilmente davanti alle montagne e invita a rallentare e a contemplare il paesaggio. Tante opere d’arte disseminate in un museo diffuso per valorizzare i territori portando visitatori, lavoro e consapevolezza del valore che hanno.</desc>
   </programme>
   <programme start="20261104203500 +0200" stop="20261104204500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 04/11/2026</title>
@@ -1288,11 +1301,11 @@
     <title lang="it">The Beast</title>
     <desc lang="it">Incheon, Corea del sud. Han-soo e Min-tae, due detective rivali caratterizzati da modi di fare decisamente diversi, si ritrovano a collaborare per risolvere un inquietante omicidio: il corpo di una ragazza è stata ritrovato amputato di tutti e quattro gli arti. Il crimine scuote l'intero Paese, ma il caso nasconde insidie inaspettate.</desc>
   </programme>
-  <programme start="20261103030600 +0200" stop="20261103035600 +0200" channel="Rai4.it">
+  <programme start="20261103030600 +0200" stop="20261103035500 +0200" channel="Rai4.it">
     <title lang="it">Warrior S3E1 Il momento peggiore per fare gli orgogliosi</title>
     <desc lang="it">La tong della Long-Zi rompe i trattati di pace con quella avversaria della Hop-Wei vendendo oppio nel loro territorio. Ah Sahm, totalmente reintegrato in essa, scatena una rivolta, incrociando, seppur per brevissimo tempo, le sue tecniche di combattimento con quelle di Li Yong. La polizia, sempre più numerosa e presente sulle loro strade a solo scopo elettorale per favorire la campagna elettorale a sindaco di Walter Buckley, termina la rivolta. La repressione impressa su territorio cinese obbliga la Hop-Wei a chiedere le protezioni arretrate per sopravvivere economicamente.</desc>
   </programme>
-  <programme start="20261103035600 +0200" stop="20261103051300 +0200" channel="Rai4.it">
+  <programme start="20261103035500 +0200" stop="20261103051300 +0200" channel="Rai4.it">
     <title lang="it">Fast Forward - S7E3 - Il caso Lucia Frost</title>
     <desc lang="it">Angelika Schnell è un detective della polizia di Vienna che risolve abilmente intricati casi di omicidio grazie anche all'aiuto dell'anatomopatologo Stefan, ex marito e suo fidato collaboratore.</desc>
   </programme>
@@ -1349,18 +1362,18 @@
     <desc lang="it">Quando l'anziano sicario Danny viene richiamato in servizio dall'organizzazione per cui ha sempre lavorato, vede l'occasione di tornare in prima linea. Affiancato al giovane e talentuoso Wihlborg per una missione delicata, si ritrova coinvolto in un gioco sempre più pericoloso, dove nulla è come sembra. Disponibile anche in lingua originale.</desc>
   </programme>
   <programme start="20261103155800 +0200" stop="20261103160300 +0200" channel="Rai4.it">
-    <title lang="it">Donatella Scarnati - 30 x 70 Se dico donna... ep16</title>
-    <desc lang="it">Nel 1988 il suo primo collegamento per 90° Minuto. Si afferma come una delle prime donne a raccontare il calcio in TV, ricomprendo un ruolo tipicamente maschile.</desc>
+    <title lang="it">Claudia Vinciguerra - 30 x 70 Se dico donna... ep6</title>
+    <desc lang="it">Ricordata per le sue fragorose risate, Claudia Vinciguerra fu soprannominata "la critica televisiva del popolo" e scardinò più di uno stereotipo con ironia e intelligenza.  </desc>
   </programme>
   <programme start="20261103160300 +0200" stop="20261103161400 +0200" channel="Rai4.it">
     <title lang="it">30x70 - Se dico donna - Franca Leosini</title>
     <desc lang="it">VARIETA' - 30 ritratti di grandi professioniste che hanno contribuito a rendere unica la storia della Rai. Donne che hanno lasciato un segno, superato uno stereotipo, rappresentato una novità o una discontin - uità. In questa puntata: Franca Leosini - di Luca Rea con Francesca Barolini 2024 ITA</desc>
   </programme>
-  <programme start="20261103161400 +0200" stop="20261103170100 +0200" channel="Rai4.it">
+  <programme start="20261103161400 +0200" stop="20261103170000 +0200" channel="Rai4.it">
     <title lang="it">Hudson &amp; Rex - S5E17 - Ritrovata!</title>
     <desc lang="it">Charlie è perseguitato dal caso di Alison, una bambina rapita molti anni prima, e quando un testimone, che lui aveva sempre sospettato sapesse la verità, gli telefona per chiedergli di vederlo con urgenza, capisce che forse per la prima volta avrà delle risposte.</desc>
   </programme>
-  <programme start="20261103170100 +0200" stop="20261103174500 +0200" channel="Rai4.it">
+  <programme start="20261103170000 +0200" stop="20261103174500 +0200" channel="Rai4.it">
     <title lang="it">Hudson &amp; Rex - S5E18 - Evasione</title>
     <desc lang="it">Un pericoloso assassino si trova nelle celle di detenzioni della Stazione di Polizia di Saint John's, in attesa di trasferimento. Aiutato da altri due detenuti, riesce ad evadere, e prende in ostaggio due poliziotti.</desc>
   </programme>
@@ -1386,7 +1399,7 @@
   </programme>
   <programme start="20261103225300 +0200" stop="20261104004300 +0200" channel="Rai4.it">
     <title lang="it">Redux Redux</title>
-    <desc lang="it">FILM THRILLER - Dopo l'omicidio della figlia, Irene attraversa universi paralleli per uccidere ogni versione del suo assassino. Quando incontra una potenziale nuova vittima, la vendetta cambia direzione.. - di Matthew McManus, Kevin McManus con Michaela McManus  Stella Marcus  Jeremy Holm 2025 USA - PROGRAMMA ADATTO AL SOLO PUBBLICO ADULTO</desc>
+    <desc lang="it">Irene Kelly attraversa universi paralleli alla ricerca di una realtà in cui sua figlia sia ancora viva, dando la caccia all'uomo che ritiene responsabile della sua morte. Quando incontra Mia, una ragazza sfuggita allo stesso destino, la sua ossessione per la vendetta lascia spazio a una nuova speranza. Disponibile anche in lingua originale.</desc>
   </programme>
   <programme start="20261104004300 +0200" stop="20261104004600 +0200" channel="Rai4.it">
     <title lang="it">Anica appuntamento al cinema</title>
@@ -1473,8 +1486,8 @@
     <desc lang="it">Cantante istrionica, simbolo della romanità e della canzone popolare, porta in tv una femminilità nuova, forte, ironica, a cui concede anche la sensibilità.</desc>
   </programme>
   <programme start="20261104160900 +0200" stop="20261104161400 +0200" channel="Rai4.it">
-    <title lang="it">30x70 - Se dico donna - Raffaella Carrà</title>
-    <desc lang="it">VARIETA' - 30 ritratti di grandi professioniste che hanno contribuito a rendere unica la storia della Rai. Donne che hanno lasciato un segno, superato uno stereotipo, rappresentato una novità o una disconti - nuità. In questa puntata: Raffaella Carrà - di Luca Rea con Francesca Barolini 2024 ITA</desc>
+    <title lang="it">Raffaella Carrà - 30 x 70 Se dico donna... ep20</title>
+    <desc lang="it">Simbolo dell'intrattenimento femminile come emancipazione, con le sue canzoni e coreografie ha fatto scoprire all'Italia il gusto della modernità.</desc>
   </programme>
   <programme start="20261104161400 +0200" stop="20261104170000 +0200" channel="Rai4.it">
     <title lang="it">Hudson &amp; Rex - S5E19 - Cuoco capo agente amante</title>
@@ -1505,8 +1518,8 @@
     <desc lang="it">Guy è un semplice cassiere che vive felice a Free City, una città dove il caos sembra normale. Quando scopre che il suo mondo è in realtà un videogioco e incontra una misteriosa programmatrice in cerca della verità, decide di prendere in mano il proprio destino e diventare l'eroe della sua storia. Disponibile anche in lingua originale.</desc>
   </programme>
   <programme start="20261104231000 +0200" stop="20261105000800 +0200" channel="Rai4.it">
-    <title lang="it">60 volte Lucca - L'avventurosa storia di</title>
-    <desc lang="it">60 volte Lucca - L'avventurosa storia di Lucca Comics &amp; Games - MAGAZINE - Rai Cultura celebra il 60° anniversario di Lucca Comics &amp; Games con uno speciale dedicato alla lunga storia della manifestazione. - di Enrico Platania con Pier Luigi Gaspa, Renato Genovese, Emanuele Vietina 2026 ITA</desc>
+    <title lang="it">60 volte Lucca - L'avventurosa storia di Lucca Comics &amp; Games</title>
+    <desc lang="it">Rai Cultura celebra il 60° anniversario di Lucca Comics &amp; Games con uno speciale dedicato alla lunga storia della manifestazione. Con interviste a Pier Luigi Gaspa, Renato Genovese, Emanuele Vietina e allo staff di Lucca Comics &amp; Games.</desc>
   </programme>
   <programme start="20261102000400 +0200" stop="20261102010300 +0200" channel="Rai5.it">
     <title lang="it">Storie della TV - L'ora del quiz</title>
@@ -1585,8 +1598,8 @@
     <desc lang="it">In questa puntata: "Wild Italy 9 Adattarsi Al Cambiamento Ep.01: L'invasione degli Ibis" e "Sri Lanka, l'isola dei monsoni Ep.04: L - a tela della vita" -  2026 ITA</desc>
   </programme>
   <programme start="20261102145700 +0200" stop="20261102154700 +0200" channel="Rai5.it">
-    <title lang="it">Evolution - Wild Italy 9 Adattarsi Al Ca</title>
-    <desc lang="it">Evolution - Wild Italy 9 Adattarsi Al Cambiamento - Ep.01: L'invasione degli Ibis - DOC. NATURA - In questo episodio: stormi di ibis sacri dall'appetito insaziabile invadono campagne, fiumi e laghi d'Itali - a. Gli ecosistemi diventano campi di battaglia dove le specie indigene cercano un varco per sopravvivere a un territorio in rapida trasformazione, lotta ormai quasi persa nelle città invase da parrocchetti. - di Francesco Petretti 2026 ITA</desc>
+    <title lang="it">Wild Italy - S8E6 - Adattarsi al cambiamento</title>
+    <desc lang="it">La grande sfida oggi non si gioca tanto nel tentativo, impossibile, di fermare e invertire l'andamento delle mutazioni climatiche, quanto nel rallentare il progredirne e nel permettere agli esseri umani, e alla biodiversità, di adattarsi al cambiamento.</desc>
   </programme>
   <programme start="20261102154700 +0200" stop="20261102163500 +0200" channel="Rai5.it">
     <title lang="it">Sri Lanka - l'Isola dei Monsoni S1E4</title>
@@ -1626,7 +1639,7 @@
   </programme>
   <programme start="20261103012300 +0200" stop="20261103012500 +0200" channel="Rai5.it">
     <title lang="it">Rai News Notte</title>
-    <desc lang="it">NOTIZIARIO - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
   </programme>
   <programme start="20261103012500 +0200" stop="20261103021900 +0200" channel="Rai5.it">
     <title lang="it">Little Satchmo, la figlia segreta di Louis Armstrong</title>
@@ -1661,12 +1674,12 @@
     <desc lang="it">Nella puntata di "Overland 20 dopo un breve passaggio in Senegal e Mauritania, l'obiettivo della spedizione durante il rientro verso l'Italia è quello di raggiungere il Marocco e dedicarvi molto più tempo dell'andata. Ma al confine tra la zona detta di nessuno, il Western Sahara, e il Marocco, il viaggio pare arrestarsi per qualche giorno: oltre all'orario ridotto della dogana durante il ramadan, si trova una manifestazione per mano dei camionisti fermi da oltre 50 ore, che blocca chiunque abbia intenzione di passare. Ma un'ingegnosa strategia permette di superare l'ostacolo. Si ha, quindi, modo di visitare le meravigliose città di Eissaouira, Marrakech e Casablanca, e di assaggiare i loro sapori culinari, alcuni dei quali molto forti e particolari. Ma purtroppo anche di scoprire a malincuore che l'autentica tradizione sta lasciando il posto alla modernizzazione e al turismo. Il team si concede un ultimo offroad nel deserto di Agafay e un ultimo immancabile insabbiamento. Poi, lungo le chilometriche autostrade asfaltate che riportano in Italia, si tirano le fila di questa incredibile avventura che sta volgendo al termine. Un'inaspettata quanto piacevole accoglienza dei Pistonieri di Badia Calavena anticipa il bentornato che attende al cospetto dell'Arena di Verona, dove si sfoggia la carovana arancione e un sorriso che racconta le avventure di oltre 45.000 chilometri macinati in quasi 9 mesi di viaggio.</desc>
   </programme>
   <programme start="20261103081700 +0200" stop="20261103081900 +0200" channel="Rai5.it">
-    <title lang="it">Evolution - Il viaggio di Darwin Puntata</title>
-    <desc lang="it">Evolution - Il viaggio di Darwin Puntata 25 Prima Visione RAI - RUBRICA - In questa puntata: "Wild Italy 9 Adattarsi Al Cambiamento Ep.01: L'invasione degli Ibis" e "Sri Lanka, l'isola dei monsoni Ep.04: L - a tela della vita" -  2026 ITA</desc>
+    <title lang="it">Evolution - Il viaggio di Darwin - S5E25</title>
+    <desc lang="it">In questa puntata: "Wild Italy 9 Adattarsi Al Cambiamento Ep.01: L'invasione degli Ibis" e "Sri Lanka, l'isola dei monsoni Ep.04: L - a tela della vita" -  2026 ITA</desc>
   </programme>
   <programme start="20261103081900 +0200" stop="20261103090700 +0200" channel="Rai5.it">
-    <title lang="it">Evolution - Wild Italy 9 Adattarsi Al Ca</title>
-    <desc lang="it">Evolution - Wild Italy 9 Adattarsi Al Cambiamento - Ep.01: L'invasione degli Ibis - DOC. NATURA - In questo episodio: stormi di ibis sacri dall'appetito insaziabile invadono campagne, fiumi e laghi d'Itali - a. Gli ecosistemi diventano campi di battaglia dove le specie indigene cercano un varco per sopravvivere a un territorio in rapida trasformazione, lotta ormai quasi persa nelle città invase da parrocchetti. - di Francesco Petretti 2026 ITA</desc>
+    <title lang="it">Wild Italy - S8E6 - Adattarsi al cambiamento</title>
+    <desc lang="it">La grande sfida oggi non si gioca tanto nel tentativo, impossibile, di fermare e invertire l'andamento delle mutazioni climatiche, quanto nel rallentare il progredirne e nel permettere agli esseri umani, e alla biodiversità, di adattarsi al cambiamento.</desc>
   </programme>
   <programme start="20261103090700 +0200" stop="20261103095500 +0200" channel="Rai5.it">
     <title lang="it">Sri Lanka - l'Isola dei Monsoni S1E4</title>
@@ -1688,15 +1701,15 @@
     <title lang="it">Overland 20 - Verso l'Africa che cambia - Dal Marocco all'Italia. Tra colori e sapori del deserto - 03/09/2019</title>
     <desc lang="it">Nella puntata di "Overland 20 dopo un breve passaggio in Senegal e Mauritania, l'obiettivo della spedizione durante il rientro verso l'Italia è quello di raggiungere il Marocco e dedicarvi molto più tempo dell'andata. Ma al confine tra la zona detta di nessuno, il Western Sahara, e il Marocco, il viaggio pare arrestarsi per qualche giorno: oltre all'orario ridotto della dogana durante il ramadan, si trova una manifestazione per mano dei camionisti fermi da oltre 50 ore, che blocca chiunque abbia intenzione di passare. Ma un'ingegnosa strategia permette di superare l'ostacolo. Si ha, quindi, modo di visitare le meravigliose città di Eissaouira, Marrakech e Casablanca, e di assaggiare i loro sapori culinari, alcuni dei quali molto forti e particolari. Ma purtroppo anche di scoprire a malincuore che l'autentica tradizione sta lasciando il posto alla modernizzazione e al turismo. Il team si concede un ultimo offroad nel deserto di Agafay e un ultimo immancabile insabbiamento. Poi, lungo le chilometriche autostrade asfaltate che riportano in Italia, si tirano le fila di questa incredibile avventura che sta volgendo al termine. Un'inaspettata quanto piacevole accoglienza dei Pistonieri di Badia Calavena anticipa il bentornato che attende al cospetto dell'Arena di Verona, dove si sfoggia la carovana arancione e un sorriso che racconta le avventure di oltre 45.000 chilometri macinati in quasi 9 mesi di viaggio.</desc>
   </programme>
-  <programme start="20261103145500 +0200" stop="20261103145900 +0200" channel="Rai5.it">
+  <programme start="20261103145500 +0200" stop="20261103150000 +0200" channel="Rai5.it">
     <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
   </programme>
-  <programme start="20261103145900 +0200" stop="20261103150200 +0200" channel="Rai5.it">
+  <programme start="20261103150000 +0200" stop="20261103150300 +0200" channel="Rai5.it">
     <title lang="it">Evolution - Il viaggio di Darwin - S5E26</title>
     <desc lang="it">In questa puntata: "Wild Italy 9 Adattarsi Al Cambiamento Ep.02: Isole di massima sicurezza" e "Sri Lanka, l'isola dei monsoni Ep.0 - 5: Dalle nuvole alle coste" -  2026 ITA</desc>
   </programme>
-  <programme start="20261103150200 +0200" stop="20261103155300 +0200" channel="Rai5.it">
+  <programme start="20261103150300 +0200" stop="20261103155300 +0200" channel="Rai5.it">
     <title lang="it">Evolution - Wild Italy 9 Adattarsi Al Ca</title>
     <desc lang="it">Evolution - Wild Italy 9 Adattarsi Al Cambiamento Ep.02: Isole di massima sicurezza - DOC. NATURA - Per secoli precluse perché sedi di carceri, Pianosa, Capraia e Santo Stefano conoscono una nuova vita com - e tesori insulari incontaminati. Questo episodio ci conduce in un viaggio attraverso le nostre piccole Galapagos: veri laboratori dell'evoluzione, oggi rinati come paradisi di biodiversità. - di Francesco Petretti 2026 ITA</desc>
   </programme>
@@ -1718,7 +1731,7 @@
   </programme>
   <programme start="20261103192500 +0200" stop="20261103192600 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
-    <desc lang="it">NOTIZIARIO - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
+    <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
   </programme>
   <programme start="20261103192600 +0200" stop="20261103202600 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S5E14 Versione ridotta - Le strade di Firenze</title>
@@ -1809,8 +1822,8 @@
     <desc lang="it">Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, grazie agli esperti in studio e i grandi documentari di "Geo".</desc>
   </programme>
   <programme start="20261104131600 +0200" stop="20261104135300 +0200" channel="Rai5.it">
-    <title lang="it">Muli della Costiera</title>
-    <desc lang="it">DOCUMENTARIO - Un viaggio a dorso d'asino e di muli lungo la Costiera amalfitana, famosa nel mondo per la sua bellezza. Sono pochi gli agricoltori e i pastori che ancora oggi fanno uso di questi animali, preziosi alleati per t - rasportare materiali attraverso quelle stradine scoscese, vicoli e terrazzamenti. - di Meta;Caso;Latini;Dig 2018 ITA</desc>
+    <title lang="it">I muli della Costiera - 03/01/2020 </title>
+    <desc lang="it">Un viaggio a dorso d'asino e di muli lungo la Costiera amalfitana, famosa nel mondo per la sua bellezza, incontrando i pochi agricoltori e pastori che ancora oggi fanno uso di questi animali, preziosi alleati per trasportare materiali attraverso quelle stradine scoscese, vicoli e terrazzamenti. Di Pierluigi Caso, Diego Di Gianvito, Massimo Latini e Serena Meta</desc>
   </programme>
   <programme start="20261104135300 +0200" stop="20261104142000 +0200" channel="Rai5.it">
     <title lang="it">Geo Doc - Kazbegi</title>
@@ -1856,15 +1869,15 @@
     <title lang="it">Overland 21 - Islanda: l'isola del ghiaccio e del fuoco - 24/08/2020</title>
     <desc lang="it">Lasciamo la Svezia per dirigerci in Islanda, ed esplorare questa terra di geyser e vulcani dove la natura sembra regnare ancora incontrastata, nonostante negli ultimi 40 anni laghi o distese di blocchi frammentati abbiano preso il posto di enormi distese di ghiaccio. Visiteremo l'Isola in due episodi: la perlustreremo in lungo e in largo a bordo di due veicoli 4x4, e dalla cima dei vulcani alle profondità della faglia terrestre che separa la placca euroasiatica da quella americana. Resteremo allibiti dal desolante paesaggio di Ok, il primo ghiacciaio estinto, e dall'imponente forza dei geyser che sprigionano energia davanti alle nostre telecamere.</desc>
   </programme>
-  <programme start="20261104212300 +0200" stop="20261104221400 +0200" channel="Rai5.it">
+  <programme start="20261104212300 +0200" stop="20261104221100 +0200" channel="Rai5.it">
     <title lang="it">Noos Esplorazioni - S1E11 -  Invasioni fallite </title>
     <desc lang="it">Prima Visione RAI - Dall'Irlanda alla Turchia, archeologi subacquei scoprono i relitti di due navi da guerra: La Juliana (1570), parte dell'Invincibile Armada spagnola, e La Bouvet (fine '800), usata da Churchill nella Prima Guerra Mondiale. Gli esperti cercano di svelare i segreti e gli errori umani che causarono i naufragi. -  2026 ITA</desc>
   </programme>
-  <programme start="20261104221400 +0200" stop="20261104231100 +0200" channel="Rai5.it">
+  <programme start="20261104221100 +0200" stop="20261104230700 +0200" channel="Rai5.it">
     <title lang="it">Maremma - S1E1</title>
     <desc lang="it">Alla fine dell'estate, i colori del paesaggio virano verso i toni caldi e gli animali selvatici che vi abitano trascorrono giornate sempre più brevi e tiepide, preparandosi ad affrontare l'arrivo della stagione fredda che renderà ancora più dura la loro lotta per la sopravvivenza.</desc>
   </programme>
-  <programme start="20261104231100 +0200" stop="20261105005800 +0200" channel="Rai5.it">
+  <programme start="20261104230700 +0200" stop="20261105005400 +0200" channel="Rai5.it">
     <title lang="it">The Rolling Stones: Havana Moon in Cuba</title>
     <desc lang="it">Ciudad Deportiva dell'Avana: 25 marzo 2016, il concerto dei Rolling Stones con oltre 300 mila spettatori. Introdotto dalle note di Jumpin' Jack Flash, Mick Jagger e la sua band, si sono esibiti per oltre due ore per la prima volta a Cuba, con 18 dei loro brani più famosi.</desc>
   </programme>
@@ -1912,15 +1925,15 @@
     <title lang="it">Il ponte di Remagen</title>
     <desc lang="it">Verso la fine della guerra, il ponte di Remagen diventa il teatro di una battaglia cruenta: i soldati tedeschi tentano di difenderlo strenuamente per sbarrare la strada agli americani. Nonostante gli atti di valore e i pesanti sacrifici umani da entrambe le parti, la strenua resistenza non può cambiare un destino ormai segnato per la Germania.</desc>
   </programme>
-  <programme start="20261102174500 +0200" stop="20261102191500 +0200" channel="RaiMovie.it">
+  <programme start="20261102174500 +0200" stop="20261102191700 +0200" channel="RaiMovie.it">
     <title lang="it">Pecos è qui: prega e muori!</title>
     <desc lang="it">Un anziano, unico superstite di una strage compiuta dal bandito El Supremo, rivela a tre suonatori girovaghi l'ubicazione del tesoro di Montezuma. Per recuperarlo, i tre si rivolgono a Pecos, un abile pistolero. Riusciranno a trovare il tesoro?</desc>
   </programme>
-  <programme start="20261102191500 +0200" stop="20261102211000 +0200" channel="RaiMovie.it">
+  <programme start="20261102191700 +0200" stop="20261102210400 +0200" channel="RaiMovie.it">
     <title lang="it">Ricatto alla mala</title>
     <desc lang="it">New York City, anni 70. Il giovane Ray, vent'anni dopo aver visto il padre ucciso da una gang mafiosa, inizia a vendicarsi. Polizia e nuovi boss gli danno la caccia in tutta Europa.</desc>
   </programme>
-  <programme start="20261102211000 +0200" stop="20261102235000 +0200" channel="RaiMovie.it">
+  <programme start="20261102210400 +0200" stop="20261102235000 +0200" channel="RaiMovie.it">
     <title lang="it">Giù la testa</title>
     <desc lang="it">Juan Miranda, fuorilegge messicano e padre di cinque figli che lo aiutano nelle sue imprese banditesche, si mette in società con John Mallory, dinamitardo irlandese dell'IRA, per svaligiare un banca. I due si ritrovano invece a combattere al fianco dei rivoltosi di Pancho Villa e Emiliano Zapata. Musiche di Ennio Morricone. </desc>
   </programme>
@@ -2200,15 +2213,15 @@
     <title lang="it">Sottocasa S1E16</title>
     <desc lang="it">Una piazza di un quartiere cittadino è il luogo dove si intrecciano le vite e gli "affari" di quattro famiglie.</desc>
   </programme>
-  <programme start="20261103063000 +0200" stop="20261103070000 +0200" channel="RaiPremium.it">
+  <programme start="20261103063000 +0200" stop="20261103065500 +0200" channel="RaiPremium.it">
     <title lang="it">Incantesimo - S10E48</title>
     <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
   </programme>
-  <programme start="20261103070000 +0200" stop="20261103072500 +0200" channel="RaiPremium.it">
+  <programme start="20261103065500 +0200" stop="20261103072000 +0200" channel="RaiPremium.it">
     <title lang="it">Incantesimo - S10E49</title>
     <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
   </programme>
-  <programme start="20261103072500 +0200" stop="20261103074500 +0200" channel="RaiPremium.it">
+  <programme start="20261103072000 +0200" stop="20261103074500 +0200" channel="RaiPremium.it">
     <title lang="it">Incantesimo - S10E50</title>
     <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
   </programme>
@@ -2256,11 +2269,11 @@
     <title lang="it">Anica - Appuntamento al Cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20261103162500 +0200" stop="20261103171500 +0200" channel="RaiPremium.it">
+  <programme start="20261103162500 +0200" stop="20261103171000 +0200" channel="RaiPremium.it">
     <title lang="it">Heartland S8E12 - Heartland a pezzi</title>
     <desc lang="it">Lou rimane profondamente ferita dal fatto che Peter non abbia accettato un lavoro a Calgary, per rimanere vicino alla sua famiglia. Nel frattempo Amy e Ty decidono di prendersi qualche giorno di vacanza.</desc>
   </programme>
-  <programme start="20261103171500 +0200" stop="20261103175500 +0200" channel="RaiPremium.it">
+  <programme start="20261103171000 +0200" stop="20261103175500 +0200" channel="RaiPremium.it">
     <title lang="it">Heartland S8E13 - Le cowgirls non piangono</title>
     <desc lang="it">La partecipazione di nozze che Ty ha spedito alla madre e al patrigno è tornata al mittente, Ty quindi cerca di contattare la madre per avere sue notizie, ma non riesce a trovarla. Tim, su consiglio di Casey, apre una scuola di rodeo, mentre Amy cerca di arginare Lisa che vuole organizzare il suo matrimonio.</desc>
   </programme>
@@ -2268,11 +2281,11 @@
     <title lang="it">Che Dio ci aiuti S5E7 - Fuori! </title>
     <desc lang="it">Mentre Suor Angela cerca di salvare una bambina che sembra essere vittima della sua stessa madre, Maria chiede aiuto a Nico per affrontare il padre, ma qualcosa va storto e Nico si ritrova al ballo scolastico con Ginevra.</desc>
   </programme>
-  <programme start="20261103184500 +0200" stop="20261103194500 +0200" channel="RaiPremium.it">
+  <programme start="20261103184500 +0200" stop="20261103194000 +0200" channel="RaiPremium.it">
     <title lang="it">Che Dio ci aiuti S5E8 - L'ultimo ricordo</title>
     <desc lang="it">Mentre Suor Angela aiuta Nico a ritrovare uno studente che sembra sparito nel nulla, Ginevra riceve una foto compromettente di lei e Nico alla sera del ballo. Nel frattempo Azzurra non vuole incontrare il nuovo compratore perché è stato un suo amore di gioventù.</desc>
   </programme>
-  <programme start="20261103194500 +0200" stop="20261103202500 +0200" channel="RaiPremium.it">
+  <programme start="20261103194000 +0200" stop="20261103202500 +0200" channel="RaiPremium.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E42</title>
     <desc lang="it">Oltre alle pulci si aggiunge un altro problema nella casa famiglia. Elisa vede in Matteo una soluzione per contenere l'indole ribelle di Lia.</desc>
   </programme>
@@ -2280,13 +2293,13 @@
     <title lang="it">Il commissario Rex - S4E3 - Ipotesi per un suicidio</title>
     <desc lang="it">Il commissario Moser indaga sul suicidio di un uomo sposato e con un figlio. Dopo alcune accertamenti le indagini sulla morte dell'uomo convergono su un ex malavitoso vecchia fiamma della moglie.</desc>
   </programme>
-  <programme start="20261103212000 +0200" stop="20261103220000 +0200" channel="RaiPremium.it">
-    <title lang="it">Elsbeth - Errori di ortografia ep.1</title>
-    <desc lang="it">SERIE TV - Quando una studentessa universitaria di teatro viene misteriosamente trovata morta nel suo appartamento in un grattacielo di New York, Elsbeth sospetta che si tratti di un crimine e ingaggia un gioco -  di astuzia. - di R. King con C. Preston, W. Pierce, C. Patterson 2024 USA</desc>
+  <programme start="20261103212000 +0200" stop="20261103220500 +0200" channel="RaiPremium.it">
+    <title lang="it">Elsbeth S1E1 - Errori di ortografia</title>
+    <desc lang="it">Una studentessa universitaria di teatro viene trovata morta nel suo appartamento in un grattacielo di New York. L'avvocatessa Elsbeth Tascioni, con i suoi metodi fuori dal comune, affianca la Polizia nelle indagini.</desc>
   </programme>
-  <programme start="20261103220000 +0200" stop="20261103225000 +0200" channel="RaiPremium.it">
-    <title lang="it">Elsbeth - Errori di ortografia ep.1</title>
-    <desc lang="it">SERIE TV - Quando una studentessa universitaria di teatro viene misteriosamente trovata morta nel suo appartamento in un grattacielo di New York, Elsbeth sospetta che si tratti di un crimine e ingaggia un gioco -  di astuzia. - di R. King con C. Preston, W. Pierce, C. Patterson 2024 USA</desc>
+  <programme start="20261103220500 +0200" stop="20261103225000 +0200" channel="RaiPremium.it">
+    <title lang="it">Elsbeth S1E2 - Un classico personaggio di New York</title>
+    <desc lang="it"> L'odiata presidente del consiglio di amministrazione di una cooperativa cade da un balcone e muore. Elsbeth e Kaya vengono chiamate sul posto per cercare una pista.</desc>
   </programme>
   <programme start="20261103225000 +0200" stop="20261104002000 +0200" channel="RaiPremium.it">
     <title lang="it">Feliz NaviDAD</title>
@@ -2340,11 +2353,11 @@
     <title lang="it">Incantesimo - S10E55</title>
     <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'.</desc>
   </programme>
-  <programme start="20261104081500 +0200" stop="20261104091000 +0200" channel="RaiPremium.it">
+  <programme start="20261104081500 +0200" stop="20261104090500 +0200" channel="RaiPremium.it">
     <title lang="it">Tutti pazzi per amore -  S3E11 - Sabato, 17 dicembre</title>
     <desc lang="it">Zia Elvira, come sempre, scombussola tutto per cui la gravidanza di Cristina non è più un segreto. Paolo si trova spiazzato dalla notizia, considerando la figlia ancora una bambina insiste per accompagnarla da un medico. Laura prova a parlare con il marito, ma senza successo. Nel frattempo, l'arrivo di Jean-Claude a Roma è realtà e Francesca si offre di ospitarlo.</desc>
   </programme>
-  <programme start="20261104091000 +0200" stop="20261104100000 +0200" channel="RaiPremium.it">
+  <programme start="20261104090500 +0200" stop="20261104100000 +0200" channel="RaiPremium.it">
     <title lang="it">Tutti pazzi per amore - S3E12 - Domenica, 18 dicembre</title>
     <desc lang="it">Nonostante sia domenica, Laura è indaffarata tra mille cose e, soprattutto, deve fare il test di gravidanza. Quando comunica a Paolo il risultato negativo, entrambi si promettono di riprovarci ma, in realtà, tutti e due pensano che due gravidanze in casa sono difficili da gestire. Intanto le zie hanno preparato una sorpresa natalizia.</desc>
   </programme>
@@ -2388,11 +2401,11 @@
     <title lang="it">Heartland S8E15 - Eclissi del cuore</title>
     <desc lang="it">Mentre Lou è impegnata attivamente nell'organizzazione del matrimonio di Amy e Ty, scoppia in lacrime e confessa alla sorella di aver deciso di separarsi da Peter. Intanto Caleb si lancia in una serie di rischiose compravendite di cavalli, per finanziare l'attività con Jesse, continuando a frequentare Cassandra alle sue spallelle.</desc>
   </programme>
-  <programme start="20261104175000 +0200" stop="20261104184500 +0200" channel="RaiPremium.it">
+  <programme start="20261104175000 +0200" stop="20261104185000 +0200" channel="RaiPremium.it">
     <title lang="it">Che Dio ci aiuti S5E9 - Bruco o farfalla?</title>
     <desc lang="it">Suor Angela si scontra con Pietro, un medico con cui inizialmente ci sono delle frizioni. Insieme, però, faranno tornare il sorriso alla piccola Eugenia, una bambina che da anni combatte una malattia.</desc>
   </programme>
-  <programme start="20261104184500 +0200" stop="20261104194000 +0200" channel="RaiPremium.it">
+  <programme start="20261104185000 +0200" stop="20261104194000 +0200" channel="RaiPremium.it">
     <title lang="it">Che Dio ci aiuti S5E10 - Non c'è peggior cieco di chi non vuole amare</title>
     <desc lang="it">Mentre Suor Angela indaga sul segreto di una coppia di fidanzati amici di Gabriele, Emma torna in convento. Maria vorrebbe parlare con Nico di un bacio speciale avvenuto tra i due, ma Nico inaspettatamente perde la vista ed è Ginevra a stargli accanto. Intanto Valentina, spinta da Gabriele e Suor Costanza, riprende a suonare la chitarra per la piccola Eugenia.</desc>
   </programme>
@@ -2408,11 +2421,11 @@
     <title lang="it">Figlia della cenere - I casi di Teresa Battaglia - S3E7</title>
     <desc lang="it">La fuga del serial killer dà il via a una corsa contro il tempo. Seguendo le sue tracce, Teresa e la squadra fanno luce sul suo passato e scoprono un luogo che nasconde nuovi inquietanti indizi. Per la commissaria, l'indagine diventa sempre più personale e la conduce verso una sconvolgente consapevolezza. </desc>
   </programme>
-  <programme start="20261104222000 +0200" stop="20261104232000 +0200" channel="RaiPremium.it">
+  <programme start="20261104222000 +0200" stop="20261104231500 +0200" channel="RaiPremium.it">
     <title lang="it">Figlia della cenere - I casi di Teresa Battaglia - S3E8</title>
     <desc lang="it">Teresa individua nel misterioso mosaico di Aquileia la chiave per anticipare le mosse del serial killer. L'indagine la conduce verso un confronto decisivo, in cui riaffiora un legame nascosto nel passato. Ma per la commissaria resta ancora un conto aperto con la giustizia.</desc>
   </programme>
-  <programme start="20261104232000 +0200" stop="20261105001000 +0200" channel="RaiPremium.it">
+  <programme start="20261104231500 +0200" stop="20261105001000 +0200" channel="RaiPremium.it">
     <title lang="it">Doc - Nelle tue mani - S4E9 - Paura di volare</title>
     <desc lang="it">Un errore di Giulia rischia di sconvolgere gli equilibri del reparto, mentre Andrea la spinge ad affrontare la verità. Anche Claudia è alle prese con una scelta difficile. Intanto, Doc riceve un'offerta inaspettata che potrebbe cambiare i suoi piani e complicare il rapporto con Giulia.</desc>
   </programme>
@@ -2693,8 +2706,8 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261102223000 +0200" stop="20261102230000 +0200" channel="RaiNews24.it">
-    <title lang="it">Spotlight - Puntata del 02/11/2026</title>
-    <desc lang="it">,. - ,</desc>
+    <title lang="it">Spotlight - Le chiavi della città. La lotta per la casa a Barcellona - Puntata del 02/11/2026</title>
+    <desc lang="it">Da una parte il lusso e l'avanzata dei super ricchi, dall'altra una popolazione stremata dal carovita e abbandonata alla speculazione del mercato degli affitti, ma che continua a resistere e a manifestare: Spotlight, la rubrica di inchiesta di Rainews24, racconta l'emergenza abitativa a Barcellona, una crisi senza precedenti, divenuta un affare per pochi, che ha portato alla caduta del governo Sanchez e all'annuncio delle elezioni anticipate. Un viaggio che indaga nelle opacità di un mercato immobiliare fuori controllo e dà spazio alle voci di chi lotta per il diritto alla casa </desc>
   </programme>
   <programme start="20261102230000 +0200" stop="20261102233000 +0200" channel="RaiNews24.it">
     <title lang="it">NOTTE 24 - RASSEGNA STAMPA</title>
@@ -2812,11 +2825,11 @@
     <title lang="it">CISS</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103083000 +0200" stop="20261103085500 +0200" channel="RaiNews24.it">
+  <programme start="20261103083000 +0200" stop="20261103085400 +0200" channel="RaiNews24.it">
     <title lang="it">RASSEGNA STAMPA + OSPITE</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103085500 +0200" stop="20261103090000 +0200" channel="RaiNews24.it">
+  <programme start="20261103085400 +0200" stop="20261103090000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
@@ -2864,11 +2877,11 @@
     <title lang="it">SPORT 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103130000 +0200" stop="20261103132800 +0200" channel="RaiNews24.it">
+  <programme start="20261103130000 +0200" stop="20261103132500 +0200" channel="RaiNews24.it">
     <title lang="it">TITOLI + TG GIORNO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103132800 +0200" stop="20261103133000 +0200" channel="RaiNews24.it">
+  <programme start="20261103132500 +0200" stop="20261103133000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
@@ -2877,7 +2890,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103134000 +0200" stop="20261103140000 +0200" channel="RaiNews24.it">
-    <title lang="it">FUTURO 24</title>
+    <title lang="it">AI NEWS 24 - DIRETTA</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103140000 +0200" stop="20261103143000 +0200" channel="RaiNews24.it">
@@ -2892,19 +2905,23 @@
     <title lang="it">FOCUS 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103150000 +0200" stop="20261103153000 +0200" channel="RaiNews24.it">
+  <programme start="20261103150000 +0200" stop="20261103152600 +0200" channel="RaiNews24.it">
     <title lang="it">Pomeriggio 24 - Puntata del 03/11/2026</title>
+    <desc lang="it">,. - ,</desc>
+  </programme>
+  <programme start="20261103152600 +0200" stop="20261103153000 +0200" channel="RaiNews24.it">
+    <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103153000 +0200" stop="20261103160000 +0200" channel="RaiNews24.it">
     <title lang="it">POMERIGGIO 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103160000 +0200" stop="20261103162700 +0200" channel="RaiNews24.it">
+  <programme start="20261103160000 +0200" stop="20261103162500 +0200" channel="RaiNews24.it">
     <title lang="it">TITOLI + TG GIORNO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103162700 +0200" stop="20261103163000 +0200" channel="RaiNews24.it">
+  <programme start="20261103162500 +0200" stop="20261103163000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
@@ -2945,18 +2962,18 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103200000 +0200" stop="20261103202600 +0200" channel="RaiNews24.it">
-    <title lang="it">TG LIS + SERA 24</title>
+    <title lang="it">TG LIS + TG SERA</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103202600 +0200" stop="20261103203000 +0200" channel="RaiNews24.it">
     <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103203000 +0200" stop="20261103204500 +0200" channel="RaiNews24.it">
+  <programme start="20261103203000 +0200" stop="20261103204400 +0200" channel="RaiNews24.it">
     <title lang="it">SOMMARIO + TG SERA</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261103204500 +0200" stop="20261103210000 +0200" channel="RaiNews24.it">
+  <programme start="20261103204400 +0200" stop="20261103210000 +0200" channel="RaiNews24.it">
     <title lang="it">FOCUS 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
@@ -2969,7 +2986,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103214500 +0200" stop="20261103220000 +0200" channel="RaiNews24.it">
-    <title lang="it">FUTURO 24</title>
+    <title lang="it">AI NEWS 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103220000 +0200" stop="20261103223000 +0200" channel="RaiNews24.it">
@@ -2977,7 +2994,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103223000 +0200" stop="20261103230000 +0200" channel="RaiNews24.it">
-    <title lang="it">SPOTLIVE STORIE</title>
+    <title lang="it">SPOTLIGHT</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261103230000 +0200" stop="20261103233000 +0200" channel="RaiNews24.it">
@@ -2997,7 +3014,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104003000 +0200" stop="20261104010000 +0200" channel="RaiNews24.it">
-    <title lang="it">SPOTLIVE</title>
+    <title lang="it">SPOTLIGHT</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104010000 +0200" stop="20261104013000 +0200" channel="RaiNews24.it">
@@ -3017,7 +3034,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104024500 +0200" stop="20261104030000 +0200" channel="RaiNews24.it">
-    <title lang="it">FUTURO 24</title>
+    <title lang="it">AI NEWS 24</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104030000 +0200" stop="20261104031500 +0200" channel="RaiNews24.it">
@@ -3045,7 +3062,7 @@
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104053000 +0200" stop="20261104055400 +0200" channel="RaiNews24.it">
-    <title lang="it">RASSEGNA STAMPA REPLICA 4.30</title>
+    <title lang="it">RASSEGNA STAMPA</title>
     <desc lang="it">,. - ,</desc>
   </programme>
   <programme start="20261104055400 +0200" stop="20261104060000 +0200" channel="RaiNews24.it">
@@ -3359,36 +3376,36 @@
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B.</desc>
   </programme>
   <programme start="20261102203000 +0200" stop="20261102231000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027- 7a giornata: Novara - Brescia</title>
-    <desc lang="it">Serie A1 Fineco - 7a giornata: Novara - Brescia</desc>
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027- 7a giornata: Igor Gorgonzola Novara - Banca Valsabbina Brescia</title>
+    <desc lang="it">Igor Gorgonzola Novara e Banca Valsabbina Millenium Brescia si affrontano in una nuova sfida della Serie A1 Fineco 2026-2027.</desc>
   </programme>
   <programme start="20261102231000 +0200" stop="20261103012000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro Maschile: Serie A2 Old Wild West 2026/27 Cento - Cividale</title>
-    <desc lang="it">Pallacanestro Maschile: Serie A2 Old Wild West 2026/27 Cento - Cividale</desc>
+    <title lang="it">Basket: Serie A2 Old Wild West 2026-2027 - 7a giornata: Cento - Cividale</title>
+    <desc lang="it">Nella settima giornata della Serie A2 Old Wild West 2026-2027, Sella Cento e UEB Gesteco Cividale si affrontano in una nuova sfida del campionato cadetto.</desc>
   </programme>
   <programme start="20261103012000 +0200" stop="20261103033500 +0200" channel="RaiSport.it">
-    <title lang="it">Nuoto: Trofeo Nico Sapio 2a giornata</title>
-    <desc lang="it">Nuoto: Trofeo Nico Sapio 2a giornata</desc>
+    <title lang="it">Nuoto: Trofeo Nico Sapio 2026 - 2a giornata</title>
+    <desc lang="it">Trofeo Nico Sapio - 2a giornata</desc>
   </programme>
   <programme start="20261103033500 +0200" stop="20261103040000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclocross: Giro delle Regioni 1a prova:</title>
-    <desc lang="it">Ciclocross: Giro delle Regioni 1a prova: Corridonia</desc>
+    <title lang="it">Ciclocross - Giro delle Regioni 2026 - 1a tappa: Corridonia</title>
+    <desc lang="it">Giro delle Regioni - 1a tappa: Corridonia</desc>
   </programme>
   <programme start="20261103040000 +0200" stop="20261103043000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclocross: Giro delle Regioni 2a prova:</title>
-    <desc lang="it">Ciclocross: Giro delle Regioni 2a prova: Tarvisio</desc>
+    <title lang="it">Ciclocross - Giro delle Regioni 2026 - 2a tappa: Tarvisio</title>
+    <desc lang="it">Giro delle Regioni - 2a tappa: Tarvisio</desc>
   </programme>
   <programme start="20261103043000 +0200" stop="20261103050000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclocross: Giro delle Regioni 3a p rova</title>
-    <desc lang="it">Ciclocross: Giro delle Regioni 3a p rova: Osoppo</desc>
+    <title lang="it">Ciclocross - Giro delle Regioni 2026 - 3a tappa: Osoppo</title>
+    <desc lang="it">Giro delle Regioni - 3a tappa: Osoppo</desc>
   </programme>
   <programme start="20261103050000 +0200" stop="20261103053500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclocross: Giro delle Regioni 4a prova:</title>
-    <desc lang="it">Ciclocross: Giro delle Regioni 4a prova: Monte Zoncolan</desc>
+    <title lang="it">Ciclocross - Giro delle Regioni 2026 - 4a tappa: Sutrio</title>
+    <desc lang="it">Giro delle Regioni - 4a tappa: Sutrio</desc>
   </programme>
   <programme start="20261103053500 +0200" stop="20261103060000 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclocross: Giro delle Regioni 5a prova:</title>
-    <desc lang="it">Ciclocross: Giro delle Regioni 5a prova: Capalbio</desc>
+    <title lang="it">Ciclocross - Giro delle Regioni 2026 - 5a tappa: Capalbio</title>
+    <desc lang="it">Giro delle Regioni - 5a tappa: Capalbio</desc>
   </programme>
   <programme start="20261103060000 +0200" stop="20261103063000 +0200" channel="RaiSport.it">
     <title lang="it">Orientamento Corsa: Finali Coppa Italia Sprint e Bosco</title>
@@ -3548,18 +3565,22 @@
   </programme>
   <programme start="20261102103500 +0200" stop="20261102120000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 Social Club</title>
-    <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei.</desc>
+    <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei. Ospiti: Francesca Michielin, Claudia Pandolfi, Lino Musella, Stefano Salvati, Patrick Facciolo</desc>
   </programme>
-  <programme start="20261102120000 +0200" stop="20261102133000 +0200" channel="RaiRadio2Visual.it">
+  <programme start="20261102120000 +0200" stop="20261102125500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 stai Serena</title>
     <desc lang="it">Con Serena Bortone, Massimo Cervelli e Diletta Parlangeli. Regia di Stefano Aimola. A cura di Daria Ragazzini</desc>
+  </programme>
+  <programme start="20261102125500 +0200" stop="20261102133000 +0200" channel="RaiRadio2Visual.it">
+    <title lang="it">L'intervista</title>
+    <desc lang="it">Con Serena Bortone. Regia di Stefano Aimola. A cura di Daria Ragazzini.</desc>
   </programme>
   <programme start="20261102133000 +0200" stop="20261102134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
   </programme>
   <programme start="20261102134500 +0200" stop="20261102143000 +0200" channel="RaiRadio2Visual.it">
-    <title lang="it">La Pennicanza</title>
-    <desc lang="it">Con Rosario Fiorello e Fabrizio Biggio. Regia audio di Marco Lolli. Regia video di Piergiorgio Camilli. A cura di Elena Maria Russo e Roberto Buttinelli</desc>
+    <title lang="it">La Pennicanza - Puntata del 02/11/2026</title>
+    <desc lang="it">Lo show di Radio2 con Rosario Fiorello e Fabrizio Biggio</desc>
   </programme>
   <programme start="20261102143000 +0200" stop="20261102153000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 music room</title>
@@ -3644,9 +3665,13 @@
     <title lang="it">Radio2 Social Club</title>
     <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei.</desc>
   </programme>
-  <programme start="20261103120000 +0200" stop="20261103133000 +0200" channel="RaiRadio2Visual.it">
+  <programme start="20261103120000 +0200" stop="20261103125500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 stai Serena</title>
     <desc lang="it">Con Serena Bortone, Massimo Cervelli e Diletta Parlangeli. Regia di Stefano Aimola. A cura di Daria Ragazzini</desc>
+  </programme>
+  <programme start="20261103125500 +0200" stop="20261103133000 +0200" channel="RaiRadio2Visual.it">
+    <title lang="it">L'intervista</title>
+    <desc lang="it">Con Serena Bortone. Regia di Stefano Aimola. A cura di Daria Ragazzini.</desc>
   </programme>
   <programme start="20261103133000 +0200" stop="20261103134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3738,9 +3763,13 @@
     <title lang="it">Radio2 Social Club</title>
     <desc lang="it">Con Luca Barbarossa e Ema Stokholma. Regia di Leonardo Carioti. A cura di Elena Maria Russo e Roberta Bellei.</desc>
   </programme>
-  <programme start="20261104120000 +0200" stop="20261104133000 +0200" channel="RaiRadio2Visual.it">
+  <programme start="20261104120000 +0200" stop="20261104125500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 stai Serena</title>
     <desc lang="it">Con Serena Bortone, Massimo Cervelli e Diletta Parlangeli. Regia di Stefano Aimola. A cura di Daria Ragazzini</desc>
+  </programme>
+  <programme start="20261104125500 +0200" stop="20261104133000 +0200" channel="RaiRadio2Visual.it">
+    <title lang="it">L'intervista</title>
+    <desc lang="it">Con Serena Bortone. Regia di Stefano Aimola. A cura di Daria Ragazzini.</desc>
   </programme>
   <programme start="20261104133000 +0200" stop="20261104134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
