@@ -12,37 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261102140000 +0200" stop="20261102184801 +0200" channel="pluto_film_tv">
+  <programme start="20261103020000 +0200" stop="20261103063850 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261102184801 +0200" stop="20261102202301 +0200" channel="pluto_film_tv">
-    <title lang="it">Big Baby</title>
-    <desc lang="it">Uno scienziato inventa una macchina che agisce sui geni e trasforma il nipote di quattro anni in un adulto. Quando Bobby scappa di casa, i suoi fratelli devono riuscire a trovarlo prima del ritorno dei genitori. Il tempo stringe, rimane un solo giorno!</desc>
-  </programme>
-  <programme start="20261102202301 +0200" stop="20261102220101 +0200" channel="pluto_film_tv">
-    <title lang="it">Love Guru</title>
-    <desc lang="it">Un'esilarante commedia su un americano cresciuto in India da dei guru che torna negli U.S.A. in età avanzata per entrare nel business dell'auto-aiuto.</desc>
-  </programme>
-  <programme start="20261102220101 +0200" stop="20261103000001 +0200" channel="pluto_film_tv">
-    <title lang="it">Speed Kills</title>
-    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
-  </programme>
-  <programme start="20261103000001 +0200" stop="20261103013505 +0200" channel="pluto_film_tv">
-    <title lang="it">An occasional hell</title>
-    <desc lang="it">Accusata di aver ucciso il marito e di aver fatto sparire la sua amante, Jeri Gillen si rivolge al dottor Dewal, un ex poliziotto rimasto disabile, perché l'aiuti a provare la sua innocenza.</desc>
-  </programme>
-  <programme start="20261103013505 +0200" stop="20261103031505 +0200" channel="pluto_film_tv">
-    <title lang="it">Seized - Sotto Ricatto</title>
-    <desc lang="it">Il figlio di un ex agente delle forze speciali viene rapito e ora lui deve spazzare via tre pericolosi sindacati criminali, se vuole rivedere suo figlio vivo.</desc>
-  </programme>
-  <programme start="20261103031505 +0200" stop="20261103045505 +0200" channel="pluto_film_tv">
-    <title lang="it">Poliziotto a New York</title>
-    <desc lang="it">Toshi, un poliziotto di New York di origini giapponesi, s’infiltra in una gang di alto profilo e s’innamora della sorella del capo (la premio Oscar Mira Sorvino) in questo thriller ambientato nel mondo del crimine.</desc>
-  </programme>
-  <programme start="20261103045505 +0200" stop="20261103063850 +0200" channel="pluto_film_tv">
-    <title lang="it">Knock Knock</title>
-    <desc lang="it">Evan Webber (Keanu Reeves), architetto sposato con due figli, vive in una casa lussuosa. Durante un weekend da solo, accoglie due ragazze apparentemente innocenti. Un gesto innocuo lo trascinerà in un inquietante incubo che cambierà per sempre la sua vita</desc>
   </programme>
   <programme start="20261103063850 +0200" stop="20261103081650 +0200" channel="pluto_film_tv">
     <title lang="it">Love Guru</title>
@@ -76,45 +48,49 @@
     <title lang="it">La sera di tutti i giorni</title>
     <desc lang="it">La sera di tutti i giorni, il film diretto da Felix Tissi, racconta storie slegate ma unite dal tema della vecchiaia, attraverso i temi dell'amore e della morte.</desc>
   </programme>
-  <programme start="20261103195919 +0200" stop="20261104020000 +0200" channel="pluto_film_tv">
+  <programme start="20261103195919 +0200" stop="20261103220019 +0200" channel="pluto_film_tv">
+    <title lang="it">Half Nelson</title>
+    <desc lang="it">Candidatura agli Oscar per Ryan Gosling. Dan è un insegnante di scuola pubblica, brillante e capace di motivare i suoi allievi nonostante le difficoltà della vita di periferia. Nel privato però affoga i suoi tormenti nell'abuso di alcool e droghe.</desc>
+  </programme>
+  <programme start="20261103220019 +0200" stop="20261104002619 +0200" channel="pluto_film_tv">
+    <title lang="it">L'eccezione alla regola</title>
+    <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
+  </programme>
+  <programme start="20261104002619 +0200" stop="20261104020619 +0200" channel="pluto_film_tv">
+    <title lang="it">Where's the Money</title>
+    <desc lang="it">Con un all-star cast che include  Andrew Bachelor, Mike Epps, and Terry Crews, WHERE'S THE MONEY è una commedia che parla di un simpatico ragazzo di South Central che promette a una confraternita di recuperare del denaro rubato.</desc>
+  </programme>
+  <programme start="20261104020619 +0200" stop="20261104035158 +0200" channel="pluto_film_tv">
+    <title lang="it">Year 10</title>
+    <desc lang="it">Il pianeta Terra si trova in un inverno senza fine a causa di un evento catastrofico e la razza umana è praticamente estinta. Nel profondo della foresta morente, Son e suo padre sopravvivono rovistando tra i resti del mondo precedente.</desc>
+  </programme>
+  <programme start="20261104035158 +0200" stop="20261104053158 +0200" channel="pluto_film_tv">
+    <title lang="it">Where's the Money</title>
+    <desc lang="it">Con un all-star cast che include  Andrew Bachelor, Mike Epps, and Terry Crews, WHERE'S THE MONEY è una commedia che parla di un simpatico ragazzo di South Central che promette a una confraternita di recuperare del denaro rubato.</desc>
+  </programme>
+  <programme start="20261104053158 +0200" stop="20261104071731 +0200" channel="pluto_film_tv">
+    <title lang="it">End of Sentence</title>
+    <desc lang="it">Frank e Sean: un viaggio tra padre e figlio per spargere le ceneri della moglie-mamma appena scomparsa e per ritrovare se stessi e il loro legame.</desc>
+  </programme>
+  <programme start="20261104071731 +0200" stop="20261104091208 +0200" channel="pluto_film_tv">
+    <title lang="it">Le Stelle non si spengono a Liverpool</title>
+    <desc lang="it">La vera storia del giovane Paul Turner e del suo amore per l'attrice premio Oscar Gloria Grahame. Nonostante i 30 anni di differenza, nasce un amore passionale e travagliato che durerà per due anni.</desc>
+  </programme>
+  <programme start="20261104091208 +0200" stop="20261104140000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104020000 +0200" stop="20261104140000 +0200" channel="pluto_film_tv">
+  <programme start="20261104140000 +0200" stop="20261105020000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104140000 +0200" stop="20261104200000 +0200" channel="pluto_film_tv">
+  <programme start="20261105020000 +0200" stop="20261105080000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102140000 +0200" stop="20261102175150 +0200" channel="pluto_film_azione">
+  <programme start="20261103020000 +0200" stop="20261103064913 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261102175150 +0200" stop="20261102194250 +0200" channel="pluto_film_azione">
-    <title lang="it">La Leggenda Di Hei</title>
-    <desc lang="it">Il gatto demone Hei è costretto a vagabondare dopo che la sua casa nella foresta è stata distrutta dagli esseri umani.</desc>
-  </programme>
-  <programme start="20261102194250 +0200" stop="20261102223043 +0200" channel="pluto_film_azione">
-    <title lang="it">Noryang</title>
-    <desc lang="it">Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang.</desc>
-  </programme>
-  <programme start="20261102223043 +0200" stop="20261103002543 +0200" channel="pluto_film_azione">
-    <title lang="it">I Duellanti</title>
-    <desc lang="it">Keith Carradine e Harvey Keitel interpretano in questo film drammatico due ufficiali dell'armata napoleonica che si scontrano violentemente in una serie di duelli.</desc>
-  </programme>
-  <programme start="20261103002543 +0200" stop="20261103022043 +0200" channel="pluto_film_azione">
-    <title lang="it">I Duellanti</title>
-    <desc lang="it">Keith Carradine e Harvey Keitel interpretano in questo film drammatico due ufficiali dell'armata napoleonica che si scontrano violentemente in una serie di duelli.</desc>
-  </programme>
-  <programme start="20261103022043 +0200" stop="20261103051013 +0200" channel="pluto_film_azione">
-    <title lang="it">Vikings - L'invasione dei Franchi</title>
-    <desc lang="it">700 dc. I Franchi stanno provando a conquistare l'Europa. L'esercito di Carlo Martello uccide il re dei frisoni e getta in mare suo figlio Redbaldo. Sopravvissuto, farà ritorno con un'armata vichinga invincibile.</desc>
-  </programme>
-  <programme start="20261103051013 +0200" stop="20261103064913 +0200" channel="pluto_film_azione">
-    <title lang="it">L'invasione degli ultra sbronzi</title>
-    <desc lang="it">In un villaggio irlandese si verificano degli strani avvenimenti. Due strampalati poliziotti scoprono che all'origine di tutto vi è l'invasione di alcuni alieni giganteschi e che l'unica arma capace di distruggerli è l'alcol.</desc>
   </programme>
   <programme start="20261103064913 +0200" stop="20261103083613 +0200" channel="pluto_film_azione">
     <title lang="it">Pressione in cabina</title>
@@ -144,81 +120,53 @@
     <title lang="it">Crypto</title>
     <desc lang="it">Martin, incaricato di indagare sul riciclaggio, viene mandato nella sua città natale, dove si trova tra legami familiari in crisi e un oscuro mondo di hacker, criptovalute e corruzione. Più si avvicina alla verità, più mette a rischio tutto ciò che ha.</desc>
   </programme>
-  <programme start="20261103190522 +0200" stop="20261104020000 +0200" channel="pluto_film_azione">
+  <programme start="20261103190522 +0200" stop="20261103205522 +0200" channel="pluto_film_azione">
+    <title lang="it">Striscia Vincente</title>
+    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
+  </programme>
+  <programme start="20261103205522 +0200" stop="20261103223016 +0200" channel="pluto_film_azione">
+    <title lang="it">Legendary</title>
+    <desc lang="it">L'archeologo Travis Preston parte per la Cina in seguito ad alcune misteriorse segnalazioni di avvistamenti. L'obiettivo della missione è quello di dimostrare l'esistenza di una mostruosa creatura preistorica, che sta scatenando il panico.</desc>
+  </programme>
+  <programme start="20261103223016 +0200" stop="20261104000212 +0200" channel="pluto_film_azione">
+    <title lang="it">Tainted</title>
+    <desc lang="it">Lance è un ex membro della Fratellanza ariana uscito di prigione. Vorrebbe vivere tranquillo ma la mafia russa lo avvicina per chiedergli un ultimo lavoro.</desc>
+  </programme>
+  <programme start="20261104000212 +0200" stop="20261104020802 +0200" channel="pluto_film_azione">
+    <title lang="it">In ordine di sparizione</title>
+    <desc lang="it">Una dark - comedy ricca di azione e divertimento ambientata nella selvaggia Norvegia, con un cast eccezionale!</desc>
+  </programme>
+  <programme start="20261104020802 +0200" stop="20261104033902 +0200" channel="pluto_film_azione">
+    <title lang="it">Pam XXX - Indagine ad alto rischio</title>
+    <desc lang="it">Quando una splendida squillo accetta di incontrarsi con un giovane per bene non sospetta che dietro le apparenze si nasconde un passato inquietante. Senza saperlo la ragazza diventa presto la testimone scomoda di una sporca faccenda.</desc>
+  </programme>
+  <programme start="20261104033902 +0200" stop="20261104051058 +0200" channel="pluto_film_azione">
+    <title lang="it">Tainted</title>
+    <desc lang="it">Lance è un ex membro della Fratellanza ariana uscito di prigione. Vorrebbe vivere tranquillo ma la mafia russa lo avvicina per chiedergli un ultimo lavoro.</desc>
+  </programme>
+  <programme start="20261104051058 +0200" stop="20261104064358 +0200" channel="pluto_film_azione">
+    <title lang="it">The Machine</title>
+    <desc lang="it">In un futuro prossimo, il Ministero della difesa britannico è alla ricerca di un’arma. Il programmatore Vincent McCarthy fornisce involontariamente una soluzione quando mette a punto la Macchina, un cyborg indistruttibile dalle caratteristiche umane.</desc>
+  </programme>
+  <programme start="20261104064358 +0200" stop="20261104081421 +0200" channel="pluto_film_azione">
+    <title lang="it">Next Day Air</title>
+    <desc lang="it">Un incauto fattorino consegna inavvertitamente all'indirizzo sbagliato un pacco contenente panetti di cocaina occultati.</desc>
+  </programme>
+  <programme start="20261104081421 +0200" stop="20261104140000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104020000 +0200" stop="20261104140000 +0200" channel="pluto_film_azione">
+  <programme start="20261104140000 +0200" stop="20261105020000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104140000 +0200" stop="20261104200000 +0200" channel="pluto_film_azione">
+  <programme start="20261105020000 +0200" stop="20261105080000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261102140000 +0200" stop="20261102183839 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261103020000 +0200" stop="20261103063504 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261102183839 +0200" stop="20261102192739 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Ballare sul rasoio</title>
-    <desc lang="it">Quando Mutant X e Genomex vengono ripresi mentre usano i loro poteri, entrambi devono affrontare il reporter che intende rendere pubbliche le informazioni.</desc>
-  </programme>
-  <programme start="20261102192739 +0200" stop="20261102201639 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Normandia</title>
-    <desc lang="it">In uno sguardo indietro alla Seconda Guerra Mondiale, troviamo Magnus, Watson e Griffin alla vigilia del D-Day... e scopriamo il ruolo di Magnus in uno degli eventi più importanti che hanno dato forma al nostro mondo.</desc>
-  </programme>
-  <programme start="20261102201639 +0200" stop="20261102210626 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Carentan</title>
-    <desc lang="it">Il Santuario riceve segnalazioni di inspiegabili sparizioni a Carentan, nella regione francese della Normandia, e parte per indagare sugli strani avvenimenti.</desc>
-  </programme>
-  <programme start="20261102210626 +0200" stop="20261102215611 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Fuori Dalla Realta</title>
-    <desc lang="it">Nessun Santuario in vista, Helen e Will si ritrovano come vicini di casa in una strada alberata di periferia... vivendo vite che nessuno dei due riconosce pienamente.</desc>
-  </programme>
-  <programme start="20261102215611 +0200" stop="20261102224555 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Avvolti Nell'Ombra</title>
-    <desc lang="it">Il Santuario riceve la notizia allarmante che un grande gruppo di anormali è stato avvistato all'ingresso di una grotta nel Sud Dakota. Magnus sa immediatamente che questa è la prima ondata di Anormali che emerge dalla Terra Cava.</desc>
-  </programme>
-  <programme start="20261102224555 +0200" stop="20261102233448 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Viaggio Nel Tempo</title>
-    <desc lang="it">Adam Worth distrugge Praxis e viaggia indietro nel tempo fino al 1890 per salvare sua figlia. La dottoressa Magnus viaggia indietro nel tempo per fermarlo prima che danneggi la linea del tempo e distrugga con essa il suo futuro.</desc>
-  </programme>
-  <programme start="20261102233448 +0200" stop="20261103002136 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Rivolta</title>
-    <desc lang="it">Con Magnus scomparso, Will viene nominato capo della Rete dei Santuari. La rivolta degli anormali continua a peggiorare. Biggie e Kate vengono rapiti. Come previsto, i governi di superficie rispondono alla rivolta con la forza mortale.</desc>
-  </programme>
-  <programme start="20261103002136 +0200" stop="20261103010719 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: La luna e la stella</title>
-    <desc lang="it">Jamie e Logan arrivano a Caraquet ma il rifugio non è quello che sperano. Inoltre, dopo che la squadra ha ottenuto una pista sulla posizione di Jamie, si dirigono verso Caraquet nella speranza di ricongiungersi con lei.</desc>
-  </programme>
-  <programme start="20261103010719 +0200" stop="20261103015448 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Sesso, bugie e meduse</title>
-    <desc lang="it">La squadra si reca in Portogallo dove dovrà affrontare un pericoloso spacciatore di veleno per fare un passo avanti verso la cura. Inoltre, il comportamento di Jackson mette a repentaglio l'intera squadra.</desc>
-  </programme>
-  <programme start="20261103015448 +0200" stop="20261103024210 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Le vie del Signore sono infinite</title>
-    <desc lang="it">Mitch scava nel passato di Jackson per ottenere le risposte di cui hanno bisogno per creare la cura. Il resto della squadra è alla ricerca di prove relative alla tripla elica del gene fantasma in una pittoresca cittadina inglese.</desc>
-  </programme>
-  <programme start="20261103024210 +0200" stop="20261103032718 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Somma zero</title>
-    <desc lang="it">Jackson scopre che sua madre è scomparsa in Africa, ma prima di poterla cercare, lui e la squadra devono affrontare una forza ostile che ha invaso il loro aereo. Inoltre, Jamie scopre un segreto scioccante su Abraham.</desc>
-  </programme>
-  <programme start="20261103032718 +0200" stop="20261103041421 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: I peccati del padre</title>
-    <desc lang="it">Jackson deve affrontare la decisione più difficile della sua vita. Inoltre, Mitch chiede con riluttanza l'aiuto di suo padre per indagare sull'origine dell'ultima serie di ossa di animali a tripla elica.</desc>
-  </programme>
-  <programme start="20261103041421 +0200" stop="20261103050152 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Il ritorno del figliol prodigo</title>
-    <desc lang="it">Mitch e Abraham devono trovare Jackson prima che il generale Davies e l'International Animal Defense Group possano localizzarlo. Jamie, Dariela e Allison fanno un ultimo tentativo per convincere il governo russo a rinunciare all'Obiettivo Noè.</desc>
-  </programme>
-  <programme start="20261103050152 +0200" stop="20261103054735 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: La luna e la stella</title>
-    <desc lang="it">Jamie e Logan arrivano a Caraquet ma il rifugio non è quello che sperano. Inoltre, dopo che la squadra ha ottenuto una pista sulla posizione di Jamie, si dirigono verso Caraquet nella speranza di ricongiungersi con lei.</desc>
-  </programme>
-  <programme start="20261103054735 +0200" stop="20261103063504 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Sesso, bugie e meduse</title>
-    <desc lang="it">La squadra si reca in Portogallo dove dovrà affrontare un pericoloso spacciatore di veleno per fare un passo avanti verso la cura. Inoltre, il comportamento di Jackson mette a repentaglio l'intera squadra.</desc>
   </programme>
   <programme start="20261103063504 +0200" stop="20261103072226 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Zoo: Le vie del Signore sono infinite</title>
@@ -284,15 +232,79 @@
     <title lang="it">Sanctuary: Intoccabile</title>
     <desc lang="it">Il Consiglio di Sicurezza dell'ONU invia una task force guidata da un uomo subdolo, Greg Addison, per indagare sul Santuario. Il suo disprezzo per gli anormali è pari al disprezzo che Magnus e la squadra hanno per lui.</desc>
   </programme>
-  <programme start="20261103193511 +0200" stop="20261104020000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261103193511 +0200" stop="20261103202159 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Monsone</title>
+    <desc lang="it">Dato che l'ONU non appoggia più il Santuario, Magnus prende altri accordi per le sue finanze. Un incontro in Africa con un banchiere si trasforma in una situazione di ostaggio. Will e Henry cercano un anormale nei tunnel della Città Vecchia.</desc>
+  </programme>
+  <programme start="20261103202159 +0200" stop="20261103210847 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Resistenza</title>
+    <desc lang="it">Helen e Henry irrompono in una struttura governativa di ricerca sugli anormali chiamata SCIU - solo per scoprire che è gestita da Tesla. Biggie e Will hanno a che fare con un fastidioso anormale di nome Galvo.</desc>
+  </programme>
+  <programme start="20261103210847 +0200" stop="20261103215536 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Ritorno A Casa</title>
+    <desc lang="it">Il viaggio di Will in Liberia si mette male quando subisce un trauma cranico da un'aggressione. Il trauma fa emergere potenti ricordi sulla morte di sua madre e le inadeguatezze di suo padre. Magnus si occupa di un artista della truffa con le ali.</desc>
+  </programme>
+  <programme start="20261103215536 +0200" stop="20261103224225 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Rompighiaccio</title>
+    <desc lang="it">Henry e Declan guidano una squadra per salvare l'equipaggio di un rompighiaccio russo e i passeggeri anomali.</desc>
+  </programme>
+  <programme start="20261103224225 +0200" stop="20261103232913 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Contagio</title>
+    <desc lang="it">La vita dell'agente dell'FBI Abby Corrigan è in pericolo dopo che viene attaccata da un anormale sconosciuto durante un'indagine; l'acceso dibattito di Magnus e Will sul modo migliore per aiutarla minaccia di alterare il loro rapporto.</desc>
+  </programme>
+  <programme start="20261103232913 +0200" stop="20261104001421 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Somma zero</title>
+    <desc lang="it">Jackson scopre che sua madre è scomparsa in Africa, ma prima di poterla cercare, lui e la squadra devono affrontare una forza ostile che ha invaso il loro aereo. Inoltre, Jamie scopre un segreto scioccante su Abraham.</desc>
+  </programme>
+  <programme start="20261104001421 +0200" stop="20261104010124 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: I peccati del padre</title>
+    <desc lang="it">Jackson deve affrontare la decisione più difficile della sua vita. Inoltre, Mitch chiede con riluttanza l'aiuto di suo padre per indagare sull'origine dell'ultima serie di ossa di animali a tripla elica.</desc>
+  </programme>
+  <programme start="20261104010124 +0200" stop="20261104014855 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Il ritorno del figliol prodigo</title>
+    <desc lang="it">Mitch e Abraham devono trovare Jackson prima che il generale Davies e l'International Animal Defense Group possano localizzarlo. Jamie, Dariela e Allison fanno un ultimo tentativo per convincere il governo russo a rinunciare all'Obiettivo Noè.</desc>
+  </programme>
+  <programme start="20261104014855 +0200" stop="20261104023554 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: La via verso la cura</title>
+    <desc lang="it">Mitch e Jamie affrontano un attacco di animali all'ambasciata russa a Washington D.C., e Jackson ottiene finalmente le risposte che stava cercando da una fonte sorprendente.</desc>
+  </programme>
+  <programme start="20261104023554 +0200" stop="20261104032312 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Pangaea</title>
+    <desc lang="it">Mitch e Jamie escogitano un piano per indebolire l'Obiettivo Noè una volta per tutte. La squadra si riunisce sull'Isola di Pangea dove vengono messi a punto gli ultimi pezzi della cura.</desc>
+  </programme>
+  <programme start="20261104032312 +0200" stop="20261104040952 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Clementine</title>
+    <desc lang="it">La squadra corre contro il tempo per trovare Clementine e vaccinarla prima che il gas TX raggiunga la popolazione.</desc>
+  </programme>
+  <programme start="20261104040952 +0200" stop="20261104045500 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Somma zero</title>
+    <desc lang="it">Jackson scopre che sua madre è scomparsa in Africa, ma prima di poterla cercare, lui e la squadra devono affrontare una forza ostile che ha invaso il loro aereo. Inoltre, Jamie scopre un segreto scioccante su Abraham.</desc>
+  </programme>
+  <programme start="20261104045500 +0200" stop="20261104054203 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: I peccati del padre</title>
+    <desc lang="it">Jackson deve affrontare la decisione più difficile della sua vita. Inoltre, Mitch chiede con riluttanza l'aiuto di suo padre per indagare sull'origine dell'ultima serie di ossa di animali a tripla elica.</desc>
+  </programme>
+  <programme start="20261104054203 +0200" stop="20261104062934 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Il ritorno del figliol prodigo</title>
+    <desc lang="it">Mitch e Abraham devono trovare Jackson prima che il generale Davies e l'International Animal Defense Group possano localizzarlo. Jamie, Dariela e Allison fanno un ultimo tentativo per convincere il governo russo a rinunciare all'Obiettivo Noè.</desc>
+  </programme>
+  <programme start="20261104062934 +0200" stop="20261104071622 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Intoccabile</title>
+    <desc lang="it">Il Consiglio di Sicurezza dell'ONU invia una task force guidata da un uomo subdolo, Greg Addison, per indagare sul Santuario. Il suo disprezzo per gli anormali è pari al disprezzo che Magnus e la squadra hanno per lui.</desc>
+  </programme>
+  <programme start="20261104071622 +0200" stop="20261104080310 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Monsone</title>
+    <desc lang="it">Dato che l'ONU non appoggia più il Santuario, Magnus prende altri accordi per le sue finanze. Un incontro in Africa con un banchiere si trasforma in una situazione di ostaggio. Will e Henry cercano un anormale nei tunnel della Città Vecchia.</desc>
+  </programme>
+  <programme start="20261104080310 +0200" stop="20261104140000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104020000 +0200" stop="20261104140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261104140000 +0200" stop="20261105020000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104140000 +0200" stop="20261104200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261105020000 +0200" stop="20261105080000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
