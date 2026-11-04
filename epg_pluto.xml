@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261104013000 +0200" stop="20261104053158 +0200" channel="pluto_film_tv">
+  <programme start="20261104120000 +0200" stop="20261104153657 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104053158 +0200" stop="20261104071731 +0200" channel="pluto_film_tv">
-    <title lang="it">End of Sentence</title>
-    <desc lang="it">Frank e Sean: un viaggio tra padre e figlio per spargere le ceneri della moglie-mamma appena scomparsa e per ritrovare se stessi e il loro legame.</desc>
-  </programme>
-  <programme start="20261104071731 +0200" stop="20261104091208 +0200" channel="pluto_film_tv">
-    <title lang="it">Le Stelle non si spengono a Liverpool</title>
-    <desc lang="it">La vera storia del giovane Paul Turner e del suo amore per l'attrice premio Oscar Gloria Grahame. Nonostante i 30 anni di differenza, nasce un amore passionale e travagliato che durerà per due anni.</desc>
-  </programme>
-  <programme start="20261104091208 +0200" stop="20261104113808 +0200" channel="pluto_film_tv">
-    <title lang="it">L'eccezione alla regola</title>
-    <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
-  </programme>
-  <programme start="20261104113808 +0200" stop="20261104132308 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20261104132308 +0200" stop="20261104153657 +0200" channel="pluto_film_tv">
-    <title lang="it">Mother and Child</title>
-    <desc lang="it">Tre donne diverse, la forza del legame indissolubile che si crea tra una madre e un figlio. Karen, ex ragazza madre; Elizabeth, avvocato di successo, abbandonata in fasce; Lucy, giovane donna che vuole diventare madre.</desc>
   </programme>
   <programme start="20261104153657 +0200" stop="20261104180257 +0200" channel="pluto_film_tv">
     <title lang="it">L'eccezione alla regola</title>
@@ -72,45 +52,41 @@
     <title lang="it">Memorie di un uomo invisibile</title>
     <desc lang="it">Quando un esperimento del governo va storto, rende invisibile uno spettatore innocente.</desc>
   </programme>
-  <programme start="20261105083542 +0200" stop="20261105133000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20261105083542 +0200" stop="20261105104931 +0200" channel="pluto_film_tv">
+    <title lang="it">Mother and Child</title>
+    <desc lang="it">Tre donne diverse, la forza del legame indissolubile che si crea tra una madre e un figlio. Karen, ex ragazza madre; Elizabeth, avvocato di successo, abbandonata in fasce; Lucy, giovane donna che vuole diventare madre.</desc>
   </programme>
-  <programme start="20261105133000 +0200" stop="20261106013000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20261105104931 +0200" stop="20261105123431 +0200" channel="pluto_film_tv">
+    <title lang="it">L'Erba Di Grace</title>
+    <desc lang="it">Nel disperato tentativo di salvare la sua proprietà, Grace, una vedova inglese, decide di collaborare con un giardiniere e trasformare la serra di orchidee in una coltivazione di marijuana.</desc>
   </programme>
-  <programme start="20261106013000 +0200" stop="20261106073000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104013000 +0200" stop="20261104051058 +0200" channel="pluto_film_azione">
-    <title lang="it">Pluto TV Film Azione</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104051058 +0200" stop="20261104064358 +0200" channel="pluto_film_azione">
-    <title lang="it">The Machine</title>
-    <desc lang="it">In un futuro prossimo, il Ministero della difesa britannico è alla ricerca di un’arma. Il programmatore Vincent McCarthy fornisce involontariamente una soluzione quando mette a punto la Macchina, un cyborg indistruttibile dalle caratteristiche umane.</desc>
-  </programme>
-  <programme start="20261104064358 +0200" stop="20261104081421 +0200" channel="pluto_film_azione">
-    <title lang="it">Next Day Air</title>
-    <desc lang="it">Un incauto fattorino consegna inavvertitamente all'indirizzo sbagliato un pacco contenente panetti di cocaina occultati.</desc>
-  </programme>
-  <programme start="20261104081421 +0200" stop="20261104100621 +0200" channel="pluto_film_azione">
-    <title lang="it">Gli irriducibili</title>
-    <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
-  </programme>
-  <programme start="20261104100621 +0200" stop="20261104114121 +0200" channel="pluto_film_azione">
-    <title lang="it">Il testamento di Madigan</title>
-    <desc lang="it">Il giovane Frank Putzu diventa un funzionario del Dipartimento del Tesoro statunitense. Apparentemente ingenuo e mite, viene inviato a Roma per recuperare una grossa somma di denaro dovuto al governo degli Stati Uniti da Mike Madigan, un mafioso morto.</desc>
-  </programme>
-  <programme start="20261104114121 +0200" stop="20261104131621 +0200" channel="pluto_film_azione">
-    <title lang="it">Lavalantula</title>
-    <desc lang="it">Una violenta eruzione vulcanica sulle montagne di Santa Monica dà vita a una serie di crateri da cui non esce solo lava incandescente, ma anche giganteschi ragni dotati della capacità di sputare fuoco.</desc>
-  </programme>
-  <programme start="20261104131621 +0200" stop="20261104150521 +0200" channel="pluto_film_azione">
+  <programme start="20261105123431 +0200" stop="20261105142331 +0200" channel="pluto_film_tv">
     <title lang="it">Otto secondi di gloria</title>
     <desc lang="it">Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
+  </programme>
+  <programme start="20261105142331 +0200" stop="20261105161331 +0200" channel="pluto_film_tv">
+    <title lang="it">Memorie di un uomo invisibile</title>
+    <desc lang="it">Quando un esperimento del governo va storto, rende invisibile uno spettatore innocente.</desc>
+  </programme>
+  <programme start="20261105161331 +0200" stop="20261105183344 +0200" channel="pluto_film_tv">
+    <title lang="it">Queen of the desert</title>
+    <desc lang="it">Gertrude Bell, personaggio realmente esistito è una donna inglese dalla vita ricca e avventurosa che, all'alba del XX secolo, fu viaggiatrice, scrittrice, archeologa, esploratrice, cartografa, agente segreto e diplomatica per conto dell'Impero Britannico.</desc>
+  </programme>
+  <programme start="20261105183344 +0200" stop="20261106000000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261104120000 +0200" stop="20261104150521 +0200" channel="pluto_film_azione">
+    <title lang="it">Pluto TV Film Azione</title>
+    <desc lang="it">no info available</desc>
   </programme>
   <programme start="20261104150521 +0200" stop="20261104171121 +0200" channel="pluto_film_azione">
     <title lang="it">The Knight Of Shadows</title>
@@ -148,69 +124,45 @@
     <title lang="it">Giustizia violenta</title>
     <desc lang="it">Un'incursione vandalica da parte di ignoti teppisti a scuola è la goccia che fa traboccare il vaso. A quel punto i ragazzi della zona decidono di costituire un gruppo di vigilantes che riesca a combattere droga, violenza e tutto il resto.</desc>
   </programme>
-  <programme start="20261105070332 +0200" stop="20261105133000 +0200" channel="pluto_film_azione">
+  <programme start="20261105070332 +0200" stop="20261105084836 +0200" channel="pluto_film_azione">
+    <title lang="it">Taffin</title>
+    <desc lang="it">Quando un imprenditore senza scrupoli manda i suoi scagnozzi per ridurre in silenzio gli oppositori alla costruzione di uno stabilimento chimico vicino alla loro comunità, la gente chiede aiuto a un tosto esattore per scongiurare la minaccia.</desc>
+  </programme>
+  <programme start="20261105084836 +0200" stop="20261105102942 +0200" channel="pluto_film_azione">
+    <title lang="it">The Gaelic King</title>
+    <desc lang="it">Un fantasy ambientato nella Scozia dell` 800 d.C.: quando il male dilaga solo il re può fermarlo</desc>
+  </programme>
+  <programme start="20261105102942 +0200" stop="20261105122842 +0200" channel="pluto_film_azione">
+    <title lang="it">Speed Kills</title>
+    <desc lang="it">L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
+  </programme>
+  <programme start="20261105122842 +0200" stop="20261105140642 +0200" channel="pluto_film_azione">
+    <title lang="it">Ercole a New York</title>
+    <desc lang="it">Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.</desc>
+  </programme>
+  <programme start="20261105140642 +0200" stop="20261105154051 +0200" channel="pluto_film_azione">
+    <title lang="it">Finding Steve McQueen</title>
+    <desc lang="it">Ohio, 1972. Harry ama la guida spericolata e Steve McQueen, e pianifica insieme allo zio e ad un gruppo di amici la rapina più grande della storia americana. Pennsylvania, 1980. Harry è ricercato ma ama Molly tanto da volerle raccontare tutta la verità.</desc>
+  </programme>
+  <programme start="20261105154051 +0200" stop="20261105172351 +0200" channel="pluto_film_azione">
+    <title lang="it">Mega Shark Vs Kolossus</title>
+    <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
+  </programme>
+  <programme start="20261105172351 +0200" stop="20261106000000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261105133000 +0200" stop="20261106013000 +0200" channel="pluto_film_azione">
+  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106013000 +0200" stop="20261106073000 +0200" channel="pluto_film_azione">
+  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104013000 +0200" stop="20261104054203 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261104120000 +0200" stop="20261104151312 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104054203 +0200" stop="20261104062934 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Il ritorno del figliol prodigo</title>
-    <desc lang="it">Mitch e Abraham devono trovare Jackson prima che il generale Davies e l'International Animal Defense Group possano localizzarlo. Jamie, Dariela e Allison fanno un ultimo tentativo per convincere il governo russo a rinunciare all'Obiettivo Noè.</desc>
-  </programme>
-  <programme start="20261104062934 +0200" stop="20261104071622 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Intoccabile</title>
-    <desc lang="it">Il Consiglio di Sicurezza dell'ONU invia una task force guidata da un uomo subdolo, Greg Addison, per indagare sul Santuario. Il suo disprezzo per gli anormali è pari al disprezzo che Magnus e la squadra hanno per lui.</desc>
-  </programme>
-  <programme start="20261104071622 +0200" stop="20261104080310 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Monsone</title>
-    <desc lang="it">Dato che l'ONU non appoggia più il Santuario, Magnus prende altri accordi per le sue finanze. Un incontro in Africa con un banchiere si trasforma in una situazione di ostaggio. Will e Henry cercano un anormale nei tunnel della Città Vecchia.</desc>
-  </programme>
-  <programme start="20261104080310 +0200" stop="20261104084958 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Resistenza</title>
-    <desc lang="it">Helen e Henry irrompono in una struttura governativa di ricerca sugli anormali chiamata SCIU - solo per scoprire che è gestita da Tesla. Biggie e Will hanno a che fare con un fastidioso anormale di nome Galvo.</desc>
-  </programme>
-  <programme start="20261104084958 +0200" stop="20261104093647 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Ritorno A Casa</title>
-    <desc lang="it">Il viaggio di Will in Liberia si mette male quando subisce un trauma cranico da un'aggressione. Il trauma fa emergere potenti ricordi sulla morte di sua madre e le inadeguatezze di suo padre. Magnus si occupa di un artista della truffa con le ali.</desc>
-  </programme>
-  <programme start="20261104093647 +0200" stop="20261104102336 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Rompighiaccio</title>
-    <desc lang="it">Henry e Declan guidano una squadra per salvare l'equipaggio di un rompighiaccio russo e i passeggeri anomali.</desc>
-  </programme>
-  <programme start="20261104102336 +0200" stop="20261104111024 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Contagio</title>
-    <desc lang="it">La vita dell'agente dell'FBI Abby Corrigan è in pericolo dopo che viene attaccata da un anormale sconosciuto durante un'indagine; l'acceso dibattito di Magnus e Will sul modo migliore per aiutarla minaccia di alterare il loro rapporto.</desc>
-  </programme>
-  <programme start="20261104111024 +0200" stop="20261104115712 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Chimera</title>
-    <desc lang="it">C'è un nanite organico senziente che sta causando il caos nel sistema informatico del Santuario. Magnus e Tesla collegano le loro menti al sistema nel tentativo di isolare il nanite. Trovano invece Adam Worth</desc>
-  </programme>
-  <programme start="20261104115712 +0200" stop="20261104124612 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Frammenti di Rimni</title>
-    <desc lang="it">Dylan viene incastrato per omicidio e deve ripulire la propria reputazione mentre è alla ricerca dei pezzi di un vaso che si dice possa donare al possessore le "benedizioni del cosmo".</desc>
-  </programme>
-  <programme start="20261104124612 +0200" stop="20261104133512 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Pazzi da salvare</title>
-    <desc lang="it">L'equipaggio salva un gruppo di rifugiati ma scopre che sono stati sottoposti a degli esperimenti del governo e sono estremamente instabili.</desc>
-  </programme>
-  <programme start="20261104133512 +0200" stop="20261104142412 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Cui Bono</title>
-    <desc lang="it">Lo zio di Beka si candida per governare il Nuovo Commonwealth, ma l'equipaggio deve proteggerlo a seguito di un tentato omicidio.</desc>
-  </programme>
-  <programme start="20261104142412 +0200" stop="20261104151312 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il solitario e le sabbie del livello</title>
-    <desc lang="it">L'Andromeda viene attaccata dai pirati spaziali, ma una navicella spaziale andata perduta proveniente dalla Terra la salva.</desc>
   </programme>
   <programme start="20261104151312 +0200" stop="20261104160212 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Slipfighter i cani della guerra</title>
@@ -292,15 +244,67 @@
     <title lang="it">Sanctuary: Chimera</title>
     <desc lang="it">C'è un nanite organico senziente che sta causando il caos nel sistema informatico del Santuario. Magnus e Tesla collegano le loro menti al sistema nel tentativo di isolare il nanite. Trovano invece Adam Worth</desc>
   </programme>
-  <programme start="20261105070506 +0200" stop="20261105133000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261105070506 +0200" stop="20261105075154 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Contagio</title>
+    <desc lang="it">La vita dell'agente dell'FBI Abby Corrigan è in pericolo dopo che viene attaccata da un anormale sconosciuto durante un'indagine; l'acceso dibattito di Magnus e Will sul modo migliore per aiutarla minaccia di alterare il loro rapporto.</desc>
+  </programme>
+  <programme start="20261105075154 +0200" stop="20261105083842 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Chimera</title>
+    <desc lang="it">C'è un nanite organico senziente che sta causando il caos nel sistema informatico del Santuario. Magnus e Tesla collegano le loro menti al sistema nel tentativo di isolare il nanite. Trovano invece Adam Worth</desc>
+  </programme>
+  <programme start="20261105083842 +0200" stop="20261105092529 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Gli Accolti</title>
+    <desc lang="it">Un gruppo radicale di esseri anormali pianifica un attacco terroristico con l'obiettivo di iniziare una guerra tra gli abitanti della superficie e gli abitanti della Terra Cava. Addison, all'NSA, ha le prove che Biggie è a capo del gruppo.</desc>
+  </programme>
+  <programme start="20261105092529 +0200" stop="20261105101217 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Gli Abissi</title>
+    <desc lang="it">Quando Magnus e Will vengono a conoscenza di un piano per catturare degli Anormali molto rari e pericolosi, si recano in una grotta remota per impedire poi la caccia.</desc>
+  </programme>
+  <programme start="20261105101217 +0200" stop="20261105105905 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Prima Parte</title>
+    <desc lang="it">Quando il Santuario è avvicinato da un leader degli anormali per un piano radicale per la pace, Magnus si impegna a dare il suo supporto. Tuttavia, quando Will è costretto a lasciare il Santuario, la sua decisione potrebbe mettere tutti in pericolo.</desc>
+  </programme>
+  <programme start="20261105105905 +0200" stop="20261105114558 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Seconda Parte</title>
+    <desc lang="it">La SCIU ha circondato il Quinto Reparto con truppe e uno scudo elettrico che impedisce loro di uscire. Caleb ha un virus che può trasformare la popolazione umana in anormali. Magnus mette in atto il suo piano finale per la rete dei Santuari.</desc>
+  </programme>
+  <programme start="20261105114558 +0200" stop="20261105123458 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il bacio del Lebbroso</title>
+    <desc lang="it">I capi del Nuovo Commonwealth sono nel mirino di un sicario che si fa chiamare il Lebbroso.</desc>
+  </programme>
+  <programme start="20261105123458 +0200" stop="20261105132358 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Per chi suona la campana</title>
+    <desc lang="it">L'Andromeda è infestata da una misteriosa creatura salita a bordo durante una tempesta solare.</desc>
+  </programme>
+  <programme start="20261105132358 +0200" stop="20261105141258 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: E il tuo cuore volerà via</title>
+    <desc lang="it">Quando un suo vecchio amore ritorna, Tyr scompare dalla nave per proteggere la donna da un assassino.</desc>
+  </programme>
+  <programme start="20261105141258 +0200" stop="20261105150158 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: L'uomo invincibile</title>
+    <desc lang="it">Ambientato in un universo alternativo dove Dylan è morto e Gaheris Rhade sta cercando di riformare il Commonwealth.</desc>
+  </programme>
+  <programme start="20261105150158 +0200" stop="20261105155058 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Delenda Est</title>
+    <desc lang="it">Il gruppo che ha attaccato l'Andromeda durante la firma della prima costituzione del Commonwealth torna a creare scompiglio.</desc>
+  </programme>
+  <programme start="20261105155058 +0200" stop="20261105163958 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Di chi sono questi boschi</title>
+    <desc lang="it">La squadra si dirige nella natura selvaggia per rintracciare una bestia assassina che sta prendendo di mira gli escursionisti.</desc>
+  </programme>
+  <programme start="20261105163958 +0200" stop="20261105172858 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il futuro rivelato</title>
+    <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
+  </programme>
+  <programme start="20261105172858 +0200" stop="20261106000000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261105133000 +0200" stop="20261106013000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106013000 +0200" stop="20261106073000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
