@@ -12,41 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261104120000 +0200" stop="20261104153657 +0200" channel="pluto_film_tv">
+  <programme start="20261105020000 +0200" stop="20261105064542 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104153657 +0200" stop="20261104180257 +0200" channel="pluto_film_tv">
-    <title lang="it">L'eccezione alla regola</title>
-    <desc lang="it">Nella Hollywood del 1958, due aspiranti amanti lottano con la propria fede religiosa e le regole imposte dall'eccentrico capo Howard Hughes che ostacolano la loro relazione.</desc>
-  </programme>
-  <programme start="20261104180257 +0200" stop="20261104195257 +0200" channel="pluto_film_tv">
-    <title lang="it">Memorie di un uomo invisibile</title>
-    <desc lang="it">Quando un esperimento del governo va storto, rende invisibile uno spettatore innocente.</desc>
-  </programme>
-  <programme start="20261104195257 +0200" stop="20261104220057 +0200" channel="pluto_film_tv">
-    <title lang="it">Chiedi Alla Polvere</title>
-    <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
-  </programme>
-  <programme start="20261104220057 +0200" stop="20261104234557 +0200" channel="pluto_film_tv">
-    <title lang="it">Date And Switch</title>
-    <desc lang="it">Michael e Matty, studenti dell'ultimo anno delle superiori, sono amici del cuore dalle elementari. Sono ancora vergini, così decidono di fare un patto per aiutarsi a vicenda ad avere il loro primo rapporto prima del ballo di fine anno.</desc>
-  </programme>
-  <programme start="20261104234557 +0200" stop="20261105014857 +0200" channel="pluto_film_tv">
-    <title lang="it">Quattro Fratelli</title>
-    <desc lang="it">Quando la loro madre adottiva viene uccisa durante una rapina in una drogheria, quattro fratelli riscoprono il vincolo che li unisce e decidono di trovare insieme il colpevole ed attuare la loro vendetta.</desc>
-  </programme>
-  <programme start="20261105014857 +0200" stop="20261105033857 +0200" channel="pluto_film_tv">
-    <title lang="it">Nella mente dell'assassino</title>
-    <desc lang="it">Una serie di brutali omicidi mette in allarme l'intera città. Gli omicidi sembrano occasionali, ma il ritratto dell'assassino coincide con quello cupo ed inquietante di un serial killer ricercato da tempo.</desc>
-  </programme>
-  <programme start="20261105033857 +0200" stop="20261105050457 +0200" channel="pluto_film_tv">
-    <title lang="it">Hazmat</title>
-    <desc lang="it">Una società di produzione televisiva indipendente ha un programma chiamato Scare Antics, dove si dà alle persone l'opportunità di sorprendere gli amici con degli scherzi spaventosi.</desc>
-  </programme>
-  <programme start="20261105050457 +0200" stop="20261105064542 +0200" channel="pluto_film_tv">
-    <title lang="it">Breaking point</title>
-    <desc lang="it">In seguito allo scontro con un maniaco omicida il detective Meadows lascia la polizia. Però quando un altra donna viene ritrovata uccisa, viene convinto a continuare le indagini con una nuova collega.</desc>
   </programme>
   <programme start="20261105064542 +0200" stop="20261105083542 +0200" channel="pluto_film_tv">
     <title lang="it">Memorie di un uomo invisibile</title>
@@ -72,53 +40,49 @@
     <title lang="it">Queen of the desert</title>
     <desc lang="it">Gertrude Bell, personaggio realmente esistito è una donna inglese dalla vita ricca e avventurosa che, all'alba del XX secolo, fu viaggiatrice, scrittrice, archeologa, esploratrice, cartografa, agente segreto e diplomatica per conto dell'Impero Britannico.</desc>
   </programme>
-  <programme start="20261105183344 +0200" stop="20261106000000 +0200" channel="pluto_film_tv">
+  <programme start="20261105183344 +0200" stop="20261105201744 +0200" channel="pluto_film_tv">
+    <title lang="it">Un Orso Di Nome Winnie</title>
+    <desc lang="it">Le origini di Winnie the Pooh. La storia vera di Harry Colebourn, un soldato canadese che, ai tempi della Primo conflitto mondiale, comprò un cucciolo di orso rimasto orfano, lo addomesticò e gli diede il nome della sua città natale: Winnipeg.</desc>
+  </programme>
+  <programme start="20261105201744 +0200" stop="20261105220055 +0200" channel="pluto_film_tv">
+    <title lang="it">La storia infinita</title>
+    <desc lang="it">Un ragazzino di 10 anni, prende un libro intitolato La storia infinita in una vecchia libreria, e inizia a sfogliarlo. Legge la storia di Fantasia, una terra magica governata dall'Imperatrice Bambina e abitata da tutti i tipi di creature meravigliose.</desc>
+  </programme>
+  <programme start="20261105220055 +0200" stop="20261105234155 +0200" channel="pluto_film_tv">
+    <title lang="it">Fantastic Mr. Fox</title>
+    <desc lang="it">GEORGE CLOONEY e MERYL STREEP sono le voci protagoniste di questa esilarante ma al tempo stesso toccante avventura frutto della visione del grande regista WES ANDERSON.</desc>
+  </programme>
+  <programme start="20261105234155 +0200" stop="20261106014455 +0200" channel="pluto_film_tv">
+    <title lang="it">Quattro Fratelli</title>
+    <desc lang="it">Quando la loro madre adottiva viene uccisa durante una rapina in una drogheria, quattro fratelli riscoprono il vincolo che li unisce e decidono di trovare insieme il colpevole ed attuare la loro vendetta.</desc>
+  </programme>
+  <programme start="20261106014455 +0200" stop="20261106034755 +0200" channel="pluto_film_tv">
+    <title lang="it">Quattro Fratelli</title>
+    <desc lang="it">Quando la loro madre adottiva viene uccisa durante una rapina in una drogheria, quattro fratelli riscoprono il vincolo che li unisce e decidono di trovare insieme il colpevole ed attuare la loro vendetta.</desc>
+  </programme>
+  <programme start="20261106034755 +0200" stop="20261106051403 +0200" channel="pluto_film_tv">
+    <title lang="it">Ninja</title>
+    <desc lang="it">Casey è un americano che da tempo vive in Giappone dove si addestra nelle tecniche di combattimento dei ninja. Quando il suo sensei gli chiede di tornare a New York per una missione, arriva il momento di mettere in pratica il frutto del suo addestramento.</desc>
+  </programme>
+  <programme start="20261106051403 +0200" stop="20261106070803 +0200" channel="pluto_film_tv">
+    <title lang="it">Bent</title>
+    <desc lang="it">Nella Berlino degli anni '30, un ebreo gay viene mandato in un campo di concentramento sotto il regime nazista.</desc>
+  </programme>
+  <programme start="20261106070803 +0200" stop="20261106140000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_film_tv">
+  <programme start="20261106140000 +0200" stop="20261107020000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_film_tv">
+  <programme start="20261107020000 +0200" stop="20261107080000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104120000 +0200" stop="20261104150521 +0200" channel="pluto_film_azione">
+  <programme start="20261105020000 +0200" stop="20261105052032 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104150521 +0200" stop="20261104171121 +0200" channel="pluto_film_azione">
-    <title lang="it">The Knight Of Shadows</title>
-    <desc lang="it">Pu Songling è un leggendario cacciatore di demoni a cui viene chiesto di indagare sulle sparizioni di alcune ragazze del villaggio. Quando scopre che i crimini sono stati commessi da delle entità malvagie, Pu Songling combatte contro i demoni.</desc>
-  </programme>
-  <programme start="20261104171121 +0200" stop="20261104184506 +0200" channel="pluto_film_azione">
-    <title lang="it">Ice Storm - Tempesta di ghiaccio</title>
-    <desc lang="it">Quando una violenta tempesta invernale colpisce la Carolina del Nord, scienziati ed esperti lottano contro il tempo per salvare vite umane e fermare il disastro prima che tutta la costa orientale venga inghiottita dal ghiaccio.</desc>
-  </programme>
-  <programme start="20261104184506 +0200" stop="20261104204850 +0200" channel="pluto_film_azione">
-    <title lang="it">Lo Straniero della valle oscura</title>
-    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
-  </programme>
-  <programme start="20261104204850 +0200" stop="20261104223024 +0200" channel="pluto_film_azione">
-    <title lang="it">La gang degli svitati</title>
-    <desc lang="it">Due agenti di Hong Kong sono a Tokyo per catturare un ex poliziotto fuggito con dei diamanti. Quando uno di loro viene rapito da una gang, l'altro chiede aiuto alla sua vecchia e sgangherata banda di amici d'infanzia, i "Five Lucky Stars".</desc>
-  </programme>
-  <programme start="20261104223024 +0200" stop="20261105000124 +0200" channel="pluto_film_azione">
-    <title lang="it">Fast and Fierce</title>
-    <desc lang="it">Jack Tyson è un giovane che partecipa a una gara automobilistica illegale dal Messico alla California quando, una donna disperata in fuga dal fidanzato gangster violento che finanzia la gara, salta in macchina implorando il suo aiuto.</desc>
-  </programme>
-  <programme start="20261105000124 +0200" stop="20261105013147 +0200" channel="pluto_film_azione">
-    <title lang="it">Next Day Air</title>
-    <desc lang="it">Un incauto fattorino consegna inavvertitamente all'indirizzo sbagliato un pacco contenente panetti di cocaina occultati.</desc>
-  </programme>
-  <programme start="20261105013147 +0200" stop="20261105033147 +0200" channel="pluto_film_azione">
-    <title lang="it">Mission Nine Eleven</title>
-    <desc lang="it">Irene Montano, agente del servizio segreto francese, viene contattata da un suo amico ex agente della CIA. Elliot è infatti in possesso di alcune informazioni sul futuro degli Stati Uniti ma questa conoscenza sta mettendo a repentaglio la sua vita.</desc>
-  </programme>
-  <programme start="20261105033147 +0200" stop="20261105052032 +0200" channel="pluto_film_azione">
-    <title lang="it">Rampage - Attacco Al Presidente</title>
-    <desc lang="it">Terzo capitolo della trilogia action. Bill Williamson torna dopo tre anni e uccide il Presidente, il Vicepresidente e il Segretario della Difesa. Scatta la più grande caccia all'uomo della storia. I detective Molokai e Jones provano a fermarlo.</desc>
   </programme>
   <programme start="20261105052032 +0200" stop="20261105070332 +0200" channel="pluto_film_azione">
     <title lang="it">Giustizia violenta</title>
@@ -148,97 +112,57 @@
     <title lang="it">Mega Shark Vs Kolossus</title>
     <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
   </programme>
-  <programme start="20261105172351 +0200" stop="20261106000000 +0200" channel="pluto_film_azione">
+  <programme start="20261105172351 +0200" stop="20261105190356 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e il tesoro perduto di Ugarit</title>
+    <desc lang="it">L'archeologo Jack Hunter intraprende un avventuroso viaggio in Siria alla ricerca del tesoro che suo padre cercò di trovare, rimanendo però ucciso. In compagnia di Nadia, l'uomo si trova ad affrontare un temibile nemico alleato con la mafia russa.</desc>
+  </programme>
+  <programme start="20261105190356 +0200" stop="20261105204712 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e la tomba di Akhenaton</title>
+    <desc lang="it">Mentre è sulle tracce del tesoro di Ugarit, Jack Hunter si reca in Turchia, dove viene informato su un presunto complotto tra americani e mafiosi russi per impossessarsi della Stella del Cielo, un artefatto dagli straordinari poteri.</desc>
+  </programme>
+  <programme start="20261105204712 +0200" stop="20261105223033 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e la stella del paradiso</title>
+    <desc lang="it">L'avventuriero Jack Hunter insegue attraverso l'Europa Albert Littman, il suo nemico storico, cercando di contrastare i tentativi del rivale di impadronirsi di un pericoloso e misterioso oggetto.</desc>
+  </programme>
+  <programme start="20261105223033 +0200" stop="20261106001333 +0200" channel="pluto_film_azione">
+    <title lang="it">Giustizia violenta</title>
+    <desc lang="it">Un'incursione vandalica da parte di ignoti teppisti a scuola è la goccia che fa traboccare il vaso. A quel punto i ragazzi della zona decidono di costituire un gruppo di vigilantes che riesca a combattere droga, violenza e tutto il resto.</desc>
+  </programme>
+  <programme start="20261106001333 +0200" stop="20261106015837 +0200" channel="pluto_film_azione">
+    <title lang="it">Taffin</title>
+    <desc lang="it">Quando un imprenditore senza scrupoli manda i suoi scagnozzi per ridurre in silenzio gli oppositori alla costruzione di uno stabilimento chimico vicino alla loro comunità, la gente chiede aiuto a un tosto esattore per scongiurare la minaccia.</desc>
+  </programme>
+  <programme start="20261106015837 +0200" stop="20261106032940 +0200" channel="pluto_film_azione">
+    <title lang="it">Django Undisputed</title>
+    <desc lang="it">Assetato di giustizia, Django si addentra in un territorio spietato, dove violenza e illegalità regnano sovrane. Tra duelli sanguinosi e sfide letali, dovrà mettere in gioco tutto per riportare ordine e vendetta là dove ormai sembra dominare solo il caos.</desc>
+  </programme>
+  <programme start="20261106032940 +0200" stop="20261106050140 +0200" channel="pluto_film_azione">
+    <title lang="it">Best Men - Amici per la pelle</title>
+    <desc lang="it">Dopo tre anni di prigione, Jesse trova ad attenderlo all'uscita i suoi quattro amici pronti per accompagnarlo direttamente al matrimonio con la sua amata Hope. Ma lungo la strada uno dei quattro rapina una banca provocando l'intervento dell'FBI.</desc>
+  </programme>
+  <programme start="20261106050140 +0200" stop="20261106062840 +0200" channel="pluto_film_azione">
+    <title lang="it">Setup</title>
+    <desc lang="it">Un gruppo di amici mette a segno una rapina che si trasforma in qualcosa di mortale quando uno di loro tradisce gli altri e scappa via con il bottino. Sonny chiede aiuto a uno dei boss più pericolosi della città per recuperare ciò che gli spetta.</desc>
+  </programme>
+  <programme start="20261106062840 +0200" stop="20261106080146 +0200" channel="pluto_film_azione">
+    <title lang="it">The Prince - Tempo di uccidere</title>
+    <desc lang="it">Quando sua figlia viene rapita, un ex assassino è costretto a tornare alla vita a cui aveva rinunciato. Per salvarla dovrà affrontare il suo vecchio rivale.</desc>
+  </programme>
+  <programme start="20261106080146 +0200" stop="20261106140000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_film_azione">
+  <programme start="20261106140000 +0200" stop="20261107020000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_film_azione">
+  <programme start="20261107020000 +0200" stop="20261107080000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261104120000 +0200" stop="20261104151312 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261105020000 +0200" stop="20261105061818 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261104151312 +0200" stop="20261104160212 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Slipfighter i cani della guerra</title>
-    <desc lang="it">L'equipaggio scopre che il pianeta ribelle Marduk ha prodotto delle armi di distruzione di massa.</desc>
-  </programme>
-  <programme start="20261104160212 +0200" stop="20261104165112 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Il passato come prologo</title>
-    <desc lang="it">In un disperato tentativo di salvare la propria vita, Ashlocke fa rivivere un antico alchimista egiziano che rappresenta una minaccia letale per la squadra Mutant X.</desc>
-  </programme>
-  <programme start="20261104165112 +0200" stop="20261104174012 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Giochi di potere</title>
-    <desc lang="it">La squadra lotta per disarmare un colonnello militare che ha minacciato di scatenare un olocausto nucleare.</desc>
-  </programme>
-  <programme start="20261104174012 +0200" stop="20261104182912 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Mutant X: Tempo quadrato</title>
-    <desc lang="it">Ashlocke torna indietro nel tempo per cercare di rendersi invincibile dando qualcosa al suo io più giovane, spingendo Brennan e Shalimar a seguirlo.</desc>
-  </programme>
-  <programme start="20261104182912 +0200" stop="20261104191600 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Contagio</title>
-    <desc lang="it">La vita dell'agente dell'FBI Abby Corrigan è in pericolo dopo che viene attaccata da un anormale sconosciuto durante un'indagine; l'acceso dibattito di Magnus e Will sul modo migliore per aiutarla minaccia di alterare il loro rapporto.</desc>
-  </programme>
-  <programme start="20261104191600 +0200" stop="20261104200248 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Chimera</title>
-    <desc lang="it">C'è un nanite organico senziente che sta causando il caos nel sistema informatico del Santuario. Magnus e Tesla collegano le loro menti al sistema nel tentativo di isolare il nanite. Trovano invece Adam Worth</desc>
-  </programme>
-  <programme start="20261104200248 +0200" stop="20261104204935 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Gli Accolti</title>
-    <desc lang="it">Un gruppo radicale di esseri anormali pianifica un attacco terroristico con l'obiettivo di iniziare una guerra tra gli abitanti della superficie e gli abitanti della Terra Cava. Addison, all'NSA, ha le prove che Biggie è a capo del gruppo.</desc>
-  </programme>
-  <programme start="20261104204935 +0200" stop="20261104213623 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Gli Abissi</title>
-    <desc lang="it">Quando Magnus e Will vengono a conoscenza di un piano per catturare degli Anormali molto rari e pericolosi, si recano in una grotta remota per impedire poi la caccia.</desc>
-  </programme>
-  <programme start="20261104213623 +0200" stop="20261104222311 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Prima Parte</title>
-    <desc lang="it">Quando il Santuario è avvicinato da un leader degli anormali per un piano radicale per la pace, Magnus si impegna a dare il suo supporto. Tuttavia, quando Will è costretto a lasciare il Santuario, la sua decisione potrebbe mettere tutti in pericolo.</desc>
-  </programme>
-  <programme start="20261104222311 +0200" stop="20261104231004 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Un Rifugio Per Nessuno Seconda Parte</title>
-    <desc lang="it">La SCIU ha circondato il Quinto Reparto con truppe e uno scudo elettrico che impedisce loro di uscire. Caleb ha un virus che può trasformare la popolazione umana in anormali. Magnus mette in atto il suo piano finale per la rete dei Santuari.</desc>
-  </programme>
-  <programme start="20261104231004 +0200" stop="20261104235703 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: La via verso la cura</title>
-    <desc lang="it">Mitch e Jamie affrontano un attacco di animali all'ambasciata russa a Washington D.C., e Jackson ottiene finalmente le risposte che stava cercando da una fonte sorprendente.</desc>
-  </programme>
-  <programme start="20261104235703 +0200" stop="20261105004421 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Pangaea</title>
-    <desc lang="it">Mitch e Jamie escogitano un piano per indebolire l'Obiettivo Noè una volta per tutte. La squadra si riunisce sull'Isola di Pangea dove vengono messi a punto gli ultimi pezzi della cura.</desc>
-  </programme>
-  <programme start="20261105004421 +0200" stop="20261105013101 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Clementine</title>
-    <desc lang="it">La squadra corre contro il tempo per trovare Clementine e vaccinarla prima che il gas TX raggiunga la popolazione.</desc>
-  </programme>
-  <programme start="20261105013101 +0200" stop="20261105021905 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Il nuovo ibrido</title>
-    <desc lang="it">Dieci anni dopo che gli animali sono stati curati, ma a costo di sterilizzare la popolazione umana, una nuova minaccia sorge sotto forma di “ibridi”.</desc>
-  </programme>
-  <programme start="20261105021905 +0200" stop="20261105030812 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Diaspora blu</title>
-    <desc lang="it">Jackson e Logan scoprono un collegamento tra gli attacchi ibridi avvenuti a Portland e New York. Mitch viene interrogato da una donna che afferma di essere sua figlia, mentre un nuovo sviluppo nella ricerca di Abraham mette in pericolo la sua famiglia.</desc>
-  </programme>
-  <programme start="20261105030812 +0200" stop="20261105035721 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Momenti perduti</title>
-    <desc lang="it">Abraham e Dariela valutano l'idea di stringere un accordo con la Reiden Global per motivi personali, mentre Jamie e Clementine eseguono un rischioso intervento chirurgico su Mitch.</desc>
-  </programme>
-  <programme start="20261105035721 +0200" stop="20261105044420 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: La via verso la cura</title>
-    <desc lang="it">Mitch e Jamie affrontano un attacco di animali all'ambasciata russa a Washington D.C., e Jackson ottiene finalmente le risposte che stava cercando da una fonte sorprendente.</desc>
-  </programme>
-  <programme start="20261105044420 +0200" stop="20261105053138 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Pangaea</title>
-    <desc lang="it">Mitch e Jamie escogitano un piano per indebolire l'Obiettivo Noè una volta per tutte. La squadra si riunisce sull'Isola di Pangea dove vengono messi a punto gli ultimi pezzi della cura.</desc>
-  </programme>
-  <programme start="20261105053138 +0200" stop="20261105061818 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Clementine</title>
-    <desc lang="it">La squadra corre contro il tempo per trovare Clementine e vaccinarla prima che il gas TX raggiunga la popolazione.</desc>
   </programme>
   <programme start="20261105061818 +0200" stop="20261105070506 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Chimera</title>
@@ -296,15 +220,107 @@
     <title lang="it">Mutant X: Il futuro rivelato</title>
     <desc lang="it">Ashlocke è alla disperata ricerca di una cura per la sua condizione mortale e si infiltra nel Santuario per ricattare Adam affinché si impossessi dell'antidoto.</desc>
   </programme>
-  <programme start="20261105172858 +0200" stop="20261106000000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261105172858 +0200" stop="20261105181758 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Nessun uomo lasciato indietro</title>
+    <desc lang="it">Un aereo militare viene abbattuto dietro le linee nemiche, spingendo la squadra a fare un tentativo disperato di recuperare l'arma segreta del governo nascosta a bordo.</desc>
+  </programme>
+  <programme start="20261105181758 +0200" stop="20261105185021 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">A 24 ore dall'arrivo su Marte, l'equipaggio della missione europea Ulysse scopre che una missione americana concorrente è già sul posto. Ma non dà più segni di vita, tranne un inquietante messaggio video.</desc>
+  </programme>
+  <programme start="20261105185021 +0200" stop="20261105191507 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Dopo il guasto del computer di bordo, Yann dubita di poter riparare la nave. Gramat, diventato comandante, parte con Jeanne ed Eva per cercare pezzi di ricambio nel sito della missione Zillion, dove scoprono un sopravvissuto.</desc>
+  </programme>
+  <programme start="20261105191507 +0200" stop="20261105193817 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">I membri di Ulysse sono scioccati dall'identità del sopravvissuto, che scompare misteriosamente nella notte. Nonostante l'opposizione di parte dell'equipaggio, Gramat decide di mettersi sulle sue tracce.</desc>
+  </programme>
+  <programme start="20261105193817 +0200" stop="20261105200456 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">L'arrivo di una seconda missione americana su Marte ridà speranza all'equipaggio di Ulysse. Tuttavia, la visita di due militari di Zillion 2 smorza il loro entusiasmo. Yann vuole rivelare la presenza di Komarov, ma Jeanne si oppone.</desc>
+  </programme>
+  <programme start="20261105200456 +0200" stop="20261105203557 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne, turbata dal suo tentativo di ipnosi su Komarov, inizia a recuperare ricordi. Gemma Williams di Zillion 2 arriva per rassicurare l'equipaggio di Ulysse, mentre Gramat e Yann scoprono che Meyer nascondeva informazioni su Marte.</desc>
+  </programme>
+  <programme start="20261105203557 +0200" stop="20261105210109 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne parte per l'altopiano di Thaumasia, e Gramat, accompagnato da Gemma, va a cercarla. I militari di Zillion vogliono catturare Komarov, ma Alessandra si oppone. Yann si ritrova solo contro tutti a bordo della nave.</desc>
+  </programme>
+  <programme start="20261105210109 +0200" stop="20261105212849 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Intrappolata in una fenditura marziana, Jeanne è invasa dai ricordi di suo padre. Nel frattempo, nella Mosca degli anni '60, Vladimir Komarov scopre che la missione Soyuz è troppo rischiosa per un cosmonauta.</desc>
+  </programme>
+  <programme start="20261105212849 +0200" stop="20261105215257 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne, Simon e Gemma esplorano la montagna scolpita e scoprono sotterranei e tracce di una vita passata. Nel frattempo, l'equipaggio è minacciato da Doisneau e Wayne. All'improvviso, Irène si risveglia.</desc>
+  </programme>
+  <programme start="20261105215257 +0200" stop="20261105221626 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Jeanne e Simon scoprono Komarov sul misterioso ghiacciaio. Il russo rivela loro qual è la sua missione. Sulla nave, Wayne è ormai solo contro l'equipaggio di Ulysse. Alessandra cerca di convincerlo a risparmiare le loro vite.</desc>
+  </programme>
+  <programme start="20261105221626 +0200" stop="20261105223925 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Simon decide di tentare il tutto per tutto e raggiungere Zillion 2 prima che la tempesta li colpisca. Ma Gemma si rifiuta di portarli con sé. Meyer cerca di convincerla con l'aiuto inaspettato di Jeanne...</desc>
+  </programme>
+  <programme start="20261105223925 +0200" stop="20261105230532 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">In una strana comunità isolata dal mondo, un bambino affronta un inquietante rito di passaggio.</desc>
+  </programme>
+  <programme start="20261105230532 +0200" stop="20261105235336 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Il nuovo ibrido</title>
+    <desc lang="it">Dieci anni dopo che gli animali sono stati curati, ma a costo di sterilizzare la popolazione umana, una nuova minaccia sorge sotto forma di “ibridi”.</desc>
+  </programme>
+  <programme start="20261105235336 +0200" stop="20261106004243 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Diaspora blu</title>
+    <desc lang="it">Jackson e Logan scoprono un collegamento tra gli attacchi ibridi avvenuti a Portland e New York. Mitch viene interrogato da una donna che afferma di essere sua figlia, mentre un nuovo sviluppo nella ricerca di Abraham mette in pericolo la sua famiglia.</desc>
+  </programme>
+  <programme start="20261106004243 +0200" stop="20261106013152 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Momenti perduti</title>
+    <desc lang="it">Abraham e Dariela valutano l'idea di stringere un accordo con la Reiden Global per motivi personali, mentre Jamie e Clementine eseguono un rischioso intervento chirurgico su Mitch.</desc>
+  </programme>
+  <programme start="20261106013152 +0200" stop="20261106022038 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Il faro</title>
+    <desc lang="it">Abraham e Dariela si riuniscono alla squadra mentre cercano di impedire agli ibridi di conquistare New York City.</desc>
+  </programme>
+  <programme start="20261106022038 +0200" stop="20261106030942 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: I Gentiluomini</title>
+    <desc lang="it">Mentre Jamie è in arresto, riesce a manipolare Mitch e Logan affinché l'aiutino a dare la caccia ai pastori, membri di un gruppo segreto responsabile della sterilizzazione degli umani.</desc>
+  </programme>
+  <programme start="20261106030942 +0200" stop="20261106035847 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Oz è Oz</title>
+    <desc lang="it">Mitch cerca di salvare Clementine dai suoi rapitori, e uno sguardo al passato della sorella di Jackson, Abigail, rivela le origini degli ibridi.</desc>
+  </programme>
+  <programme start="20261106035847 +0200" stop="20261106044651 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Il nuovo ibrido</title>
+    <desc lang="it">Dieci anni dopo che gli animali sono stati curati, ma a costo di sterilizzare la popolazione umana, una nuova minaccia sorge sotto forma di “ibridi”.</desc>
+  </programme>
+  <programme start="20261106044651 +0200" stop="20261106053558 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Diaspora blu</title>
+    <desc lang="it">Jackson e Logan scoprono un collegamento tra gli attacchi ibridi avvenuti a Portland e New York. Mitch viene interrogato da una donna che afferma di essere sua figlia, mentre un nuovo sviluppo nella ricerca di Abraham mette in pericolo la sua famiglia.</desc>
+  </programme>
+  <programme start="20261106053558 +0200" stop="20261106062507 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Momenti perduti</title>
+    <desc lang="it">Abraham e Dariela valutano l'idea di stringere un accordo con la Reiden Global per motivi personali, mentre Jamie e Clementine eseguono un rischioso intervento chirurgico su Mitch.</desc>
+  </programme>
+  <programme start="20261106062507 +0200" stop="20261106065730 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">A 24 ore dall'arrivo su Marte, l'equipaggio della missione europea Ulysse scopre che una missione americana concorrente è già sul posto. Ma non dà più segni di vita, tranne un inquietante messaggio video.</desc>
+  </programme>
+  <programme start="20261106065730 +0200" stop="20261106072216 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Missions</title>
+    <desc lang="it">Dopo il guasto del computer di bordo, Yann dubita di poter riparare la nave. Gramat, diventato comandante, parte con Jeanne ed Eva per cercare pezzi di ricambio nel sito della missione Zillion, dove scoprono un sopravvissuto.</desc>
+  </programme>
+  <programme start="20261106072216 +0200" stop="20261106140000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106000000 +0200" stop="20261106120000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261106140000 +0200" stop="20261107020000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261106120000 +0200" stop="20261106180000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261107020000 +0200" stop="20261107080000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
