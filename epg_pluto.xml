@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261107013000 +0200" stop="20261107045032 +0200" channel="pluto_film_tv">
+  <programme start="20261107103000 +0200" stop="20261107144305 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107045032 +0200" stop="20261107065832 +0200" channel="pluto_film_tv">
-    <title lang="it">Chiedi Alla Polvere</title>
-    <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
-  </programme>
-  <programme start="20261107065832 +0200" stop="20261107084405 +0200" channel="pluto_film_tv">
-    <title lang="it">End of Sentence</title>
-    <desc lang="it">Frank e Sean: un viaggio tra padre e figlio per spargere le ceneri della moglie-mamma appena scomparsa e per ritrovare se stessi e il loro legame.</desc>
-  </programme>
-  <programme start="20261107084405 +0200" stop="20261107102905 +0200" channel="pluto_film_tv">
-    <title lang="it">Top Secret!</title>
-    <desc lang="it">In Top Secret! La rockstar americana Nick Rivers affronta il temibile Alto Comando della Germania Est. È una corsa contro il tempo perché Hillary Flammond possa trovare il padre.</desc>
-  </programme>
-  <programme start="20261107102905 +0200" stop="20261107121705 +0200" channel="pluto_film_tv">
-    <title lang="it">A prova di idiota</title>
-    <desc lang="it">Sam, Rob e Kevin (Ryan Reynolds) sono i fondatori di una banda che progetta rapine “a prova di idiota” senza commetterle davvero, fino a quando un gangster di nome Leo ricatta il trio per mettere a segno un vero colpo da un milione di dollari.</desc>
-  </programme>
-  <programme start="20261107121705 +0200" stop="20261107144305 +0200" channel="pluto_film_tv">
-    <title lang="it">Rob-B-Hood - Tre Rapinatori e un Bebè</title>
-    <desc lang="it">Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo.</desc>
   </programme>
   <programme start="20261107144305 +0200" stop="20261107164205 +0200" channel="pluto_film_tv">
     <title lang="it">Draft Day</title>
@@ -72,41 +52,41 @@
     <title lang="it">Rigenerazione: Rigenerazione</title>
     <desc lang="it">Tratto dall’omonimo romanzo di Pat Barker, “Rigenerazione” narra la storia di alcuni soldati reduci della Prima Guerra Mondiale ricoverati presso un istituto psichiatrico per disturbi emotivi.</desc>
   </programme>
-  <programme start="20261108070707 +0200" stop="20261108133000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20261108070707 +0200" stop="20261108084809 +0200" channel="pluto_film_tv">
+    <title lang="it">The Runner - Il Prezzo del Potere</title>
+    <desc lang="it">Un politico corrotto finisce nei guai a causa di uno scandalo a sfondo sessuale. In seguito alla fuoriuscita di petrolio della piattaforma petrolifera Deepwater, cercherà riscatto e di trovare un modo per ridare vigore alla sua vita personale e politica.</desc>
   </programme>
-  <programme start="20261108133000 +0200" stop="20261109013000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
+  <programme start="20261108084809 +0200" stop="20261108105141 +0200" channel="pluto_film_tv">
+    <title lang="it">The Statement - La Sentenza</title>
+    <desc lang="it">Pierre Brossard è in fuga dalla polizia francese, da una squadra di killer e da un passato di crimini di guerra. Era un torturatore nazista e solo ora c’è la possibilità di incastrarlo.</desc>
   </programme>
-  <programme start="20261109013000 +0200" stop="20261109073000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107013000 +0200" stop="20261107043024 +0200" channel="pluto_film_azione">
-    <title lang="it">Pluto TV Film Azione</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107043024 +0200" stop="20261107061831 +0200" channel="pluto_film_azione">
-    <title lang="it">The Runners</title>
-    <desc lang="it">Dopo la morte dei genitori, Ryan cresce da solo la sorella adolescente, ribelle e difficile da gestire. Quando una sera lei scompare da una festa, Ryan scopre che è stata rapita da una rete criminale. Inizia così una corsa contro il tempo per salvarla.</desc>
-  </programme>
-  <programme start="20261107061831 +0200" stop="20261107075410 +0200" channel="pluto_film_azione">
-    <title lang="it">Shrapnel - Guerra al cartello</title>
-    <desc lang="it">Un ex marine (Jason Patric) e il suo vecchio compagno di guerra (Cam Gigandet) si infiltrano nel pericoloso mondo di un cartello messicano per scoprire la verità sulla scomparsa della figlia. Riusciranno a sopravvivere e a fare giustizia?</desc>
-  </programme>
-  <programme start="20261107075410 +0200" stop="20261107093410 +0200" channel="pluto_film_azione">
-    <title lang="it">Avengers Grimm</title>
-    <desc lang="it">Quando Tremotino, malvagio del regno delle fiabe, distrugge lo Specchio magico ed entra nel mondo degli esseri umani, le principesse Cenerentola, Bella Addormentata, Biancaneve e Raperonzolo lo inseguono per batterlo e salvare l'umanità dalla schiavitù.</desc>
-  </programme>
-  <programme start="20261107093410 +0200" stop="20261107111611 +0200" channel="pluto_film_azione">
-    <title lang="it">Elektra</title>
-    <desc lang="it">Elektra, l'eroina più sexy dei fumetti, sa uccidere anche solo con uno sguardo. Ma una missione la costringe a prendere una decisione fatale nella battaglia tra il bene e il male!</desc>
-  </programme>
-  <programme start="20261107111611 +0200" stop="20261107130255 +0200" channel="pluto_film_azione">
+  <programme start="20261108105141 +0200" stop="20261108123825 +0200" channel="pluto_film_tv">
     <title lang="it">Dead Heat</title>
     <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
+  </programme>
+  <programme start="20261108123825 +0200" stop="20261108142925 +0200" channel="pluto_film_tv">
+    <title lang="it">Mean Girls 2</title>
+    <desc lang="it">Le Barbie sono tornate nel sequel del grande successo Mean Girls... e adesso la combriccola è ancora più alla moda, divertente e feroce che mai!</desc>
+  </programme>
+  <programme start="20261108142925 +0200" stop="20261108161525 +0200" channel="pluto_film_tv">
+    <title lang="it">Harold e Maude</title>
+    <desc lang="it">Un classico film di culto che mette in scena una delle coppie più improbabili della storia del cinema. Smentirà qualunque cosa abbiate visto o sentito a proposito degli amanti cinematografici.</desc>
+  </programme>
+  <programme start="20261108161525 +0200" stop="20261108223000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261108223000 +0200" stop="20261109103000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261109103000 +0200" stop="20261109163000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261107103000 +0200" stop="20261107130255 +0200" channel="pluto_film_azione">
+    <title lang="it">Pluto TV Film Azione</title>
+    <desc lang="it">no info available</desc>
   </programme>
   <programme start="20261107130255 +0200" stop="20261107151055 +0200" channel="pluto_film_azione">
     <title lang="it">Biker Boyz</title>
@@ -148,89 +128,45 @@
     <title lang="it">Elektra</title>
     <desc lang="it">Elektra, l'eroina più sexy dei fumetti, sa uccidere anche solo con uno sguardo. Ma una missione la costringe a prendere una decisione fatale nella battaglia tra il bene e il male!</desc>
   </programme>
-  <programme start="20261108070903 +0200" stop="20261108133000 +0200" channel="pluto_film_azione">
+  <programme start="20261108070903 +0200" stop="20261108085654 +0200" channel="pluto_film_azione">
+    <title lang="it">Dance to death - Sfida l'arena</title>
+    <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
+  </programme>
+  <programme start="20261108085654 +0200" stop="20261108110454 +0200" channel="pluto_film_azione">
+    <title lang="it">Biker Boyz</title>
+    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
+  </programme>
+  <programme start="20261108110454 +0200" stop="20261108124633 +0200" channel="pluto_film_azione">
+    <title lang="it">Fatal Instinct</title>
+    <desc lang="it">Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
+  </programme>
+  <programme start="20261108124633 +0200" stop="20261108142316 +0200" channel="pluto_film_azione">
+    <title lang="it">Ladre per Caso</title>
+    <desc lang="it">L’introversa Carole e la ribelle Caroline hanno in comune una sola cosa: il padre Patrick, un ladro internazionale ricercato in tutto il mondo. Intenzionato a rubare uno «stradivari» da 15 milioni di euro, chiederà alle figlie di assisterlo nell’impresa.</desc>
+  </programme>
+  <programme start="20261108142316 +0200" stop="20261108155416 +0200" channel="pluto_film_azione">
+    <title lang="it">Rampage</title>
+    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
+  </programme>
+  <programme start="20261108155416 +0200" stop="20261108173622 +0200" channel="pluto_film_azione">
+    <title lang="it">Borning</title>
+    <desc lang="it">Un appassionato di auto sta preparando la sua Mustang gialla per competere in una gara illegale attraverso il paese. Tuttavia, sua figlia adolescente arriva inaspettatamente per trascorrere le vacanze con lui.</desc>
+  </programme>
+  <programme start="20261108173622 +0200" stop="20261108223000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261108133000 +0200" stop="20261109013000 +0200" channel="pluto_film_azione">
+  <programme start="20261108223000 +0200" stop="20261109103000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109013000 +0200" stop="20261109073000 +0200" channel="pluto_film_azione">
+  <programme start="20261109103000 +0200" stop="20261109163000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261107013000 +0200" stop="20261107052431 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261107103000 +0200" stop="20261107143442 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107052431 +0200" stop="20261107061336 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Oz è Oz</title>
-    <desc lang="it">Mitch cerca di salvare Clementine dai suoi rapitori, e uno sguardo al passato della sorella di Jackson, Abigail, rivela le origini degli ibridi.</desc>
-  </programme>
-  <programme start="20261107061336 +0200" stop="20261107063705 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Jeanne e Simon scoprono Komarov sul misterioso ghiacciaio. Il russo rivela loro qual è la sua missione. Sulla nave, Wayne è ormai solo contro l'equipaggio di Ulysse. Alessandra cerca di convincerlo a risparmiare le loro vite.</desc>
-  </programme>
-  <programme start="20261107063705 +0200" stop="20261107070004 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Simon decide di tentare il tutto per tutto e raggiungere Zillion 2 prima che la tempesta li colpisca. Ma Gemma si rifiuta di portarli con sé. Meyer cerca di convincerla con l'aiuto inaspettato di Jeanne...</desc>
-  </programme>
-  <programme start="20261107070004 +0200" stop="20261107072611 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">In una strana comunità isolata dal mondo, un bambino affronta un inquietante rito di passaggio.</desc>
-  </programme>
-  <programme start="20261107072611 +0200" stop="20261107075243 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Nel centro spaziale di Meyer Space, durante i preparativi per il ritorno su Marte, due nuovi membri dell'equipaggio si conoscono.</desc>
-  </programme>
-  <programme start="20261107075243 +0200" stop="20261107081854 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Mentre la nave si avvicina a Marte, Alessandra è tormentata dalle sue visioni. Nella sua comunità, Jeanne affronta le conseguenze della morte di Atar.</desc>
-  </programme>
-  <programme start="20261107081854 +0200" stop="20261107084537 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Jeanne si confronta con un uomo misterioso che sembra conoscerla molto bene. Nel frattempo, l'equipaggio della Nausicäa si prepara ad atterrare su Marte.</desc>
-  </programme>
-  <programme start="20261107084537 +0200" stop="20261107091003 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Simon e Alessandra guidano l'equipaggio sulle tracce di Jeanne nel misterioso tempio marziano. Scopriranno la verità su uno di loro.</desc>
-  </programme>
-  <programme start="20261107091003 +0200" stop="20261107093549 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Komarov rivela a Jeanne che Ivan Goldstein non le ha mentito. Arrivati dall'altra parte del portale, i membri dell'equipaggio non sanno come reagire alle rivelazioni su Alice.</desc>
-  </programme>
-  <programme start="20261107093549 +0200" stop="20261107100215 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">I membri dell'equipaggio scoprono tracce di vita nella strana foresta. William Meyer decide quindi di rimandare Sam alla nave.</desc>
-  </programme>
-  <programme start="20261107100215 +0200" stop="20261107102756 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Meyer, disperato, capisce di aver commesso un errore portando con sé sua figlia. Alan annuncia a Sam che deve andare a cercare Alessandra.</desc>
-  </programme>
-  <programme start="20261107102756 +0200" stop="20261107105342 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">Sam e Alan si interrogano sull'origine del portale. Jeanne, nel frattempo, è decisa a tornare sulla Terra, ma prima deve trovare qualcuno.</desc>
-  </programme>
-  <programme start="20261107105342 +0200" stop="20261107111842 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Missions</title>
-    <desc lang="it">I membri dell'equipaggio sono caduti nella trappola tesa dalla loro nemica. Dovranno affrontarla mentre tutto sembra perduto.</desc>
-  </programme>
-  <programme start="20261107111842 +0200" stop="20261107120742 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Volta dei cieli</title>
-    <desc lang="it">Dylan sente delle voci che lo chiamano a un pianeta di "fuoco e ghiaccio".</desc>
-  </programme>
-  <programme start="20261107120742 +0200" stop="20261107125642 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La voce profonda di mezzanotte</title>
-    <desc lang="it">Mentre è alla prese con due branchi di Nietzscheani, l'equipaggio cattura un nemico il quale sostiene che una mappa dello slipstream sia nelle mani del suo branco.</desc>
-  </programme>
-  <programme start="20261107125642 +0200" stop="20261107134542 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'illusione di Maestà</title>
-    <desc lang="it">Un errore durante l'uscita dallo slipstream catapulta l'Andromeda nel sistema Prolon. L’equipaggio salva una navicella d’emergenza dalla fine certa, ma il branco la rivuole indietro.</desc>
-  </programme>
-  <programme start="20261107134542 +0200" stop="20261107143442 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Crepuscolo degli idoli</title>
-    <desc lang="it">Mentre l'equipaggio è alla ricerca di una colonia perduta di Nietzscheani, scopre che un altro equipaggio li ha aiutati in segreto.</desc>
   </programme>
   <programme start="20261107143442 +0200" stop="20261107152342 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: Giorno del giudizio, giorno dell'ira</title>
@@ -312,15 +248,55 @@
     <title lang="it">Humans: Primo episodio</title>
     <desc lang="it">Quando i Synths sono catturati da Hobb gli unici che possono salvarli sono gli Hawkin che, aiutati da Pete Drummond, minacciano di rivelare tutto alla stampa se i Synths non saranno rilasciati.</desc>
   </programme>
-  <programme start="20261108073401 +0200" stop="20261108133000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261108073401 +0200" stop="20261108082701 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Secondo episodio</title>
+    <desc lang="it">Laura diventa sempre più sospettosa, sentendosi minacciata dalla presenza di Anita. Hobb tiene Fred prigioniero nella sua struttura ed il segreto di Leo è rivelato.</desc>
+  </programme>
+  <programme start="20261108082701 +0200" stop="20261108092001 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Terzo episodio</title>
+    <desc lang="it">Anita salva la vita di Toby; George cerca di liberarsi e Pete è arrabbiato per l’insabbiamento dell’omicidio avvenuto nel bordello. Niska si incontra con Leo e Max.</desc>
+  </programme>
+  <programme start="20261108092001 +0200" stop="20261108101301 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Quarto episodio</title>
+    <desc lang="it">Laura incontra un cliente che pensa che i Synth possono provare emozioni.</desc>
+  </programme>
+  <programme start="20261108101301 +0200" stop="20261108110601 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Quinto episodio</title>
+    <desc lang="it">Leo manda Niska, inseguita da Karen, a casa di George. Tra i due inizia una strana amicizia; il segreto di Joe minaccia di distruggere la famiglia Hawkin quando Mattie scopre la verità.</desc>
+  </programme>
+  <programme start="20261108110601 +0200" stop="20261108115501 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: L’ombra di un saluto finale</title>
+    <desc lang="it">Tyr convince i Nietzscheani di essere la reincarnazione di Drago Museveni.</desc>
+  </programme>
+  <programme start="20261108115501 +0200" stop="20261108124401 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Risposte a delle domande mai fatte</title>
+    <desc lang="it">Dopo aver ricevuto un messaggio da un Collector, Dylan parte in missione per salvare un ostaggio e ritrovare i resti della flotta del Commonwealth.</desc>
+  </programme>
+  <programme start="20261108124401 +0200" stop="20261108133301 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Frammenti di Otto</title>
+    <desc lang="it">Il cittadino Otto cerca di rimuovere Dylan dal comando dell'Andromeda.</desc>
+  </programme>
+  <programme start="20261108133301 +0200" stop="20261108142201 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Attivare il dispositivo di Tyrant</title>
+    <desc lang="it">L'equipaggio deve fermare un armatore mondiale prima  che lanci un'altra invasione.</desc>
+  </programme>
+  <programme start="20261108142201 +0200" stop="20261108151101 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Doppio o nulla</title>
+    <desc lang="it">Dylan viene rapito dai Nietscheani e costretto a dei giochi psicologici per divertire i suoi carcerieri.</desc>
+  </programme>
+  <programme start="20261108151101 +0200" stop="20261108160001 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Tra queste mura</title>
+    <desc lang="it">Brennan è arrabbiato con Adam, il quale gli dice che gli è stato affidato il compito di mantenere un segreto e se ne va dopo aver parlato con quella persona. L'uomo sta cercando qualcuno ed è disposto ad uccidere chiunque per arrivare a quella persona.</desc>
+  </programme>
+  <programme start="20261108160001 +0200" stop="20261108223000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261108133000 +0200" stop="20261109013000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261108223000 +0200" stop="20261109103000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109013000 +0200" stop="20261109073000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261109103000 +0200" stop="20261109163000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>

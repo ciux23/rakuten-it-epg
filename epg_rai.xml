@@ -67,6 +67,7 @@
   </programme>
   <programme start="20261107070500 +0200" stop="20261107075500 +0200" channel="Rai1.it">
     <title lang="it">Rai Parlamento Settegiorni</title>
+    <desc lang="it">RUBRICA - Settimanale di approfondimento politico-parlamentare. Inchieste, servizi, interviste sui temi più importanti in discussione al Senato e alla Camera. Direttrice Francesca De Martino.. - A cura di Rai Parlamento</desc>
   </programme>
   <programme start="20261107075500 +0200" stop="20261107080000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
@@ -123,7 +124,7 @@
     <title lang="it">Passaggio a Nord-Ovest - Puntata del 07/11/2026</title>
     <desc lang="it">In questa puntata: scopriamo la Repubblica di Corea, o Corea del Sud, che negli ultimi anni è diventata una delle grandi potenze economiche del mondo;- Apriamo le porte del Petit Trianon, castello fatto realizzare dal re Luigi XVI per la moglie, la regina Maria Antonietta. Ripercorriamo la storia di Champollion, decifratore dei geroglifici e fondatore dell'egittologia, e in particolare scopriamo la tomba del dignitario Pediamenopet. Andiamo a Palazzo Te di Mantova per ammirare l'esposizione "Inventare la natura. Leonardo, Arcimboldo, Caravaggio.". Un programma di Alberto Angela. Con la collaborazione di Vito Lamberti ed Emilio Quinto.</desc>
   </programme>
-  <programme start="20261107161000 +0200" stop="20261107164700 +0200" channel="Rai1.it">
+  <programme start="20261107161000 +0200" stop="20261107165300 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 07/11/2026</title>
     <desc lang="it">Lorena Bianchetti incontra Mirna Mastronardi, che ripercorre le prove più difficili della sua vita: dalla diagnosi di tumore al seno durante la gravidanza alla nascita dell'associazione "Agata", impegnata nel sostegno ai malati oncologici e alle loro famiglie. Dopo la tragica perdita della figlia quindicenne Dea, Mirna trasforma ancora una volta il dolore in impegno concreto, fondando "Dea per sempre", un progetto dedicato alla tutela dei giovani più fragili. Una testimonianza di coraggio, solidarietà e speranza. A seguire, ne "Le Ragioni della Speranza", don Antonio Loffredo accompagna il pubblico alla scoperta di Napoli, tra arte, fede e progetti di rinascita sociale.</desc>
   </programme>
@@ -131,7 +132,7 @@
     <title lang="it">In Punta di Matita - Puntata del 07/11/2026</title>
     <desc lang="it">Il prof. Rodolfo Papa conduce "In Punta di Matita", un autentico "matita express" che con la sanguigna disegna dal vivo Milano, Firenze e Napoli, intrecciando capolavori noti, il Cenacolo vinciano, il Battistero fiorentino, il Pio Monte caravaggesco, a tesori meno noti come Santa Maria presso San Satiro o il Beato Angelico a San Marco.</desc>
   </programme>
-  <programme start="20261107165200 +0200" stop="20261107165500 +0200" channel="Rai1.it">
+  <programme start="20261107165300 +0200" stop="20261107165500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
   <programme start="20261107165500 +0200" stop="20261107170500 +0200" channel="Rai1.it">
@@ -225,15 +226,7 @@
     <title lang="it">Santa Messa dalla Cattedrale di Nola (Napoli) - 08/11/2026</title>
     <desc lang="it">Santa Messa dalla Cattedrale di Nola (Napoli). Regia di Michele Totaro. Commento liturgico di Carolina Zaccarini.</desc>
   </programme>
-  <programme start="20261108115000 +0200" stop="20261108120000 +0200" channel="Rai1.it">
-    <title lang="it">A Sua immagine - Puntata del 08/11/2026</title>
-    <desc lang="it">Lorena Bianchetti dedica la puntata alle grandi figure femminili della Bibbia, da Eva a Ester, da Marta e Maria alla Samaritana, fino a Maria Maddalena ed Elisabetta. Al centro del racconto anche Maria, madre di Gesù, simbolo di fede, ascolto e affidamento. In studio il cardinale Gianfranco Ravasi e la giornalista Giuseppina Paterniti, per una riflessione sul ruolo delle donne nella storia della salvezza e sull'attualità del loro messaggio, tra Scrittura e condizione femminile contemporanea.</desc>
-  </programme>
-  <programme start="20261108120000 +0200" stop="20261108121000 +0200" channel="Rai1.it">
-    <title lang="it">Recita dell'Angelus da Piazza San Pietro del 08/11/2026</title>
-    <desc lang="it">L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
-  </programme>
-  <programme start="20261108121000 +0200" stop="20261108122000 +0200" channel="Rai1.it">
+  <programme start="20261108115000 +0200" stop="20261108122000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 08/11/2026</title>
     <desc lang="it">Lorena Bianchetti dedica la puntata alle grandi figure femminili della Bibbia, da Eva a Ester, da Marta e Maria alla Samaritana, fino a Maria Maddalena ed Elisabetta. Al centro del racconto anche Maria, madre di Gesù, simbolo di fede, ascolto e affidamento. In studio il cardinale Gianfranco Ravasi e la giornalista Giuseppina Paterniti, per una riflessione sul ruolo delle donne nella storia della salvezza e sull'attualità del loro messaggio, tra Scrittura e condizione femminile contemporanea.</desc>
   </programme>
@@ -641,11 +634,11 @@
     <title lang="it">La Domenica Sportiva Pomeriggio del 08/11/2026</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali. </desc>
   </programme>
-  <programme start="20261108150000 +0200" stop="20261108151500 +0200" channel="Rai2.it">
-    <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 ore di Monza</title>
-    <desc lang="it">Conducono Gianluca Semprini, Francesca Spaziani Testa. Supervisione Massimo Proietto. A cura di Alessandro Antinelli. Produttore esecutivo Marco Benucci </desc>
+  <programme start="20261108150000 +0200" stop="20261108170000 +0200" channel="Rai2.it">
+    <title lang="it">Automobilismo: Mondiale Endurance 2026 - 6 ore di Monza (sessione pomeridiana)</title>
+    <desc lang="it">Mondiale Endurance - 6 ore di Monza (sessione pomeridiana)</desc>
   </programme>
-  <programme start="20261108151500 +0200" stop="20261108180500 +0200" channel="Rai2.it">
+  <programme start="20261108170000 +0200" stop="20261108180500 +0200" channel="Rai2.it">
     <title lang="it">La Domenica Sportiva Pomeriggio del 08/11/2026</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali. </desc>
   </programme>
@@ -826,9 +819,13 @@
   <programme start="20261107060000 +0200" stop="20261107080000 +0200" channel="Rai3.it">
     <title lang="it">RaiNews24</title>
   </programme>
-  <programme start="20261107080000 +0200" stop="20261107100000 +0200" channel="Rai3.it">
+  <programme start="20261107080000 +0200" stop="20261107083000 +0200" channel="Rai3.it">
     <title lang="it">Mi manda RaiTre - Puntata del 07/11/2026</title>
-    <desc lang="it">Federico Ruffo presenta una versione riadattata della puntata in diretta del venerdì sera della settimana precedente, arricchita da lanci registrati in coda alla diretta della domenica.</desc>
+    <desc lang="it">La puntata di Mi manda Raitre si apre con uno spazio dedicato ai principali temi di attualità, condotto in diretta da Giulia Presutti.</desc>
+  </programme>
+  <programme start="20261107083000 +0200" stop="20261107100000 +0200" channel="Rai3.it">
+    <title lang="it">Le inchieste di Mi manda RaiTre  - 07/11/2026</title>
+    <desc lang="it">Federico Ruffo presenta le inchieste di Mi manda RaiTre  </desc>
   </programme>
   <programme start="20261107100000 +0200" stop="20261107100500 +0200" channel="Rai3.it">
     <title lang="it">Gli Imperdibili</title>
@@ -878,27 +875,27 @@
   <programme start="20261107142000 +0200" stop="20261107144500 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20261107144500 +0200" stop="20261107144900 +0200" channel="Rai3.it">
+  <programme start="20261107144500 +0200" stop="20261107144800 +0200" channel="Rai3.it">
     <title lang="it">TG3 Pixel</title>
     <desc lang="it">A cura di Romolo Sticchi</desc>
   </programme>
-  <programme start="20261107144900 +0200" stop="20261107145500 +0200" channel="Rai3.it">
+  <programme start="20261107144800 +0200" stop="20261107145500 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
   <programme start="20261107145500 +0200" stop="20261107150000 +0200" channel="Rai3.it">
     <title lang="it">TG3 L.I.S.</title>
   </programme>
-  <programme start="20261107150000 +0200" stop="20261107162500 +0200" channel="Rai3.it">
+  <programme start="20261107150000 +0200" stop="20261107163000 +0200" channel="Rai3.it">
     <title lang="it">Tv Talk - Puntata del 07/11/2026</title>
     <desc lang="it">Mia Ceran apre con un approfondimento sul racconto televisivo delle elezioni di metà mandato negli Stati Uniti e sul nuovo talk show di Peter Gomez, "L'Elefante". Spazio poi a Massimo Bernardini, tra il ritorno alla conduzione con "Scena aperta" e il caso dell'intervista di Pierluigi Diaco ad Alberto Ravagnani. Dopo i ReTVeet, Geppi Cucciari racconta il successo di "Splendida Cornice". In chiusura, Linus e Malika Ayane riflettono sul ruolo della musica in televisione, prima dell'After Talk con Geppi Cucciari.</desc>
   </programme>
-  <programme start="20261107162500 +0200" stop="20261107172000 +0200" channel="Rai3.it">
+  <programme start="20261107163000 +0200" stop="20261107173000 +0200" channel="Rai3.it">
     <title lang="it">La biblioteca dei sentimenti - I libri di Burioni, Gamberale e Liorni - 07/11/2026</title>
     <desc lang="it">Una puntata che racconta la società di oggi. Con il professor Roberto Burioni si parla di complottismo e dei meccanismi che ne favoriscono la diffusione; con la scrittrice Chiara Gamberale si affronta il delicato rapporto tra genitori e scuola, al centro del suo ultimo libro. Ospite anche il conduttore Marco Liorni, al suo esordio come romanziere. </desc>
   </programme>
-  <programme start="20261107172000 +0200" stop="20261107190000 +0200" channel="Rai3.it">
-    <title lang="it">Spie come noi</title>
-    <desc lang="it">Due aspiranti agenti segreti, bloccati in incarichi burocratici e lontani dall'azione, sognano una vera missione. Quando un'occasione inattesa li catapulta nel mondo dello spionaggio, affrontano un addestramento improbabile e partono per un'avventura piena di guai, equivoci e colpi di scena.</desc>
+  <programme start="20261107173000 +0200" stop="20261107190000 +0200" channel="Rai3.it">
+    <title lang="it">San Giuliano di Puglia, ore 11.32 il cro</title>
+    <desc lang="it">San Giuliano di Puglia, ore 11.32 il crollo - DOCUMENTARIO - La scuola di San Giuliano di Puglia è un monumento di dolore e un messaggio di speranza. Il 31 ottobre 2002 un terremoto ha sbriciolato le aule  - uccidendo 27 bambini e un'insegnante. "Noi adulti, noi genitori, sentiamo la responsabilità di non essere stati capaci di proteggere i nostri figli", ha detto l'allora presidente Carlo Azeglio Ciampi davanti alla distesa di bare bianche. - Scritto da Floriana Bulfon Regia di Francis Joseph D'Costa Rai Documentari</desc>
   </programme>
   <programme start="20261107190000 +0200" stop="20261107193000 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
@@ -929,10 +926,7 @@
     <title lang="it">TG3 Agenda del Mondo</title>
     <desc lang="it">A cura di Stefano Pizzetti</desc>
   </programme>
-  <programme start="20261108003000 +0200" stop="20261108003500 +0200" channel="Rai3.it">
-    <title lang="it">Meteo 3</title>
-  </programme>
-  <programme start="20261108003500 +0200" stop="20261108020500 +0200" channel="Rai3.it">
+  <programme start="20261108003000 +0200" stop="20261108020500 +0200" channel="Rai3.it">
     <title lang="it">La promessa - Il prezzo del potere</title>
     <desc lang="it">Al termine del suo secondo mandato come sindaca, Clémence è determinata a mantenere una promessa fatta agli abitanti di Les Bernardines, enorme complesso popolare segnato da degrado e sovraffollamento. Con l'aiuto della vice Naidra e del fidato Yazid, affronta l'ultima e più importante battaglia della sua carriera politica.</desc>
   </programme>
@@ -940,23 +934,19 @@
     <title lang="it">Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.</desc>
   </programme>
-  <programme start="20261108021000 +0200" stop="20261108022000 +0200" channel="Rai3.it">
+  <programme start="20261108021000 +0200" stop="20261108021500 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta LA CADUTA DEGLI DEI a cura di Lorenzo Esposito con</desc>
   </programme>
-  <programme start="20261108022000 +0200" stop="20261108033500 +0200" channel="Rai3.it">
+  <programme start="20261108021500 +0200" stop="20261108033000 +0200" channel="Rai3.it">
     <title lang="it">Fairytale - Una fiaba</title>
     <desc lang="it">Adolf Hitler, Benito Mussolini, Iosif Stalin, Winston Churchill, si trovano in uno spazio dantesco, dalle molteplici suggestioni pittoriche. Conversano davanti alla Porta, in attesa di ascendere o precipitare. Dopo "Arca russa" una nuova stupefacente pietra miliare nel divenire del cinema, una profonda e paradossale riflessione sul potere. Il film usa esclusivamente  immagini vere d'archivio, senza l'uso di deep fake o altri mezzi artificiali.</desc>
   </programme>
-  <programme start="20261108033500 +0200" stop="20261108051500 +0200" channel="Rai3.it">
+  <programme start="20261108033000 +0200" stop="20261108050900 +0200" channel="Rai3.it">
     <title lang="it">The Palace</title>
     <desc lang="it">Al Palace Hotel di Gstaad, il 31 dicembre 1999, tra le alte aspettative e le paure del Millennium Bug, l'imponente struttura accoglie una clientela variegata e ricca. Mentre il manager Hansueli cerca di soddisfare ogni richiesta, le persone si preparano al passaggio di millennio in modi eccentrici, tra timori e opportunità.</desc>
   </programme>
-  <programme start="20261108051500 +0200" stop="20261108051500 +0200" channel="Rai3.it">
-    <title lang="it">Histoire(S) Du Cinéma Episodio 1A: Toute</title>
-    <desc lang="it">Histoire(S) Du Cinéma Episodio 1A: Toutes les histoires (Tutte le storie) - FILM - Ritratto di un secolo e di uno dei suoi figli (prodighi, prodigi) attraverso i suoi fantasmi, le sue storie di ombre e di  - luci Così nel 2002 Fuori Orario presentava la prima messa in onda in tv di tutte le 8 parti di quello che possiamo considerare non solo l'opus magnum di Godard, il compimento di una vita, ma una delle opere capitali del XX secolo. - (1988-1998) Di: Jean-Luc Godard</desc>
-  </programme>
-  <programme start="20261108051500 +0200" stop="20261108060000 +0200" channel="Rai3.it">
+  <programme start="20261108050900 +0200" stop="20261108060000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta  LA CADUTA DEGLI DEI a cura di Lorenzo Esposito con</desc>
   </programme>
@@ -1036,9 +1026,13 @@
     <title lang="it">Blob - Puntata del 08/11/2026</title>
     <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
   </programme>
-  <programme start="20261108203000 +0200" stop="20261108231500 +0200" channel="Rai3.it">
+  <programme start="20261108203000 +0200" stop="20261108210000 +0200" channel="Rai3.it">
     <title lang="it">Report - Puntata del 08/11/2026</title>
     <desc lang="it">La plastica che inquina i nostri mari e finisce nella catena alimentare, tra ritardi burocratici e una legge rimasta sulla carta. È uno dei temi al centro della nuova puntata di *Report*, con Claudia De Pasquale e Daniele Piervincenzi. A quattro anni dall'approvazione della legge Salvamare, mancano ancora i decreti attuativi che dovrebbero consentire ai pescatori di conferire gratuitamente nei porti i rifiuti raccolti in mare, con il rischio che la plastica venga nuovamente gettata in acqua. Dall'inquinamento ambientale al business della paura: nella metropolitana di Roma, ronde e borseggiatori diventano protagonisti dei video degli "influencer del degrado", che trasformano la microcriminalità urbana in uno spettacolo da milioni di visualizzazioni. Spazio anche agli intrecci tra affari, politica, servizi segreti e uomini vicini alla criminalità organizzata, al centro di una delle piste investigative seguite dalla Procura di Roma per individuare i responsabili dell'attentato a Sigfrido Ranucci. Infine, il viaggio nel mercato internazionale del tartufo, tra prodotti importati e venduti come italiani, contaminanti oltre i limiti consentiti, rincari e una tracciabilità sempre più difficile da garantire.</desc>
+  </programme>
+  <programme start="20261108210000 +0200" stop="20261108231500 +0200" channel="Rai3.it">
+    <title lang="it">Report</title>
+    <desc lang="it">APPROFONDIMENTO. - Un programma di Bernardo Iovene, Giulio Valesini  Conduttori Claudia Di Pasquale, Daniele Piervincenzi  Con la collaborazione di Cataldo Ciccolella, Ilaria Proietti  E di Alessia Marzi, Greta Orsi  Capo Progetto Paola Bisogni Di Battista  Regia Claudio Del Signore</desc>
   </programme>
   <programme start="20261108231500 +0200" stop="20261109000500 +0200" channel="Rai3.it">
     <title lang="it">Allegro ma non troppo - Puntata del 08/11/2026</title>
@@ -1055,11 +1049,11 @@
     <title lang="it">In mezz'ora - Puntata del 08/11/2026</title>
     <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
   </programme>
-  <programme start="20261109024500 +0200" stop="20261109025000 +0200" channel="Rai3.it">
+  <programme start="20261109024500 +0200" stop="20261109025500 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">Subito dopo l'inizio delle trasmissioni, la Rai si è sempre dedicata al cinema, italiano e non, con gli approfondimenti storici, l'informazione e la cronaca, le interviste con i suoi protagonisti, la promozione... Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta PARLIAMO TANTO DI ME. Cinema, solo interviste originali RAI di Paolo  Luciani</desc>
   </programme>
-  <programme start="20261109025000 +0200" stop="20261109031000 +0200" channel="Rai3.it">
+  <programme start="20261109025500 +0200" stop="20261109031000 +0200" channel="Rai3.it">
     <title lang="it">L'occhio, l'orecchio, la bocca</title>
     <desc lang="it">Germani realizza il suo video-saggio per la Terza Rete Rai del Friuli Venezia Giulia, incontrando i responsabile del cineclub romano L'Occhio, L'Orecchio, La Bocca, Roberto Farina, Silvia Viglia, Gianni Romoli. (1978) di Sergio Grmek Germani</desc>
   </programme>
@@ -1114,10 +1108,10 @@
   <programme start="20261109141900 +0200" stop="20261109142000 +0200" channel="Rai3.it">
     <title lang="it">TG Regione Meteo</title>
   </programme>
-  <programme start="20261109142000 +0200" stop="20261109144900 +0200" channel="Rai3.it">
+  <programme start="20261109142000 +0200" stop="20261109144800 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20261109144900 +0200" stop="20261109145000 +0200" channel="Rai3.it">
+  <programme start="20261109144800 +0200" stop="20261109145000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
   <programme start="20261109145000 +0200" stop="20261109150500 +0200" channel="Rai3.it">
@@ -2568,9 +2562,13 @@
     <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261107163000 +0200" stop="20261107170000 +0200" channel="RaiNews24.it">
+  <programme start="20261107163000 +0200" stop="20261107165000 +0200" channel="RaiNews24.it">
     <title lang="it">POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA</title>
     <desc lang="it">POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIAL ROOM - , - ,</desc>
+  </programme>
+  <programme start="20261107165000 +0200" stop="20261107170000 +0200" channel="RaiNews24.it">
+    <title lang="it">Altri Mondi - Puntata del 07/11/2026</title>
+    <desc lang="it">In questa puntata: "The Legend of Zelda: Ocarina of Time remake, la recensione" a cura di Lorenzo Fantoni, "I 40 anni di Legend of Zelda tra mito e realtà" di Fabrizia Malgieri, "Speedrun: Zelda-like edition" a cura di Alberto Alessi.</desc>
   </programme>
   <programme start="20261107170000 +0200" stop="20261107173000 +0200" channel="RaiNews24.it">
     <title lang="it">TITOLI + TG GIORNO</title>
@@ -3240,15 +3238,15 @@
     <title lang="it">Sportabilia del 06/11/2026</title>
     <desc lang="it">SportAbilia torna con una nuova stagione e tante sorprese: in studio, con Stefano De Agostini e Claudio Arrigoni, ci sarà la new entry Martina Caironi. In questa puntata, partiamo dal trionfo mondiale dell'Italia nel baseball ciechi: ci racconterà questa impresa Giorgio Napoli, giocatore azzurro. Dai campioni del mondo del baseball passiamo ai vicecampioni del basket in carrozzina, il miglior risultato nella storia della nazionale, che riviviamo insieme al capitano Filippo Carossino. Poi si apre la pagina del ciclismo, con l'Italia reduce da due mondiali che fruttano 6 medaglie su pista, 10 su strada: ne parliamo con il ct Pierpaolo Addesi. E ancora, nel calcio amputati, lo Sporting Fano arriva secondo nella Champions League giocata in casa, come ci raccontano il giocatore Lorenzo Marcantognini e il presidente Andrea Gemma. C'è spazio anche per il sitting volley, con la supercoppa italiana, per il powerchair football, con i recenti mondiali in Argentina, e per la pallanuoto, con il torneo internazionale di Potenza.</desc>
   </programme>
-  <programme start="20261107070000 +0200" stop="20261107073000 +0200" channel="RaiSport.it">
+  <programme start="20261107070000 +0200" stop="20261107074000 +0200" channel="RaiSport.it">
     <title lang="it">Reparto Corse del 05/11/2026</title>
     <desc lang="it">Settimanale di motori di RaiSport: le pagelle della F1, la tecnica delle monoposto di F1 in 3D, interviste ai piloti, ultime notizie e commenti sulla MotoGP. E poi Motocross, Rally Mondiale ed Italiano, Campionato Italiano GT, inchieste, approfondimenti.</desc>
   </programme>
-  <programme start="20261107073000 +0200" stop="20261107101000 +0200" channel="RaiSport.it">
+  <programme start="20261107074000 +0200" stop="20261107102000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 7a Giornata: CDA Talmassons - Il Bisonte Firenze</title>
     <desc lang="it">Nella settima giornata della Serie A1 Fineco 2026-2027, Cda Volley Talmassons Fvg e Il Bisonte Firenze si affrontano in una nuova sfida del massimo campionato italiano.</desc>
   </programme>
-  <programme start="20261107101000 +0200" stop="20261107121500 +0200" channel="RaiSport.it">
+  <programme start="20261107102000 +0200" stop="20261107121500 +0200" channel="RaiSport.it">
     <title lang="it">Equitazione - Coppa del Mondo di Salto Ostacoli 2026 - 1a giornata: Gran Premio n 2</title>
     <desc lang="it">Coppa del Mondo di Salto Ostacoli - 1a giornata: Gran Premio n 2</desc>
   </programme>
@@ -3277,90 +3275,100 @@
     <desc lang="it">Coppa del Mondo di Salto Ostacoli - 2a giornata: Gran Premio n 4</desc>
   </programme>
   <programme start="20261107193000 +0200" stop="20261107202000 +0200" channel="RaiSport.it">
-    <title lang="it">Sportabilia</title>
-    <desc lang="it">Città, stadi palazzetti senza barriere per consacrato slogan, SportAbilia è la rubrica quindicinale di RaiSport, ideata curata e condotta da Lorenzo Roata, che da oltre vent'anni racconta l'intero mondo delle discipline paralimpiche; tra le novità di questa stagione, la presenza in studio di Melania Corradini, gloria azzurra dello sci alpino.</desc>
+    <title lang="it">Sportabilia del 06/11/2026</title>
+    <desc lang="it">SportAbilia torna con una nuova stagione e tante sorprese: in studio, con Stefano De Agostini e Claudio Arrigoni, ci sarà la new entry Martina Caironi. In questa puntata, partiamo dal trionfo mondiale dell'Italia nel baseball ciechi: ci racconterà questa impresa Giorgio Napoli, giocatore azzurro. Dai campioni del mondo del baseball passiamo ai vicecampioni del basket in carrozzina, il miglior risultato nella storia della nazionale, che riviviamo insieme al capitano Filippo Carossino. Poi si apre la pagina del ciclismo, con l'Italia reduce da due mondiali che fruttano 6 medaglie su pista, 10 su strada: ne parliamo con il ct Pierpaolo Addesi. E ancora, nel calcio amputati, lo Sporting Fano arriva secondo nella Champions League giocata in casa, come ci raccontano il giocatore Lorenzo Marcantognini e il presidente Andrea Gemma. C'è spazio anche per il sitting volley, con la supercoppa italiana, per il powerchair football, con i recenti mondiali in Argentina, e per la pallanuoto, con il torneo internazionale di Potenza.</desc>
   </programme>
   <programme start="20261107202000 +0200" stop="20261107230000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo. Serie A1 Fineco - 7a Giornata: Scandicci - Milano</title>
-    <desc lang="it">Pallavolo. Serie A1 Fineco - 7a Giornata: Scandicci - Milano</desc>
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 7a Giornata: Savino Del Bene Scandicci - Numia Vero Volley Milano</title>
+    <desc lang="it">Nella settima giornata della Serie A1 Fineco 2026-2027, Savino Del Bene Scandicci e Numia Vero Volley Milano si affrontano in una sfida di alto livello del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261107230000 +0200" stop="20261108011000 +0200" channel="RaiSport.it">
-    <title lang="it">Calcio Femminile: Serie A Women Athora 2026/27 Milan - Inter</title>
-    <desc lang="it">Calcio Femminile: Serie A Women Athora 2026/27 Milan - Inter</desc>
+    <title lang="it">Calcio: Serie A Women Athora 2026-2027 - 6a giornata: Milan - Inter</title>
+    <desc lang="it">Nella sesta giornata della Serie A Women Athora 2026-2027, Milan e Inter si affrontano nel derby di Milano, una delle sfide più attese del campionato femminile italiano.</desc>
   </programme>
-  <programme start="20261108011000 +0200" stop="20261108032500 +0200" channel="RaiSport.it">
-    <title lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 2a giornata - Gran Premio num. 4</title>
-    <desc lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 2a giornata - Gran Premio num. 4</desc>
+  <programme start="20261108011000 +0200" stop="20261108033000 +0200" channel="RaiSport.it">
+    <title lang="it">Equitazione - Coppa del Mondo di Salto Ostacoli 2026 - 2a giornata: Gran Premio n 4</title>
+    <desc lang="it">Coppa del Mondo di Salto Ostacoli - 2a giornata: Gran Premio n 4</desc>
   </programme>
-  <programme start="20261108032500 +0200" stop="20261108050000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallanuoto: Serie A1 femminile 2026/27 Trieste-SIS Roma</title>
-    <desc lang="it">Pallanuoto: Serie A1 femminile 2026/27 Trieste-SIS Roma</desc>
+  <programme start="20261108033000 +0200" stop="20261108040000 +0200" channel="RaiSport.it">
+    <title lang="it">Pentathlon Moderno - Campionato Italiano di Laser Run 2026</title>
+    <desc lang="it">Campionato Italiano di Laser Run</desc>
   </programme>
-  <programme start="20261108050000 +0200" stop="20261108060000 +0200" channel="RaiSport.it">
-    <title lang="it">Pentathlon Moderno: C.to Italiano Laser Run Aprilia</title>
-    <desc lang="it">Pentathlon Moderno: C.to Italiano Laser Run Aprilia</desc>
+  <programme start="20261108040000 +0200" stop="20261108044000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio di Figura - Grand Prix de France 2026: Corto Uomini</title>
+    <desc lang="it">Grand Prix de France - Corto Uomini</desc>
   </programme>
-  <programme start="20261108060000 +0200" stop="20261108070000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: GT Camp. Italiano Endurance ACI 2026 4a prova: Mugello</title>
-    <desc lang="it">Automobilismo: GT Camp. Italiano Endurance ACI 2026 4a prova: Mugello</desc>
+  <programme start="20261108044000 +0200" stop="20261108051500 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio di Figura - Grand Prix de France 2026: Corto Donne</title>
+    <desc lang="it">Grand Prix de France - Corto Donne</desc>
   </programme>
-  <programme start="20261108070000 +0200" stop="20261108080000 +0200" channel="RaiSport.it">
-    <title lang="it">Sabato al 90°</title>
-    <desc lang="it">La storica rubrica Rai che mostra tutti i gol e le azioni salienti degli anticipi di campionato di Serie A.</desc>
+  <programme start="20261108051500 +0200" stop="20261108054000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio di Figura - Grand Prix de France 2026: Corto Coppie</title>
+    <desc lang="it">Grand Prix de France - Corto Coppie</desc>
   </programme>
-  <programme start="20261108080000 +0200" stop="20261108105000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Scandicci - Milano</title>
-    <desc lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Scandicci - Milano</desc>
+  <programme start="20261108054000 +0200" stop="20261108060000 +0200" channel="RaiSport.it">
+    <title lang="it">Memory</title>
   </programme>
-  <programme start="20261108105000 +0200" stop="20261108134000 +0200" channel="RaiSport.it">
-    <title lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Monza - sessione mattutina</title>
-    <desc lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Monza - sessione mattutina</desc>
+  <programme start="20261108060000 +0200" stop="20261108065500 +0200" channel="RaiSport.it">
+    <title lang="it">Automobilismo: Campionato Italiano GT Endurance 2026 - 4a prova: Mugello</title>
+    <desc lang="it">Campionato Italiano GT Endurance - 4a prova: Mugello</desc>
+  </programme>
+  <programme start="20261108065500 +0200" stop="20261108075500 +0200" channel="RaiSport.it">
+    <title lang="it">Sabato al 90° del 07/11/2026</title>
+    <desc lang="it">La storica rubrica Rai che mostra tutti i gol e le azioni salienti degli anticipi di campionato di Serie A. </desc>
+  </programme>
+  <programme start="20261108075500 +0200" stop="20261108103000 +0200" channel="RaiSport.it">
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 7a Giornata: Savino Del Bene Scandicci - Numia Vero Volley Milano</title>
+    <desc lang="it">Nella settima giornata della Serie A1 Fineco 2026-2027, Savino Del Bene Scandicci e Numia Vero Volley Milano si affrontano in una sfida di alto livello del massimo campionato italiano.</desc>
+  </programme>
+  <programme start="20261108103000 +0200" stop="20261108134000 +0200" channel="RaiSport.it">
+    <title lang="it">Automobilismo: Mondiali Endurance 2026 - 6 ore di Monza (sessione mattutina)</title>
+    <desc lang="it">Mondiali Endurance - 6 ore di Monza (sessione mattutina)</desc>
   </programme>
   <programme start="20261108134000 +0200" stop="20261108143000 +0200" channel="RaiSport.it">
-    <title lang="it">Giochi Olimpici Giovanili Dakar - 8a giornata</title>
-    <desc lang="it">Giochi Olimpici Giovanili Dakar - 8a giornata</desc>
+    <title lang="it">Giochi Olimpici Giovanili 2026 - 8a giornata</title>
+    <desc lang="it">Giochi Olimpici Giovanili 2026 - 8a giornata</desc>
   </programme>
   <programme start="20261108143000 +0200" stop="20261108175000 +0200" channel="RaiSport.it">
-    <title lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 3a giornata - Gran Premio num. 6</title>
-    <desc lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 3a giornata - Gran Premio num. 6</desc>
+    <title lang="it">Equitazione - Coppa del Mondo di Salto Ostacoli 2026 - 3a giornata: Gran Premio n 6</title>
+    <desc lang="it">Coppa del Mondo di Salto Ostacoli - 3a giornata: Gran Premio n 6</desc>
   </programme>
   <programme start="20261108175000 +0200" stop="20261108203000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo. SuperLega Credem Banca: Trento-Perugia - 5a g.ta</title>
-    <desc lang="it">Pallavolo. SuperLega Credem Banca: Trento-Perugia - 5a g.ta</desc>
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 5a giornata: Itas Trentino - Sir Susa Scai Perugia</title>
+    <desc lang="it">Nella quinta giornata della SuperLega Credem Banca 2026-2027, Itas Trentino e Sir Susa Scai Perugia si affrontano in uno dei big match del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261108203000 +0200" stop="20261108224500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallacanestro. Serie A2 Old Wild West: Montecatini-Pistoia - 8a g.ta</title>
-    <desc lang="it">Pallacanestro. Serie A2 Old Wild West: Montecatini-Pistoia - 8a g.ta</desc>
+    <title lang="it">Basket: Serie A2 Old Wild West 2026-2027 - 8a giornata: T Tecnica Gema Montecatini - Lumos Pistoia Basket</title>
+    <desc lang="it">Nell'ottava giornata della Serie A2 Old Wild West 2026-2027, La T Tecnica Gema Montecatini e Lumos Pistoia Basket si affrontano al PalaTerme in una sfida tutta toscana.</desc>
   </programme>
   <programme start="20261108224500 +0200" stop="20261108231500 +0200" channel="RaiSport.it">
-    <title lang="it">Ippica. Premio Roma</title>
-    <desc lang="it">Ippica. Premio Roma</desc>
+    <title lang="it">Ippica: Premio Roma Champions Day 2026</title>
+    <desc lang="it">Premio Roma Champions Day </desc>
   </programme>
   <programme start="20261108231500 +0200" stop="20261108234500 +0200" channel="RaiSport.it">
-    <title lang="it">Ippica. Premio Lydia Tesio</title>
-    <desc lang="it">Ippica. Premio Lydia Tesio</desc>
+    <title lang="it">Ippica: Premio Lydia Tesio 2026</title>
+    <desc lang="it">Premio Lydia Tesio</desc>
   </programme>
-  <programme start="20261108234500 +0200" stop="20261109030500 +0200" channel="RaiSport.it">
-    <title lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 3a giornata - Gran Premio num. 6</title>
-    <desc lang="it">Equitazione: Coppa del Mondo Salto Ostacoli Verona 3a giornata - Gran Premio num. 6</desc>
+  <programme start="20261108234500 +0200" stop="20261109031000 +0200" channel="RaiSport.it">
+    <title lang="it">Equitazione - Coppa del Mondo di Salto Ostacoli 2026 - 3a giornata: Gran Premio n 6</title>
+    <desc lang="it">Coppa del Mondo di Salto Ostacoli - 3a giornata: Gran Premio n 6</desc>
   </programme>
-  <programme start="20261109030500 +0200" stop="20261109054500 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo. SuperLega Credem Banca: Trento-Perugia - 5a g.ta</title>
-    <desc lang="it">Pallavolo. SuperLega Credem Banca: Trento-Perugia - 5a g.ta</desc>
+  <programme start="20261109031000 +0200" stop="20261109055000 +0200" channel="RaiSport.it">
+    <title lang="it">Pallavolo: SuperLega Credem Banca 2026-2027 - 5a giornata: Itas Trentino - Sir Susa Scai Perugia</title>
+    <desc lang="it">Nella quinta giornata della SuperLega Credem Banca 2026-2027, Itas Trentino e Sir Susa Scai Perugia si affrontano in uno dei big match del massimo campionato italiano.</desc>
   </programme>
-  <programme start="20261109054500 +0200" stop="20261109060000 +0200" channel="RaiSport.it">
-    <title lang="it">Memory</title>
-    <desc lang="it">Memory - Rai Sport</desc>
+  <programme start="20261109055000 +0200" stop="20261109060000 +0200" channel="RaiSport.it">
+    <title lang="it">Nuovo Evento</title>
   </programme>
   <programme start="20261109060000 +0200" stop="20261109074500 +0200" channel="RaiSport.it">
     <title lang="it">Domenica Sportiva</title>
     <desc lang="it">Notizie, approfondimenti e interviste su tutti i principali eventi sportivi del fine settimana: dal calcio agli altri sport di squadra, dai motori al ciclismo, con servizi filmati, ospiti in studio e collegamenti con i protagonisti di tutto il mondo dello sport.</desc>
   </programme>
-  <programme start="20261109074500 +0200" stop="20261109082000 +0200" channel="RaiSport.it">
+  <programme start="20261109074500 +0200" stop="20261109082500 +0200" channel="RaiSport.it">
     <title lang="it">Domenica Sportiva Extra Time</title>
     <desc lang="it">Notizie, approfondimenti e interviste su tutti i principali eventi sportivi del fine settimana: dal calcio agli altri sport di squadra, dai motori al ciclismo, con servizi filmati, ospiti in studio e collegamenti con i protagonisti di tutto il mondo dello sport.</desc>
   </programme>
-  <programme start="20261109082000 +0200" stop="20261109111000 +0200" channel="RaiSport.it">
+  <programme start="20261109082500 +0200" stop="20261109111000 +0200" channel="RaiSport.it">
     <title lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Monza - sessione mattutina</title>
     <desc lang="it">Automobilismo: World Championship Endurance 2026 6 ore di Monza - sessione mattutina</desc>
   </programme>
@@ -3376,19 +3384,19 @@
     <title lang="it">Giochi Olimpici Giovanili Dakar - 9a giornata</title>
     <desc lang="it">Giochi Olimpici Giovanili Dakar - 9a giornata</desc>
   </programme>
-  <programme start="20261109152000 +0200" stop="20261109173000 +0200" channel="RaiSport.it">
+  <programme start="20261109152000 +0200" stop="20261109172000 +0200" channel="RaiSport.it">
     <title lang="it">Pallacanestro. Serie A2 Old Wild West: Montecatini-Pistoia - 8a g.ta</title>
     <desc lang="it">Pallacanestro. Serie A2 Old Wild West: Montecatini-Pistoia - 8a g.ta</desc>
   </programme>
-  <programme start="20261109173000 +0200" stop="20261109180000 +0200" channel="RaiSport.it">
+  <programme start="20261109172000 +0200" stop="20261109174500 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross. 6° Trofeo Città di Firenze - 1a prova master Cross</title>
     <desc lang="it">Ciclocross. 6° Trofeo Città di Firenze - 1a prova master Cross</desc>
   </programme>
-  <programme start="20261109180000 +0200" stop="20261109190000 +0200" channel="RaiSport.it">
+  <programme start="20261109174500 +0200" stop="20261109185000 +0200" channel="RaiSport.it">
     <title lang="it">Judo. C.ti Europei U23 a Squadre Napoli</title>
     <desc lang="it">Judo. C.ti Europei U23 a Squadre Napoli</desc>
   </programme>
-  <programme start="20261109190000 +0200" stop="20261109193000 +0200" channel="RaiSport.it">
+  <programme start="20261109185000 +0200" stop="20261109193000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica. Corsa dei Santi Roma</title>
     <desc lang="it">Atletica. Corsa dei Santi Roma</desc>
   </programme>
@@ -3455,7 +3463,7 @@
   </programme>
   <programme start="20261107120000 +0200" stop="20261107133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">La skincare, prendersi cura della propria pelle è di moda tra indicazioni utili ed eccessi con la Dott.ssa Ornella de Pità capiamo cosa fa davvero bene alla nostra pelle.  Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. "Colpo di Coda" con Alessandra Zavoli. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20261107133000 +0200" stop="20261107134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
@@ -3526,7 +3534,7 @@
   </programme>
   <programme start="20261108120000 +0200" stop="20261108133000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Radio2 in forma</title>
-    <desc lang="it">Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
+    <desc lang="it">Influenza stagionale, come sarà quest'anno? E quando la cura di sé si trasforma in ossessione del benessere? Con quali conseguenze? Il Dott. Nicola Petrosillo e il Dott. Dario Manfellotto per essere informati e riconoscere le fake news.     Con Francesca Parisella, la collaborazione di Emanuele Castrucci e la partecipazione di Alessandro Circiello. Regia di Leonardo Carioti. A cura di Luca Bona.</desc>
   </programme>
   <programme start="20261108133000 +0200" stop="20261108134500 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">GR 2</title>
