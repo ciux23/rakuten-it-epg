@@ -12,29 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261107160000 +0200" stop="20261107201415 +0200" channel="pluto_film_tv">
+  <programme start="20261108013000 +0200" stop="20261108045607 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107201415 +0200" stop="20261107220015 +0200" channel="pluto_film_tv">
-    <title lang="it">Harold e Maude</title>
-    <desc lang="it">Un classico film di culto che mette in scena una delle coppie più improbabili della storia del cinema. Smentirà qualunque cosa abbiate visto o sentito a proposito degli amanti cinematografici.</desc>
-  </programme>
-  <programme start="20261107220015 +0200" stop="20261107235115 +0200" channel="pluto_film_tv">
-    <title lang="it">Mean Girls 2</title>
-    <desc lang="it">Le Barbie sono tornate nel sequel del grande successo Mean Girls... e adesso la combriccola è ancora più alla moda, divertente e feroce che mai!</desc>
-  </programme>
-  <programme start="20261107235115 +0200" stop="20261108012615 +0200" channel="pluto_film_tv">
-    <title lang="it">Reach Me - La strada per il successo</title>
-    <desc lang="it">Un giornalista, il suo editore, un ex detenuto, un uomo d'affari e un poliziotto sotto copertura sono costretti a rivalutare le proprie scelte confrontandosi con le peggiori paure, al fine di migliorare la propria esistenza.</desc>
-  </programme>
-  <programme start="20261108012615 +0200" stop="20261108030707 +0200" channel="pluto_film_tv">
-    <title lang="it">Bundy: an American icon</title>
-    <desc lang="it">Ted Bundy è un giovane intraprendente. Il suo charme, il suo aspetto innocente e la sua intelligenza gli permettono di manipolare giovani donne fino a convincerle a salire sul suo furgone.</desc>
-  </programme>
-  <programme start="20261108030707 +0200" stop="20261108045607 +0200" channel="pluto_film_tv">
-    <title lang="it">Tre Colori: Film Rosso</title>
-    <desc lang="it">La modella Valentine una sera investe il cane di un uomo solitario che scoprirà essere un giudice in pensione, apparentemente indifferente a ogni rapporto umano. L'uomo ha più di un segreto, uno dei quali riguarda un'attività illegale.</desc>
   </programme>
   <programme start="20261108045607 +0200" stop="20261108070707 +0200" channel="pluto_film_tv">
     <title lang="it">Rigenerazione: Rigenerazione</title>
@@ -72,41 +52,45 @@
     <title lang="it">Chiedi Alla Polvere</title>
     <desc lang="it">Nella Los Angeles della Grande Depressione si incontrano lo scrittore italo-americano Arturo e la cameriera messicana Camilla. Lui sogna di scrivere il romanzo della vita, lei di sposare un uomo ricco e cambiare le sue umili sorti.</desc>
   </programme>
-  <programme start="20261108220025 +0200" stop="20261109040000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261109040000 +0200" stop="20261109160000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261109160000 +0200" stop="20261109220000 +0200" channel="pluto_film_tv">
-    <title lang="it">Pluto TV Film</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107160000 +0200" stop="20261107204820 +0200" channel="pluto_film_azione">
-    <title lang="it">Pluto TV Film Azione</title>
-    <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107204820 +0200" stop="20261107223021 +0200" channel="pluto_film_azione">
-    <title lang="it">Elektra</title>
-    <desc lang="it">Elektra, l'eroina più sexy dei fumetti, sa uccidere anche solo con uno sguardo. Ma una missione la costringe a prendere una decisione fatale nella battaglia tra il bene e il male!</desc>
-  </programme>
-  <programme start="20261107223021 +0200" stop="20261108003821 +0200" channel="pluto_film_azione">
-    <title lang="it">Biker Boyz</title>
-    <desc lang="it">Smoke, il "Re di Cali", è il campione di corse imbattuto e indiscusso. Il suo dominio e il suo titolo sono sfidati da Kid, un giovane prodigio delle corse, in una corsa finale in cui sopravviverà il più veloce.</desc>
-  </programme>
-  <programme start="20261108003821 +0200" stop="20261108021410 +0200" channel="pluto_film_azione">
-    <title lang="it">1% - I fuorilegge</title>
-    <desc lang="it">Ambientato nel mondo delle bande di motociclisti criminali, il film segue le vicende del nuovo capo di una gang di motociclisti costretto a tradire il proprio superiore per salvare la vita del fratello.</desc>
-  </programme>
-  <programme start="20261108021410 +0200" stop="20261108034018 +0200" channel="pluto_film_azione">
-    <title lang="it">Ninja</title>
-    <desc lang="it">Casey è un americano che da tempo vive in Giappone dove si addestra nelle tecniche di combattimento dei ninja. Quando il suo sensei gli chiede di tornare a New York per una missione, arriva il momento di mettere in pratica il frutto del suo addestramento.</desc>
-  </programme>
-  <programme start="20261108034018 +0200" stop="20261108052702 +0200" channel="pluto_film_azione">
+  <programme start="20261108220025 +0200" stop="20261108234709 +0200" channel="pluto_film_tv">
     <title lang="it">Dead Heat</title>
     <desc lang="it">Un duro poliziotto di Boston, Pally LeMarr, costretto a ritirarsi, non vuole essere trasformato in un criminale da suo fratello Ray, un ladruncolo collegato alla mafia.</desc>
+  </programme>
+  <programme start="20261108234709 +0200" stop="20261109012304 +0200" channel="pluto_film_tv">
+    <title lang="it">Blood and Money</title>
+    <desc lang="it">Jim è un veterano in pensione. Mentre è a caccia in un bosco innevato trova una grossa somma di denaro. Si troverà contro una squadra di spietati criminali pronti a tutto pur di riaverli.</desc>
+  </programme>
+  <programme start="20261109012304 +0200" stop="20261109030204 +0200" channel="pluto_film_tv">
+    <title lang="it">Non Bussate A Quella Porta</title>
+    <desc lang="it">Un'inquietante leggenda urbana sembra trovare conferme in una casa abbandonata presumibilmente abitata da una vendicativa strega, che rapisce bambini. Quando vi entra una notte, la tormentata adolescente Chloe non ha idea dell'orrore che scatenerà.</desc>
+  </programme>
+  <programme start="20261109030204 +0200" stop="20261109050204 +0200" channel="pluto_film_tv">
+    <title lang="it">Rischiose abitudini</title>
+    <desc lang="it">Lily lavora per un allibratore. Quando suo figlio viene ricoverato in ospedale dopo un lavoro fallito e una conseguente percossa, scopre che anche un genitore assente prova qualcosa per suo figlio.</desc>
+  </programme>
+  <programme start="20261109050204 +0200" stop="20261109065804 +0200" channel="pluto_film_tv">
+    <title lang="it">Transsiberian</title>
+    <desc lang="it">Roy e Jessie cercano di salvare il loro matrimonio partendo per un viaggio sulla linea ferroviaria Transiberiana. Ma a bordo del treno salgono alcuni spietati criminali in fuga e molte passeggeri si rivelano diversi da come si erano presentati.</desc>
+  </programme>
+  <programme start="20261109065804 +0200" stop="20261109083004 +0200" channel="pluto_film_tv">
+    <title lang="it">Davanti agli occhi</title>
+    <desc lang="it">All'approssimarsi dell'anniversario di una fatale sparatoria in un liceo, Diana è ossessionata dai ricordi della tragedia. Nonostante ciò è riuscita a mettere su una bella famiglia e una vita quasi idilliaca, che però minaccia di essere turbata.</desc>
+  </programme>
+  <programme start="20261109083004 +0200" stop="20261109133000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261109133000 +0200" stop="20261110013000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261110013000 +0200" stop="20261110073000 +0200" channel="pluto_film_tv">
+    <title lang="it">Pluto TV Film</title>
+    <desc lang="it">no info available</desc>
+  </programme>
+  <programme start="20261108013000 +0200" stop="20261108052702 +0200" channel="pluto_film_azione">
+    <title lang="it">Pluto TV Film Azione</title>
+    <desc lang="it">no info available</desc>
   </programme>
   <programme start="20261108052702 +0200" stop="20261108070903 +0200" channel="pluto_film_azione">
     <title lang="it">Elektra</title>
@@ -148,65 +132,45 @@
     <title lang="it">Bad blood - Debito di sangue</title>
     <desc lang="it">Hannah è bionda, carina e incastrata in una vita buia e sporca, fatta di droghe, spaccio e illegalità in tutte le sue declinazioni. Sulle sue spalle, grava la responsabilità dell'intera famiglia, coinvolta in affari illeciti e amori impossibili.</desc>
   </programme>
-  <programme start="20261108223051 +0200" stop="20261109040000 +0200" channel="pluto_film_azione">
+  <programme start="20261108223051 +0200" stop="20261109001851 +0200" channel="pluto_film_azione">
+    <title lang="it">Vendetta - Una storia d'amore</title>
+    <desc lang="it">Un veterano della Guerra del Golfo (Nicolas Cage), decide di vendicare una donna che dopo essere stata stuprata, ha visto i suoi aggressori rimessi in libertà.</desc>
+  </programme>
+  <programme start="20261109001851 +0200" stop="20261109015351 +0200" channel="pluto_film_azione">
+    <title lang="it">Codice 51</title>
+    <desc lang="it">Uno specialista della chimica americano prevede grandi guadagni con una vendita di droga che capita una volta nella vita. Non tutto va come previsto e presto si ritrova invischiato in una rete di inganni.</desc>
+  </programme>
+  <programme start="20261109015351 +0200" stop="20261109032436 +0200" channel="pluto_film_azione">
+    <title lang="it">Massacro a San Francisco</title>
+    <desc lang="it">Un poliziotto americano di origini cinesi, esperto nelle arti marziali, combatte la più potente banda criminale di San Francisco, responsabile della morte del suo partner.</desc>
+  </programme>
+  <programme start="20261109032436 +0200" stop="20261109050512 +0200" channel="pluto_film_azione">
+    <title lang="it">Jimmy Bobo - Bullet to the Head</title>
+    <desc lang="it">Dopo aver assistito alla morte dei rispettivi partner, un assassino di New Orleans e un detective di Washington si alleano per abbattere il nemico comune.</desc>
+  </programme>
+  <programme start="20261109050512 +0200" stop="20261109064101 +0200" channel="pluto_film_azione">
+    <title lang="it">1% - I fuorilegge</title>
+    <desc lang="it">Ambientato nel mondo delle bande di motociclisti criminali, il film segue le vicende del nuovo capo di una gang di motociclisti costretto a tradire il proprio superiore per salvare la vita del fratello.</desc>
+  </programme>
+  <programme start="20261109064101 +0200" stop="20261109083101 +0200" channel="pluto_film_azione">
+    <title lang="it">Boxe</title>
+    <desc lang="it">Ray e Eddie sono gli ultimi rampolli di una famiglia con antiche tradizioni pugilistiche. Ray è un professionista, mentre Eddie milita ancora fra i dilettanti e ha buone chances per le vicine Olimpiadi.</desc>
+  </programme>
+  <programme start="20261109083101 +0200" stop="20261109133000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109040000 +0200" stop="20261109160000 +0200" channel="pluto_film_azione">
+  <programme start="20261109133000 +0200" stop="20261110013000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109160000 +0200" stop="20261109220000 +0200" channel="pluto_film_azione">
+  <programme start="20261110013000 +0200" stop="20261110073000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261107160000 +0200" stop="20261107202842 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261108013000 +0200" stop="20261108055256 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261107202842 +0200" stop="20261107212142 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Humans: Quarto episodio</title>
-    <desc lang="it">Laura incontra un cliente che pensa che i Synth possono provare emozioni.</desc>
-  </programme>
-  <programme start="20261107212142 +0200" stop="20261107221442 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Humans: Quinto episodio</title>
-    <desc lang="it">Leo manda Niska, inseguita da Karen, a casa di George. Tra i due inizia una strana amicizia; il segreto di Joe minaccia di distruggere la famiglia Hawkin quando Mattie scopre la verità.</desc>
-  </programme>
-  <programme start="20261107221442 +0200" stop="20261107230842 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Humans: Sesto episodio</title>
-    <desc lang="it">Mentre la famiglia Hawkin continua a disgregarsi, Laura fa una confessione che avrà gravi implicazioni per Anita, e Mattie si chiede se potrà mai perdonarla.</desc>
-  </programme>
-  <programme start="20261107230842 +0200" stop="20261107235737 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: L'ibrido fantasma</title>
-    <desc lang="it">La squadra parte per una missione di salvataggio per il figlio di Abe e Dariela, Isaac. Poi, alla ricerca di informazioni su un nuovo ibrido, Mitch e Jamie si recano in California, dove incontrano un volto familiare del loro passato.</desc>
-  </programme>
-  <programme start="20261107235737 +0200" stop="20261108004633 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: In viaggio verso l'ignoto</title>
-    <desc lang="it">Abigail tiene Jackson prigioniero per estorcergli informazioni fondamentali per il suo piano segreto, e la squadra affronta una crisi a mezz'aria quando il loro aereo subisce un malfunzionamento elettrico.</desc>
-  </programme>
-  <programme start="20261108004633 +0200" stop="20261108013538 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: L'anello mancante</title>
-    <desc lang="it">Dopo che l'alter ego di Mitch, il signor Duncan, attacca l'aereo della squadra e poi fugge. Jamie, Abe e Max partono per trovarlo e aiutarlo.</desc>
-  </programme>
-  <programme start="20261108013538 +0200" stop="20261108023944 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: C'era una volta nel nido</title>
-    <desc lang="it">Dopo che Jackson attacca Abigail, la squadra si precipita a salvarla mentre la sua vita è in bilico.</desc>
-  </programme>
-  <programme start="20261108023944 +0200" stop="20261108032841 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: Una brava madre</title>
-    <desc lang="it">Mentre la squadra è intrappolata all'interno dell'aereo a causa di spore tossiche che lo circondano, sorgono complicazioni durante il parto del bambino di Clementine.</desc>
-  </programme>
-  <programme start="20261108032841 +0200" stop="20261108041505 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: West Side Story</title>
-    <desc lang="it">Dopo che l'aereo della squadra ha subito un incidente catastrofico, Dariela e Tessa intraprendono una missione di salvataggio per salvarli.</desc>
-  </programme>
-  <programme start="20261108041505 +0200" stop="20261108050400 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: L'ibrido fantasma</title>
-    <desc lang="it">La squadra parte per una missione di salvataggio per il figlio di Abe e Dariela, Isaac. Poi, alla ricerca di informazioni su un nuovo ibrido, Mitch e Jamie si recano in California, dove incontrano un volto familiare del loro passato.</desc>
-  </programme>
-  <programme start="20261108050400 +0200" stop="20261108055256 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Zoo: In viaggio verso l'ignoto</title>
-    <desc lang="it">Abigail tiene Jackson prigioniero per estorcergli informazioni fondamentali per il suo piano segreto, e la squadra affronta una crisi a mezz'aria quando il loro aereo subisce un malfunzionamento elettrico.</desc>
   </programme>
   <programme start="20261108055256 +0200" stop="20261108064201 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Zoo: L'anello mancante</title>
@@ -284,15 +248,59 @@
     <title lang="it">Humans: Terzo episodio</title>
     <desc lang="it">Athen arriva in Gran Bretagna per incontrare Hobb mentre comincia il controllo della coscienza di Niska per fare una diagnosi.</desc>
   </programme>
-  <programme start="20261108220101 +0200" stop="20261109040000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261108220101 +0200" stop="20261108225501 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Quarto episodio</title>
+    <desc lang="it">Mia e Ed si avvicinano sempre di più ma la loro relazione viene minacciata dalla scoperta di un segreto.</desc>
+  </programme>
+  <programme start="20261108225501 +0200" stop="20261108235907 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: C'era una volta nel nido</title>
+    <desc lang="it">Dopo che Jackson attacca Abigail, la squadra si precipita a salvarla mentre la sua vita è in bilico.</desc>
+  </programme>
+  <programme start="20261108235907 +0200" stop="20261109004804 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Una brava madre</title>
+    <desc lang="it">Mentre la squadra è intrappolata all'interno dell'aereo a causa di spore tossiche che lo circondano, sorgono complicazioni durante il parto del bambino di Clementine.</desc>
+  </programme>
+  <programme start="20261109004804 +0200" stop="20261109013428 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: West Side Story</title>
+    <desc lang="it">Dopo che l'aereo della squadra ha subito un incidente catastrofico, Dariela e Tessa intraprendono una missione di salvataggio per salvarli.</desc>
+  </programme>
+  <programme start="20261109013428 +0200" stop="20261109022246 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: La barriera</title>
+    <desc lang="it">La squadra corre per impedire agli ibridi di sfondare la barriera spegnendo l'ultimo faro che li attira.</desc>
+  </programme>
+  <programme start="20261109022246 +0200" stop="20261109032652 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: C'era una volta nel nido</title>
+    <desc lang="it">Dopo che Jackson attacca Abigail, la squadra si precipita a salvarla mentre la sua vita è in bilico.</desc>
+  </programme>
+  <programme start="20261109032652 +0200" stop="20261109041549 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: Una brava madre</title>
+    <desc lang="it">Mentre la squadra è intrappolata all'interno dell'aereo a causa di spore tossiche che lo circondano, sorgono complicazioni durante il parto del bambino di Clementine.</desc>
+  </programme>
+  <programme start="20261109041549 +0200" stop="20261109050213 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: West Side Story</title>
+    <desc lang="it">Dopo che l'aereo della squadra ha subito un incidente catastrofico, Dariela e Tessa intraprendono una missione di salvataggio per salvarli.</desc>
+  </programme>
+  <programme start="20261109050213 +0200" stop="20261109055031 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Zoo: La barriera</title>
+    <desc lang="it">La squadra corre per impedire agli ibridi di sfondare la barriera spegnendo l'ultimo faro che li attira.</desc>
+  </programme>
+  <programme start="20261109055031 +0200" stop="20261109064331 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Settimo episodio</title>
+    <desc lang="it">Fred, Niska, e Mia si riuniscono presso gli Hawkin per salvare Max, ma la polizia è sulle loro tracce e sono costretti a fuggire ancora una volta.</desc>
+  </programme>
+  <programme start="20261109064331 +0200" stop="20261109073431 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Humans: Ottavo episodio</title>
+    <desc lang="it">Quando i Synths sono catturati da Hobb gli unici che possono salvarli sono gli Hawkin che, aiutati da Pete Drummond, minacciano di rivelare tutto alla stampa se i Synths non saranno rilasciati.</desc>
+  </programme>
+  <programme start="20261109073431 +0200" stop="20261109133000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109040000 +0200" stop="20261109160000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261109133000 +0200" stop="20261110013000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261109160000 +0200" stop="20261109220000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261110013000 +0200" stop="20261110073000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
