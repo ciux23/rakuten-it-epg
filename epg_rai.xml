@@ -133,7 +133,7 @@
   </programme>
   <programme start="20261111203000 +0200" stop="20261111203500 +0200" channel="Rai1.it">
     <title lang="it">Cinque Minuti - Puntata del 11/11/2026</title>
-    <desc lang="it">Bruno Vespa racconta l'Italia e il mondo attraverso interviste a personaggi della politica interna e internazionale, del mondo artistico, culturale e dello spettacolo per approfondire le notizie giorno per giorno.</desc>
+    <desc lang="it">Il presidente del Movimento 5 Stelle è ospite di Bruno Vespa, nella puntata di "Cinque minuti".</desc>
   </programme>
   <programme start="20261111203500 +0200" stop="20261111213000 +0200" channel="Rai1.it">
     <title lang="it">Affari tuoi - Puntata del 11/11/2026</title>
@@ -240,7 +240,7 @@
   </programme>
   <programme start="20261112203000 +0200" stop="20261112233000 +0200" channel="Rai1.it">
     <title lang="it">Calcio: UEFA Nations League 2026-2027 - Lega A: Italia - Francia - 12/11/2026</title>
-    <desc lang="it">Ultimo incontro casalingo per la Nazionale nel girone di UEFA Nations League, allo Stadio Giuseppe Meazza di Milano, che a distanza di due anni tornerà ad ospitare una delle sfide più affascinanti del calcio europeo e mondiale.  Calcio. UEFA Nations League 2026/27. A cura di RaiSport. In diretta presso lo Stadio San Siro di Milano. Telecronaca di Alberto Rimedio. Commento tecnico di Daniele Adani. A bordo campo Tiziana Alla. Interviste di Alessandra D'Angiò e Fabrizio Tumbarello. In studio Alessandro Antinelli e Andrea Stramaccioni.</desc>
+    <desc lang="it">Ultimo incontro casalingo per la Nazionale nel girone di UEFA Nations League, allo Stadio Giuseppe Meazza di Milano, che a distanza di due anni tornerà ad ospitare una delle sfide più affascinanti del calcio europeo e mondiale. Gli Azzurri di Roberto Mancini cercano un risultato importante nel penultimo impegno della fase a gironi, prima della trasferta conclusiva contro il Belgio.</desc>
   </programme>
   <programme start="20261112233000 +0200" stop="20261112235500 +0200" channel="Rai1.it">
     <title lang="it">Porta a Porta - Puntata del 12/11/2026</title>
@@ -466,7 +466,7 @@
   </programme>
   <programme start="20261111170000 +0200" stop="20261111180000 +0200" channel="Rai2.it">
     <title lang="it">La Porta Magica - Puntata del 11/11/2026</title>
-    <desc lang="it">Grazie ad Andrea Delogu ed al suo team di coach specializzati in cambiamenti, persone comuni hanno la possibilità di realizzare il sogno di rivoluzionare la propria vita e mostrare la trasformazione ai propri cari.</desc>
+    <desc lang="it">Jole, soccorritrice e grande donna, desidera un radicale cambio look per prendersi cura della sua femminilità. Giorgia, invece, chiede aiuto alla Porta Magica per fare una romantica dedica canora al marito. Quest'ultimo le fa a sua volta una sorpresa,  presentandosi durante l'esibizione e dedicando alla moglie una profonda dichiarazione d'amore.</desc>
   </programme>
   <programme start="20261111180000 +0200" stop="20261111181000 +0200" channel="Rai2.it">
     <title lang="it">Rai Parlamento Telegiornale</title>
@@ -898,12 +898,12 @@
     <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
   </programme>
   <programme start="20261111201500 +0200" stop="20261111203500 +0200" channel="Rai3.it">
-    <title lang="it">Generazione Bellezza - Pievasciata, l’arte nel bosco - Puntata del 11/11/2026</title>
+    <title lang="it">Generazione Bellezza - Pievasciata, l'arte nel bosco - Puntata del 11/11/2026</title>
     <desc lang="it">Tra le colline del Chianti, l'arte contemporanea esce dai musei tradizionali ed entra dentro un bosco, dando vita a un parco scultoreo integrato con la natura. Da questo spazio la bellezza scappa dai cancelli e contamina positivamente le strade, le aziende e le frazioni dei borghi circostanti. Un'esperienza diffusa che trasforma la vita quotidiana e attrae visitatori da tutto il mondo.</desc>
   </programme>
   <programme start="20261111203500 +0200" stop="20261111204500 +0200" channel="Rai3.it">
     <title lang="it">Il cavallo e la torre - Puntata del 11/11/2026</title>
-    <desc lang="it">Marco Damilano racconta il fatto del giorno in 10 minuti: la politica, i poteri e le persone dei nostri tempi.</desc>
+    <desc lang="it">Marco Damilano dialoga con la scrittrice e giornalista Naomi Klein e con la giornalista e attivista Astra Taylor. Nel loro ultimo libro parlano di nuovo fascismo. Quali sono le sue caratteristiche, perché ha avuto successo, almeno fino alla sconfitta di Trump, e qual è il ruolo giocato dai tecno-oligarchi dell'intelligenza artificiale? </desc>
   </programme>
   <programme start="20261111204500 +0200" stop="20261111211500 +0200" channel="Rai3.it">
     <title lang="it">Un posto al sole - Puntata del 11/11/2026 EP7068</title>
@@ -3408,40 +3408,48 @@
     <desc lang="it">GP Cup of China: Gala </desc>
   </programme>
   <programme start="20261112180000 +0200" stop="20261112194500 +0200" channel="RaiSport.it">
-    <title lang="it">Nuoto: Assoluti Invernali 2026 - Finali: 1a giornata</title>
-    <desc lang="it">Assoluti Invernali - Finali: 1a giornata</desc>
+    <title lang="it">Nuoto: Campionati Assoluti Invernali 2026 - Finali (1a giornata)</title>
+    <desc lang="it">Campionati Assoluti Invernali - Finali (1a giornata)</desc>
   </programme>
-  <programme start="20261112194500 +0200" stop="20261112204500 +0200" channel="RaiSport.it">
-    <title lang="it">Radiocorsa</title>
-    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti. </desc>
+  <programme start="20261112194500 +0200" stop="20261112201500 +0200" channel="RaiSport.it">
+    <title lang="it">Diretta Azzurra del 11/11/2026</title>
+    <desc lang="it">La diretta di Rai Sport per seguire da vicino gli atleti azzurri prima e dopo la partita in programma.</desc>
+  </programme>
+  <programme start="20261112201500 +0200" stop="20261112204500 +0200" channel="RaiSport.it">
+    <title lang="it">Radiocorsa del 05/11/2026</title>
+    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
   <programme start="20261112204500 +0200" stop="20261112232000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Bergamo - Cuneo 8a g.ta</title>
-    <desc lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Bergamo - Cuneo 8a g.ta</desc>
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 8a giornata: ChorusLife Bergamo - Granda Volley Cuneo</title>
+    <desc lang="it">Nell'ottava giornata della Serie A1 Fineco 2026-2027, ChorusLife Volley Bergamo e Granda Volley Cuneo si affrontano in una nuova sfida del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261112232000 +0200" stop="20261112233000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
     <desc lang="it">Memory - Rai Sport</desc>
   </programme>
   <programme start="20261112233000 +0200" stop="20261113000000 +0200" channel="RaiSport.it">
-    <title lang="it">Tender</title>
+    <title lang="it">Tender del 12/11/2026</title>
     <desc lang="it">Il mare, la vela, lo sport e molto altro ancora: benvenuti a Tender. </desc>
   </programme>
   <programme start="20261113000000 +0200" stop="20261113010000 +0200" channel="RaiSport.it">
-    <title lang="it">Pattinaggio di Figura: ISU GP Cup of China 2026 Gala Exhibition</title>
-    <desc lang="it">Pattinaggio di Figura: ISU GP Cup of China 2026 Gala Exhibition</desc>
+    <title lang="it">Pattinaggio di Figura - GP Cup of China 2026: Gala</title>
+    <desc lang="it">GP Cup of China: Gala </desc>
   </programme>
   <programme start="20261113010000 +0200" stop="20261113024500 +0200" channel="RaiSport.it">
-    <title lang="it">Nuoto. C.to Italiano Invernale Riccione - 1a g.ta</title>
-    <desc lang="it">Nuoto. C.to Italiano Invernale Riccione - 1a g.ta</desc>
+    <title lang="it">Nuoto: Campionati Assoluti Invernali 2026 - Finali (1a giornata)</title>
+    <desc lang="it">Campionati Assoluti Invernali - Finali (1a giornata)</desc>
   </programme>
   <programme start="20261113024500 +0200" stop="20261113034500 +0200" channel="RaiSport.it">
-    <title lang="it">Radiocorsa</title>
-    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti. </desc>
+    <title lang="it">Radiocorsa del 05/11/2026</title>
+    <desc lang="it">Uno sguardo sul ciclismo, dalle corse dilettantistiche, alle gare professionistiche delle varie categorie (pista, ciclocross, mountain bike, etc.), fino al ricordo degli eventi storici più importanti.</desc>
   </programme>
-  <programme start="20261113034500 +0200" stop="20261113060000 +0200" channel="RaiSport.it">
-    <title lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Bergamo - Cuneo 8a g.ta</title>
-    <desc lang="it">Pallavolo Femminile: Serie A1 Fineco 2026/27 Bergamo - Cuneo 8a g.ta</desc>
+  <programme start="20261113034500 +0200" stop="20261113043000 +0200" channel="RaiSport.it">
+    <title lang="it">Tender del 12/11/2026</title>
+    <desc lang="it">Il mare, la vela, lo sport e molto altro ancora: benvenuti a Tender. </desc>
+  </programme>
+  <programme start="20261113043000 +0200" stop="20261113060000 +0200" channel="RaiSport.it">
+    <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 8a giornata: ChorusLife Bergamo - Granda Volley Cuneo</title>
+    <desc lang="it">Nell'ottava giornata della Serie A1 Fineco 2026-2027, ChorusLife Volley Bergamo e Granda Volley Cuneo si affrontano in una nuova sfida del massimo campionato italiano.</desc>
   </programme>
   <programme start="20261113060000 +0200" stop="20261113065000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili Dakar 2026 sintesi - 10a giornata</title>
