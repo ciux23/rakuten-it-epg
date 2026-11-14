@@ -111,19 +111,19 @@
   <programme start="20261114133000 +0200" stop="20261114140000 +0200" channel="Rai1.it">
     <title lang="it">TELEGIORNALE</title>
   </programme>
-  <programme start="20261114140000 +0200" stop="20261114151000 +0200" channel="Rai1.it">
+  <programme start="20261114140000 +0200" stop="20261114151500 +0200" channel="Rai1.it">
     <title lang="it">Bar centrale - Puntata del 14/11/2026</title>
     <desc lang="it">Elisa Isoardi commenta l'attualità in compagnia di Serena Bortone, Rosanna Lambertucci, Gigi Marzullo e Francesco Giubilei. Ogni settimana un piccolo borgo italiano racconta le storie della propria comunità. </desc>
   </programme>
-  <programme start="20261114151000 +0200" stop="20261114160500 +0200" channel="Rai1.it">
+  <programme start="20261114151500 +0200" stop="20261114160500 +0200" channel="Rai1.it">
     <title lang="it">Il Paradiso delle Signore - Daily - S11E50</title>
     <desc lang="it">Lia ha il permesso dalla madre di frequentare Carmine, ma Matteo richiama la ragazza alla prudenza. Mimmo scopre che la torta gelato fatta con Michelino è stata servita ai soci del Circolo. Diana partecipa alla creazione degli abiti per lei e Carla da indossare il giorno della mostra, mentre Iacopo legge qualcosa che lo turba. Umberto fa di tutto per rintracciare Nicoletta.</desc>
   </programme>
-  <programme start="20261114160500 +0200" stop="20261114164700 +0200" channel="Rai1.it">
+  <programme start="20261114160500 +0200" stop="20261114165300 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine - Puntata del 14/11/2026</title>
     <desc lang="it">Lorena Bianchetti incontra Eleonora Goldoni, calciatrice della Lazio e della Nazionale italiana, che ripercorre la sua carriera, dagli esordi nelle squadre maschili all'esperienza negli Stati Uniti, fino al ritorno in Italia. Un racconto tra sport, sacrifici e fragilità personali, segnato anche da un difficile rapporto con il cibo, superato grazie al sostegno della famiglia. Spazio poi alla fede, diventata per l'atleta un punto di riferimento dentro e fuori dal campo. A seguire, ne "Le Ragioni della Speranza", don Antonio Loffredo commenta da Donnaregina, a Napoli, la parabola dei talenti.</desc>
   </programme>
-  <programme start="20261114164700 +0200" stop="20261114165500 +0200" channel="Rai1.it">
+  <programme start="20261114165300 +0200" stop="20261114165500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
   <programme start="20261114165500 +0200" stop="20261114170500 +0200" channel="Rai1.it">
@@ -289,19 +289,19 @@
     <title lang="it">Previsioni sulla viabilità CCISS Viaggia</title>
     <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</desc>
   </programme>
-  <programme start="20261116063000 +0200" stop="20261116065800 +0200" channel="Rai1.it">
+  <programme start="20261116063000 +0200" stop="20261116070000 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
   </programme>
-  <programme start="20261116065800 +0200" stop="20261116070000 +0200" channel="Rai1.it">
+  <programme start="20261116070000 +0200" stop="20261116070900 +0200" channel="Rai1.it">
+    <title lang="it">TG1</title>
+  </programme>
+  <programme start="20261116070900 +0200" stop="20261116080000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
-  <programme start="20261116070000 +0200" stop="20261116080000 +0200" channel="Rai1.it">
+  <programme start="20261116080000 +0200" stop="20261116082800 +0200" channel="Rai1.it">
     <title lang="it">TG1</title>
   </programme>
-  <programme start="20261116080000 +0200" stop="20261116083000 +0200" channel="Rai1.it">
-    <title lang="it">TG1</title>
-  </programme>
-  <programme start="20261116083000 +0200" stop="20261116083500 +0200" channel="Rai1.it">
+  <programme start="20261116082800 +0200" stop="20261116083500 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
   </programme>
   <programme start="20261116083500 +0200" stop="20261116085500 +0200" channel="Rai1.it">
@@ -447,10 +447,6 @@
   <programme start="20261114100000 +0200" stop="20261114104000 +0200" channel="Rai2.it">
     <title lang="it">Slalom femminile 1^ manche</title>
     <desc lang="it">SPORT. - Sci alpino. Coppa del Mondo 2026-27 In diretta da Levi (FIN) Telecronaca di Maurizio Fanelli e Verena Stuffer Interviste a bordo pista di Ettore Giovannelli </desc>
-  </programme>
-  <programme start="20261114100000 +0200" stop="20261114130000 +0200" channel="Rai2.it">
-    <title lang="it">Sci Alpino: Coppa del Mondo 2026-2027 - Levi: Slalom Femminile (1a manche)</title>
-    <desc lang="it">A Levi va in scena la prima manche dello slalom femminile di Coppa del Mondo. Sulla pista finlandese le migliori specialiste si giocano la vittoria nella prova che apre la stagione dello slalom.</desc>
   </programme>
   <programme start="20261114104000 +0200" stop="20261114130000 +0200" channel="Rai2.it">
     <title lang="it">RaiSport Live Weekend</title>
@@ -783,8 +779,8 @@
     <desc lang="it">"Mi manda Rai Tre" apre la puntata del sabato mattina in diretta con uno spazio dedicato all'attualità, condotto da Giulia Presutti con ospiti, in studio e/o in collegamento, e RVM di approfondimento a supporto dei temi affrontati.</desc>
   </programme>
   <programme start="20261114083000 +0200" stop="20261114100000 +0200" channel="Rai3.it">
-    <title lang="it">Mi manda Rai Tre Presenta - Puntata del 13/11/2026</title>
-    <desc lang="it">Federico Ruffo indaga sull'economia dei minimarket aperti 24 ore su 24 e sulle condizioni di lavoro dei dipendenti. Spazio poi ai prodotti alimentari etnici venduti nei supermercati, tra ingredienti ed etichette, e alla sicurezza delle attrazioni nei luna park, dopo alcuni gravi incidenti. Al centro della puntata anche il caso delle finte cremazioni degli animali domestici, con le indagini delle Procure sulle presunte truffe ai proprietari. Infine, i controlli dei Nas sulla sicurezza e sull'etichettatura delle caramelle.</desc>
+    <title lang="it">Mi manda Rai Tre Presenta - Puntata del 06/11/2026</title>
+    <desc lang="it">Federico Ruffo approfondisce il fenomeno delle auto con targa straniera, tra risparmi assicurativi e possibili irregolarità. Spazio poi alla filiera del prosciutto crudo Dop, dalla qualità degli allevamenti alla stagionatura, e a un'inchiesta sui prodotti impanati pronti da cuocere, tra ingredienti e additivi. Infine, un viaggio nelle cucine del food delivery insieme ai Nas dei Carabinieri, per verificare il rispetto delle norme igieniche e le condizioni di trasporto degli alimenti.</desc>
   </programme>
   <programme start="20261114100000 +0200" stop="20261114100500 +0200" channel="Rai3.it">
     <title lang="it">Gli Imperdibili</title>
@@ -900,13 +896,13 @@
     <title lang="it">Il bosco di betulle</title>
     <desc lang="it">Ambientato a inizio Novecento. Bolesław, incapace di sottrarsi al ricordo della moglie sepolta nel bosco di betulle che circonda la sua abitazione, accoglie il fratello Stanisław, malato e consapevole di avere poco da vivere, ma animato da un irrefrenabile desiderio d'amore e di vita.</desc>
   </programme>
-  <programme start="20261115041000 +0200" stop="20261115053300 +0200" channel="Rai3.it">
+  <programme start="20261115041000 +0200" stop="20261115053000 +0200" channel="Rai3.it">
     <title lang="it">Tatarak</title>
     <desc lang="it">Tratto da un dramma dello scrittore Jaroslaw Iwaszkiewicz ambientato in una cittadina di campagna nel dopoguerra. Marta è una donna molto bella segnata dalla morte dei figli in guerra.</desc>
   </programme>
-  <programme start="20261115053300 +0200" stop="20261115060000 +0200" channel="Rai3.it">
-    <title lang="it">Fuori Orario. Cose (mai) viste</title>
-    <desc lang="it">La rassegna Immagini dalla tempesta. Il cinema di Andrzej Wajda è stata ideata, nel centenario della nascita del regista e a dieci anni dalla morte, come sezione di "Grandi Classici del Cinema Polacco", nell'ambito della XIV edizione del festival CiakPolska 2026, che si svolge a Roma dal 10 al 22 novembre. Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta IMMAGINI DELLA TEMPESTA. IL CINEMA DI ANDRZEJ WAJDA. In collaborazione con l'Istituto Polacco, nell'ambito di CiakPolska Film Festival 2026</desc>
+  <programme start="20261115053000 +0200" stop="20261115060000 +0200" channel="Rai3.it">
+    <title lang="it">Eo</title>
+    <desc lang="it">FILM - Dopo la chiusura del circo polacco in cui si esibisce con la giovane circense Kassandra, l'asino di nome Eo attraversa l'Europa e dopo molte peripezie picaresche e incontri imprevisti si ritrova infine in Italia in mezzo a una mandria d - i mucche portate al mattatoio.  A ottantaquattro anni Jerzy Skolimowski si confronta con il capolavoro di Robert Bresson, Au hasard Balthazar, per ritrarre senza indulgenza - nella brutalità o nell'indifferenza degli uomini - lo stato vulnerabile e forse terminale dell'Europa contemporanea. - (2022)Regia: Jerzy Skolimowski Sceneggiatura: Ewa Piaskowska,  Jerzy Skolimowski Con: Sandra Drzymalska,  Lorenzo Zurzolo, Mateusz Kosciukiewicz, Isabelle Huppert, Lolita Chammah</desc>
   </programme>
   <programme start="20261115060000 +0200" stop="20261115070000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
@@ -1003,19 +999,19 @@
   <programme start="20261116003000 +0200" stop="20261116003500 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
-  <programme start="20261116003500 +0200" stop="20261116025000 +0200" channel="Rai3.it">
+  <programme start="20261116003500 +0200" stop="20261116024500 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora - Puntata del 15/11/2026</title>
     <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
   </programme>
-  <programme start="20261116025000 +0200" stop="20261116030000 +0200" channel="Rai3.it">
+  <programme start="20261116024500 +0200" stop="20261116025000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">La rassegna Immagini dalla tempesta. Il cinema di Andrzej Wajda è stata ideata, nel centenario della nascita del regista e a dieci anni dalla morte, come sezione di "Grandi Classici del Cinema Polacco", nell'ambito della XIV edizione del festival CiakPolska 2026, che si svolge a Roma dal 10 al 22 novembre. Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta IMMAGINI DELLA TEMPESTA. IL CINEMA DI ANDRZEJ WAJDA (2). In collaborazione con l'Istituto Polacco, nell'ambito di CiakPolska Film Festival 2026</desc>
   </programme>
-  <programme start="20261116030000 +0200" stop="20261116045600 +0200" channel="Rai3.it">
+  <programme start="20261116025000 +0200" stop="20261116043900 +0200" channel="Rai3.it">
     <title lang="it">Le signorine di Wilko</title>
     <desc lang="it">Polonia, 1929. Afflitto dalla morte di un amico, Wiktor decide di trascorrere un periodo di riposo nella campagna di Wilko, dove da giovane trascorse un'estate in compagnia di cinque sorelle. Tanti ricordi, sentimenti che resistono, nostalgia.  Ma il tempo è trascorso e Viktor deve fare i conti con se stesso e la propria vita.</desc>
   </programme>
-  <programme start="20261116045600 +0200" stop="20261116060000 +0200" channel="Rai3.it">
+  <programme start="20261116043900 +0200" stop="20261116060000 +0200" channel="Rai3.it">
     <title lang="it">Fuori Orario. Cose (mai) viste</title>
     <desc lang="it">La rassegna Immagini dalla tempesta. Il cinema di Andrzej Wajda è stata ideata, nel centenario della nascita del regista e a dieci anni dalla morte, come sezione di "Grandi Classici del Cinema Polacco", nell'ambito della XIV edizione del festival CiakPolska 2026, che si svolge a Roma dal 10 al 22 novembre. Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta IMMAGINI DELLA TEMPESTA. IL CINEMA DI ANDRZEJ WAJDA (2). In collaborazione con l'Istituto Polacco, nell'ambito di CiakPolska Film Festival 2026</desc>
   </programme>
@@ -1066,10 +1062,10 @@
   <programme start="20261116141900 +0200" stop="20261116142000 +0200" channel="Rai3.it">
     <title lang="it">TG Regione Meteo</title>
   </programme>
-  <programme start="20261116142000 +0200" stop="20261116144900 +0200" channel="Rai3.it">
+  <programme start="20261116142000 +0200" stop="20261116144800 +0200" channel="Rai3.it">
     <title lang="it">TG3</title>
   </programme>
-  <programme start="20261116144900 +0200" stop="20261116145000 +0200" channel="Rai3.it">
+  <programme start="20261116144800 +0200" stop="20261116145000 +0200" channel="Rai3.it">
     <title lang="it">Meteo 3</title>
   </programme>
   <programme start="20261116145000 +0200" stop="20261116150500 +0200" channel="Rai3.it">
@@ -1612,43 +1608,35 @@
     <title lang="it">Sapiens, un solo pianeta - Il viaggio della scimmia armata - Puntata del 30/11/2024</title>
     <desc lang="it">Gli uomini sono i soli animali a darsi battaglia e gli unici ad avere inventato le armi? La guerra può essere un motore di evoluzione o lascia sul campo solo morte e distruzione? Questi sono alcuni degli interrogativi al centro del racconto di Mario Tozzi. Un viaggio nell'animo umano per capire se vi sia una origine evolutiva alla violenza che gli uomini hanno da sempre dispiegato gli uni contro gli altri. Come è accaduto poco più di un secolo fa in uno dei luoghi più visitati dal turismo internazionale: le Dolomiti. Qui austriaci e italiani si sono fronteggiati in uno dei più difficili teatri della Grande Guerra. Mario Tozzi sale sulle vette del Lagazuoi e delle Cinque Torri per raccontare la vita dei soldati che combattevano su fronti avversi a 2700 metri di quota visitando le trincee e i percorsi che hanno abbracciato le montagne fino a modificarne permanentemente il profilo. Le fasi salienti dell'evoluzione della guerra che è intrinsecamente connessa a quella delle armi. Evoluzione tecnologica e strategie hanno trasformato nei secoli i rapporti di forza sul Pianeta. Come è accaduto ad Aquileia, città ricca e potente della Roma imperiale, invasa e saccheggiata nel 452 d.C. dagli Unni, guerrieri nomadi provenienti dalle steppe asiatiche.</desc>
   </programme>
-  <programme start="20261115122400 +0200" stop="20261115125400 +0200" channel="Rai5.it">
+  <programme start="20261115122400 +0200" stop="20261115125700 +0200" channel="Rai5.it">
     <title lang="it">Passepartout: Segno e gesto</title>
     <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Daver - io regia Mauro Raponi. Puntata del 08/06/08. -  2008 ITA</desc>
   </programme>
-  <programme start="20261115125400 +0200" stop="20261115132700 +0200" channel="Rai5.it">
-    <title lang="it">Passepartout: C'era una volta</title>
-    <desc lang="it">Replica della settima stagione di Passepartout, il programma di Philippe Daverio dedicato alla storia dell'arte e ai suoi rapporti con la cultura, la società e il costume. Un programma di e con Philippe Dav - erio regia Mauro Raponi. Puntata del 15/06/08. -  2008 ITA</desc>
-  </programme>
-  <programme start="20261115132700 +0200" stop="20261115135800 +0200" channel="Rai5.it">
+  <programme start="20261115125700 +0200" stop="20261115132700 +0200" channel="Rai5.it">
     <title lang="it">Save the Date - Biennale Danza&amp;Musica 2026 - 13/11/2026</title>
     <desc lang="it">Un reportage sulle manifestazioni estive di Biennale Venezia: il 20esimo Festival Internazionale di Danza Contemporanea diretto da Wayne McGregor e il 70esimo Festival Internazionale di Musica Contemporanea diretto da Caterina Barbieri. Solisti e Compagnie internazionali per la Danza e concerti con ensemble provenienti da tutto il mondo.</desc>
   </programme>
-  <programme start="20261115135800 +0200" stop="20261115143200 +0200" channel="Rai5.it">
+  <programme start="20261115132700 +0200" stop="20261115140100 +0200" channel="Rai5.it">
     <title lang="it">Tappeto Rosso - Puntata del 10/11/2026</title>
     <desc lang="it">Sono Paola Randi e Filippo Timi, protagonisti di "Se domani non torno", il film ispirato alla vicenda di Giulia Cecchettin, gli ospiti di Marilina Succo a "Tappeto Rosso". I due ospiti riflettono con Marilina Succo sul rapporto tra cinema e realtà, sul valore del racconto civile e sulla responsabilità di portare sullo schermo una storia ancora profondamente viva nella coscienza collettiva. Alberto Barbera, direttore della Mostra Internazionale d'Arte Cinematografica di Venezia, poi, ripercorre la tradizione del cinema civile italiano e la capacità di continuare a interrogare e raccontare il presente. E ancora, in occasione della mostra "Gillo Pontecorvo. Una battaglia dopo l'altra", in corso alla Mole Antonelliana di Torino, l'incontro con il figlio Marco Pontecorvo, regista e direttore della fotografia, per riflettere sull'eredità umana, artistica e culturale di un grande maestro. Il critico Federico Pontiggia, inoltre, fa il punto su alcuni dei titoli più attesi della stagione: "El ser querido" di Rodrigo Sorogoyen, "Gradiva" di Alain Parroni e "Look Back" di Kiyotaka Oshiyama. L'uscita di "Un weekend artificiale" di Leonardo Pieraccioni, infine, introduce una riflessione sulle opportunità e le sfide poste dall'intelligenza artificiale nell'industria cinematografica.</desc>
   </programme>
-  <programme start="20261115143200 +0200" stop="20261115152800 +0200" channel="Rai5.it">
+  <programme start="20261115140100 +0200" stop="20261115145700 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S7E16 - Polifonie del Parco d'Abruzzo</title>
     <desc lang="it">Il Parco Nazionale d'Abruzzo compie 100 anni. Gemma Giorgini e Vittorio Rizzo lo attraversano, scoprendo un universo di storie umane intrecciate ai suoni della natura. Ululati di lupi, sibilo del vento e silenzio scandiscono l'armonia tra uomo e ambiente, attraverso il respiro del Parco.</desc>
   </programme>
-  <programme start="20261115152800 +0200" stop="20261115161900 +0200" channel="Rai5.it">
-    <title lang="it">Wild Italy - S8E7 - La natura in città al tempo del lockdown</title>
-    <desc lang="it">Il lockdown 2020-2021 è stato anche un colossale esperimento ambientale, che ha determinato profonde conseguenze nell'assetto del popolamento di animali e di piante delle aree urbane. Grazie anche all'espansione delle popolazioni di grandi animali favorita dalla diminuzione della pressione venatoria.</desc>
-  </programme>
-  <programme start="20261115161900 +0200" stop="20261115163300 +0200" channel="Rai5.it">
+  <programme start="20261115145700 +0200" stop="20261115151100 +0200" channel="Rai5.it">
     <title lang="it">Geo Doc - Posta Fibreno - 18/03/2021</title>
     <desc lang="it">Nel Lazio, in provincia di Frosinone, si trova il piccolo comune di Posta Fibreno. Sul suo territorio scorrono le acque del fiume e del lago omonimi, habitat preziosi per l'ecosistema e fonti di sostentamento per gli abitanti di quest'area, che, nel corso dei secoli, hanno saputo conciliare le pratiche agricole e quelle ittiche, sviluppando una forte ed inedita identità culturale rispetto ai paesi vicini.</desc>
   </programme>
-  <programme start="20261115163300 +0200" stop="20261115174600 +0200" channel="Rai5.it">
-    <title lang="it">La Malattia dell'Ostrica</title>
-    <desc lang="it">Attraverso incursioni nella vita dei grandi e delle grandi della letteratura, Claudio Morici accompagna suo figlio nella tempestosa età adolescenziale, ma soprattutto compie un viaggio a ritroso nella propria, riportando alla memoria come i libri lo abbiano curato. Perché gli scrittori ci salvano la vita.</desc>
+  <programme start="20261115151100 +0200" stop="20261115174600 +0200" channel="Rai5.it">
+    <title lang="it">Orlando Furioso (Teatro)</title>
+    <desc lang="it">Orlando furioso di Ludovico Ariosto, con la regia di Davide Livermore, rilegge il poema cavalleresco in chiave contemporanea, ponendo al centro le figure femminili e i temi di amore, follia e libertà. In scena cinque attrici, una danzatrice e un attore accompagnati dall'Ensemble La Chimera. Regia tv Daniela Vismara</desc>
   </programme>
-  <programme start="20261115174600 +0200" stop="20261115202600 +0200" channel="Rai5.it">
+  <programme start="20261115174600 +0200" stop="20261115202700 +0200" channel="Rai5.it">
     <title lang="it">Splendida Cornice - Puntata del 12/11/2026</title>
     <desc lang="it">Tra gli ospiti della puntata, l'attrice e regista Kasia Smutniak, la cantante Giusy Ferreri, che insieme a Geppi si esibirà sulle note di "Novembre" e in collegamento dall'hotel di via delle Botteghe Oscure, a Roma, il giornalista Marco Damilano. Spazio poi al cinema con l'attore Lino Musella e l'attrice Giulia Vecchio. Un parterre ricco che vede anche la partecipazione della giornalista e conduttrice Cristina Parodi, del regista Maurizio Nichetti, del fumettista Igort, di Nico Acampora, della storica Lisa Roscioni e Sir Oliver Skardy. In studio anche l'attore comico Enrico Beruschi, l'attore Patrizio Rispo, Chiara Cattaneo e lo scrittore e giornalista Edoardo Camurri. A rendere omaggio a Corto Maltese il primo ballerino del Teatro alla Scala Gioacchino Starace, con una coreografia sulle note di "Ma come fanno i marinai".</desc>
   </programme>
-  <programme start="20261115202600 +0200" stop="20261115202800 +0200" channel="Rai5.it">
+  <programme start="20261115202700 +0200" stop="20261115202800 +0200" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <desc lang="it">Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. -  2026 ITA</desc>
   </programme>
@@ -1720,11 +1708,11 @@
     <title lang="it">Wild Italy - S8E7 - La natura in città al tempo del lockdown</title>
     <desc lang="it">Il lockdown 2020-2021 è stato anche un colossale esperimento ambientale, che ha determinato profonde conseguenze nell'assetto del popolamento di animali e di piante delle aree urbane. Grazie anche all'espansione delle popolazioni di grandi animali favorita dalla diminuzione della pressione venatoria.</desc>
   </programme>
-  <programme start="20261116100500 +0200" stop="20261116101000 +0200" channel="Rai5.it">
+  <programme start="20261116100500 +0200" stop="20261116101100 +0200" channel="Rai5.it">
     <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
     <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. -  2026 ITA</desc>
   </programme>
-  <programme start="20261116101000 +0200" stop="20261116110000 +0200" channel="Rai5.it">
+  <programme start="20261116101100 +0200" stop="20261116110000 +0200" channel="Rai5.it">
     <title lang="it">Storie della Scienza. pt5. Cervello</title>
     <desc lang="it">Il cervello, l'organo più importante del nostro corpo, è anche il più difficile da studiare. E infatti la storia dello studio del cervello, iniziata ai tempi delle civiltà mesopotamiche, ha conosciuto errori di valutazione, ipotesi sbagliati, cambi di rotta. Fino ad arrivare alle odierne neuroscienze, che grazie a tecnologie sempre più sofisticate superano ogni giorno nuovi traguardi. Percorriamo questa storia della scienza con Fabio Zampieri - Storico della Scienza, Università di Padova, Matteo Cerri - Neurofisiologo, Università di Bologna, Raffaella Rumiati - Neuroscienziata, Sissa di Trieste. </desc>
   </programme>
@@ -1744,19 +1732,19 @@
     <title lang="it">Evolution - Il viaggio di Darwin Puntata</title>
     <desc lang="it">Evolution - Il viaggio di Darwin Puntata 37 Prima Visione RAI - RUBRICA - In questa puntata "Maialini straordinari" e "America's wild seasons Ep.04: Winter" -  2026 ITA</desc>
   </programme>
-  <programme start="20261116145800 +0200" stop="20261116155000 +0200" channel="Rai5.it">
+  <programme start="20261116145800 +0200" stop="20261116155100 +0200" channel="Rai5.it">
     <title lang="it">Maialini straordinari</title>
     <desc lang="it">Sporchi? Avidi? Pigri? È ora di ripensarci. I maiali sono estremamente intelligenti, possiedono sensi acuti e prosperano in quasi tutti gli habitat della Terra: per il pianeta ne vagano circa due miliardi.</desc>
   </programme>
-  <programme start="20261116155000 +0200" stop="20261116164100 +0200" channel="Rai5.it">
+  <programme start="20261116155100 +0200" stop="20261116164100 +0200" channel="Rai5.it">
     <title lang="it">America's Wild Seasons - S1E4</title>
     <desc lang="it">L'inverno è la sfida più grande. Con il crollo delle temperature, solo i più resistenti sopravvivono all'inverno, la stagione più dura dell'anno selvaggio americano.</desc>
   </programme>
-  <programme start="20261116164100 +0200" stop="20261116182900 +0200" channel="Rai5.it">
+  <programme start="20261116164100 +0200" stop="20261116183000 +0200" channel="Rai5.it">
     <title lang="it">Mi chiamo Francesco Totti</title>
     <desc lang="it">La vita e la carriera di Francesco Totti, raccontata dalla voce del "capitano". Campione amatissimo non solo dai tifosi dell'AS Roma. Giocatore dalla carriera longeva e strabiliante, ambito da club nazionali e internazionali, uno dei pochi atleti al mondo che ha militato tutta la carriera in una sola squadra, con una sola maglia, quella giallorossa. Tradita soltanto per quella della nazionale. David di Donatello per il miglior documentario nel 2021.</desc>
   </programme>
-  <programme start="20261116182900 +0200" stop="20261116192300 +0200" channel="Rai5.it">
+  <programme start="20261116183000 +0200" stop="20261116192300 +0200" channel="Rai5.it">
     <title lang="it">1939-1945. La II Guerra Mondiale Quell'estate del 1943</title>
     <desc lang="it">Una serie presentata da Paolo Mieli e narrata da Carlo Lucarelli Coordinamento editoriale Pietro Raschilla' - v. pag. 526 - Presentati da Paolo Mieli e narrati da Carlo Lucarelli, 20 episodi per raccontare la Seconda Guerra Mondiale, alla luce delle nuove interpretazioni storiografiche</desc>
   </programme>
@@ -2448,9 +2436,13 @@
     <title lang="it">METEO</title>
     <desc lang="it">,. - ,</desc>
   </programme>
-  <programme start="20261114163000 +0200" stop="20261114170000 +0200" channel="RaiNews24.it">
+  <programme start="20261114163000 +0200" stop="20261114165000 +0200" channel="RaiNews24.it">
     <title lang="it">POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA</title>
     <desc lang="it">POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIAL ROOM - , - ,</desc>
+  </programme>
+  <programme start="20261114165000 +0200" stop="20261114170000 +0200" channel="RaiNews24.it">
+    <title lang="it">Altri Mondi - Puntata del 14/11/2026</title>
+    <desc lang="it">In questa puntata: "World of Warcraft Forever" a cura di Lorenzo Fantoni, "Queen's Domain", la recensione di Dario Marchetti, "Speedrun" a cura di Alberto Alessi.</desc>
   </programme>
   <programme start="20261114170000 +0200" stop="20261114173000 +0200" channel="RaiNews24.it">
     <title lang="it">TITOLI + TG GIORNO</title>
@@ -3120,19 +3112,19 @@
     <title lang="it">Giochi Olimpici Giovanili 2026 - 13a giornata</title>
     <desc lang="it">Giochi Olimpici Giovanili - 13a giornata</desc>
   </programme>
-  <programme start="20261114090000 +0200" stop="20261114095000 +0200" channel="RaiSport.it">
+  <programme start="20261114090000 +0200" stop="20261114100000 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili 2026 - Cerimonia di Chiusura</title>
     <desc lang="it">Giochi Olimpici Giovanili - Cerimonia di Chiusura</desc>
   </programme>
-  <programme start="20261114095000 +0200" stop="20261114121000 +0200" channel="RaiSport.it">
+  <programme start="20261114100000 +0200" stop="20261114120000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Nazionale Under 21 maschile - Amichevole: Francia - Italia</title>
     <desc lang="it">Va in scena allo stadio "Francis Le Basser" di Laval in Francia l'amichevole tra gli Azzurrini dell'Under 21 e la rappresentativa trasalpina di pari categoria.</desc>
   </programme>
-  <programme start="20261114121000 +0200" stop="20261114130000 +0200" channel="RaiSport.it">
+  <programme start="20261114120000 +0200" stop="20261114125500 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili 2026 - 14a giornata</title>
     <desc lang="it">Giochi Olimpici Giovanili - 14a giornata</desc>
   </programme>
-  <programme start="20261114130000 +0200" stop="20261114141500 +0200" channel="RaiSport.it">
+  <programme start="20261114125500 +0200" stop="20261114141500 +0200" channel="RaiSport.it">
     <title lang="it">Sci Alpino: Coppa del Mondo 2026-2027 - Levi: Slalom Femminile (2a manche)</title>
     <desc lang="it">A Levi va in scena la seconda manche dello slalom femminile di Coppa del Mondo. Sulla pista finlandese le migliori specialiste si giocano la vittoria nella prova che apre la stagione dello slalom.</desc>
   </programme>
@@ -3156,15 +3148,15 @@
     <title lang="it">Pallavolo: Supercoppa maschile 2026-2027 - Semifinale: Verona - Civitanova</title>
     <desc lang="it">Nella semifinale della Del Monte Supercoppa, Rana Verona e Cucine Lube Civitanova si affrontano per conquistare un posto nella finale del primo trofeo della stagione.</desc>
   </programme>
-  <programme start="20261114205000 +0200" stop="20261114233000 +0200" channel="RaiSport.it">
+  <programme start="20261114205000 +0200" stop="20261114232000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 9a giornata: Megabox Ondulati Savio Vallefoglia - Bisonte Firenze</title>
     <desc lang="it">Nella nona giornata della Serie A1 Fineco 2026-2027, Megabox Ondulati del Savio Vallefoglia e Il Bisonte Firenze si affrontano in una nuova sfida del massimo campionato italiano.</desc>
   </programme>
-  <programme start="20261114233000 +0200" stop="20261115002500 +0200" channel="RaiSport.it">
+  <programme start="20261114232000 +0200" stop="20261115003000 +0200" channel="RaiSport.it">
     <title lang="it">Pattinaggio di Figura - GP Skate America 2026: Danza Ritmica</title>
     <desc lang="it">GP Skate America: Danza Ritmica</desc>
   </programme>
-  <programme start="20261115002500 +0200" stop="20261115004000 +0200" channel="RaiSport.it">
+  <programme start="20261115003000 +0200" stop="20261115004000 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
     <desc lang="it">Memory - Rai Sport</desc>
   </programme>
@@ -3172,11 +3164,11 @@
     <title lang="it">Pattinaggio di Figura - GP Skate America 2026: Programma corto Donne</title>
     <desc lang="it">GP Skate America: Programma corto Donne</desc>
   </programme>
-  <programme start="20261115021500 +0200" stop="20261115024500 +0200" channel="RaiSport.it">
+  <programme start="20261115021500 +0200" stop="20261115025000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica - Premio Vittorio di Capua 2026</title>
     <desc lang="it">Premio Vittorio di Capua </desc>
   </programme>
-  <programme start="20261115024500 +0200" stop="20261115032000 +0200" channel="RaiSport.it">
+  <programme start="20261115025000 +0200" stop="20261115032000 +0200" channel="RaiSport.it">
     <title lang="it">Ciclocross: Trofeo Città di Firenze 2026 - 1a prova Master Cross Internazionale</title>
     <desc lang="it">Trofeo Città di Firenze - 1a prova Master Cross Internazionale</desc>
   </programme>
@@ -3188,9 +3180,13 @@
     <title lang="it">Memory</title>
     <desc lang="it">Memory - Rai Sport</desc>
   </programme>
-  <programme start="20261115053000 +0200" stop="20261115073000 +0200" channel="RaiSport.it">
+  <programme start="20261115053000 +0200" stop="20261115060000 +0200" channel="RaiSport.it">
     <title lang="it">Pattinaggio di Figura - GP Skate America 2026: Programma libero Coppie</title>
     <desc lang="it">GP Skate America: Programma libero Coppie</desc>
+  </programme>
+  <programme start="20261115060000 +0200" stop="20261115073000 +0200" channel="RaiSport.it">
+    <title lang="it">Pattinaggio di Figura. Skate America Eve</title>
+    <desc lang="it">Pattinaggio di Figura. Skate America Everett: Coppie - prog. Libero</desc>
   </programme>
   <programme start="20261115073000 +0200" stop="20261115081500 +0200" channel="RaiSport.it">
     <title lang="it">Giochi Olimpici Giovanili 2026 - 14a giornata</title>
@@ -3204,19 +3200,19 @@
     <title lang="it">Pallacanestro in carrozzina - Finale SuperCoppa Italiana 2026: Briantea 84 - Giulianova</title>
     <desc lang="it">Finale SuperCoppa Italiana: Briantea 84 - Giulianova</desc>
   </programme>
-  <programme start="20261115124500 +0200" stop="20261115130000 +0200" channel="RaiSport.it">
+  <programme start="20261115124500 +0200" stop="20261115125500 +0200" channel="RaiSport.it">
     <title lang="it">Memory</title>
     <desc lang="it">Memory - Rai Sport</desc>
   </programme>
-  <programme start="20261115130000 +0200" stop="20261115141000 +0200" channel="RaiSport.it">
+  <programme start="20261115125500 +0200" stop="20261115141000 +0200" channel="RaiSport.it">
     <title lang="it">Sci Alpino: Coppa del Mondo 2026-2027 - Levi: Slalom Maschile (2a manche)</title>
     <desc lang="it">A Levi va in scena la seconda manche dello slalom maschile di Coppa del Mondo. Sulla pista finlandese i migliori specialisti si giocano la vittoria dopo i distacchi maturati nella prima manche.</desc>
   </programme>
-  <programme start="20261115141000 +0200" stop="20261115161500 +0200" channel="RaiSport.it">
+  <programme start="20261115141000 +0200" stop="20261115161000 +0200" channel="RaiSport.it">
     <title lang="it">Rugby: Serie A Elite maschile 2026/27 - 3a giornata: Petrarca - Rovigo</title>
     <desc lang="it">Serie A Elite maschile - 3a giornata: Padova - Rovigo</desc>
   </programme>
-  <programme start="20261115161500 +0200" stop="20261115180500 +0200" channel="RaiSport.it">
+  <programme start="20261115161000 +0200" stop="20261115180500 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Serie A1 Fineco 2026-2027 - 9a giornata: Megabox Ondulati Savio Vallefoglia - Bisonte Firenze</title>
     <desc lang="it">Nella nona giornata della Serie A1 Fineco 2026-2027, Megabox Ondulati del Savio Vallefoglia e Il Bisonte Firenze si affrontano in una nuova sfida del massimo campionato italiano.</desc>
   </programme>
@@ -3232,19 +3228,19 @@
     <title lang="it">Pattinaggio di Figura - GP Skate America 2026: Danza Libera</title>
     <desc lang="it">GP Skate America: Danza Libera</desc>
   </programme>
-  <programme start="20261115220000 +0200" stop="20261116003000 +0200" channel="RaiSport.it">
+  <programme start="20261115220000 +0200" stop="20261116004500 +0200" channel="RaiSport.it">
     <title lang="it">Pattinaggio di Figura - GP Skate America 2026: Programma Libero Donne</title>
     <desc lang="it">GP Skate America: Programma Libero Donne</desc>
   </programme>
-  <programme start="20261116003000 +0200" stop="20261116024500 +0200" channel="RaiSport.it">
+  <programme start="20261116004500 +0200" stop="20261116030000 +0200" channel="RaiSport.it">
     <title lang="it">Calcio: Euro maschili U19 - Qualificazioni: Italia - Ucraina</title>
     <desc lang="it">L'Italia Under 19 affronta l'Ucraina in una nuova sfida degli Europei di categoria, con gli Azzurrini a caccia di un risultato importante nel percorso verso la fase finale.</desc>
   </programme>
-  <programme start="20261116024500 +0200" stop="20261116045000 +0200" channel="RaiSport.it">
+  <programme start="20261116030000 +0200" stop="20261116050000 +0200" channel="RaiSport.it">
     <title lang="it">Nuoto: Campionati Assoluti Invernali 2026 - Finali (3a giornata)</title>
     <desc lang="it">Assoluti Invernali - Finali (3a giornata)</desc>
   </programme>
-  <programme start="20261116045000 +0200" stop="20261116060000 +0200" channel="RaiSport.it">
+  <programme start="20261116050000 +0200" stop="20261116060000 +0200" channel="RaiSport.it">
     <title lang="it">Sci Alpino: Coppa del Mondo 2026-2027 - Levi: Slalom Maschile (2a manche)</title>
     <desc lang="it">A Levi va in scena la seconda manche dello slalom maschile di Coppa del Mondo. Sulla pista finlandese i migliori specialisti si giocano la vittoria dopo i distacchi maturati nella prima manche.</desc>
   </programme>
@@ -3256,31 +3252,35 @@
     <title lang="it">Tender</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste ed opinioni. In studio ed in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
-  <programme start="20261116070000 +0200" stop="20261116082000 +0200" channel="RaiSport.it">
+  <programme start="20261116070000 +0200" stop="20261117064000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica - Gran Premio Anact Stakes Plus 2026 &amp; Gran Premio Turilli 2026</title>
     <desc lang="it">Gran Premio Anact Stakes Plus &amp; Gran Premio Turilli </desc>
   </programme>
-  <programme start="20261116082000 +0200" stop="20261116102500 +0200" channel="RaiSport.it">
+  <programme start="20261116070500 +0200" stop="20261116082000 +0200" channel="RaiSport.it">
+    <title lang="it">Ippica: Gran Premio Anact Stakes Plus Fl</title>
+    <desc lang="it">Ippica: Gran Premio Anact Stakes Plus Fle/M.le e Gran Premio Turilli</desc>
+  </programme>
+  <programme start="20261116082000 +0200" stop="20261116103000 +0200" channel="RaiSport.it">
     <title lang="it">Nuoto: Campionati Assoluti Invernali 2026 - Finali (3a giornata)</title>
     <desc lang="it">Assoluti Invernali - Finali (3a giornata)</desc>
   </programme>
-  <programme start="20261116102500 +0200" stop="20261116125000 +0200" channel="RaiSport.it">
+  <programme start="20261116103000 +0200" stop="20261116125500 +0200" channel="RaiSport.it">
     <title lang="it">Basket in carrozzina - Finale SuperCoppa Italiana 2026: Briantea 84 - Giulianova</title>
     <desc lang="it">Finale SuperCoppa Italiana: Briantea 84 - Giulianova</desc>
   </programme>
-  <programme start="20261116125000 +0200" stop="20261116145500 +0200" channel="RaiSport.it">
+  <programme start="20261116125500 +0200" stop="20261116145000 +0200" channel="RaiSport.it">
     <title lang="it">Rugby: Serie A Elite maschile 2026/27 - 3a giornata: Petrarca - Rovigo</title>
     <desc lang="it">Serie A Elite maschile - 3a giornata: Padova - Rovigo</desc>
   </programme>
-  <programme start="20261116145500 +0200" stop="20261116174500 +0200" channel="RaiSport.it">
+  <programme start="20261116145000 +0200" stop="20261116173500 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo: Supercoppa maschile 2026-2027 - Finale: TBD</title>
     <desc lang="it">Supercoppa maschile - Finale: TBD</desc>
   </programme>
-  <programme start="20261116174500 +0200" stop="20261116181500 +0200" channel="RaiSport.it">
+  <programme start="20261116173500 +0200" stop="20261116181000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica leggera - Garda Half Marathon 2026</title>
     <desc lang="it">Garda Half Marathon </desc>
   </programme>
-  <programme start="20261116181500 +0200" stop="20261116193000 +0200" channel="RaiSport.it">
+  <programme start="20261116181000 +0200" stop="20261116193000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica. Maratona di Palermo</title>
     <desc lang="it">Atletica. Maratona di Palermo</desc>
   </programme>
@@ -3296,11 +3296,11 @@
     <title lang="it">BordoCampo</title>
     <desc lang="it">Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B. </desc>
   </programme>
-  <programme start="20261116225000 +0200" stop="20261116233000 +0200" channel="RaiSport.it">
+  <programme start="20261116225000 +0200" stop="20261116233500 +0200" channel="RaiSport.it">
     <title lang="it">Ippica: Gran Premio Vittorio Di Capua</title>
     <desc lang="it">Ippica: Gran Premio Vittorio Di Capua</desc>
   </programme>
-  <programme start="20261116233000 +0200" stop="20261117020000 +0200" channel="RaiSport.it">
+  <programme start="20261116233500 +0200" stop="20261117020000 +0200" channel="RaiSport.it">
     <title lang="it">Pallavolo. SuperLega Credem Banca: Padova-Pordenone - posticipo 4a g.ta</title>
     <desc lang="it">Pallavolo. SuperLega Credem Banca: Padova-Pordenone - posticipo 4a g.ta</desc>
   </programme>
