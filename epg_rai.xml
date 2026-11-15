@@ -109,7 +109,7 @@
   </programme>
   <programme start="20261115140000 +0200" stop="20261115171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In - Puntata del 15/11/2026</title>
-    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita. </desc>
+    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita. Tra gli ospiti, Rocco Hunt e Clementino, Vanessa Scalera, Marco Bocci e Carlo Ponti Jr che racconta l'iconica Sophia Loren, attraverso ricordi e momenti della loro storia familiare.</desc>
   </programme>
   <programme start="20261115171500 +0200" stop="20261115171800 +0200" channel="Rai1.it">
     <title lang="it">TG 1</title>
@@ -993,7 +993,7 @@
   </programme>
   <programme start="20261116211500 +0200" stop="20261117000000 +0200" channel="Rai3.it">
     <title lang="it">Lo stato delle cose - Puntata del 16/11/2026</title>
-    <desc lang="it">Massimo Giletti racconta i fatti, gli eventi e le storie al centro del dibattito pubblico.</desc>
+    <desc lang="it">In apertura di puntata Michele Santoro si sofferma sugli scenari nazionali e internazionali della politica. Poi un nuovo capitolo su Hydra, la mafia a tre teste: Camorra, 'Ndrangheta e Cosa Nostra insieme per spartirsi il territorio e fare affari in Lombardia. Parla in esclusiva Giacomo Cristello, il braccio armato delle 'ndrine milanesi. Prosegue il racconto sul mondo giovanile: il caro affitti è diventato insopportabile per gli studenti e le strutture realizzate con fondi pubblici, che dovrebbero garantire alloggi a prezzi accessibili, troppo spesso si trasformano in hotel di lusso. Chi ne beneficia davvero? Anche l'ambiente è un tema particolarmente caro ai giovani: in grandi città metropolitane come Roma in quale modo vengono impiegati i fondi del PNRR per il verde e la forestazione urbana del futuro? In studio, oltre agli studenti universitari che in queste settimane sono scesi in piazza per far sentire la loro voce, anche la giornalista e scrittrice Francesca Barra e il direttore de "Il Giornale" Tommaso Cerno. Continua l'inchiesta sul delitto di Garlasco: sono ore decisive per la presentazione della richiesta di revisione della condanna di Alberto Stasi. L'approfondimento de "Lo Stato delle Cose" sì concentra su uno dei pilastri di questa condanna : le suole delle scarpe che indossava la mattina del delitto Alberto Stasi e su cui non furono trovate tracce di sangue. Parla l'allora comandante dei carabinieri di Vigevano Gennaro Cassese. In studio l'avvocato di Stasi Antonio De Rensis, la consulente della difesa Sempio Marina Baldi e il direttore di "Gente" Umberto Brindani.</desc>
   </programme>
   <programme start="20261117000000 +0200" stop="20261117010000 +0200" channel="Rai3.it">
     <title lang="it">TG3 Linea Notte</title>
@@ -3186,10 +3186,6 @@
     <title lang="it">Tender</title>
     <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste ed opinioni. In studio ed in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
   </programme>
-  <programme start="20261116070000 +0200" stop="20261117064000 +0200" channel="RaiSport.it">
-    <title lang="it">Ippica - Gran Premio Anact Stakes Plus 2026 &amp; Gran Premio Turilli 2026</title>
-    <desc lang="it">Gran Premio Anact Stakes Plus &amp; Gran Premio Turilli </desc>
-  </programme>
   <programme start="20261116070500 +0200" stop="20261116082000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica: Gran Premio Anact Stakes Plus Fl</title>
     <desc lang="it">Ippica: Gran Premio Anact Stakes Plus Fle/M.le e Gran Premio Turilli</desc>
@@ -3430,7 +3426,7 @@
   </programme>
   <programme start="20261116153500 +0200" stop="20261116160000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Casa Radio2</title>
-    <desc lang="it">Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
+    <desc lang="it">Ospiti Isabella e Marilli, le Magnifiche Perennial. Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
   </programme>
   <programme start="20261116160000 +0200" stop="20261116180000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Generazione Radio2</title>
@@ -3524,7 +3520,7 @@
   </programme>
   <programme start="20261117153500 +0200" stop="20261117160000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Casa Radio2</title>
-    <desc lang="it">Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
+    <desc lang="it">Ospite Gabriele Greco, ricercatore e autore di "Vivere come un ragno" (Il Saggiatore). Con Elenoire Casalegno. Regia di Enrico Magli. A cura di Fabrizia Brunati e Roberta Galimberti.</desc>
   </programme>
   <programme start="20261117160000 +0200" stop="20261117180000 +0200" channel="RaiRadio2Visual.it">
     <title lang="it">Generazione Radio2</title>
