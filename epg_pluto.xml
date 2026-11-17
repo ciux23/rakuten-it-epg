@@ -12,33 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261116140000 +0200" stop="20261116181247 +0200" channel="pluto_film_tv">
+  <programme start="20261117033000 +0200" stop="20261117060147 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261116181247 +0200" stop="20261116200347 +0200" channel="pluto_film_tv">
-    <title lang="it">Poeti dall'inferno</title>
-    <desc lang="it">Verlaine, poeta già affermato, legge i lavori del giovanissimo Rimbaud e ne coglie subito l'eccezionale valore. Quando conosce l'autore, se ne innamora perdutamente.</desc>
-  </programme>
-  <programme start="20261116200347 +0200" stop="20261116220047 +0200" channel="pluto_film_tv">
-    <title lang="it">I Re del Mambo</title>
-    <desc lang="it">Dazzling dancing e una canzone nominata all' Oscar evidenziano questa storia di due fratelli musicisti che fuggono dalla loro nativa Cuba per trovare successo nella scena musicale latina della New York del 1950.</desc>
-  </programme>
-  <programme start="20261116220047 +0200" stop="20261117003147 +0200" channel="pluto_film_tv">
-    <title lang="it">Grease Live!</title>
-    <desc lang="it">Unitevi alla sfrenata comitiva di Rydell High con GREASE: LIVE, un esclusivo adattamento musicale televisivo del popolare musical "Grease" - interpretato dal vivo davanti al pubblico in studio!</desc>
-  </programme>
-  <programme start="20261117003147 +0200" stop="20261117024347 +0200" channel="pluto_film_tv">
-    <title lang="it">Grease 2</title>
-    <desc lang="it">Molti volti familiari dal grande successo "Grease" ritornano al campus e i nuovi sono altrettanto memorabili in questo allegro tributo alle gonne al ginocchio, i corteggiamenti e gli amori giovanili.</desc>
-  </programme>
-  <programme start="20261117024347 +0200" stop="20261117041847 +0200" channel="pluto_film_tv">
-    <title lang="it">Ingenious</title>
-    <desc lang="it">Matt, piccolo inventore, continua a mettere a punto prodotti intelligenti ma senza mercato. Sam, suo amico e partner d'affari, è un venditore nato. Quando a Matt arriva un'idea brillante l'aiuto di Sam si renderà indispensabile.</desc>
-  </programme>
-  <programme start="20261117041847 +0200" stop="20261117060147 +0200" channel="pluto_film_tv">
-    <title lang="it">Trancers 2 - Il Ritorno Di Jack Death</title>
-    <desc lang="it">Los Angeles, 1991. Sono passati sei anni da quando Jack Deth si è sbarazzato dei Trancers. Ora ha ricostruito la sua vita con la nuova moglie Lena e il suo vecchio amico Hap. Ma i Trancers fanno la loro ricomparsa...</desc>
   </programme>
   <programme start="20261117060147 +0200" stop="20261117083247 +0200" channel="pluto_film_tv">
     <title lang="it">Grease Live!</title>
@@ -64,49 +40,53 @@
     <title lang="it">Grease 2</title>
     <desc lang="it">Molti volti familiari dal grande successo "Grease" ritornano al campus e i nuovi sono altrettanto memorabili in questo allegro tributo alle gonne al ginocchio, i corteggiamenti e gli amori giovanili.</desc>
   </programme>
-  <programme start="20261117200302 +0200" stop="20261118020000 +0200" channel="pluto_film_tv">
+  <programme start="20261117200302 +0200" stop="20261117220002 +0200" channel="pluto_film_tv">
+    <title lang="it">I Re del Mambo</title>
+    <desc lang="it">Dazzling dancing e una canzone nominata all' Oscar evidenziano questa storia di due fratelli musicisti che fuggono dalla loro nativa Cuba per trovare successo nella scena musicale latina della New York del 1950.</desc>
+  </programme>
+  <programme start="20261117220002 +0200" stop="20261117233302 +0200" channel="pluto_film_tv">
+    <title lang="it">Pootie Tang</title>
+    <desc lang="it">Quando la guerra personale di Pootie contro l'avidità, l'ingiustizia e il consumismo a intaccare i suoi profitti alla LecterCorp, il capo impazzito dela compagnia lo introduce in un mondo pazzesco usando la sua cintura magica.</desc>
+  </programme>
+  <programme start="20261117233302 +0200" stop="20261118011302 +0200" channel="pluto_film_tv">
+    <title lang="it">Poliziotto a New York</title>
+    <desc lang="it">Toshi, un poliziotto di New York di origini giapponesi, s’infiltra in una gang di alto profilo e s’innamora della sorella del capo (la premio Oscar Mira Sorvino) in questo thriller ambientato nel mondo del crimine.</desc>
+  </programme>
+  <programme start="20261118011302 +0200" stop="20261118025602 +0200" channel="pluto_film_tv">
+    <title lang="it">Giustizia violenta</title>
+    <desc lang="it">Un'incursione vandalica da parte di ignoti teppisti a scuola è la goccia che fa traboccare il vaso. A quel punto i ragazzi della zona decidono di costituire un gruppo di vigilantes che riesca a combattere droga, violenza e tutto il resto.</desc>
+  </programme>
+  <programme start="20261118025602 +0200" stop="20261118044702 +0200" channel="pluto_film_tv">
+    <title lang="it">Rogue - Missione ad Alto Rischio</title>
+    <desc lang="it">Samantha O'Hara è una mercenaria che guida una squadra di soldati in missione per salvare ostaggi in una parte remota dell'Africa. Purtroppo la missione va storta e la squadra è bloccata, costretta a sopravvivere contro i ribelli locali.</desc>
+  </programme>
+  <programme start="20261118044702 +0200" stop="20261118063617 +0200" channel="pluto_film_tv">
+    <title lang="it">Iceman</title>
+    <desc lang="it">Durante la dinastia Ming, quattro soldati ricevono dall'imperatore il compito di scortare un amuleto. Una serie di tradimenti li catapulterà nel XXI secolo dopo un sonno forzato nei ghiacci durato secoli</desc>
+  </programme>
+  <programme start="20261118063617 +0200" stop="20261118080917 +0200" channel="pluto_film_tv">
+    <title lang="it">Pootie Tang</title>
+    <desc lang="it">Quando la guerra personale di Pootie contro l'avidità, l'ingiustizia e il consumismo a intaccare i suoi profitti alla LecterCorp, il capo impazzito dela compagnia lo introduce in un mondo pazzesco usando la sua cintura magica.</desc>
+  </programme>
+  <programme start="20261118080917 +0200" stop="20261118094217 +0200" channel="pluto_film_tv">
+    <title lang="it">400 giorni</title>
+    <desc lang="it">Quattro astronauti sono scelti dal governo americano per simulare una missione su un lontano pianeta e vengono rinchiusi in un sofisticato bunker sotterraneo per 400 giorni.</desc>
+  </programme>
+  <programme start="20261118094217 +0200" stop="20261118153000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118020000 +0200" stop="20261118140000 +0200" channel="pluto_film_tv">
+  <programme start="20261118153000 +0200" stop="20261119033000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118140000 +0200" stop="20261118200000 +0200" channel="pluto_film_tv">
+  <programme start="20261119033000 +0200" stop="20261119093000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261116140000 +0200" stop="20261116162359 +0200" channel="pluto_film_azione">
+  <programme start="20261117033000 +0200" stop="20261117062410 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261116162359 +0200" stop="20261116191152 +0200" channel="pluto_film_azione">
-    <title lang="it">Noryang</title>
-    <desc lang="it">Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang.</desc>
-  </programme>
-  <programme start="20261116191152 +0200" stop="20261116204252 +0200" channel="pluto_film_azione">
-    <title lang="it">Rampage</title>
-    <desc lang="it">In un paesino dell'Oregon, il giovane Bill Williamson ha pianificato di diventare il killer più sanguinario della storia. Si procura così armi e una moderna armatura per tutto il corpo in Kevlar.</desc>
-  </programme>
-  <programme start="20261116204252 +0200" stop="20261116223118 +0200" channel="pluto_film_azione">
-    <title lang="it">Il Giorno del Giudizio</title>
-    <desc lang="it">Una tempesta apocalittica minaccia di spazzare via una nazione intera. Viene emesso lo stato di emergenza mentre si diffonde il caos.</desc>
-  </programme>
-  <programme start="20261116223118 +0200" stop="20261117000624 +0200" channel="pluto_film_azione">
-    <title lang="it">Twin Dragons</title>
-    <desc lang="it">Jackie Chan e Maggie Cheung sono al centro di una scatenata avventura su due gemelli separati alla nascita: John, direttore d’orchestra in America, e Boomer, meccanico rissoso di Hong Kong. Dopo trent’anni si ritrovano, e le conseguenze saranno esplosive.</desc>
-  </programme>
-  <programme start="20261117000624 +0200" stop="20261117022248 +0200" channel="pluto_film_azione">
-    <title lang="it">La vendetta del dragone</title>
-    <desc lang="it">Steelhead, un immigrato in cerca di un lavoro onesto, ben presto si ritrova a diventare un boss mafioso in ascesa, alle prese con il losco mondo della malavita e le sue bande più spietate.</desc>
-  </programme>
-  <programme start="20261117022248 +0200" stop="20261117042410 +0200" channel="pluto_film_azione">
-    <title lang="it">The Grey</title>
-    <desc lang="it">Con Liam Neeson, un thriller d’azione sulla sopravvivenza in natura selvaggia. Dopo un incidente aereo, operai di una piattaforma petrolifera si ritrovano sperduti in Alaska. Per sopravvivere devono affrontare il clima estremo e un branco di lupi affamati</desc>
-  </programme>
-  <programme start="20261117042410 +0200" stop="20261117062410 +0200" channel="pluto_film_azione">
-    <title lang="it">Mission Nine Eleven</title>
-    <desc lang="it">Irene Montano, agente del servizio segreto francese, viene contattata da un suo amico ex agente della CIA. Elliot è infatti in possesso di alcune informazioni sul futuro degli Stati Uniti ma questa conoscenza sta mettendo a repentaglio la sua vita.</desc>
   </programme>
   <programme start="20261117062410 +0200" stop="20261117082410 +0200" channel="pluto_film_azione">
     <title lang="it">Lies We Tell</title>
@@ -140,85 +120,53 @@
     <title lang="it">Martian Land</title>
     <desc lang="it">Nel futuro, la razza umana vive su Marte, in città protette da enormi campi di forza. Quando una gigantesca tempesta di sabbia sfonda la cupola e distrugge Mars New York, gli abitanti di Mars Los Angeles dovranno cercare di fermare la tempesta.</desc>
   </programme>
-  <programme start="20261117205515 +0200" stop="20261118020000 +0200" channel="pluto_film_azione">
+  <programme start="20261117205515 +0200" stop="20261117223054 +0200" channel="pluto_film_azione">
+    <title lang="it">Destruction: Los Angeles</title>
+    <desc lang="it">Un'esplosione fatale e un improvviso terremoto sconvolgono Los Angeles, e il giornalista John Benson coglie l'occasione per coprire le ultime notizie sull'aumento dell'attività sismica.</desc>
+  </programme>
+  <programme start="20261117223054 +0200" stop="20261118001354 +0200" channel="pluto_film_azione">
+    <title lang="it">Assalto A Wall Street</title>
+    <desc lang="it">Jim è un ex soldato. Un giorno la moglie si ammala di tumore e lui scopre di aver perso tutti i risparmi a causa degli azzardi del suo consulente finanziario.</desc>
+  </programme>
+  <programme start="20261118001354 +0200" stop="20261118014216 +0200" channel="pluto_film_azione">
+    <title lang="it">Trigger Point</title>
+    <desc lang="it">Shaw, ex membro dei servizi segreti d'élite, si trova in una tranquilla cittadina americana. Viene rintracciato da un vecchio capo che lo costringe a tornare in azione dopo che i suoi ex colleghi sono stati uccisi da un misterioso assassino.</desc>
+  </programme>
+  <programme start="20261118014216 +0200" stop="20261118031211 +0200" channel="pluto_film_azione">
+    <title lang="it">Don't Kill It - Il cacciatore di demoni</title>
+    <desc lang="it">Un antico male si manifesta in una piccola cittadina del Mississippi e lascia dietro di sé una scia di sofferenza e morte. Gli abitanti del posto ripongono le loro speranze in un esperto cacciatore di demoni.</desc>
+  </programme>
+  <programme start="20261118031211 +0200" stop="20261118045422 +0200" channel="pluto_film_azione">
+    <title lang="it">Boon - Il sicario</title>
+    <desc lang="it">Il mercenario Nick Boon sta cercando di espiare la sua vita come esecutore. In fuga dal suo passato, Boon si trasferisce in una zona remota del Pacifico nord-occidentale dove incontra Catherine, una vedova in difficoltà, e suo figlio.</desc>
+  </programme>
+  <programme start="20261118045422 +0200" stop="20261118064229 +0200" channel="pluto_film_azione">
+    <title lang="it">The Runners</title>
+    <desc lang="it">Dopo la morte dei genitori, Ryan cresce da solo la sorella adolescente, ribelle e difficile da gestire. Quando una sera lei scompare da una festa, Ryan scopre che è stata rapita da una rete criminale. Inizia così una corsa contro il tempo per salvarla.</desc>
+  </programme>
+  <programme start="20261118064229 +0200" stop="20261118082929 +0200" channel="pluto_film_azione">
+    <title lang="it">La legge dei narcos</title>
+    <desc lang="it">Un giovane tormentato fugge in Messico, dove è reclutato in un gruppo paramilitare di adolescenti che combattono i cartelli della droga. Diventa il soldato principale del Capitano ma comincia a chiedersi quale sia il vero scopo del gruppo.</desc>
+  </programme>
+  <programme start="20261118082929 +0200" stop="20261118101229 +0200" channel="pluto_film_azione">
+    <title lang="it">Mega Shark Vs Kolossus</title>
+    <desc lang="it">Mentre sta cercando una nuova fonte di energia, la Russia risveglia involontariamente un gigantesco robot di nome Kolossus creato ai tempi della guerra fredda. Intanto dal fondo dell'oceano emerge un nuovo Mega Shark che minaccia la terra.</desc>
+  </programme>
+  <programme start="20261118101229 +0200" stop="20261118153000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118020000 +0200" stop="20261118140000 +0200" channel="pluto_film_azione">
+  <programme start="20261118153000 +0200" stop="20261119033000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118140000 +0200" stop="20261118200000 +0200" channel="pluto_film_azione">
+  <programme start="20261119033000 +0200" stop="20261119093000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261116140000 +0200" stop="20261116185525 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261117033000 +0200" stop="20261117075925 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261116185525 +0200" stop="20261116194425 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Esaltazione della ragione, figlia gloriosa</title>
-    <desc lang="it">L'equipaggio viene ingaggiato per salvare una principessa da un famigerato fuorilegge. Ma la principessa in verità sta scappando dal padre che vuole ucciderla.</desc>
-  </programme>
-  <programme start="20261116194425 +0200" stop="20261116203325 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il tormento, il rilascio</title>
-    <desc lang="it">Il Commonwealth è sotto il controllo dei Collector, i quali mettono sotto processo l'equipaggio dell’Andromeda.</desc>
-  </programme>
-  <programme start="20261116203325 +0200" stop="20261116212225 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La strategia del ragno</title>
-    <desc lang="it">L'Andromeda scopre un carico di bio-armature.</desc>
-  </programme>
-  <programme start="20261116212225 +0200" stop="20261116221125 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il calore di una luce invisibile</title>
-    <desc lang="it">Un dispositivo sperimentale che permette di nascondersi catapulta Dylan in un universo alternativo.</desc>
-  </programme>
-  <programme start="20261116221125 +0200" stop="20261116230025 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Gli altri</title>
-    <desc lang="it">L'Andromeda si ritrova nel mezzo di una guerra tra due navi, oltre che una malattia mortale.</desc>
-  </programme>
-  <programme start="20261116230025 +0200" stop="20261116234925 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La paura brucia fino ad incenerire</title>
-    <desc lang="it">Dylan cade in un tranello e viene rapito da Rev. Un Collector si rivela inaspettatamente un alleato dell’equipaggio.</desc>
-  </programme>
-  <programme start="20261116234925 +0200" stop="20261117003825 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Perso in uno spazio inesistente</title>
-    <desc lang="it">L'Abisso ha infettato Beka. L'equipaggio deve cercare di salvarla.</desc>
-  </programme>
-  <programme start="20261117003825 +0200" stop="20261117012725 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Accorciando il divario del diavolo</title>
-    <desc lang="it">Dopo che alcuni membri dell'equipaggio sono stati catturati, Harper deve studiare un ponte temporale per conto del Patriarca.</desc>
-  </programme>
-  <programme start="20261117012725 +0200" stop="20261117021625 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Fidarsi del labirinto gordiano</title>
-    <desc lang="it">Una spia di Tri Gemma sale sull'Andromeda nel tentativo di rubare la mappa delle stelle.</desc>
-  </programme>
-  <programme start="20261117021625 +0200" stop="20261117030525 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: La simmetria dell'imperfezione</title>
-    <desc lang="it">Quando Rommie diventa troppo emotiva, la nave le nega l’accesso per eseguire la diagnostica.</desc>
-  </programme>
-  <programme start="20261117030525 +0200" stop="20261117035425 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Tempo fuori dalla mente</title>
-    <desc lang="it">L'Abisso ha ucciso l'amico di Beka e l'equipaggio deve capire perché.</desc>
-  </programme>
-  <programme start="20261117035425 +0200" stop="20261117044325 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'intervallo dissonante (Parte 1)</title>
-    <desc lang="it">Andromeda salva una nave di ritorno dai colloqui di pace con Magog.</desc>
-  </programme>
-  <programme start="20261117044325 +0200" stop="20261117053225 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: L'intervallo dissonante (Parte 2)</title>
-    <desc lang="it">L'attacco di Magog ha conseguenze terribili. L'Andromeda viene distrutta e sembra che Trance e Dylan siano gli unici superstiti. Dylan fugge nella rotta dei secoli.</desc>
-  </programme>
-  <programme start="20261117053225 +0200" stop="20261117062125 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il peso (Parte 1)</title>
-    <desc lang="it">Dylan finisce a Seefra, popolato da persone superstiziose prive di tecnologia.</desc>
-  </programme>
-  <programme start="20261117062125 +0200" stop="20261117071025 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il peso (Parte 2)</title>
-    <desc lang="it">Beka viene scaricata su Seefra dopo che l'Andromeda è stata rubata. Dylan deve dimostrare che la nave gli appartiene.</desc>
-  </programme>
-  <programme start="20261117071025 +0200" stop="20261117075925 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Andromeda: Il feromone della paura</title>
-    <desc lang="it">Ancora su Seefra, Dylan ritrova Harper, che si è adattato alla vita lì.</desc>
   </programme>
   <programme start="20261117075925 +0200" stop="20261117084825 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Andromeda: La caduta dell'angelo</title>
@@ -280,15 +228,79 @@
     <title lang="it">Andromeda: Delirio da trattato quantico</title>
     <desc lang="it">Rommie viene ricostruita per aiutare a evacuare il sistema Seefra.</desc>
   </programme>
-  <programme start="20261117201425 +0200" stop="20261118020000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261117201425 +0200" stop="20261117210325 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: La luce di un nuovo giorno</title>
+    <desc lang="it">Un capo militare convince i suoi seguaci che l'imminente distruzione dei pianeti esterni è un complotto per saccheggiare il loro pianeta.</desc>
+  </programme>
+  <programme start="20261117210325 +0200" stop="20261117215225 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il caos e la sua calma</title>
+    <desc lang="it">Dylan, Rhade e Beka uniscono le forze per salvare Trance da Methus-2 e Harper dal Generale Burma.</desc>
+  </programme>
+  <programme start="20261117215225 +0200" stop="20261117224125 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il cuore del viaggio (Parte 1)</title>
+    <desc lang="it">L'equipaggio lascia finalmente il sistema Seefra e scopre che Dylan è l'ultimo Paradine.</desc>
+  </programme>
+  <programme start="20261117224125 +0200" stop="20261117233025 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Andromeda: Il cuore del viaggio (Parte 2)</title>
+    <desc lang="it">Nell’ultimo episodio della serie, la battaglia finale per salvare il Nuovo Commonwealth del Sistema ha inizio.</desc>
+  </programme>
+  <programme start="20261117233025 +0200" stop="20261118001925 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Lo shock del nuovo (puntata pilota)</title>
+    <desc lang="it">Un mutante psionico in fuga da misteriosi agenti governativi viene salvato da una squadra di compagni "Nuovi Mutanti", il gruppo noto come Mutant X.</desc>
+  </programme>
+  <programme start="20261118001925 +0200" stop="20261118010825 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Io urlo con il corpo elettrico</title>
+    <desc lang="it">Brennan viene catturato e cade sotto il controllo di Eckhart, ed è costretto a lavorare contro i Nuovi Mutanti.</desc>
+  </programme>
+  <programme start="20261118010825 +0200" stop="20261118015725 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Roulette russa</title>
+    <desc lang="it">Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
+  </programme>
+  <programme start="20261118015725 +0200" stop="20261118024625 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Pazza d'amore</title>
+    <desc lang="it">Shalimar si avvicina a un altro feral quando è "lussuria a prima vista", ma le cose si complicano quando il suo nuovo ragazzo cerca di trovare una cura per la sua condizione.</desc>
+  </programme>
+  <programme start="20261118024625 +0200" stop="20261118033525 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Kilohertz</title>
+    <desc lang="it">Un Nuovo Mutante viene rapito dalla sua famiglia, e Mutant X si mette in viaggio per recuperarlo e scoprire l'interesse di Eckhart per lui.</desc>
+  </programme>
+  <programme start="20261118033525 +0200" stop="20261118042425 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il significato della morte</title>
+    <desc lang="it">Quando una piaga che colpisce solo i mutanti imperversa, Adam e Eckhart accettano di lavorare insieme per trovare una cura.</desc>
+  </programme>
+  <programme start="20261118042425 +0200" stop="20261118051325 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Fusibile</title>
+    <desc lang="it">Eckhart cerca un mutante in grado di assorbire energia, con il quale Brennan si lega sentimentalmente.</desc>
+  </programme>
+  <programme start="20261118051325 +0200" stop="20261118060225 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: In presenza del nemico</title>
+    <desc lang="it">Jesse si innamora di un hacker di computer che Eckhart vuole "ingaggiare" per corrompere i canali di notizie del computer pubblico contro i Nuovi Mutanti... e a vantaggio della GSA.</desc>
+  </programme>
+  <programme start="20261118060225 +0200" stop="20261118065125 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Il crimine del nuovo secolo</title>
+    <desc lang="it">Un ragazzo che sta sviluppando nuove abilità mutanti è stato rapito e la squadra accetta di trovarlo per sua madre. Più tardi vengono a sapere che è stata lei a far rapire il figlio.</desc>
+  </programme>
+  <programme start="20261118065125 +0200" stop="20261118074025 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: L'ascesa della stella nera</title>
+    <desc lang="it">La squadra incontra alcune persone che cercano di introdursi in un laboratorio Genomex e scoprono che sono feral.</desc>
+  </programme>
+  <programme start="20261118074025 +0200" stop="20261118082925 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Una tonalità più bianca di pallido</title>
+    <desc lang="it">Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
+  </programme>
+  <programme start="20261118082925 +0200" stop="20261118091825 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Mutant X: Visione doppia</title>
+    <desc lang="it">Un vecchio amico di Brennan attira lui ed Emma in una trappola. Emma finisce per dividersi in due entità separate, una buona e una cattiva.</desc>
+  </programme>
+  <programme start="20261118091825 +0200" stop="20261118153000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118020000 +0200" stop="20261118140000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261118153000 +0200" stop="20261119033000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261118140000 +0200" stop="20261118200000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261119033000 +0200" stop="20261119093000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
