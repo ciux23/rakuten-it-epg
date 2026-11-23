@@ -12,33 +12,9 @@
     <display-name lang="it">Pluto TV Serie Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png"></icon>
   </channel>
-  <programme start="20261123030000 +0200" stop="20261123073641 +0200" channel="pluto_film_tv">
+  <programme start="20261123160000 +0200" stop="20261123194152 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261123073641 +0200" stop="20261123092458 +0200" channel="pluto_film_tv">
-    <title lang="it">Bezos</title>
-    <desc lang="it">La storia vera di Jeff Bezos, un imprenditore umile e impacciato che ha deciso di creare Amazon, la più grande azienda di e-commerce del mondo, e di diventare l'uomo più ricco del mondo.</desc>
-  </programme>
-  <programme start="20261123092458 +0200" stop="20261123105958 +0200" channel="pluto_film_tv">
-    <title lang="it">Finché giudice non ci separi</title>
-    <desc lang="it">Massimo, Paolo, Roberto e Mauro sono quattro amici, tutti separati e accomunati dal rancore verso il giudice che ha seguito le loro separazioni. Situazioni paradossali e  sorprese sempre dietro l'angolo, in una commedia divertentissima.</desc>
-  </programme>
-  <programme start="20261123105958 +0200" stop="20261123133958 +0200" channel="pluto_film_tv">
-    <title lang="it">La Sera Della Prima</title>
-    <desc lang="it">L'attrice Myrtle Gordon versa in una grave crisi esistenziale: non riesce a immedesimarsi nel ruolo della protagonista della commedia che sta interpretando, e il suo rapporto con l'attore Maurice Adams sta attraversando un momento difficile.</desc>
-  </programme>
-  <programme start="20261123133958 +0200" stop="20261123155758 +0200" channel="pluto_film_tv">
-    <title lang="it">Sogno di una notte di mezza estate</title>
-    <desc lang="it">Ermia è innamorata di Lisandro, ma suo padre vorrebbe che sposasse Demetrio che, invece ama Elena. A rimescolare il tutto con filtri magici e altre diavolerie c'è anche il folletto Puck.</desc>
-  </programme>
-  <programme start="20261123155758 +0200" stop="20261123173712 +0200" channel="pluto_film_tv">
-    <title lang="it">Mozart and the whale</title>
-    <desc lang="it">Donald e Isabel sono affetti dalla sindrome di Asperger. Gli stravolgerà la vita e lui non potrà che innamorarsene perdutamente.</desc>
-  </programme>
-  <programme start="20261123173712 +0200" stop="20261123194152 +0200" channel="pluto_film_tv">
-    <title lang="it">La Nuova Era</title>
-    <desc lang="it">Peter e Katherine sono una ricca coppia di Beverly Hills: comprano quello che vogliono e sono incredibilmente alla moda. Quando i due perdono il lavoro, il loro mondo felice sembra finire...</desc>
   </programme>
   <programme start="20261123194152 +0200" stop="20261123215952 +0200" channel="pluto_film_tv">
     <title lang="it">Sogno di una notte di mezza estate</title>
@@ -68,45 +44,49 @@
     <title lang="it">Boulevard</title>
     <desc lang="it">Nolan Mack è vicino alla pensione e riceve una promozione per il suo costante impegno nel lavoro. È un marito devoto, intrappolato in un matrimonio di convenienza, finché l’incontro con un giovane ragazzo non lo obbliga a fare i conti con sé stesso.</desc>
   </programme>
-  <programme start="20261124091304 +0200" stop="20261124150000 +0200" channel="pluto_film_tv">
+  <programme start="20261124091304 +0200" stop="20261124110259 +0200" channel="pluto_film_tv">
+    <title lang="it">Un po' per caso, un po' per desiderio</title>
+    <desc lang="it">Parigi: i destini di alcune persone si incrociano. Una ragazza cerca lavoro, un concertista è in crisi, un collezionista vuole vendere tutto, un’attrice cerca il ruolo perfetto e un regista americano la sua musa.</desc>
+  </programme>
+  <programme start="20261124110259 +0200" stop="20261124123708 +0200" channel="pluto_film_tv">
+    <title lang="it">Finding Steve McQueen</title>
+    <desc lang="it">Ohio, 1972. Harry ama la guida spericolata e Steve McQueen, e pianifica insieme allo zio e ad un gruppo di amici la rapina più grande della storia americana. Pennsylvania, 1980. Harry è ricercato ma ama Molly tanto da volerle raccontare tutta la verità.</desc>
+  </programme>
+  <programme start="20261124123708 +0200" stop="20261124145508 +0200" channel="pluto_film_tv">
+    <title lang="it">Sogno di una notte di mezza estate</title>
+    <desc lang="it">Ermia è innamorata di Lisandro, ma suo padre vorrebbe che sposasse Demetrio che, invece ama Elena. A rimescolare il tutto con filtri magici e altre diavolerie c'è anche il folletto Puck.</desc>
+  </programme>
+  <programme start="20261124145508 +0200" stop="20261124165948 +0200" channel="pluto_film_tv">
+    <title lang="it">La Nuova Era</title>
+    <desc lang="it">Peter e Katherine sono una ricca coppia di Beverly Hills: comprano quello che vogliono e sono incredibilmente alla moda. Quando i due perdono il lavoro, il loro mondo felice sembra finire...</desc>
+  </programme>
+  <programme start="20261124165948 +0200" stop="20261124184328 +0200" channel="pluto_film_tv">
+    <title lang="it">Small World - Ricordi Lontani</title>
+    <desc lang="it">Konrad lavora come tuttofare in una ricca famiglia, ma è malato di Alzheimer. Mentre la memoria recente si sfalda, affiorano ricordi dell’infanzia che minacciano le certezze della potente famiglia per cui lavora.</desc>
+  </programme>
+  <programme start="20261124184328 +0200" stop="20261124202605 +0200" channel="pluto_film_tv">
+    <title lang="it">Altamira</title>
+    <desc lang="it">Nel 1879 Maria e suo padre archeologo scoprono in una caverna antichi dipinti preistorici. La madre, appoggiata dalla Chiesa, li vede come un attacco alla Bibbia. Maria resta divisa tra due mondi, senza modelli di riferimento, alla ricerca della verità</desc>
+  </programme>
+  <programme start="20261124202605 +0200" stop="20261124220005 +0200" channel="pluto_film_tv">
+    <title lang="it">Company Man - Una Spia Per Caso</title>
+    <desc lang="it">Per evitare la moglie petulante, un insegnante si finge agente segreto della CIA e viene reclutato per rovesciare la dittatura di Fidel Castro a Cuba.</desc>
+  </programme>
+  <programme start="20261124220005 +0200" stop="20261125040000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261124150000 +0200" stop="20261125030000 +0200" channel="pluto_film_tv">
+  <programme start="20261125040000 +0200" stop="20261125160000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261125030000 +0200" stop="20261125090000 +0200" channel="pluto_film_tv">
+  <programme start="20261125160000 +0200" stop="20261125220000 +0200" channel="pluto_film_tv">
     <title lang="it">Pluto TV Film</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261123030000 +0200" stop="20261123075804 +0200" channel="pluto_film_azione">
+  <programme start="20261123160000 +0200" stop="20261123191129 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261123075804 +0200" stop="20261123093104 +0200" channel="pluto_film_azione">
-    <title lang="it">400 giorni</title>
-    <desc lang="it">Quattro astronauti sono scelti dal governo americano per simulare una missione su un lontano pianeta e vengono rinchiusi in un sofisticato bunker sotterraneo per 400 giorni.</desc>
-  </programme>
-  <programme start="20261123093104 +0200" stop="20261123111004 +0200" channel="pluto_film_azione">
-    <title lang="it">Sharknado 5 - Global Swarming</title>
-    <desc lang="it">Fin Shepard e sua moglie April sono alle prese con decine di squali mostruosi che stanno devastando ogni angolo del globo. Uno di questi ha portato via il loro figlio più giovane.</desc>
-  </programme>
-  <programme start="20261123111004 +0200" stop="20261123125304 +0200" channel="pluto_film_azione">
-    <title lang="it">L'Ultimo Sharknado - Era Ora!</title>
-    <desc lang="it">L'ultimo capitolo della fantastica saga Sharknado. Fin sblocca il potere del viaggio nel tempo degli Sharknado per salvare il mondo e resuscitare la sua famiglia. Nella sua ricerca combatterà nazisti, dinosauri, cavalieri e farà un giro sull'arca di Noè.</desc>
-  </programme>
-  <programme start="20261123125304 +0200" stop="20261123144055 +0200" channel="pluto_film_azione">
-    <title lang="it">Dance to death - Sfida l'arena</title>
-    <desc lang="it">Il mondo è stato distrutto da una catastrofe nucleare. I pochi superstiti devono combattere quotidianamente. Alcuni decidono di scendere nella misteriosa arena di un torneo di ballo ipertecnologico in cui competere per energia vitale.</desc>
-  </programme>
-  <programme start="20261123144055 +0200" stop="20261123164439 +0200" channel="pluto_film_azione">
-    <title lang="it">Lo Straniero della valle oscura</title>
-    <desc lang="it">Un western europeo con Sam Riley, Tobias Moretti e Paula Beer. Sul finire del XIX secolo, uno straniero di nome Greider arriva in un villaggio alpino per l’inverno. Gli abitanti ignorano che lui conosca il segreto che custodiscono da decenni.</desc>
-  </programme>
-  <programme start="20261123164439 +0200" stop="20261123191129 +0200" channel="pluto_film_azione">
-    <title lang="it">Broken Promise</title>
-    <desc lang="it">Quando i fascisti si impadroniscono del suo Paese, Martin resta inerme mentre i membri della comunità ebraica, e la sua stessa famiglia, vengono mandati nei campi di concentramento.</desc>
   </programme>
   <programme start="20261123191129 +0200" stop="20261123205629 +0200" channel="pluto_film_azione">
     <title lang="it">Midnight Chronicles</title>
@@ -140,77 +120,53 @@
     <title lang="it">Assalto A Wall Street</title>
     <desc lang="it">Jim è un ex soldato. Un giorno la moglie si ammala di tumore e lui scopre di aver perso tutti i risparmi a causa degli azzardi del suo consulente finanziario.</desc>
   </programme>
-  <programme start="20261124085711 +0200" stop="20261124150000 +0200" channel="pluto_film_azione">
+  <programme start="20261124085711 +0200" stop="20261124104911 +0200" channel="pluto_film_azione">
+    <title lang="it">Furious Speed - Curve Pericolose</title>
+    <desc lang="it">Mikel, fidanzato con la ricca ereditiera di una famiglia di gioiellieri, non riesce a resistere al fascino della bella cameriera Ari che, dopo aver trascorso una notte di fuoco insieme, lo trascina nel mondo delle corse clandestine.</desc>
+  </programme>
+  <programme start="20261124104911 +0200" stop="20261124124111 +0200" channel="pluto_film_azione">
+    <title lang="it">Gli irriducibili</title>
+    <desc lang="it">Due fratelli ereditano una fattoria dal padre, ma dopo qualche anno la difficile situazione economica spinge i due ad appiccare un incendio alla proprietà e mettendosi però contro la legge, con la quale lotteranno fino alla fine.</desc>
+  </programme>
+  <programme start="20261124124111 +0200" stop="20261124141214 +0200" channel="pluto_film_azione">
+    <title lang="it">2 lava 2 lantula</title>
+    <desc lang="it">Secondo adrenalinico capitolo della saga spin-off di Sharknado. Quando un'eruzione vulcanica risveglia una colonia di ragni che invade e terrorizza la Florida, l'attore Colton West abbandona il set per correre in soccorso della figlia.</desc>
+  </programme>
+  <programme start="20261124141214 +0200" stop="20261124150820 +0200" channel="pluto_film_azione">
+    <title lang="it">Lupin the 3rd: Ishikawa Goemon. Getto di sangue</title>
+    <desc lang="it">Il giovane Goemon diventa guardia del corpo di un boss della malavita, ma un avversario implacabile lo uccide. Per salvare il proprio onore, il samurai deve affrontare una sanguinosa sfida mettendo in gioco la propria vita.</desc>
+  </programme>
+  <programme start="20261124150820 +0200" stop="20261124172245 +0200" channel="pluto_film_azione">
+    <title lang="it">In the name of the King</title>
+    <desc lang="it">La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.</desc>
+  </programme>
+  <programme start="20261124172245 +0200" stop="20261124190601 +0200" channel="pluto_film_azione">
+    <title lang="it">Jack Hunter e la tomba di Akhenaton</title>
+    <desc lang="it">Mentre è sulle tracce del tesoro di Ugarit, Jack Hunter si reca in Turchia, dove viene informato su un presunto complotto tra americani e mafiosi russi per impossessarsi della Stella del Cielo, un artefatto dagli straordinari poteri.</desc>
+  </programme>
+  <programme start="20261124190601 +0200" stop="20261124204101 +0200" channel="pluto_film_azione">
+    <title lang="it">Il testamento di Madigan</title>
+    <desc lang="it">Il giovane Frank Putzu diventa un funzionario del Dipartimento del Tesoro statunitense. Apparentemente ingenuo e mite, viene inviato a Roma per recuperare una grossa somma di denaro dovuto al governo degli Stati Uniti da Mike Madigan, un mafioso morto.</desc>
+  </programme>
+  <programme start="20261124204101 +0200" stop="20261124223101 +0200" channel="pluto_film_azione">
+    <title lang="it">Striscia Vincente</title>
+    <desc lang="it">Un padre di famiglia riesce a escogitare un sistema per vincere alla roulette grazie ad abili trucchi mentali e calcoli matematici.</desc>
+  </programme>
+  <programme start="20261124223101 +0200" stop="20261125040000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261124150000 +0200" stop="20261125030000 +0200" channel="pluto_film_azione">
+  <programme start="20261125040000 +0200" stop="20261125160000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261125030000 +0200" stop="20261125090000 +0200" channel="pluto_film_azione">
+  <programme start="20261125160000 +0200" stop="20261125220000 +0200" channel="pluto_film_azione">
     <title lang="it">Pluto TV Film Azione</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261123030000 +0200" stop="20261123075216 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261123160000 +0200" stop="20261123192800 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
-  </programme>
-  <programme start="20261123075216 +0200" stop="20261123084159 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Edward</title>
-    <desc lang="it">Un artista con una grande capacità di disegnare immagini a memoria può essere la chiave per risolvere la morte sospetta di suo padre violento Ma ci vorrà il profilo forense di Will per determinare se i disegni del ragazzo sono ispirati alla realtà.</desc>
-  </programme>
-  <programme start="20261123084159 +0200" stop="20261123093142 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Requiem</title>
-    <desc lang="it">Magnus e Will indagano su un'angosciante richiesta d'aiuto nelle profondità del Triangolo delle Bermuda, dando origine a una battaglia mortale per salvare la vita di Magnus.</desc>
-  </programme>
-  <programme start="20261123093142 +0200" stop="20261123102142 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: I Guerrieri</title>
-    <desc lang="it">Indagando sulla scomparsa di un vecchio amico del college, Will si ritrova coinvolto in un fight club sotterraneo dove i combattenti sono anormali geneticamente modificati che combattono fino alla morte come gladiatori dei giorni nostri.</desc>
-  </programme>
-  <programme start="20261123102142 +0200" stop="20261123111128 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Mai Fidarsi</title>
-    <desc lang="it">Magnus e la squadra del Santuario tentano di catturare una creatura rara e mortale - il tutto sotto l'occhio vigile di una troupe di un TG locale.</desc>
-  </programme>
-  <programme start="20261123111128 +0200" stop="20261123120112 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Rivelazione Prima Parte</title>
-    <desc lang="it">Gli anormali in regioni remote sono sottoposti a un agente biologico aereo che li costringe a lanciare una violenta serie di omicidi. Riconoscendo il lavoro della Cabala, Magnus e Druitt riuniscono i Cinque per la prima volta in oltre un secolo.</desc>
-  </programme>
-  <programme start="20261123120112 +0200" stop="20261123125057 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Rivelazione Seconda Parte</title>
-    <desc lang="it">I Cinque, guidati da Magnus, tentano di trovare il labirinto segreto nella città decimata di Bhalasaam. Una volta trovato, devono completare una serie di</desc>
-  </programme>
-  <programme start="20261123125057 +0200" stop="20261123134040 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Sangue Della Stripe Prima Parte</title>
-    <desc lang="it">In una disperata ricerca per trovare sua figlia, Magnus ottiene dei file top secret che le danno indizi sul catastrofico piano della Cabala per la Rete dei Santuari...e sul ruolo devastante di Ashley in esso.</desc>
-  </programme>
-  <programme start="20261123134040 +0200" stop="20261123143040 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Sangue Della Stripe Seconda Parte</title>
-    <desc lang="it">La dottoressa Helen Magnus va testa a testa con la Cabala e deve fare la scelta definitiva...salvare sua figlia, o rischiare la sopravvivenza dell'intera Rete dei Santuari.</desc>
-  </programme>
-  <programme start="20261123143040 +0200" stop="20261123152024 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: L'elogio Funebre</title>
-    <desc lang="it">La dottoressa Helen Magnus lotta per trovare una chiusura dopo la distruzione di molti Santuari in tutto il mondo, mentre la squadra si prepara ad elaborare e ospitare centinaia di anormali espropriati che cercano rifugio nel Santuario di Magnus.</desc>
-  </programme>
-  <programme start="20261123152024 +0200" stop="20261123161018 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Supereroe</title>
-    <desc lang="it">La dottoressa Magnus indaga su un improbabile "supereroe" che è intento a contrastare il crimine in città. Ma le sue buone azioni stanno interferendo con il lavoro del Santuario e minacciando involontariamente le vite di persone innocenti ovunque.</desc>
-  </programme>
-  <programme start="20261123161018 +0200" stop="20261123170018 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Notte Della Terra</title>
-    <desc lang="it">La dottoressa Helen Magnus si sveglia per trovare il Santuario in rovina e l'intera città decimata, senza alcun ricordo di come sia avvenuta la devastazione.</desc>
-  </programme>
-  <programme start="20261123170018 +0200" stop="20261123174907 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: Il Mostro In Noi</title>
-    <desc lang="it">La dott.ssa Magnus lotta per salvare la vita di uno dei ricercatori del Santuario che è stato attaccato da un Anormale addomesticato. Henry cerca di capire cosa, o chi, abbia causato la reazione così violenta dell'Anormale.</desc>
-  </programme>
-  <programme start="20261123174907 +0200" stop="20261123183907 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: La Triade</title>
-    <desc lang="it">Will si mette contro i capi della Rete dei Santuari per difendere Magnus che è accusata di un omicidio. Ma mentre le prove si accumulano contro di lei, anche Will ha difficoltà a trovare un modo per difendere in modo convincente la sua innocenza.</desc>
-  </programme>
-  <programme start="20261123183907 +0200" stop="20261123192800 +0200" channel="pluto_serie_sci-fi">
-    <title lang="it">Sanctuary: S.O.S In Alto Mare</title>
-    <desc lang="it">Magnus e Will si schiantano con il loro elicottero in un pozzo petrolifero abbandonato nel Golfo del Messico insieme a una creatura marina arrabbiata... senza via di fuga.</desc>
   </programme>
   <programme start="20261123192800 +0200" stop="20261123201654 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Sanctuary: Fuoco Purificatore</title>
@@ -276,15 +232,79 @@
     <title lang="it">Sanctuary: Pax Romana</title>
     <desc lang="it">Dopo aver ottenuto con successo l'accesso alla città di Praxis nella Terra Cava, Magnus e la squadra sono accolti con ostilità dal leader della città Ranna che ha un'agenda segreta.</desc>
   </programme>
-  <programme start="20261124083721 +0200" stop="20261124150000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261124083721 +0200" stop="20261124092721 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Un Difficile Risveglio</title>
+    <desc lang="it">Magnus torna a casa da un viaggio notturno per trovare il Santuario in uno stato di caos sconcertante:detriti di battaglia ovunque,nessuno in vista,e un'ispezione programmata della squadra di sicurezza delle Nazioni Unite a poche ore di distanza.</desc>
+  </programme>
+  <programme start="20261124092721 +0200" stop="20261124101702 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Una Notte</title>
+    <desc lang="it">Quello che è iniziato come un innocente primo appuntamento per Will e Abby, si trasforma in un pericoloso rapimento da parte di una banda il cui leader affronta morte certa senza il loro aiuto.</desc>
+  </programme>
+  <programme start="20261124101702 +0200" stop="20261124110647 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: L'Uomo Falena</title>
+    <desc lang="it">Will è insolitamente assente alla riunione mattutina della squadra. E il motivo della sua assenza lo fa letteralmente arrampicare sui muri.</desc>
+  </programme>
+  <programme start="20261124110647 +0200" stop="20261124115535 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Wingman</title>
+    <desc lang="it">Il doppio appuntamento di Will  e Henry va storto quando Magnus insiste che facciano una consegna diretta di un Anormale mentre vanno alla loro prenotazione per la cena.</desc>
+  </programme>
+  <programme start="20261124115535 +0200" stop="20261124124428 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Il Risveglio</title>
+    <desc lang="it">Magnus e Tesla indagano su un'ex roccaforte praxiana e si rendono conto che potrebbero aver involontariamente scoperto i segreti della razza Vampiris.</desc>
+  </programme>
+  <programme start="20261124124428 +0200" stop="20261124133328 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Normandia</title>
+    <desc lang="it">In uno sguardo indietro alla Seconda Guerra Mondiale, troviamo Magnus, Watson e Griffin alla vigilia del D-Day... e scopriamo il ruolo di Magnus in uno degli eventi più importanti che hanno dato forma al nostro mondo.</desc>
+  </programme>
+  <programme start="20261124133328 +0200" stop="20261124142315 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Carentan</title>
+    <desc lang="it">Il Santuario riceve segnalazioni di inspiegabili sparizioni a Carentan, nella regione francese della Normandia, e parte per indagare sugli strani avvenimenti.</desc>
+  </programme>
+  <programme start="20261124142315 +0200" stop="20261124151300 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Fuori Dalla Realta</title>
+    <desc lang="it">Nessun Santuario in vista, Helen e Will si ritrovano come vicini di casa in una strada alberata di periferia... vivendo vite che nessuno dei due riconosce pienamente.</desc>
+  </programme>
+  <programme start="20261124151300 +0200" stop="20261124160244 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Avvolti Nell'Ombra</title>
+    <desc lang="it">Il Santuario riceve la notizia allarmante che un grande gruppo di anormali è stato avvistato all'ingresso di una grotta nel Sud Dakota. Magnus sa immediatamente che questa è la prima ondata di Anormali che emerge dalla Terra Cava.</desc>
+  </programme>
+  <programme start="20261124160244 +0200" stop="20261124165137 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Viaggio Nel Tempo</title>
+    <desc lang="it">Adam Worth distrugge Praxis e viaggia indietro nel tempo fino al 1890 per salvare sua figlia. La dottoressa Magnus viaggia indietro nel tempo per fermarlo prima che danneggi la linea del tempo e distrugga con essa il suo futuro.</desc>
+  </programme>
+  <programme start="20261124165137 +0200" stop="20261124173825 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: La Rivolta</title>
+    <desc lang="it">Con Magnus scomparso, Will viene nominato capo della Rete dei Santuari. La rivolta degli anormali continua a peggiorare. Biggie e Kate vengono rapiti. Come previsto, i governi di superficie rispondono alla rivolta con la forza mortale.</desc>
+  </programme>
+  <programme start="20261124173825 +0200" stop="20261124182513 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Intoccabile</title>
+    <desc lang="it">Il Consiglio di Sicurezza dell'ONU invia una task force guidata da un uomo subdolo, Greg Addison, per indagare sul Santuario. Il suo disprezzo per gli anormali è pari al disprezzo che Magnus e la squadra hanno per lui.</desc>
+  </programme>
+  <programme start="20261124182513 +0200" stop="20261124191201 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Monsone</title>
+    <desc lang="it">Dato che l'ONU non appoggia più il Santuario, Magnus prende altri accordi per le sue finanze. Un incontro in Africa con un banchiere si trasforma in una situazione di ostaggio. Will e Henry cercano un anormale nei tunnel della Città Vecchia.</desc>
+  </programme>
+  <programme start="20261124191201 +0200" stop="20261124195849 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Resistenza</title>
+    <desc lang="it">Helen e Henry irrompono in una struttura governativa di ricerca sugli anormali chiamata SCIU - solo per scoprire che è gestita da Tesla. Biggie e Will hanno a che fare con un fastidioso anormale di nome Galvo.</desc>
+  </programme>
+  <programme start="20261124195849 +0200" stop="20261124204538 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Ritorno A Casa</title>
+    <desc lang="it">Il viaggio di Will in Liberia si mette male quando subisce un trauma cranico da un'aggressione. Il trauma fa emergere potenti ricordi sulla morte di sua madre e le inadeguatezze di suo padre. Magnus si occupa di un artista della truffa con le ali.</desc>
+  </programme>
+  <programme start="20261124204538 +0200" stop="20261124213227 +0200" channel="pluto_serie_sci-fi">
+    <title lang="it">Sanctuary: Rompighiaccio</title>
+    <desc lang="it">Henry e Declan guidano una squadra per salvare l'equipaggio di un rompighiaccio russo e i passeggeri anomali.</desc>
+  </programme>
+  <programme start="20261124213227 +0200" stop="20261125040000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261124150000 +0200" stop="20261125030000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261125040000 +0200" stop="20261125160000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
-  <programme start="20261125030000 +0200" stop="20261125090000 +0200" channel="pluto_serie_sci-fi">
+  <programme start="20261125160000 +0200" stop="20261125220000 +0200" channel="pluto_serie_sci-fi">
     <title lang="it">Pluto TV Serie Sci-Fi</title>
     <desc lang="it">no info available</desc>
   </programme>
